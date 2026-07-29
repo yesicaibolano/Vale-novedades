@@ -1,0 +1,11 @@
+[
+  { "id": "contadoresenred", "nombre": "Contadores en Red", "url": "https://contadoresenred.com/" },
+  { "id": "jorgevega", "nombre": "Jorge Vega", "url": "https://jorgevega.com.ar/" },
+  { "id": "ignacioonline", "nombre": "Ignacio Online", "url": "https://www.ignacioonline.com.ar/" },
+  { "id": "errepar", "nombre": "Errepar", "url": "https://www.errepar.com/" },
+  { "id": "consejo", "nombre": "Consejo Profesional (CABA)", "url": "https://www.consejo.org.ar/" },
+  { "id": "cpba", "nombre": "CPBA (Buenos Aires)", "url": "https://www.cpba.com.ar/" },
+  { "id": "facpce", "nombre": "FACPCE", "url": "https://www.facpce.org.ar/" },
+  { "id": "eldestape", "nombre": "El Destape", "url": "https://www.eldestapeweb.com/" },
+  { "id": "blogdelcontador", "nombre": "Blog del Contador", "url": "https://blogdelcontador.com.ar/" }
+]
