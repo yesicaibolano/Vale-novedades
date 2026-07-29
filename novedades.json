@@ -1,4 +1,82 @@
 {
-  "actualizado": "2026-07-29T10:46:31.430Z",
-  "items": []
+  "actualizado": "2026-07-29T16:51:32.493Z",
+  "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/entre-rios-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Entre Ríos Monotributo Unificado valores a partir de agosto 2026",
+      "url": "https://contadoresenred.com/entre-rios-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "detectado": "2026-07-29T16:51:23.445Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/tierra-del-fuego-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Tierra del Fuego Monotributo Unificado valores a partir de agosto 2026",
+      "url": "https://contadoresenred.com/tierra-del-fuego-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "detectado": "2026-07-29T16:51:23.445Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/jujuy-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Jujuy Monotributo Unificado valores a partir de agosto 2026",
+      "url": "https://contadoresenred.com/jujuy-monotributo-unificado-valores-a-partir-de-agosto-2026/",
+      "detectado": "2026-07-29T16:51:23.445Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/exportacion-e-importacion-a-traves-de-prestadores-de-servicios-postales-psp-courier-modificaciones/",
+      "sitio": "Contadores en Red",
+      "titulo": "Exportación e Importación a través de Prestadores de Servicios Postales PSP/Courier. Modificaciones",
+      "url": "https://contadoresenred.com/exportacion-e-importacion-a-traves-de-prestadores-de-servicios-postales-psp-courier-modificaciones/",
+      "detectado": "2026-07-29T16:51:23.445Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/caba-elimina-la-rubrica-laboral-desde-junio-2026-ultimo-periodo-mayo/",
+      "sitio": "Ignacio Online",
+      "titulo": "CABA elimina la rúbrica laboral desde junio 2026: último período mayo",
+      "url": "https://www.ignacioonline.com.ar/caba-elimina-la-rubrica-laboral-desde-junio-2026-ultimo-periodo-mayo/",
+      "detectado": "2026-07-29T16:51:26.288Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA informó tareas de mantenimiento en sus sistemas de facturación",
+      "url": "https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
+      "detectado": "2026-07-29T16:51:29.639Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pese-pedido-georgieva-mayoria-pymes-advierte-situacion-empeoro-2026729124757",
+      "sitio": "El Destape",
+      "titulo": "Pese al pedido de Georgieva, la mayoría de las PYMES advierte que su situación empeoró",
+      "url": "https://www.eldestapeweb.com/economia/pese-pedido-georgieva-mayoria-pymes-advierte-situacion-empeoro-2026729124757",
+      "detectado": "2026-07-29T16:51:31.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/leve-suba-del-dolar-blue-este-miercoles-29-de-julio-2026729306",
+      "sitio": "El Destape",
+      "titulo": "El dólar vuelve a subir y se acerca a un nuevo récord histórico",
+      "url": "https://www.eldestapeweb.com/economia/leve-suba-del-dolar-blue-este-miercoles-29-de-julio-2026729306",
+      "detectado": "2026-07-29T16:51:31.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/abogados-cristina-kirchner-adelantaron-argentina-debera-respetar-resolucion-comite-onu-202672912369",
+      "sitio": "El Destape",
+      "titulo": "Escalada internacional del caso Vialidad",
+      "url": "https://www.eldestapeweb.com/politica/abogados-cristina-kirchner-adelantaron-argentina-debera-respetar-resolucion-comite-onu-202672912369",
+      "detectado": "2026-07-29T16:51:31.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/quirno-busca-bajarle-tono-conflicto-brasil-nuestro-lado-no-va-romper-2026729101223",
+      "sitio": "El Destape",
+      "titulo": "Tensión con Brasilia",
+      "url": "https://www.eldestapeweb.com/politica/quirno-busca-bajarle-tono-conflicto-brasil-nuestro-lado-no-va-romper-2026729101223",
+      "detectado": "2026-07-29T16:51:31.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fresu-convoco-movilizar-congreso-rechazar-extranjerizacion-tierras-202672992942",
+      "sitio": "El Destape",
+      "titulo": "El Fresu convocó a movilizar al Congreso contra la extranjerización de tierras",
+      "url": "https://www.eldestapeweb.com/politica/fresu-convoco-movilizar-congreso-rechazar-extranjerizacion-tierras-202672992942",
+      "detectado": "2026-07-29T16:51:31.814Z"
+    }
+  ]
 }
