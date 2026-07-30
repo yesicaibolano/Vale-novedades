@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-07-30T17:10:01.188Z",
+  "actualizado": "2026-07-30T21:48:53.449Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15900-no-te-pierdas-las-jornadas-nacionales-y-provinciales-de-economia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "No te pierdas las Jornadas Nacionales y Provinciales de Economía",
+      "url": "https://www.cpba.com.ar/noticias/item/15900-no-te-pierdas-las-jornadas-nacionales-y-provinciales-de-economia",
+      "detectado": "2026-07-30T21:48:51.703Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/no-ven-casi-60-argentinos-votaria-cambio-2027-20267309033",
+      "sitio": "El Destape",
+      "titulo": "Milei, complicado: más de la mitad de los argentinos quiere \"un cambio\" en 2027",
+      "url": "https://www.eldestapeweb.com/politica/no-ven-casi-60-argentinos-votaria-cambio-2027-20267309033",
+      "detectado": "2026-07-30T21:48:52.937Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/radiografia-morosidad-3-6-millones-argentinos-tenian-mayo-deudas-irrecuperables-202673016047",
+      "sitio": "El Destape",
+      "titulo": "Crisis social y económica",
+      "url": "https://www.eldestapeweb.com/economia/radiografia-morosidad-3-6-millones-argentinos-tenian-mayo-deudas-irrecuperables-202673016047",
+      "detectado": "2026-07-30T21:48:52.937Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-07-30T21:48:52.937Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/previa-extranjerizacion-tierra-comenzara-debate-senado-super-rigi-2026730181637",
+      "sitio": "El Destape",
+      "titulo": "En la previa a la extranjerización de la tierra, se largará el debate por el Super RIGI",
+      "url": "https://www.eldestapeweb.com/politica/previa-extranjerizacion-tierra-comenzara-debate-senado-super-rigi-2026730181637",
+      "detectado": "2026-07-30T21:48:52.937Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/privatizar-mundial-consiste-plan-fifa-boicotea-uefa-pone-peligro-copa-mundo-2026730181547",
+      "sitio": "El Destape",
+      "titulo": "Privatizar el Mundial: en qué consiste el plan de FIFA que boicotea UEFA",
+      "url": "https://www.eldestapeweb.com/deportes/privatizar-mundial-consiste-plan-fifa-boicotea-uefa-pone-peligro-copa-mundo-2026730181547",
+      "detectado": "2026-07-30T21:48:52.937Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/nueva-reglas-para-las-compras-a-tarves-de-plataformas-el-e-commerce-transfronterizo/",
       "sitio": "Contadores en Red",
@@ -154,13 +196,6 @@
       "titulo": "Después no hay plata: Milei resigna recursos por beneficios al capital concentrado",
       "url": "https://www.eldestapeweb.com/economia/despues-no-hay-plata-milei-resigna-recursos-beneficios-capital-concentrado-202672916447",
       "detectado": "2026-07-29T20:40:46.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-07-29T20:40:46.477Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-directora-fmi-le-digo-petroleo-fue-ver-argentino-2026729152554",
