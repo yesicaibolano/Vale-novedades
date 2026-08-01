@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-07-31T21:46:20.890Z",
+  "actualizado": "2026-08-01T07:53:29.812Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-teme-dramatico-endeudamiento-familias-le-haga-perder-elecciones-2026810519",
+      "sitio": "El Destape",
+      "titulo": "Milei teme que el dramático endeudamiento de las familias le haga perder las elecciones",
+      "url": "https://www.eldestapeweb.com/politica/milei-teme-dramatico-endeudamiento-familias-le-haga-perder-elecciones-2026810519",
+      "detectado": "2026-08-01T07:53:29.460Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-01T07:53:29.460Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/disputa-territorio-desalojos-claves-detras-ley-tierras-2026810519",
+      "sitio": "El Destape",
+      "titulo": "La disputa por el territorio y los desalojos, las claves detrás de la Ley de Tierras",
+      "url": "https://www.eldestapeweb.com/economia/disputa-territorio-desalojos-claves-detras-ley-tierras-2026810519",
+      "detectado": "2026-08-01T07:53:29.460Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-01T07:53:29.460Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/insolito-expediente-dnu-milei-expulsar-tuiteros-pais-2026810519",
+      "sitio": "El Destape",
+      "titulo": "La semana política",
+      "url": "https://www.eldestapeweb.com/politica/insolito-expediente-dnu-milei-expulsar-tuiteros-pais-2026810519",
+      "detectado": "2026-08-01T07:53:29.461Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15903-beneficio-por-buen-cumplimiento-de-aportes",
       "sitio": "CPBA (Buenos Aires)",
@@ -338,24 +373,10 @@
       "detectado": "2026-07-30T07:59:43.018Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-07-30T07:59:43.018Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-quiere-garantizarse-bcra-libertario-post-2027-envia-pliego-bausili-congreso-2026729175459",
       "sitio": "El Destape",
       "titulo": "Milei quiere garantizarse un BCRA libertario post 2027",
       "url": "https://www.eldestapeweb.com/politica/milei-quiere-garantizarse-bcra-libertario-post-2027-envia-pliego-bausili-congreso-2026729175459",
-      "detectado": "2026-07-30T07:59:43.018Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-07-30T07:59:43.018Z"
     },
     {
@@ -398,27 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "Entre Ríos Monotributo Unificado valores a partir de agosto 2026",
       "url": "https://contadoresenred.com/entre-rios-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "detectado": "2026-07-29T16:51:23.445Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/tierra-del-fuego-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Tierra del Fuego Monotributo Unificado valores a partir de agosto 2026",
-      "url": "https://contadoresenred.com/tierra-del-fuego-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "detectado": "2026-07-29T16:51:23.445Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/jujuy-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Jujuy Monotributo Unificado valores a partir de agosto 2026",
-      "url": "https://contadoresenred.com/jujuy-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "detectado": "2026-07-29T16:51:23.445Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/exportacion-e-importacion-a-traves-de-prestadores-de-servicios-postales-psp-courier-modificaciones/",
-      "sitio": "Contadores en Red",
-      "titulo": "Exportación e Importación a través de Prestadores de Servicios Postales PSP/Courier. Modificaciones",
-      "url": "https://contadoresenred.com/exportacion-e-importacion-a-traves-de-prestadores-de-servicios-postales-psp-courier-modificaciones/",
       "detectado": "2026-07-29T16:51:23.445Z"
     }
   ]
