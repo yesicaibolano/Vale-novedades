@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-08-01T15:41:51.223Z",
+  "actualizado": "2026-08-01T20:36:14.208Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
+      "sitio": "El Destape",
+      "titulo": "Milei ocultó un Memorándum con EEUU vinculado a la “seguridad” de los recursos hídricos",
+      "url": "https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
+      "detectado": "2026-08-01T20:36:13.777Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dias-paro-docente-gobierno-redoblo-persecucion-amenazo-inspecciones-202681155738",
+      "sitio": "El Destape",
+      "titulo": "A días del paro docente, el Gobierno redobló la persecución y amenazó con \"inspecciones\"",
+      "url": "https://www.eldestapeweb.com/politica/dias-paro-docente-gobierno-redoblo-persecucion-amenazo-inspecciones-202681155738",
+      "detectado": "2026-08-01T20:36:13.777Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-puede-recibir-migrantes-seguir-siendo-racista-202681172143",
+      "sitio": "El Destape",
+      "titulo": "\"Una sociedad puede recibir migrantes y seguir siendo racista\"",
+      "url": "https://www.eldestapeweb.com/politica/sociedad-puede-recibir-migrantes-seguir-siendo-racista-202681172143",
+      "detectado": "2026-08-01T20:36:13.777Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-teme-dramatico-endeudamiento-familias-le-haga-perder-elecciones-2026810519",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "Axel Kicillof: “A la directora del FMI le digo que el petróleo que fue a ver es argentino”",
       "url": "https://www.eldestapeweb.com/politica/axel-kicillof-directora-fmi-le-digo-petroleo-fue-ver-argentino-2026729152554",
       "detectado": "2026-07-29T20:40:46.477Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/cayo-helicoptero-siete-ocupantes-san-juan-2026729162814",
-      "sitio": "El Destape",
-      "titulo": "Cayó un helicóptero en San Juan y murieron los siete pasajeros",
-      "url": "https://www.eldestapeweb.com/sociedad/cayo-helicoptero-siete-ocupantes-san-juan-2026729162814",
-      "detectado": "2026-07-29T20:40:46.477Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/mercado-financiero",
-      "sitio": "El Destape",
-      "titulo": "Mercado financiero",
-      "url": "https://www.eldestapeweb.com/tag/mercado-financiero",
-      "detectado": "2026-07-29T20:40:46.477Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/entre-rios-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Entre Ríos Monotributo Unificado valores a partir de agosto 2026",
-      "url": "https://contadoresenred.com/entre-rios-monotributo-unificado-valores-a-partir-de-agosto-2026/",
-      "detectado": "2026-07-29T16:51:23.445Z"
     }
   ]
 }
