@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-08-02T07:54:55.719Z",
+  "actualizado": "2026-08-02T15:47:19.214Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/profesion-tomada-cuando-el-contador-empieza-a-quedar-afuera-de-su-propia-profesion/",
+      "sitio": "Ignacio Online",
+      "titulo": "Profesión tomada: cuando el contador empieza a quedar afuera de su propia profesión",
+      "url": "https://www.ignacioonline.com.ar/profesion-tomada-cuando-el-contador-empieza-a-quedar-afuera-de-su-propia-profesion/",
+      "detectado": "2026-08-02T15:47:04.710Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/sueno-reelegir-argentina-partida-derecha-fracturada-20268120250",
       "sitio": "El Destape",
@@ -413,13 +420,6 @@
       "titulo": "LLA cree que sale ley de extranjerización de la tierra, pero el poroteo está al filo",
       "url": "https://www.eldestapeweb.com/politica/lla-cree-sale-ley-extranjerizacion-tierra-poroteo-esta-filo-20267300516",
       "detectado": "2026-07-30T17:10:00.501Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-asignaciones-familiares-agosto-2026-aumento-topes-rangos/",
-      "sitio": "Ignacio Online",
-      "titulo": "Montos Asignaciones Familiares Agosto 2026 ANSeS",
-      "url": "https://www.ignacioonline.com.ar/anses-asignaciones-familiares-agosto-2026-aumento-topes-rangos/",
-      "detectado": "2026-07-30T07:59:39.176Z"
     }
   ]
 }
