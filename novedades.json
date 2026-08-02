@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-02T15:47:19.214Z",
+  "actualizado": "2026-08-02T20:38:46.837Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-libertad-avanza-dice-primera-gran-encuesta-cara-2027-20268212477",
+      "sitio": "El Destape",
+      "titulo": "Sorpresa: la encuesta que da ganador al peronismo en 2027",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-libertad-avanza-dice-primera-gran-encuesta-cara-2027-20268212477",
+      "detectado": "2026-08-02T20:38:46.464Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/aunque-defendio-gestion-milei-admitio-normal-haya-argentinos-no-perciben-mejora-20268216500",
+      "sitio": "El Destape",
+      "titulo": "Milei admitió: \"Es normal que haya argentinos que no perciben la mejora\"",
+      "url": "https://www.eldestapeweb.com/politica/aunque-defendio-gestion-milei-admitio-normal-haya-argentinos-no-perciben-mejora-20268216500",
+      "detectado": "2026-08-02T20:38:46.464Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/profesion-tomada-cuando-el-contador-empieza-a-quedar-afuera-de-su-propia-profesion/",
       "sitio": "Ignacio Online",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El nuevo DNU migratorio",
       "url": "https://www.eldestapeweb.com/politica/especialistas-opositores-rechazan-expulsiones-extranjeros-milei-riesgo-discrecionalidad-patriotismo-barato-cortina-humo-2026730135753",
-      "detectado": "2026-07-30T17:10:00.501Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/pese-discurso-oficial-inversion-real-cayo-6-2-anual-junio-2026730115440",
-      "sitio": "El Destape",
-      "titulo": "Pese al discurso oficial, la inversión real cayó 6,2% anual en junio",
-      "url": "https://www.eldestapeweb.com/economia/pese-discurso-oficial-inversion-real-cayo-6-2-anual-junio-2026730115440",
-      "detectado": "2026-07-30T17:10:00.501Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-cree-sale-ley-extranjerizacion-tierra-poroteo-esta-filo-20267300516",
-      "sitio": "El Destape",
-      "titulo": "LLA cree que sale ley de extranjerización de la tierra, pero el poroteo está al filo",
-      "url": "https://www.eldestapeweb.com/politica/lla-cree-sale-ley-extranjerizacion-tierra-poroteo-esta-filo-20267300516",
       "detectado": "2026-07-30T17:10:00.501Z"
     }
   ]
