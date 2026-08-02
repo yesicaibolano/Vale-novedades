@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-01T20:36:14.208Z",
+  "actualizado": "2026-08-02T07:54:55.719Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sueno-reelegir-argentina-partida-derecha-fracturada-20268120250",
+      "sitio": "El Destape",
+      "titulo": "El sueño de reelegir con la Argentina partida y la derecha fracturada",
+      "url": "https://www.eldestapeweb.com/politica/sueno-reelegir-argentina-partida-derecha-fracturada-20268120250",
+      "detectado": "2026-08-02T07:54:55.233Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/peronismo-no-habra-default-202673117290",
+      "sitio": "El Destape",
+      "titulo": "El desastre de la deuda es de la derecha",
+      "url": "https://www.eldestapeweb.com/economia/peronismo-no-habra-default-202673117290",
+      "detectado": "2026-08-02T07:54:55.233Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-miedo-20268118580",
+      "sitio": "El Destape",
+      "titulo": "La economía del miedo",
+      "url": "https://www.eldestapeweb.com/politica/economia-miedo-20268118580",
+      "detectado": "2026-08-02T07:54:55.233Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-08-02T07:54:55.233Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gestion-milei-toca-piso-historico-consolida-nucleo-duro-opositor-2026811780",
+      "sitio": "El Destape",
+      "titulo": "La gestión de Milei toca su piso histórico y se consolida un núcleo duro opositor",
+      "url": "https://www.eldestapeweb.com/politica/gestion-milei-toca-piso-historico-consolida-nucleo-duro-opositor-2026811780",
+      "detectado": "2026-08-02T07:54:55.233Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Montos Asignaciones Familiares Agosto 2026 ANSeS",
       "url": "https://www.ignacioonline.com.ar/anses-asignaciones-familiares-agosto-2026-aumento-topes-rangos/",
       "detectado": "2026-07-30T07:59:39.176Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/economia-estancamiento-salarial-bajar-inflacion-no-alcanza-20267300516",
-      "sitio": "El Destape",
-      "titulo": "La economía del estancamiento salarial: por qué bajar la inflación ya no alcanza",
-      "url": "https://www.eldestapeweb.com/economia/economia-estancamiento-salarial-bajar-inflacion-no-alcanza-20267300516",
-      "detectado": "2026-07-30T07:59:43.018Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-quiere-garantizarse-bcra-libertario-post-2027-envia-pliego-bausili-congreso-2026729175459",
-      "sitio": "El Destape",
-      "titulo": "Milei quiere garantizarse un BCRA libertario post 2027",
-      "url": "https://www.eldestapeweb.com/politica/milei-quiere-garantizarse-bcra-libertario-post-2027-envia-pliego-bausili-congreso-2026729175459",
-      "detectado": "2026-07-30T07:59:43.018Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-realidad-sociedad-partida-brechas-cada-vez-profundas-20267300516",
-      "sitio": "El Destape",
-      "titulo": "Estudio sobre el modelo de Milei",
-      "url": "https://www.eldestapeweb.com/politica/nueva-realidad-sociedad-partida-brechas-cada-vez-profundas-20267300516",
-      "detectado": "2026-07-30T07:59:43.018Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/despues-no-hay-plata-milei-resigna-recursos-beneficios-capital-concentrado-202672916447",
-      "sitio": "El Destape",
-      "titulo": "Después no hay plata: Milei resigna recursos por beneficios al capital concentrado",
-      "url": "https://www.eldestapeweb.com/economia/despues-no-hay-plata-milei-resigna-recursos-beneficios-capital-concentrado-202672916447",
-      "detectado": "2026-07-29T20:40:46.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-directora-fmi-le-digo-petroleo-fue-ver-argentino-2026729152554",
-      "sitio": "El Destape",
-      "titulo": "Axel Kicillof: “A la directora del FMI le digo que el petróleo que fue a ver es argentino”",
-      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-directora-fmi-le-digo-petroleo-fue-ver-argentino-2026729152554",
-      "detectado": "2026-07-29T20:40:46.477Z"
     }
   ]
 }
