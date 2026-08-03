@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-02T20:38:46.837Z",
+  "actualizado": "2026-08-03T12:39:45.110Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/exportacion-de-mercaderias-por-via-postal-procedimiento-de-declaracion-simplificada/",
+      "sitio": "Contadores en Red",
+      "titulo": "Exportación de mercaderías por vía postal. Procedimiento de declaración simplificada.",
+      "url": "https://contadoresenred.com/exportacion-de-mercaderias-por-via-postal-procedimiento-de-declaracion-simplificada/",
+      "detectado": "2026-08-03T12:39:38.702Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reglamenta-la-exportacion-comercial-por-via-postal-sin-limite-de-valor/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA reglamenta la exportación comercial por vía postal sin límite de valor",
+      "url": "https://www.ignacioonline.com.ar/arca-reglamenta-la-exportacion-comercial-por-via-postal-sin-limite-de-valor/",
+      "detectado": "2026-08-03T12:39:40.195Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-no-destrabo-congreso-receso-vuelve-ley-borde-abismo-2026830547",
+      "sitio": "El Destape",
+      "titulo": "La LLA no destrabó el Congreso en el receso y vuelve con una ley al borde del abismo",
+      "url": "https://www.eldestapeweb.com/politica/lla-no-destrabo-congreso-receso-vuelve-ley-borde-abismo-2026830547",
+      "detectado": "2026-08-03T12:39:44.535Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-03T12:39:44.535Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bolsillo-margen-salir-comer-lujo-mitad-hogares-2026830547",
+      "sitio": "El Destape",
+      "titulo": "El bolsillo sin margen: salir a comer ya es un lujo para más de la mitad de los hogares",
+      "url": "https://www.eldestapeweb.com/economia/bolsillo-margen-salir-comer-lujo-mitad-hogares-2026830547",
+      "detectado": "2026-08-03T12:39:44.535Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-03T12:39:44.535Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-otorgo-bono-50-000-fuerzas-armadas-seguridad-20268372615",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno de Milei otorgó un bono de $50.000 a las Fuerzas Armadas y de Seguridad",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-milei-otorgo-bono-50-000-fuerzas-armadas-seguridad-20268372615",
+      "detectado": "2026-08-03T12:39:44.535Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-libertad-avanza-dice-primera-gran-encuesta-cara-2027-20268212477",
       "sitio": "El Destape",
@@ -97,13 +146,6 @@
       "sitio": "El Destape",
       "titulo": "La disputa por el territorio y los desalojos, las claves detrás de la Ley de Tierras",
       "url": "https://www.eldestapeweb.com/economia/disputa-territorio-desalojos-claves-detras-ley-tierras-2026810519",
-      "detectado": "2026-08-01T07:53:29.460Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-08-01T07:53:29.460Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "FATERyH: acuerdo salarial julio, agosto y septiembre 2026 para encargados de edificio",
       "url": "https://www.ignacioonline.com.ar/fateryh-acuerdo-salarial-julio-agosto-y-septiembre-2026-para-encargados-de-edificio/",
       "detectado": "2026-07-30T17:09:56.881Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/agosto-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "sitio": "Ignacio Online",
-      "titulo": "Agosto 2026: Aportes y Contribuciones – Base Imponible Máxima y Mínima",
-      "url": "https://www.ignacioonline.com.ar/agosto-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "detectado": "2026-07-30T17:09:56.881Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/seara-acuerdo-salarial-julio-agosto-y-septiembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "SEARA: acuerdo salarial julio, agosto y septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/seara-acuerdo-salarial-julio-agosto-y-septiembre-2026/",
-      "detectado": "2026-07-30T17:09:56.881Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-utedyc-aumentos-mensuales-por-ipc-para-el-cct-807-23-mutuales/",
-      "sitio": "Ignacio Online",
-      "titulo": "Paritaria UTEDYC: aumentos mensuales por IPC para el CCT 807/23 Mutuales",
-      "url": "https://www.ignacioonline.com.ar/paritaria-utedyc-aumentos-mensuales-por-ipc-para-el-cct-807-23-mutuales/",
-      "detectado": "2026-07-30T17:09:56.881Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-grabara-cadena-nacional-media-hora-ministros-2026730124340",
-      "sitio": "El Destape",
-      "titulo": "Milei grabará una cadena nacional de media hora con los ministros",
-      "url": "https://www.eldestapeweb.com/politica/milei-grabara-cadena-nacional-media-hora-ministros-2026730124340",
-      "detectado": "2026-07-30T17:10:00.501Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-habilito-expulsion-extranjeros-mensajes-odio-argentinos-202673064559",
-      "sitio": "El Destape",
-      "titulo": "Campaña antiargentina",
-      "url": "https://www.eldestapeweb.com/politica/milei-habilito-expulsion-extranjeros-mensajes-odio-argentinos-202673064559",
-      "detectado": "2026-07-30T17:10:00.501Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/especialistas-opositores-rechazan-expulsiones-extranjeros-milei-riesgo-discrecionalidad-patriotismo-barato-cortina-humo-2026730135753",
-      "sitio": "El Destape",
-      "titulo": "El nuevo DNU migratorio",
-      "url": "https://www.eldestapeweb.com/politica/especialistas-opositores-rechazan-expulsiones-extranjeros-milei-riesgo-discrecionalidad-patriotismo-barato-cortina-humo-2026730135753",
-      "detectado": "2026-07-30T17:10:00.501Z"
     }
   ]
 }
