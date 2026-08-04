@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-04T10:14:35.192Z",
+  "actualizado": "2026-08-04T18:13:05.863Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nueva reunión con la Contaduría General de la Provincia",
+      "url": "https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia",
+      "detectado": "2026-08-04T18:13:04.042Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15908-hospedate-en-mar-del-plata-con-descuentos-especiales",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Hospedate en Mar del Plata con descuentos especiales",
+      "url": "https://www.cpba.com.ar/noticias/item/15908-hospedate-en-mar-del-plata-con-descuentos-especiales",
+      "detectado": "2026-08-04T18:13:04.042Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15907-ahora-en-repro-hablemos-de-honorarios-cuando-el-problema-no-es-el-precio",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Hablemos de honorarios: Cuando el problema no es el precio",
+      "url": "https://www.cpba.com.ar/noticias/item/15907-ahora-en-repro-hablemos-de-honorarios-cuando-el-problema-no-es-el-precio",
+      "detectado": "2026-08-04T18:13:04.042Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-lidera-mora-sector-privado-america-latina-quedo-cerca-nigeria-202684141539",
+      "sitio": "El Destape",
+      "titulo": "Argentina lidera la mora del sector privado en América Latina y ya quedó cerca de Nigeria",
+      "url": "https://www.eldestapeweb.com/economia/argentina-lidera-mora-sector-privado-america-latina-quedo-cerca-nigeria-202684141539",
+      "detectado": "2026-08-04T18:13:05.412Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pobreza-volvio-subir-uca-advierte-agoto-efecto-desinflacion-20268413593",
+      "sitio": "El Destape",
+      "titulo": "La pobreza volvió a subir y la UCA advierte que se agotó el efecto de la desinflación",
+      "url": "https://www.eldestapeweb.com/economia/pobreza-volvio-subir-uca-advierte-agoto-efecto-desinflacion-20268413593",
+      "detectado": "2026-08-04T18:13:05.412Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/paro-portuario-140-buques-varados-riesgo-desabastecimiento-combustible-20268471522",
+      "sitio": "El Destape",
+      "titulo": "Paro portuario: hay riesgo de faltante de combustible por un decreto de Sturzenegger",
+      "url": "https://www.eldestapeweb.com/economia/paro-portuario-140-buques-varados-riesgo-desabastecimiento-combustible-20268471522",
+      "detectado": "2026-08-04T18:13:05.412Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/231-000-personas-quedaron-cobertura-salud-trimestre-20268410155",
+      "sitio": "El Destape",
+      "titulo": "Más de 231.000 personas se quedaron sin prepaga ni obra social en un trimestre",
+      "url": "https://www.eldestapeweb.com/economia/231-000-personas-quedaron-cobertura-salud-trimestre-20268410155",
+      "detectado": "2026-08-04T18:13:05.412Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/equipo-historico-futbol-aleman-debuto-colores-argentina-20268312398",
+      "sitio": "El Destape",
+      "titulo": "Un equipo histórico del fútbol alemán debutó con los colores de Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/equipo-historico-futbol-aleman-debuto-colores-argentina-20268312398",
+      "detectado": "2026-08-04T18:13:05.412Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uatre-acuerdo-salarial-para-trabajadores-agrarios-julio-2026/",
       "sitio": "Ignacio Online",
@@ -364,62 +420,6 @@
       "titulo": "Seguimiento Minuto A Minuto",
       "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "detectado": "2026-07-31T17:12:13.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-acelera-agenda-reformas-anunciar-cambios-banco-central-202673173450",
-      "sitio": "El Destape",
-      "titulo": "Santilli le pidió a Villarruel que renuncie por sus críticas a Milei",
-      "url": "https://www.eldestapeweb.com/politica/milei-acelera-agenda-reformas-anunciar-cambios-banco-central-202673173450",
-      "detectado": "2026-07-31T17:12:13.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/aumentan-combustibles-milei-volvio-subir-impuesto-impactara-surtidor-202673183610",
-      "sitio": "El Destape",
-      "titulo": "Aumentan los combustibles: Milei volvió a subir un impuesto que impactará en el surtidor",
-      "url": "https://www.eldestapeweb.com/economia/aumentan-combustibles-milei-volvio-subir-impuesto-impactara-surtidor-202673183610",
-      "detectado": "2026-07-31T17:12:13.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/aumentan-luz-gas-agosto-cuanto-sera-impacto-facturas-202673194126",
-      "sitio": "El Destape",
-      "titulo": "Aumentan la luz y el gas en agosto: de cuánto será el impacto en las facturas",
-      "url": "https://www.eldestapeweb.com/economia/aumentan-luz-gas-agosto-cuanto-sera-impacto-facturas-202673194126",
-      "detectado": "2026-07-31T17:12:13.250Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-textiles-acuerdo-salarial-julio-a-noviembre-2026-cct-614-10/",
-      "sitio": "Ignacio Online",
-      "titulo": "Paritaria Textiles: acuerdo salarial julio a noviembre 2026 CCT 614/10",
-      "url": "https://www.ignacioonline.com.ar/paritaria-textiles-acuerdo-salarial-julio-a-noviembre-2026-cct-614-10/",
-      "detectado": "2026-07-31T10:03:50.360Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-poder-concentrado-quieren-usar-bcra-blindar-rumbo-economico-2026730221149",
-      "sitio": "El Destape",
-      "titulo": "Milei y el poder concentrado quieren usar al BCRA para blindar el rumbo económico",
-      "url": "https://www.eldestapeweb.com/economia/milei-poder-concentrado-quieren-usar-bcra-blindar-rumbo-economico-2026730221149",
-      "detectado": "2026-07-31T10:03:58.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-07-31T10:03:58.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-repudio-reforma-bcra-milei-no-utiliza-ningun-pais-202673022720",
-      "sitio": "El Destape",
-      "titulo": "La oposición repudió la reforma del BCRA de Milei: \"No se utiliza en ningún país\"",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-repudio-reforma-bcra-milei-no-utiliza-ningun-pais-202673022720",
-      "detectado": "2026-07-31T10:03:58.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-misiones-cara-extrema-extranjerizacion-tierra-20267310549",
-      "sitio": "El Destape",
-      "titulo": "Alerta Misiones: la cara más extrema de la extranjerización de la tierra",
-      "url": "https://www.eldestapeweb.com/politica/alerta-misiones-cara-extrema-extranjerizacion-tierra-20267310549",
-      "detectado": "2026-07-31T10:03:58.366Z"
     }
   ]
 }
