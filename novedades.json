@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-03T21:49:20.921Z",
+  "actualizado": "2026-08-04T10:14:35.192Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uatre-acuerdo-salarial-para-trabajadores-agrarios-julio-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "UATRE: acuerdo salarial para trabajadores agrarios julio 2026",
+      "url": "https://www.ignacioonline.com.ar/uatre-acuerdo-salarial-para-trabajadores-agrarios-julio-2026/",
+      "detectado": "2026-08-04T10:14:30.887Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-acuerdo-por-contribucion-empresaria-del-2-para-cct-76-75-y-577-10/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOCRA: acuerdo por contribución empresaria del 2% para CCT 76/75 y 577/10",
+      "url": "https://www.ignacioonline.com.ar/uocra-acuerdo-por-contribucion-empresaria-del-2-para-cct-76-75-y-577-10/",
+      "detectado": "2026-08-04T10:14:30.887Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/monotributo-unificado-arba-tabla-desde-agosto-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Monotributo Unificado ARBA: Tabla desde Agosto 2026",
+      "url": "https://www.ignacioonline.com.ar/monotributo-unificado-arba-tabla-desde-agosto-2026/",
+      "detectado": "2026-08-04T10:14:30.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-pequenos-agricultores-alertan-puede-destruir-soberania-alimentaria-20268213330",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: pequeños agricultores alertan que puede destruir la soberanía alimentaria",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-pequenos-agricultores-alertan-puede-destruir-soberania-alimentaria-20268213330",
+      "detectado": "2026-08-04T10:14:34.697Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gimena-figueroa",
+      "sitio": "El Destape",
+      "titulo": "Por Gimena Figueroa",
+      "url": "https://www.eldestapeweb.com/perfil/gimena-figueroa",
+      "detectado": "2026-08-04T10:14:34.697Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-rechaza-ley-tierras-hay-vicio-nulidad-202683193950",
+      "sitio": "El Destape",
+      "titulo": "El peronismo rechaza la ley de tierras: \"Hay vicio de nulidad\"",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-rechaza-ley-tierras-hay-vicio-nulidad-202683193950",
+      "detectado": "2026-08-04T10:14:34.697Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-definio-avanzar-reelecciones-intendentes-armado-territorial-20268320340",
+      "sitio": "El Destape",
+      "titulo": "Movimiento Derecho al Futuro",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-definio-avanzar-reelecciones-intendentes-armado-territorial-20268320340",
+      "detectado": "2026-08-04T10:14:34.697Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-04T10:14:34.697Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/nuevo-sistema-de-cumplimiento-antilavado-para-cooperativas-y-mutuales/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "Alerta Misiones: la cara más extrema de la extranjerización de la tierra",
       "url": "https://www.eldestapeweb.com/politica/alerta-misiones-cara-extrema-extranjerizacion-tierra-20267310549",
       "detectado": "2026-07-31T10:03:58.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mayoria-ve-mala-situacion-economica-milei-mantiene-competitivo-20267310549",
-      "sitio": "El Destape",
-      "titulo": "La mayoría ve una mala situación económica, pero Milei se mantiene competitivo",
-      "url": "https://www.eldestapeweb.com/politica/mayoria-ve-mala-situacion-economica-milei-mantiene-competitivo-20267310549",
-      "detectado": "2026-07-31T10:03:58.366Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15900-no-te-pierdas-las-jornadas-nacionales-y-provinciales-de-economia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "No te pierdas las Jornadas Nacionales y Provinciales de Economía",
-      "url": "https://www.cpba.com.ar/noticias/item/15900-no-te-pierdas-las-jornadas-nacionales-y-provinciales-de-economia",
-      "detectado": "2026-07-30T21:48:51.703Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/no-ven-casi-60-argentinos-votaria-cambio-2027-20267309033",
-      "sitio": "El Destape",
-      "titulo": "Milei, complicado: más de la mitad de los argentinos quiere \"un cambio\" en 2027",
-      "url": "https://www.eldestapeweb.com/politica/no-ven-casi-60-argentinos-votaria-cambio-2027-20267309033",
-      "detectado": "2026-07-30T21:48:52.937Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/radiografia-morosidad-3-6-millones-argentinos-tenian-mayo-deudas-irrecuperables-202673016047",
-      "sitio": "El Destape",
-      "titulo": "Crisis social y económica",
-      "url": "https://www.eldestapeweb.com/economia/radiografia-morosidad-3-6-millones-argentinos-tenian-mayo-deudas-irrecuperables-202673016047",
-      "detectado": "2026-07-30T21:48:52.937Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/previa-extranjerizacion-tierra-comenzara-debate-senado-super-rigi-2026730181637",
-      "sitio": "El Destape",
-      "titulo": "En la previa a la extranjerización de la tierra, se largará el debate por el Super RIGI",
-      "url": "https://www.eldestapeweb.com/politica/previa-extranjerizacion-tierra-comenzara-debate-senado-super-rigi-2026730181637",
-      "detectado": "2026-07-30T21:48:52.937Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/privatizar-mundial-consiste-plan-fifa-boicotea-uefa-pone-peligro-copa-mundo-2026730181547",
-      "sitio": "El Destape",
-      "titulo": "Privatizar el Mundial: en qué consiste el plan de FIFA que boicotea UEFA",
-      "url": "https://www.eldestapeweb.com/deportes/privatizar-mundial-consiste-plan-fifa-boicotea-uefa-pone-peligro-copa-mundo-2026730181547",
-      "detectado": "2026-07-30T21:48:52.937Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/nueva-reglas-para-las-compras-a-tarves-de-plataformas-el-e-commerce-transfronterizo/",
-      "sitio": "Contadores en Red",
-      "titulo": "Compras a través de plataformas de e-commerce. Nuevos reglas para el puerta a puerta",
-      "url": "https://contadoresenred.com/nueva-reglas-para-las-compras-a-tarves-de-plataformas-el-e-commerce-transfronterizo/",
-      "detectado": "2026-07-30T17:09:55.659Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-agosto-2026-minima-y-maxima/",
-      "sitio": "Contadores en Red",
-      "titulo": "Base Imponible SIPA Agosto 2026. Mínima y máxima.",
-      "url": "https://contadoresenred.com/base-imponible-sipa-agosto-2026-minima-y-maxima/",
-      "detectado": "2026-07-30T17:09:55.659Z"
     }
   ]
 }
