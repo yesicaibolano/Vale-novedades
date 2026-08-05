@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-04T18:13:05.863Z",
+  "actualizado": "2026-08-05T10:04:02.286Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/poroteo-incierto-polemica-ultima-hora-jaquean-extranjerizacion-tierra-senado-20268419430",
+      "sitio": "El Destape",
+      "titulo": "Un poroteo incierto y una polémica de última hora jaquean la extranjerización de la tierra",
+      "url": "https://www.eldestapeweb.com/politica/poroteo-incierto-polemica-ultima-hora-jaquean-extranjerizacion-tierra-senado-20268419430",
+      "detectado": "2026-08-05T10:04:01.715Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-05T10:04:01.715Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-ve-posible-frenar-extranjerizacion-tierra-torcerle-mano-gobierno-2026842050",
+      "sitio": "El Destape",
+      "titulo": "El peronismo ve posible frenar la extranjerización y torcerle la mano al Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-ve-posible-frenar-extranjerizacion-tierra-torcerle-mano-gobierno-2026842050",
+      "detectado": "2026-08-05T10:04:01.715Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mejor-viento-cola-economia-milei-arranca-20268418370",
+      "sitio": "El Destape",
+      "titulo": "Frente externo favorable",
+      "url": "https://www.eldestapeweb.com/economia/mejor-viento-cola-economia-milei-arranca-20268418370",
+      "detectado": "2026-08-05T10:04:01.715Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/historica-crisis-diplomatica-brasil-lula-rebajo-nivel-relacion-bilateral-insultos-milei-202684214411",
+      "sitio": "El Destape",
+      "titulo": "Crisis con Brasil: Lula rebajó el nivel de la relación bilateral por los insultos de Milei",
+      "url": "https://www.eldestapeweb.com/politica/historica-crisis-diplomatica-brasil-lula-rebajo-nivel-relacion-bilateral-insultos-milei-202684214411",
+      "detectado": "2026-08-05T10:04:01.715Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia",
       "sitio": "CPBA (Buenos Aires)",
@@ -181,13 +216,6 @@
       "sitio": "El Destape",
       "titulo": "La LLA no destrabó el Congreso en el receso y vuelve con una ley al borde del abismo",
       "url": "https://www.eldestapeweb.com/politica/lla-no-destrabo-congreso-receso-vuelve-ley-borde-abismo-2026830547",
-      "detectado": "2026-08-03T12:39:44.535Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-08-03T12:39:44.535Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Sector Salud y Sin fines de lucro: ARCA prorroga la suspensión de ejecuciones",
       "url": "https://www.ignacioonline.com.ar/sector-salud-y-sin-fines-de-lucro-arca-prorroga-la-suspension-de-ejecuciones/",
       "detectado": "2026-07-31T17:12:07.663Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/jornada-jovenes-profesionales-rosario-2026-innovacion-finanzas-y-comunicacion/",
-      "sitio": "Ignacio Online",
-      "titulo": "Jornada Jóvenes Profesionales Rosario 2026: innovación, finanzas y comunicación",
-      "url": "https://www.ignacioonline.com.ar/jornada-jovenes-profesionales-rosario-2026-innovacion-finanzas-y-comunicacion/",
-      "detectado": "2026-07-31T17:12:07.663Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15902-ahora-en-repro-sistemas-de-control-de-gestion-como-transformar-informacion-en-mejores-decisiones",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Sistemas de control de gestión: Cómo transformar información en mejores decisiones",
-      "url": "https://www.cpba.com.ar/noticias/item/15902-ahora-en-repro-sistemas-de-control-de-gestion-como-transformar-informacion-en-mejores-decisiones",
-      "detectado": "2026-07-31T17:12:11.174Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-bandera-malvinas-no-hay-mezclar-agua-aceite-2026731104212",
-      "sitio": "El Destape",
-      "titulo": "El Presidente volvió a marcar diferencias",
-      "url": "https://www.eldestapeweb.com/politica/milei-bandera-malvinas-no-hay-mezclar-agua-aceite-2026731104212",
-      "detectado": "2026-07-31T17:12:13.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-07-31T17:12:13.250Z"
     }
   ]
 }
