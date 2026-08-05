@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-05T17:12:37.466Z",
+  "actualizado": "2026-08-05T22:17:42.953Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15911-alerta-por-falsos-llamados-telefonicos-en-nombre-del-consejo-y-la-caja",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Alerta por falsos llamados telefónicos en nombre del Consejo y la Caja",
+      "url": "https://www.cpba.com.ar/noticias/item/15911-alerta-por-falsos-llamados-telefonicos-en-nombre-del-consejo-y-la-caja",
+      "detectado": "2026-08-05T22:17:40.179Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15912-la-matricula-sigue-creciendo-nueva-jura-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La matrícula sigue creciendo: Nueva jura en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/15912-la-matricula-sigue-creciendo-nueva-jura-en-sede-provincial",
+      "detectado": "2026-08-05T22:17:40.179Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/derrota-durisima-milei-caida-ley-tierras-buscan-culpables-senalan-bullrich-sturzenegger-mahiques-202685153625",
+      "sitio": "El Destape",
+      "titulo": "Derrota durísima para Milei con la caída de la Ley de Tierras: ahora buscan culpables",
+      "url": "https://www.eldestapeweb.com/politica/derrota-durisima-milei-caida-ley-tierras-buscan-culpables-senalan-bullrich-sturzenegger-mahiques-202685153625",
+      "detectado": "2026-08-05T22:17:42.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-05T22:17:42.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/royon-votara-milei-no-tiene-votos-aprobar-ley-tierras-20268514459",
+      "sitio": "El Destape",
+      "titulo": "Sin los votos, LLA retira el capítulo de la Ley de Tierras y apuesta a recuperar apoyos",
+      "url": "https://www.eldestapeweb.com/politica/royon-votara-milei-no-tiene-votos-aprobar-ley-tierras-20268514459",
+      "detectado": "2026-08-05T22:17:42.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-05T22:17:42.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/pesar-caida-ley-tierras-gremios-mantienen-movilizacion-congreso-202685165815",
+      "sitio": "El Destape",
+      "titulo": "A pesar de la caída de la Ley de Tierras, gremios mantienen la movilización al Congreso",
+      "url": "https://www.eldestapeweb.com/politica/pesar-caida-ley-tierras-gremios-mantienen-movilizacion-congreso-202685165815",
+      "detectado": "2026-08-05T22:17:42.193Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/honorarios-para-realizar-la-recategorizacion-monotributo-minimos-sugeridos-por-provincia-agosto-2026/",
       "sitio": "Contadores en Red",
@@ -55,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "Un poroteo incierto y una polémica de última hora jaquean la extranjerización de la tierra",
       "url": "https://www.eldestapeweb.com/politica/poroteo-incierto-polemica-ultima-hora-jaquean-extranjerizacion-tierra-senado-20268419430",
-      "detectado": "2026-08-05T10:04:01.715Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-08-05T10:04:01.715Z"
     },
     {
@@ -216,13 +258,6 @@
       "sitio": "El Destape",
       "titulo": "Bullrich tuvo que retroceder y culpan a Stuzenegger por el costo político",
       "url": "https://www.eldestapeweb.com/politica/ley-tierras-bullrich-tuvo-retroceder-culpan-sturzenegger-costo-politico-202683175211",
-      "detectado": "2026-08-03T21:49:20.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-08-03T21:49:20.402Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "La semana política",
       "url": "https://www.eldestapeweb.com/politica/insolito-expediente-dnu-milei-expulsar-tuiteros-pais-2026810519",
       "detectado": "2026-08-01T07:53:29.461Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15903-beneficio-por-buen-cumplimiento-de-aportes",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Beneficio por buen cumplimiento de aportes",
-      "url": "https://www.cpba.com.ar/noticias/item/15903-beneficio-por-buen-cumplimiento-de-aportes",
-      "detectado": "2026-07-31T21:46:18.931Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15901-manual-del-codigo-internacional-de-etica-para-contadores-profesionales-version-2024",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Manual del Código Internacional de Ética para Contadores Profesionales – Versión 2024",
-      "url": "https://www.cpba.com.ar/noticias/item/15901-manual-del-codigo-internacional-de-etica-para-contadores-profesionales-version-2024",
-      "detectado": "2026-07-31T21:46:18.931Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/numeros-rojo-casi-mitad-pymes-trabaja-caidas-ventas-pierde-puestos-trabajo-202673118181",
-      "sitio": "El Destape",
-      "titulo": "Casi la mitad de las PyMEs trabaja con caídas de ventas y pierde puestos de trabajo",
-      "url": "https://www.eldestapeweb.com/economia/numeros-rojo-casi-mitad-pymes-trabaja-caidas-ventas-pierde-puestos-trabajo-202673118181",
-      "detectado": "2026-07-31T21:46:20.347Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-fin-motosierra-nunca-alcanza-20267311742",
-      "sitio": "El Destape",
-      "titulo": "El ajuste sin fin y por qué la motosierra nunca alcanza",
-      "url": "https://www.eldestapeweb.com/economia/ajuste-fin-motosierra-nunca-alcanza-20267311742",
-      "detectado": "2026-07-31T21:46:20.347Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/candelaria-botto",
-      "sitio": "El Destape",
-      "titulo": "Por Candelaria Botto",
-      "url": "https://www.eldestapeweb.com/perfil/candelaria-botto",
-      "detectado": "2026-07-31T21:46:20.347Z"
     }
   ]
 }
