@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-05T22:17:42.953Z",
+  "actualizado": "2026-08-06T10:13:18.014Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-homologan-el-acuerdo-salarial-del-cct-130-75/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: homologan el acuerdo salarial del CCT 130/75",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-homologan-el-acuerdo-salarial-del-cct-130-75/",
+      "detectado": "2026-08-06T10:13:12.437Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-no-sumo-votos-proyecto-propiedad-privada-corre-riesgo-caerse-senado-20268520589",
+      "sitio": "El Destape",
+      "titulo": "LLA no sumó más votos y el proyecto de Inviolabilidad corre riesgo de caerse",
+      "url": "https://www.eldestapeweb.com/politica/lla-no-sumo-votos-proyecto-propiedad-privada-corre-riesgo-caerse-senado-20268520589",
+      "detectado": "2026-08-06T10:13:17.639Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-ahora-pone-mira-sostener-ley-manejo-fuego-senado-2026860520",
+      "sitio": "El Destape",
+      "titulo": "El peronismo ahora pone la mira en sostener la ley de Manejo del Fuego en el Senado",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-ahora-pone-mira-sostener-ley-manejo-fuego-senado-2026860520",
+      "detectado": "2026-08-06T10:13:17.639Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-06T10:13:17.639Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/panorama-economico",
+      "sitio": "El Destape",
+      "titulo": "Panorama económico",
+      "url": "https://www.eldestapeweb.com/tag/panorama-economico",
+      "detectado": "2026-08-06T10:13:17.639Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-poner-freno-no-alcanza-2026860520",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: con poner un freno no alcanza",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-poner-freno-no-alcanza-2026860520",
+      "detectado": "2026-08-06T10:13:17.639Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15911-alerta-por-falsos-llamados-telefonicos-en-nombre-del-consejo-y-la-caja",
       "sitio": "CPBA (Buenos Aires)",
@@ -233,13 +275,6 @@
       "detectado": "2026-08-04T10:14:34.697Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-04T10:14:34.697Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/nuevo-sistema-de-cumplimiento-antilavado-para-cooperativas-y-mutuales/",
       "sitio": "Contadores en Red",
       "titulo": "Nuevo Sistema de Cumplimiento Antilavado para Cooperativas y Mutuales",
@@ -385,41 +420,6 @@
       "titulo": "Milei ocultó un Memorándum con EEUU vinculado a la “seguridad” de los recursos hídricos",
       "url": "https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
       "detectado": "2026-08-01T20:36:13.777Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dias-paro-docente-gobierno-redoblo-persecucion-amenazo-inspecciones-202681155738",
-      "sitio": "El Destape",
-      "titulo": "A días del paro docente, el Gobierno redobló la persecución y amenazó con \"inspecciones\"",
-      "url": "https://www.eldestapeweb.com/politica/dias-paro-docente-gobierno-redoblo-persecucion-amenazo-inspecciones-202681155738",
-      "detectado": "2026-08-01T20:36:13.777Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-puede-recibir-migrantes-seguir-siendo-racista-202681172143",
-      "sitio": "El Destape",
-      "titulo": "\"Una sociedad puede recibir migrantes y seguir siendo racista\"",
-      "url": "https://www.eldestapeweb.com/politica/sociedad-puede-recibir-migrantes-seguir-siendo-racista-202681172143",
-      "detectado": "2026-08-01T20:36:13.777Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-teme-dramatico-endeudamiento-familias-le-haga-perder-elecciones-2026810519",
-      "sitio": "El Destape",
-      "titulo": "Milei teme que el dramático endeudamiento de las familias le haga perder las elecciones",
-      "url": "https://www.eldestapeweb.com/politica/milei-teme-dramatico-endeudamiento-familias-le-haga-perder-elecciones-2026810519",
-      "detectado": "2026-08-01T07:53:29.460Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/disputa-territorio-desalojos-claves-detras-ley-tierras-2026810519",
-      "sitio": "El Destape",
-      "titulo": "La disputa por el territorio y los desalojos, las claves detrás de la Ley de Tierras",
-      "url": "https://www.eldestapeweb.com/economia/disputa-territorio-desalojos-claves-detras-ley-tierras-2026810519",
-      "detectado": "2026-08-01T07:53:29.460Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/insolito-expediente-dnu-milei-expulsar-tuiteros-pais-2026810519",
-      "sitio": "El Destape",
-      "titulo": "La semana política",
-      "url": "https://www.eldestapeweb.com/politica/insolito-expediente-dnu-milei-expulsar-tuiteros-pais-2026810519",
-      "detectado": "2026-08-01T07:53:29.461Z"
     }
   ]
 }
