@@ -4,6 +4,10 @@
     "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026"
   },
   {
+    "titulo": "Más descuentos para estudiar idiomas en el CUI",
+    "url": "https://www.cpba.com.ar/noticias/item/15916-mas-descuentos-para-estudiar-idiomas-en-el-cui"
+  },
+  {
     "titulo": "La Mesa Directiva del Consejo visitó el Gran Buenos Aires",
     "url": "https://www.cpba.com.ar/noticias/item/15915-la-mesa-directiva-del-consejo-visito-el-gran-buenos-aires"
   },
@@ -16,12 +20,12 @@
     "url": "https://www.cpba.com.ar/noticias/item/15912-la-matricula-sigue-creciendo-nueva-jura-en-sede-provincial"
   },
   {
-    "titulo": "Nueva reunión con la Contaduría General de la Provincia",
-    "url": "https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia"
-  },
-  {
     "titulo": "Ahora en RePro | Automatización en estudios contables: Recuperar tiempo para agregar valor",
     "url": "https://www.cpba.com.ar/noticias/item/15914-ahora-en-repro-automatizacion-en-estudios-contables-recuperar-tiempo-para-agregar-valor"
+  },
+  {
+    "titulo": "Nueva reunión con la Contaduría General de la Provincia",
+    "url": "https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia"
   },
   {
     "titulo": "Hospedate en Mar del Plata con descuentos especiales",
@@ -42,9 +46,5 @@
   {
     "titulo": "No te pierdas las Jornadas Nacionales y Provinciales de Economía",
     "url": "https://www.cpba.com.ar/noticias/item/15900-no-te-pierdas-las-jornadas-nacionales-y-provinciales-de-economia"
-  },
-  {
-    "titulo": "Formá parte de los Comités de Auditoría y Contabilidad de CENCyA",
-    "url": "https://www.cpba.com.ar/noticias/item/15896-forma-parte-de-los-comites-de-auditoria-y-contabilidad-de-cencya"
   }
 ]

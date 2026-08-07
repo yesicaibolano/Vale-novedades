@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-07T15:09:34.461Z",
+  "actualizado": "2026-08-07T20:04:03.626Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15916-mas-descuentos-para-estudiar-idiomas-en-el-cui",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Más descuentos para estudiar idiomas en el CUI",
+      "url": "https://www.cpba.com.ar/noticias/item/15916-mas-descuentos-para-estudiar-idiomas-en-el-cui",
+      "detectado": "2026-08-07T20:04:01.397Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/frustracion-derrota-gobierno-denuncio-manifestantes-podrian-darles-5-15-30-anos-20268714184",
+      "sitio": "El Destape",
+      "titulo": "Tras la derrota, el Gobierno denunció a los manifestantes: podrían darles hasta 30 años",
+      "url": "https://www.eldestapeweb.com/politica/frustracion-derrota-gobierno-denuncio-manifestantes-podrian-darles-5-15-30-anos-20268714184",
+      "detectado": "2026-08-07T20:04:03.199Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/dia-de-san-cayetano",
+      "sitio": "El Destape",
+      "titulo": "Día de San Cayetano",
+      "url": "https://www.eldestapeweb.com/tag/dia-de-san-cayetano",
+      "detectado": "2026-08-07T20:04:03.199Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/paz-pan-trabajo-deudas-familias-milei-ignora-multitud-reclamo-dia-san-cayetano-202687164022",
+      "sitio": "El Destape",
+      "titulo": "Masiva marcha por San Cayetano, pero también por las deudas que Milei ignora",
+      "url": "https://www.eldestapeweb.com/politica/paz-pan-trabajo-deudas-familias-milei-ignora-multitud-reclamo-dia-san-cayetano-202687164022",
+      "detectado": "2026-08-07T20:04:03.199Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "sitio": "El Destape",
+      "titulo": "Por Javier Peverelli",
+      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "detectado": "2026-08-07T20:04:03.199Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/futbolista-argentino-fue-detenido-ice-trump-no-criminal-denuncian-familiares-20268716940",
+      "sitio": "El Destape",
+      "titulo": "Un futbolista argentino fue detenido por el ICE: \"No es un criminal\", denuncian familiares",
+      "url": "https://www.eldestapeweb.com/internacionales/futbolista-argentino-fue-detenido-ice-trump-no-criminal-denuncian-familiares-20268716940",
+      "detectado": "2026-08-07T20:04:03.199Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-acuerdo-salarial-julio-2026-para-el-cct-781-20/",
       "sitio": "Ignacio Online",
@@ -378,48 +420,6 @@
       "titulo": "Movimiento Derecho al Futuro",
       "url": "https://www.eldestapeweb.com/politica/kicillof-definio-avanzar-reelecciones-intendentes-armado-territorial-20268320340",
       "detectado": "2026-08-04T10:14:34.697Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/nuevo-sistema-de-cumplimiento-antilavado-para-cooperativas-y-mutuales/",
-      "sitio": "Contadores en Red",
-      "titulo": "Nuevo Sistema de Cumplimiento Antilavado para Cooperativas y Mutuales",
-      "url": "https://contadoresenred.com/nuevo-sistema-de-cumplimiento-antilavado-para-cooperativas-y-mutuales/",
-      "detectado": "2026-08-03T21:49:15.407Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Derecho de Ejercicio Profesional: 4º anticipo de 2026",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "detectado": "2026-08-03T21:49:18.959Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-bullrich-tuvo-retroceder-culpan-sturzenegger-costo-politico-202683175211",
-      "sitio": "El Destape",
-      "titulo": "Bullrich tuvo que retroceder y culpan a Stuzenegger por el costo político",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-bullrich-tuvo-retroceder-culpan-sturzenegger-costo-politico-202683175211",
-      "detectado": "2026-08-03T21:49:20.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/uno-uno-cambios-gobierno-negocia-contrareloj-aprobar-ley-tierras-202683174619",
-      "sitio": "El Destape",
-      "titulo": "Uno a uno, los cambios que el Gobierno negocia para aprobar la Ley de Tierras",
-      "url": "https://www.eldestapeweb.com/politica/uno-uno-cambios-gobierno-negocia-contrareloj-aprobar-ley-tierras-202683174619",
-      "detectado": "2026-08-03T21:49:20.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/recuperacion-no-llega-consumo-debil-industria-baja-credito-unico-sosten-202683142620",
-      "sitio": "El Destape",
-      "titulo": "La recuperación no llega: consumo débil, industria en baja y crédito como único sostén",
-      "url": "https://www.eldestapeweb.com/economia/recuperacion-no-llega-consumo-debil-industria-baja-credito-unico-sosten-202683142620",
-      "detectado": "2026-08-03T21:49:20.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-08-03T21:49:20.402Z"
     }
   ]
 }
