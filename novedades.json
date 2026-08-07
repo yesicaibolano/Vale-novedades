@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-06T10:13:18.014Z",
+  "actualizado": "2026-08-07T05:52:51.209Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/caba-que-rubricas-laborales-siguen-siendo-obligatorias-tras-la-eliminacion-del-libro-de-sueldos/",
+      "sitio": "Contadores en Red",
+      "titulo": "CABA: ¿Qué rúbricas laborales siguen siendo obligatorias tras la eliminación del Libro de Sueldos?",
+      "url": "https://contadoresenred.com/caba-que-rubricas-laborales-siguen-siendo-obligatorias-tras-la-eliminacion-del-libro-de-sueldos/",
+      "detectado": "2026-08-07T05:52:44.851Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/caba-reglamenta-la-rubrica-de-documentacion-laboral-para-regimenes-especiales/",
+      "sitio": "Ignacio Online",
+      "titulo": "CABA reglamenta la rúbrica de documentación laboral para regímenes especiales",
+      "url": "https://www.ignacioonline.com.ar/caba-reglamenta-la-rubrica-de-documentacion-laboral-para-regimenes-especiales/",
+      "detectado": "2026-08-07T05:52:45.778Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/represion-calle-libertad-avanza-consiguio-senado-media-sancion-ley-despedazada-20268713322",
+      "sitio": "El Destape",
+      "titulo": "Con represión en la calle, LLA consiguió media sanción de una ley despedazada",
+      "url": "https://www.eldestapeweb.com/politica/represion-calle-libertad-avanza-consiguio-senado-media-sancion-ley-despedazada-20268713322",
+      "detectado": "2026-08-07T05:52:50.702Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alto-costo-gobierno-pago-calle-palacio-media-sancion-2026872105",
+      "sitio": "El Destape",
+      "titulo": "El alto costo que el Gobierno pagó en la calle y en el Palacio para la media sanción",
+      "url": "https://www.eldestapeweb.com/politica/alto-costo-gobierno-pago-calle-palacio-media-sancion-2026872105",
+      "detectado": "2026-08-07T05:52:50.702Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/marcha-congreso-llegan-columnas-mientras-senado-debate-202686143039",
+      "sitio": "El Destape",
+      "titulo": "Represión desaforada: 1500 heridos por una Policía que disparó entre autos en el Obelisco",
+      "url": "https://www.eldestapeweb.com/politica/marcha-congreso-llegan-columnas-mientras-senado-debate-202686143039",
+      "detectado": "2026-08-07T05:52:50.702Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/blindaje-privatizador-oculta-cambio-expropiaciones-2026870539",
+      "sitio": "El Destape",
+      "titulo": "Blindaje privatizador: qué oculta el cambio a las expropiaciones",
+      "url": "https://www.eldestapeweb.com/politica/blindaje-privatizador-oculta-cambio-expropiaciones-2026870539",
+      "detectado": "2026-08-07T05:52:50.702Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/prohiben-militares-quejen-redes-bajos-sueldos-2026870539",
+      "sitio": "El Destape",
+      "titulo": "Prohíben que los militares se quejen en redes por sus bajos sueldos",
+      "url": "https://www.eldestapeweb.com/politica/prohiben-militares-quejen-redes-bajos-sueldos-2026870539",
+      "detectado": "2026-08-07T05:52:50.702Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-homologan-el-acuerdo-salarial-del-cct-130-75/",
       "sitio": "Ignacio Online",
@@ -371,55 +420,6 @@
       "titulo": "Milei admitió: \"Es normal que haya argentinos que no perciben la mejora\"",
       "url": "https://www.eldestapeweb.com/politica/aunque-defendio-gestion-milei-admitio-normal-haya-argentinos-no-perciben-mejora-20268216500",
       "detectado": "2026-08-02T20:38:46.464Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/profesion-tomada-cuando-el-contador-empieza-a-quedar-afuera-de-su-propia-profesion/",
-      "sitio": "Ignacio Online",
-      "titulo": "Profesión tomada: cuando el contador empieza a quedar afuera de su propia profesión",
-      "url": "https://www.ignacioonline.com.ar/profesion-tomada-cuando-el-contador-empieza-a-quedar-afuera-de-su-propia-profesion/",
-      "detectado": "2026-08-02T15:47:04.710Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sueno-reelegir-argentina-partida-derecha-fracturada-20268120250",
-      "sitio": "El Destape",
-      "titulo": "El sueño de reelegir con la Argentina partida y la derecha fracturada",
-      "url": "https://www.eldestapeweb.com/politica/sueno-reelegir-argentina-partida-derecha-fracturada-20268120250",
-      "detectado": "2026-08-02T07:54:55.233Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/peronismo-no-habra-default-202673117290",
-      "sitio": "El Destape",
-      "titulo": "El desastre de la deuda es de la derecha",
-      "url": "https://www.eldestapeweb.com/economia/peronismo-no-habra-default-202673117290",
-      "detectado": "2026-08-02T07:54:55.233Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-miedo-20268118580",
-      "sitio": "El Destape",
-      "titulo": "La economía del miedo",
-      "url": "https://www.eldestapeweb.com/politica/economia-miedo-20268118580",
-      "detectado": "2026-08-02T07:54:55.233Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-08-02T07:54:55.233Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gestion-milei-toca-piso-historico-consolida-nucleo-duro-opositor-2026811780",
-      "sitio": "El Destape",
-      "titulo": "La gestión de Milei toca su piso histórico y se consolida un núcleo duro opositor",
-      "url": "https://www.eldestapeweb.com/politica/gestion-milei-toca-piso-historico-consolida-nucleo-duro-opositor-2026811780",
-      "detectado": "2026-08-02T07:54:55.233Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
-      "sitio": "El Destape",
-      "titulo": "Milei ocultó un Memorándum con EEUU vinculado a la “seguridad” de los recursos hídricos",
-      "url": "https://www.eldestapeweb.com/economia/milei-oculto-memorandum-eeuu-vinculado-seguridad-recursos-hidricos-202681164240",
-      "detectado": "2026-08-01T20:36:13.777Z"
     }
   ]
 }
