@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-07T20:04:03.626Z",
+  "actualizado": "2026-08-08T03:59:46.744Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/crisis-diplomatica",
+      "sitio": "El Destape",
+      "titulo": "Crisis Diplomática",
+      "url": "https://www.eldestapeweb.com/tag/crisis-diplomatica",
+      "detectado": "2026-08-08T03:59:46.398Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/brasil-mucho-socio-comercial-riesgos-economicos-escalada-milei-2026880527",
+      "sitio": "El Destape",
+      "titulo": "Brasil, mucho más que un socio comercial: los riesgos económicos de la escalada con Milei",
+      "url": "https://www.eldestapeweb.com/economia/brasil-mucho-socio-comercial-riesgos-economicos-escalada-milei-2026880527",
+      "detectado": "2026-08-08T03:59:46.398Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-08T03:59:46.398Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-08-08T03:59:46.398Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-rosada-no-salva-nadie-alerta-roja-gobernadores-ultima-bala-2026880527",
+      "sitio": "El Destape",
+      "titulo": "Guerra en Rosada y no se salva nadie, alerta roja con los gobernadores y “la última bala”",
+      "url": "https://www.eldestapeweb.com/politica/guerra-rosada-no-salva-nadie-alerta-roja-gobernadores-ultima-bala-2026880527",
+      "detectado": "2026-08-08T03:59:46.398Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15916-mas-descuentos-para-estudiar-idiomas-en-el-cui",
       "sitio": "CPBA (Buenos Aires)",
@@ -63,13 +98,6 @@
       "titulo": "Ahora en RePro | Automatización en estudios contables: Recuperar tiempo para agregar valor",
       "url": "https://www.cpba.com.ar/noticias/item/15914-ahora-en-repro-automatizacion-en-estudios-contables-recuperar-tiempo-para-agregar-valor",
       "detectado": "2026-08-07T15:09:32.584Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-07T15:09:33.956Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-caba-fue-2-9-julio-golpea-relato-milei-2026871175",
@@ -392,34 +420,6 @@
       "titulo": "Monotributo Unificado ARBA: Tabla desde Agosto 2026",
       "url": "https://www.ignacioonline.com.ar/monotributo-unificado-arba-tabla-desde-agosto-2026/",
       "detectado": "2026-08-04T10:14:30.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-pequenos-agricultores-alertan-puede-destruir-soberania-alimentaria-20268213330",
-      "sitio": "El Destape",
-      "titulo": "Ley de Tierras: pequeños agricultores alertan que puede destruir la soberanía alimentaria",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-pequenos-agricultores-alertan-puede-destruir-soberania-alimentaria-20268213330",
-      "detectado": "2026-08-04T10:14:34.697Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "sitio": "El Destape",
-      "titulo": "Por Gimena Figueroa",
-      "url": "https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "detectado": "2026-08-04T10:14:34.697Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-rechaza-ley-tierras-hay-vicio-nulidad-202683193950",
-      "sitio": "El Destape",
-      "titulo": "El peronismo rechaza la ley de tierras: \"Hay vicio de nulidad\"",
-      "url": "https://www.eldestapeweb.com/politica/peronismo-rechaza-ley-tierras-hay-vicio-nulidad-202683193950",
-      "detectado": "2026-08-04T10:14:34.697Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-definio-avanzar-reelecciones-intendentes-armado-territorial-20268320340",
-      "sitio": "El Destape",
-      "titulo": "Movimiento Derecho al Futuro",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-definio-avanzar-reelecciones-intendentes-armado-territorial-20268320340",
-      "detectado": "2026-08-04T10:14:34.697Z"
     }
   ]
 }
