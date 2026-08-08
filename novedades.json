@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-08T08:06:18.915Z",
+  "actualizado": "2026-08-08T14:04:50.610Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-08-08T14:04:50.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/murio-padre-lionel-messi-jorge-messi-68-anos-202688102034",
+      "sitio": "El Destape",
+      "titulo": "Murió el padre de Lionel Messi a los 68 años",
+      "url": "https://www.eldestapeweb.com/deportes/murio-padre-lionel-messi-jorge-messi-68-anos-202688102034",
+      "detectado": "2026-08-08T14:04:50.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/historia-jorge-messi-quien-fue-hombre-clave-carrera-lionel-messi-202688102429",
+      "sitio": "El Destape",
+      "titulo": "La historia de Jorge Messi: quién fue el hombre clave en la carrera de Lionel",
+      "url": "https://www.eldestapeweb.com/deportes/historia-jorge-messi-quien-fue-hombre-clave-carrera-lionel-messi-202688102429",
+      "detectado": "2026-08-08T14:04:50.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/sanatorio-centro-confirmo-muerte-jorge-messi-comunicado-202688105647",
+      "sitio": "El Destape",
+      "titulo": "El Sanatorio Centro confirmó la muerte de Jorge Messi: el comunicado",
+      "url": "https://www.eldestapeweb.com/deportes/sanatorio-centro-confirmo-muerte-jorge-messi-comunicado-202688105647",
+      "detectado": "2026-08-08T14:04:50.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/asi-fue-ultima-aparicion-publica-jorge-messi-padre-lionel-messi-202688102338",
+      "sitio": "El Destape",
+      "titulo": "Así fue la última aparición pública de Jorge Messi, padre de Lionel Messi",
+      "url": "https://www.eldestapeweb.com/deportes/asi-fue-ultima-aparicion-publica-jorge-messi-padre-lionel-messi-202688102338",
+      "detectado": "2026-08-08T14:04:50.162Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/crisis-diplomatica",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Paro portuario: hay riesgo de faltante de combustible por un decreto de Sturzenegger",
       "url": "https://www.eldestapeweb.com/economia/paro-portuario-140-buques-varados-riesgo-desabastecimiento-combustible-20268471522",
       "detectado": "2026-08-04T18:13:05.412Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/231-000-personas-quedaron-cobertura-salud-trimestre-20268410155",
-      "sitio": "El Destape",
-      "titulo": "Más de 231.000 personas se quedaron sin prepaga ni obra social en un trimestre",
-      "url": "https://www.eldestapeweb.com/economia/231-000-personas-quedaron-cobertura-salud-trimestre-20268410155",
-      "detectado": "2026-08-04T18:13:05.412Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/equipo-historico-futbol-aleman-debuto-colores-argentina-20268312398",
-      "sitio": "El Destape",
-      "titulo": "Un equipo histórico del fútbol alemán debutó con los colores de Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/equipo-historico-futbol-aleman-debuto-colores-argentina-20268312398",
-      "detectado": "2026-08-04T18:13:05.412Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uatre-acuerdo-salarial-para-trabajadores-agrarios-julio-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "UATRE: acuerdo salarial para trabajadores agrarios julio 2026",
-      "url": "https://www.ignacioonline.com.ar/uatre-acuerdo-salarial-para-trabajadores-agrarios-julio-2026/",
-      "detectado": "2026-08-04T10:14:30.887Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-acuerdo-por-contribucion-empresaria-del-2-para-cct-76-75-y-577-10/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOCRA: acuerdo por contribución empresaria del 2% para CCT 76/75 y 577/10",
-      "url": "https://www.ignacioonline.com.ar/uocra-acuerdo-por-contribucion-empresaria-del-2-para-cct-76-75-y-577-10/",
-      "detectado": "2026-08-04T10:14:30.887Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/monotributo-unificado-arba-tabla-desde-agosto-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Monotributo Unificado ARBA: Tabla desde Agosto 2026",
-      "url": "https://www.ignacioonline.com.ar/monotributo-unificado-arba-tabla-desde-agosto-2026/",
-      "detectado": "2026-08-04T10:14:30.887Z"
     }
   ]
 }
