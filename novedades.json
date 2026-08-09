@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-08T19:18:45.325Z",
+  "actualizado": "2026-08-09T04:42:19.564Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
+      "sitio": "El Destape",
+      "titulo": "La bandera argentina, la fuerza que se lleva puesto al gobierno de Milei",
+      "url": "https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
+      "detectado": "2026-08-09T04:42:19.274Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/quien-tarado-202689050",
+      "sitio": "El Destape",
+      "titulo": "Caputo insulta a los industriales",
+      "url": "https://www.eldestapeweb.com/economia/quien-tarado-202689050",
+      "detectado": "2026-08-09T04:42:19.274Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/electorado-joven-aleja-milei-puede-inclinar-balanza-electoral-202689050",
+      "sitio": "El Destape",
+      "titulo": "El electorado joven se aleja de Milei y puede inclinar la balanza electoral",
+      "url": "https://www.eldestapeweb.com/politica/electorado-joven-aleja-milei-puede-inclinar-balanza-electoral-202689050",
+      "detectado": "2026-08-09T04:42:19.274Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-09T04:42:19.274Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/argentina-milei-arquitectura-neocolonialismo-20268821300",
+      "sitio": "El Destape",
+      "titulo": "Argentina o Milei: la arquitectura del neocolonialismo",
+      "url": "https://www.eldestapeweb.com/politica/argentina-milei-arquitectura-neocolonialismo-20268821300",
+      "detectado": "2026-08-09T04:42:19.274Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/pais-remate-plan-pedir-trump-tropezo-calle-202688114612",
       "sitio": "El Destape",
@@ -261,13 +296,6 @@
       "detectado": "2026-08-06T10:13:17.639Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-06T10:13:17.639Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/tag/panorama-economico",
       "sitio": "El Destape",
       "titulo": "Panorama económico",
@@ -392,34 +420,6 @@
       "titulo": "El peronismo ve posible frenar la extranjerización y torcerle la mano al Gobierno",
       "url": "https://www.eldestapeweb.com/politica/peronismo-ve-posible-frenar-extranjerizacion-tierra-torcerle-mano-gobierno-2026842050",
       "detectado": "2026-08-05T10:04:01.715Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mejor-viento-cola-economia-milei-arranca-20268418370",
-      "sitio": "El Destape",
-      "titulo": "Frente externo favorable",
-      "url": "https://www.eldestapeweb.com/economia/mejor-viento-cola-economia-milei-arranca-20268418370",
-      "detectado": "2026-08-05T10:04:01.715Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/historica-crisis-diplomatica-brasil-lula-rebajo-nivel-relacion-bilateral-insultos-milei-202684214411",
-      "sitio": "El Destape",
-      "titulo": "Crisis con Brasil: Lula rebajó el nivel de la relación bilateral por los insultos de Milei",
-      "url": "https://www.eldestapeweb.com/politica/historica-crisis-diplomatica-brasil-lula-rebajo-nivel-relacion-bilateral-insultos-milei-202684214411",
-      "detectado": "2026-08-05T10:04:01.715Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nueva reunión con la Contaduría General de la Provincia",
-      "url": "https://www.cpba.com.ar/noticias/item/15909-nueva-reunion-con-la-contaduria-general-de-la-provincia",
-      "detectado": "2026-08-04T18:13:04.042Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15908-hospedate-en-mar-del-plata-con-descuentos-especiales",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Hospedate en Mar del Plata con descuentos especiales",
-      "url": "https://www.cpba.com.ar/noticias/item/15908-hospedate-en-mar-del-plata-con-descuentos-especiales",
-      "detectado": "2026-08-04T18:13:04.042Z"
     }
   ]
 }
