@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-08-09T14:05:18.146Z",
+  "actualizado": "2026-08-09T19:48:48.882Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caida-consumo-no-encuentra-piso-ventas-minoristas-volvieron-bajar-julio-202689113545",
+      "sitio": "El Destape",
+      "titulo": "La caída del consumo no encuentra piso: las ventas minoristas volvieron a bajar en julio",
+      "url": "https://www.eldestapeweb.com/economia/caida-consumo-no-encuentra-piso-ventas-minoristas-volvieron-bajar-julio-202689113545",
+      "detectado": "2026-08-09T19:48:48.354Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/entrevistas-en-el-destape",
+      "sitio": "El Destape",
+      "titulo": "Entrevistas en El Destape",
+      "url": "https://www.eldestapeweb.com/tag/entrevistas-en-el-destape",
+      "detectado": "2026-08-09T19:48:48.355Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kleidermacher-muchos-migrantes-dejaron-atender-salud-argentina-miedo-20268823521",
+      "sitio": "El Destape",
+      "titulo": "Kleidermacher: \"Muchos migrantes dejaron de atender su salud en Argentina por miedo\"",
+      "url": "https://www.eldestapeweb.com/politica/kleidermacher-muchos-migrantes-dejaron-atender-salud-argentina-miedo-20268823521",
+      "detectado": "2026-08-09T19:48:48.355Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "sitio": "El Destape",
+      "titulo": "Por Gino Viglianco",
+      "url": "https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "detectado": "2026-08-09T19:48:48.355Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/funeral-jorge-messi-vivo-ultimo-adios-familia-apoyo-multitudinario-2026899463",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "Químicos y petroquímicos: acuerdo salarial 2026/2027 para el CCT 77/89",
       "url": "https://www.ignacioonline.com.ar/quimicos-y-petroquimicos-acuerdo-salarial-2026-2027-para-el-cct-77-89/",
       "detectado": "2026-08-05T17:12:31.568Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-senadores-aliados-dieron-vuelta-hacen-tambalear-votacion-202685115923",
-      "sitio": "El Destape",
-      "titulo": "Ley de tierras: senadores aliados se dieron vuelta y hacen tambalear la votación",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-senadores-aliados-dieron-vuelta-hacen-tambalear-votacion-202685115923",
-      "detectado": "2026-08-05T17:12:37.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/plan-regional-trump-elecciones-brasil-trabajo-sucio-milei-claves-detras-crisis-diplomatica-20268513219",
-      "sitio": "El Destape",
-      "titulo": "Trump, las elecciones en Brasil y el trabajo sucio de Milei: las clave detrás de la crisis",
-      "url": "https://www.eldestapeweb.com/internacionales/plan-regional-trump-elecciones-brasil-trabajo-sucio-milei-claves-detras-crisis-diplomatica-20268513219",
-      "detectado": "2026-08-05T17:12:37.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/maria-laura-carpineta",
-      "sitio": "El Destape",
-      "titulo": "Por María Laura Carpineta",
-      "url": "https://www.eldestapeweb.com/perfil/maria-laura-carpineta",
-      "detectado": "2026-08-05T17:12:37.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-visitara-argentina-uruguay-peru-noviembre-20268571858",
-      "sitio": "El Destape",
-      "titulo": "Confirmado: el papa León XIV visitará Argentina en noviembre junto a Uruguay y Perú",
-      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-visitara-argentina-uruguay-peru-noviembre-20268571858",
-      "detectado": "2026-08-05T17:12:37.111Z"
     }
   ]
 }
