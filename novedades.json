@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-10T15:32:05.662Z",
+  "actualizado": "2026-08-10T20:09:00.626Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15919-la-comision-de-ambito-municipal-se-reunio-en-las-flores",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Comisión de Ámbito Municipal se reunió en Las Flores",
+      "url": "https://www.cpba.com.ar/noticias/item/15919-la-comision-de-ambito-municipal-se-reunio-en-las-flores",
+      "detectado": "2026-08-10T20:08:57.847Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-quiebras-crecen-concursos-consultas-empresas-crisis-202681014331",
+      "sitio": "El Destape",
+      "titulo": "Alerta por las quiebras: crecen los concursos y las consultas de empresas en crisis",
+      "url": "https://www.eldestapeweb.com/economia/alerta-quiebras-crecen-concursos-consultas-empresas-crisis-202681014331",
+      "detectado": "2026-08-10T20:08:59.683Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fuerte-sismo-7-5-sacudio-colombia-2026810113739",
+      "sitio": "El Destape",
+      "titulo": "Fuerte sismo en Colombia: reportan 111 muertos y buscan personas entre los escombros",
+      "url": "https://www.eldestapeweb.com/internacionales/fuerte-sismo-7-5-sacudio-colombia-2026810113739",
+      "detectado": "2026-08-10T20:08:59.683Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/denunciaron-monteoliva-comisario-gauna-feroz-represion-frente-congreso-2026810142346",
+      "sitio": "El Destape",
+      "titulo": "Denuncian a Monteoliva y al comisario Gauna por la feroz represión frente al Congreso",
+      "url": "https://www.eldestapeweb.com/sociedad/denunciaron-monteoliva-comisario-gauna-feroz-represion-frente-congreso-2026810142346",
+      "detectado": "2026-08-10T20:08:59.683Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
+      "sitio": "El Destape",
+      "titulo": "La bandera argentina, la fuerza que se lleva puesto al gobierno de Milei",
+      "url": "https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
+      "detectado": "2026-08-10T20:08:59.683Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/xxiv-jornada-nacional-jovenes-profesionales-ciencias-economicas/",
       "sitio": "Contadores en Red",
@@ -161,13 +196,6 @@
       "titulo": "Familias endeudadas",
       "url": "https://www.eldestapeweb.com/politica/galperin-aprieta-deudores-mientras-tiene-ganancias-record-202688142111",
       "detectado": "2026-08-09T14:05:17.682Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
-      "sitio": "El Destape",
-      "titulo": "La bandera argentina, la fuerza que se lleva puesto al gobierno de Milei",
-      "url": "https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
-      "detectado": "2026-08-09T04:42:19.274Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/quien-tarado-202689050",
@@ -392,34 +420,6 @@
       "titulo": "Represión desaforada: 1500 heridos por una Policía que disparó entre autos en el Obelisco",
       "url": "https://www.eldestapeweb.com/politica/marcha-congreso-llegan-columnas-mientras-senado-debate-202686143039",
       "detectado": "2026-08-07T05:52:50.702Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/blindaje-privatizador-oculta-cambio-expropiaciones-2026870539",
-      "sitio": "El Destape",
-      "titulo": "Blindaje privatizador: qué oculta el cambio a las expropiaciones",
-      "url": "https://www.eldestapeweb.com/politica/blindaje-privatizador-oculta-cambio-expropiaciones-2026870539",
-      "detectado": "2026-08-07T05:52:50.702Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/prohiben-militares-quejen-redes-bajos-sueldos-2026870539",
-      "sitio": "El Destape",
-      "titulo": "Prohíben que los militares se quejen en redes por sus bajos sueldos",
-      "url": "https://www.eldestapeweb.com/politica/prohiben-militares-quejen-redes-bajos-sueldos-2026870539",
-      "detectado": "2026-08-07T05:52:50.702Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-homologan-el-acuerdo-salarial-del-cct-130-75/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: homologan el acuerdo salarial del CCT 130/75",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-homologan-el-acuerdo-salarial-del-cct-130-75/",
-      "detectado": "2026-08-06T10:13:12.437Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-no-sumo-votos-proyecto-propiedad-privada-corre-riesgo-caerse-senado-20268520589",
-      "sitio": "El Destape",
-      "titulo": "LLA no sumó más votos y el proyecto de Inviolabilidad corre riesgo de caerse",
-      "url": "https://www.eldestapeweb.com/politica/lla-no-sumo-votos-proyecto-propiedad-privada-corre-riesgo-caerse-senado-20268520589",
-      "detectado": "2026-08-06T10:13:17.639Z"
     }
   ]
 }
