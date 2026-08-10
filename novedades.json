@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-10T05:10:12.152Z",
+  "actualizado": "2026-08-10T10:39:56.349Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uif-actualiza-el-regimen-de-prevencion-de-lavado-para-los-registros-de-la-propiedad-inmueble/",
+      "sitio": "Ignacio Online",
+      "titulo": "UIF actualiza el régimen de prevención de lavado para los Registros de la Propiedad Inmueble",
+      "url": "https://www.ignacioonline.com.ar/uif-actualiza-el-regimen-de-prevencion-de-lavado-para-los-registros-de-la-propiedad-inmueble/",
+      "detectado": "2026-08-10T10:39:52.273Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uta-acuerdo-salarial-julio-agosto-septiembre-2026-amba/",
+      "sitio": "Ignacio Online",
+      "titulo": "UTA: acuerdo salarial julio, agosto y septiembre 2026 para transporte de pasajeros AMBA",
+      "url": "https://www.ignacioonline.com.ar/uta-acuerdo-salarial-julio-agosto-septiembre-2026-amba/",
+      "detectado": "2026-08-10T10:39:52.273Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/pistola-cabeza-llegar-fin-mes-deuda-crece-barrios-populares-20268100527",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Derrota durísima para Milei con la caída de la Ley de Tierras: ahora buscan culpables",
       "url": "https://www.eldestapeweb.com/politica/derrota-durisima-milei-caida-ley-tierras-buscan-culpables-senalan-bullrich-sturzenegger-mahiques-202685153625",
-      "detectado": "2026-08-05T22:17:42.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-08-05T22:17:42.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/royon-votara-milei-no-tiene-votos-aprobar-ley-tierras-20268514459",
-      "sitio": "El Destape",
-      "titulo": "Sin los votos, LLA retira el capítulo de la Ley de Tierras y apuesta a recuperar apoyos",
-      "url": "https://www.eldestapeweb.com/politica/royon-votara-milei-no-tiene-votos-aprobar-ley-tierras-20268514459",
       "detectado": "2026-08-05T22:17:42.193Z"
     }
   ]
