@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-09T19:48:48.882Z",
+  "actualizado": "2026-08-10T05:10:12.152Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pistola-cabeza-llegar-fin-mes-deuda-crece-barrios-populares-20268100527",
+      "sitio": "El Destape",
+      "titulo": "La “pistola en la cabeza” es llegar a fin de mes: la deuda crece en los barrios populares",
+      "url": "https://www.eldestapeweb.com/economia/pistola-cabeza-llegar-fin-mes-deuda-crece-barrios-populares-20268100527",
+      "detectado": "2026-08-10T05:10:11.601Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-10T05:10:11.601Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-detono-puentes-congreso-pone-riesgo-plan-milei-2027-20268100527",
+      "sitio": "El Destape",
+      "titulo": "LLA detonó sus puentes en el Congreso y pone en riesgo el plan Milei 2027",
+      "url": "https://www.eldestapeweb.com/politica/lla-detono-puentes-congreso-pone-riesgo-plan-milei-2027-20268100527",
+      "detectado": "2026-08-10T05:10:11.601Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-10T05:10:11.601Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/no-commerce-no-compensa-presencial-datos-desmienten-galperin-20268100527",
+      "sitio": "El Destape",
+      "titulo": "No, el e-commerce no compensa el presencial: los datos que desmienten a Galperin",
+      "url": "https://www.eldestapeweb.com/economia/no-commerce-no-compensa-presencial-datos-desmienten-galperin-20268100527",
+      "detectado": "2026-08-10T05:10:11.601Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/caida-consumo-no-encuentra-piso-ventas-minoristas-volvieron-bajar-julio-202689113545",
       "sitio": "El Destape",
@@ -160,13 +195,6 @@
       "sitio": "El Destape",
       "titulo": "Brasil, mucho más que un socio comercial: los riesgos económicos de la escalada con Milei",
       "url": "https://www.eldestapeweb.com/economia/brasil-mucho-socio-comercial-riesgos-economicos-escalada-milei-2026880527",
-      "detectado": "2026-08-08T03:59:46.398Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-08-08T03:59:46.398Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Sin los votos, LLA retira el capítulo de la Ley de Tierras y apuesta a recuperar apoyos",
       "url": "https://www.eldestapeweb.com/politica/royon-votara-milei-no-tiene-votos-aprobar-ley-tierras-20268514459",
       "detectado": "2026-08-05T22:17:42.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-08-05T22:17:42.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pesar-caida-ley-tierras-gremios-mantienen-movilizacion-congreso-202685165815",
-      "sitio": "El Destape",
-      "titulo": "A pesar de la caída de la Ley de Tierras, gremios mantienen la movilización al Congreso",
-      "url": "https://www.eldestapeweb.com/politica/pesar-caida-ley-tierras-gremios-mantienen-movilizacion-congreso-202685165815",
-      "detectado": "2026-08-05T22:17:42.193Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/honorarios-para-realizar-la-recategorizacion-monotributo-minimos-sugeridos-por-provincia-agosto-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Honorarios para realizar la Recategorización Monotributo. Mínimos sugeridos por Provincia. Agosto 2026",
-      "url": "https://contadoresenred.com/honorarios-para-realizar-la-recategorizacion-monotributo-minimos-sugeridos-por-provincia-agosto-2026/",
-      "detectado": "2026-08-05T17:12:29.625Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/quimicos-y-petroquimicos-acuerdo-salarial-2026-2027-para-el-cct-77-89/",
-      "sitio": "Ignacio Online",
-      "titulo": "Químicos y petroquímicos: acuerdo salarial 2026/2027 para el CCT 77/89",
-      "url": "https://www.ignacioonline.com.ar/quimicos-y-petroquimicos-acuerdo-salarial-2026-2027-para-el-cct-77-89/",
-      "detectado": "2026-08-05T17:12:31.568Z"
     }
   ]
 }
