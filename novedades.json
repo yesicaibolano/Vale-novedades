@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-10T20:09:00.626Z",
+  "actualizado": "2026-08-11T04:49:59.948Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
+      "sitio": "El Destape",
+      "titulo": "Mora: se acumulan los proyectos en el Congreso pero el oficialismo los frena",
+      "url": "https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
+      "detectado": "2026-08-11T04:49:59.642Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-08-11T04:49:59.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-dice-pesos-estan-sospecha-timbea-bajar-tasa-2026810192052",
+      "sitio": "El Destape",
+      "titulo": "Caputo dice que los pesos están, pero se sospecha que los timbea para bajar la tasa",
+      "url": "https://www.eldestapeweb.com/economia/caputo-dice-pesos-estan-sospecha-timbea-bajar-tasa-2026810192052",
+      "detectado": "2026-08-11T04:49:59.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-08-11T04:49:59.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/maniobras-milei-respaldar-sturzenegger-medio-ruido-politico-karina-gabinete-2026810175450",
+      "sitio": "El Destape",
+      "titulo": "Tensión en el Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/maniobras-milei-respaldar-sturzenegger-medio-ruido-politico-karina-gabinete-2026810175450",
+      "detectado": "2026-08-11T04:49:59.643Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15919-la-comision-de-ambito-municipal-se-reunio-en-las-flores",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Visiblemente ofuscado, Milei llegó a Colombia tras la derrota en el Senado",
       "url": "https://www.eldestapeweb.com/politica/milei-colombia-senado-freno-desregulacion-sturzenegger-20268772941",
       "detectado": "2026-08-07T15:09:33.956Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/caba-que-rubricas-laborales-siguen-siendo-obligatorias-tras-la-eliminacion-del-libro-de-sueldos/",
-      "sitio": "Contadores en Red",
-      "titulo": "CABA: ¿Qué rúbricas laborales siguen siendo obligatorias tras la eliminación del Libro de Sueldos?",
-      "url": "https://contadoresenred.com/caba-que-rubricas-laborales-siguen-siendo-obligatorias-tras-la-eliminacion-del-libro-de-sueldos/",
-      "detectado": "2026-08-07T05:52:44.851Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/caba-reglamenta-la-rubrica-de-documentacion-laboral-para-regimenes-especiales/",
-      "sitio": "Ignacio Online",
-      "titulo": "CABA reglamenta la rúbrica de documentación laboral para regímenes especiales",
-      "url": "https://www.ignacioonline.com.ar/caba-reglamenta-la-rubrica-de-documentacion-laboral-para-regimenes-especiales/",
-      "detectado": "2026-08-07T05:52:45.778Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/represion-calle-libertad-avanza-consiguio-senado-media-sancion-ley-despedazada-20268713322",
-      "sitio": "El Destape",
-      "titulo": "Con represión en la calle, LLA consiguió media sanción de una ley despedazada",
-      "url": "https://www.eldestapeweb.com/politica/represion-calle-libertad-avanza-consiguio-senado-media-sancion-ley-despedazada-20268713322",
-      "detectado": "2026-08-07T05:52:50.702Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alto-costo-gobierno-pago-calle-palacio-media-sancion-2026872105",
-      "sitio": "El Destape",
-      "titulo": "El alto costo que el Gobierno pagó en la calle y en el Palacio para la media sanción",
-      "url": "https://www.eldestapeweb.com/politica/alto-costo-gobierno-pago-calle-palacio-media-sancion-2026872105",
-      "detectado": "2026-08-07T05:52:50.702Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/marcha-congreso-llegan-columnas-mientras-senado-debate-202686143039",
-      "sitio": "El Destape",
-      "titulo": "Represión desaforada: 1500 heridos por una Policía que disparó entre autos en el Obelisco",
-      "url": "https://www.eldestapeweb.com/politica/marcha-congreso-llegan-columnas-mientras-senado-debate-202686143039",
-      "detectado": "2026-08-07T05:52:50.702Z"
     }
   ]
 }
