@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-11T08:40:24.780Z",
+  "actualizado": "2026-08-11T15:29:54.012Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
+      "sitio": "Contadores en Red",
+      "titulo": "Qué necesito para que me autoricen facturas “A” y el perjuicio que implica la limitación al uso de “CBU”",
+      "url": "https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
+      "detectado": "2026-08-11T15:29:47.367Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/facturacion-y-cobro-de-prestaciones-sanitarias-a-personas-extranjeras-sin-residencia-permanente/",
+      "sitio": "Contadores en Red",
+      "titulo": "Facturación y cobro de prestaciones sanitarias a personas extranjeras sin residencia permanente",
+      "url": "https://contadoresenred.com/facturacion-y-cobro-de-prestaciones-sanitarias-a-personas-extranjeras-sin-residencia-permanente/",
+      "detectado": "2026-08-11T15:29:47.367Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15920-ahora-en-repro-como-saber-si-el-estudio-contable-crecio-mas-rapido-que-su-organizacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Cómo saber si el estudio contable creció más rápido que su…",
+      "url": "https://www.cpba.com.ar/noticias/item/15920-ahora-en-repro-como-saber-si-el-estudio-contable-crecio-mas-rapido-que-su-organizacion",
+      "detectado": "2026-08-11T15:29:50.989Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ravier-expuso-milei-campana-antiargentina-no-tengo-fuentes-2026811122611",
+      "sitio": "El Destape",
+      "titulo": "Ravier expuso a Milei por la campaña antiargentina: \"No tengo las fuentes\"",
+      "url": "https://www.eldestapeweb.com/politica/ravier-expuso-milei-campana-antiargentina-no-tengo-fuentes-2026811122611",
+      "detectado": "2026-08-11T15:29:53.558Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-reglamento-cobro-extranjeros-no-residentes-hospitales-nacionales-202681171522",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno cobrará a extranjeros el tratamiento en hospitales nacionales",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-reglamento-cobro-extranjeros-no-residentes-hospitales-nacionales-202681171522",
+      "detectado": "2026-08-11T15:29:53.558Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/fuerte-autocritica-di-carlo-marginados-river-error-2026811111418",
+      "sitio": "El Destape",
+      "titulo": "La fuerte autocrítica de Di Carlo por los marginados de River: \"Error\"",
+      "url": "https://www.eldestapeweb.com/deportes/fuerte-autocritica-di-carlo-marginados-river-error-2026811111418",
+      "detectado": "2026-08-11T15:29:53.558Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/martes-ucr-relanzo-provincia-donde-pro-apuesta-amplia-alianza-opositora-peronismo-2026810195259",
+      "sitio": "El Destape",
+      "titulo": "La UCR se relanzó en la Provincia, donde el PRO apuesta por una amplia alianza opositora",
+      "url": "https://www.eldestapeweb.com/politica/martes-ucr-relanzo-provincia-donde-pro-apuesta-amplia-alianza-opositora-peronismo-2026810195259",
+      "detectado": "2026-08-11T15:29:53.558Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Por Javier Peverelli",
       "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
       "detectado": "2026-08-07T20:04:03.199Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/futbolista-argentino-fue-detenido-ice-trump-no-criminal-denuncian-familiares-20268716940",
-      "sitio": "El Destape",
-      "titulo": "Un futbolista argentino fue detenido por el ICE: \"No es un criminal\", denuncian familiares",
-      "url": "https://www.eldestapeweb.com/internacionales/futbolista-argentino-fue-detenido-ice-trump-no-criminal-denuncian-familiares-20268716940",
-      "detectado": "2026-08-07T20:04:03.199Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-acuerdo-salarial-julio-2026-para-el-cct-781-20/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio Call Center: acuerdo salarial julio 2026 para el CCT 781/20",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-acuerdo-salarial-julio-2026-para-el-cct-781-20/",
-      "detectado": "2026-08-07T15:09:29.861Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15915-la-mesa-directiva-del-consejo-visito-el-gran-buenos-aires",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Mesa Directiva del Consejo visitó el Gran Buenos Aires",
-      "url": "https://www.cpba.com.ar/noticias/item/15915-la-mesa-directiva-del-consejo-visito-el-gran-buenos-aires",
-      "detectado": "2026-08-07T15:09:32.584Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15914-ahora-en-repro-automatizacion-en-estudios-contables-recuperar-tiempo-para-agregar-valor",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Automatización en estudios contables: Recuperar tiempo para agregar valor",
-      "url": "https://www.cpba.com.ar/noticias/item/15914-ahora-en-repro-automatizacion-en-estudios-contables-recuperar-tiempo-para-agregar-valor",
-      "detectado": "2026-08-07T15:09:32.584Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-caba-fue-2-9-julio-golpea-relato-milei-2026871175",
-      "sitio": "El Destape",
-      "titulo": "La inflación en CABA fue del 2,9% en julio y golpea el relato de Milei",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-caba-fue-2-9-julio-golpea-relato-milei-2026871175",
-      "detectado": "2026-08-07T15:09:33.956Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/uno-uno-senadores-le-dieron-media-sancion-ley-propiedad-privada-20268773649",
-      "sitio": "El Destape",
-      "titulo": "Uno por uno: los senadores que votaron la Ley de Propiedad Privada",
-      "url": "https://www.eldestapeweb.com/politica/uno-uno-senadores-le-dieron-media-sancion-ley-propiedad-privada-20268773649",
-      "detectado": "2026-08-07T15:09:33.956Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-colombia-senado-freno-desregulacion-sturzenegger-20268772941",
-      "sitio": "El Destape",
-      "titulo": "Visiblemente ofuscado, Milei llegó a Colombia tras la derrota en el Senado",
-      "url": "https://www.eldestapeweb.com/politica/milei-colombia-senado-freno-desregulacion-sturzenegger-20268772941",
-      "detectado": "2026-08-07T15:09:33.956Z"
     }
   ]
 }
