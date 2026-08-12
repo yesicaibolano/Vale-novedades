@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-12T15:29:57.322Z",
+  "actualizado": "2026-08-12T20:09:12.452Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA informó un nuevo mantenimiento en sus sistemas de facturación",
+      "url": "https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
+      "detectado": "2026-08-12T20:09:10.518Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-cambia-calculo-jubilaciones-quienes-cobraran-nueva-formula-2026812152752",
+      "sitio": "El Destape",
+      "titulo": "Milei cambia el cálculo jubilatorio, pero no les aumenta a los 7 millones ya jubilados",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-cambia-calculo-jubilaciones-quienes-cobraran-nueva-formula-2026812152752",
+      "detectado": "2026-08-12T20:09:11.931Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dos-jueces-amigos-mahiques-quedaron-paso-integrar-tribunal-clave-comodoro-py-2026812163518",
+      "sitio": "El Destape",
+      "titulo": "Dos jueces “amigos” de Mahiques, a un paso de integrar un tribunal clave de Comodoro Py",
+      "url": "https://www.eldestapeweb.com/politica/dos-jueces-amigos-mahiques-quedaron-paso-integrar-tribunal-clave-comodoro-py-2026812163518",
+      "detectado": "2026-08-12T20:09:11.931Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-08-12T20:09:11.931Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papelon-milei-quiso-colgar-messi-incentivo-retiro-2026812155348",
+      "sitio": "El Destape",
+      "titulo": "Papelón de Milei: se quiso colgar de Messi tras la carta a su padre",
+      "url": "https://www.eldestapeweb.com/politica/papelon-milei-quiso-colgar-messi-incentivo-retiro-2026812155348",
+      "detectado": "2026-08-12T20:09:11.931Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/cuidado-personal-crisis-productos-higiene-basica-argentinos-no-pueden-comprar-202681214332",
+      "sitio": "El Destape",
+      "titulo": "Cuidado personal en crisis: se desplomó el consumo de productos de higiene básica",
+      "url": "https://www.eldestapeweb.com/economia/cuidado-personal-crisis-productos-higiene-basica-argentinos-no-pueden-comprar-202681214332",
+      "detectado": "2026-08-12T20:09:11.931Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "Vivo | Funeral de Jorge Messi: último adiós de la familia y apoyo multitudinario",
       "url": "https://www.eldestapeweb.com/deportes/funeral-jorge-messi-vivo-ultimo-adios-familia-apoyo-multitudinario-2026899463",
       "detectado": "2026-08-09T14:05:17.682Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/comando-sur-quiere-asegurarse-agua-proyectos-ia-patagonia-202688174130",
-      "sitio": "El Destape",
-      "titulo": "Remate de recursos",
-      "url": "https://www.eldestapeweb.com/economia/comando-sur-quiere-asegurarse-agua-proyectos-ia-patagonia-202688174130",
-      "detectado": "2026-08-09T14:05:17.682Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-08-09T14:05:17.682Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/galperin-aprieta-deudores-mientras-tiene-ganancias-record-202688142111",
-      "sitio": "El Destape",
-      "titulo": "Familias endeudadas",
-      "url": "https://www.eldestapeweb.com/politica/galperin-aprieta-deudores-mientras-tiene-ganancias-record-202688142111",
-      "detectado": "2026-08-09T14:05:17.682Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/quien-tarado-202689050",
-      "sitio": "El Destape",
-      "titulo": "Caputo insulta a los industriales",
-      "url": "https://www.eldestapeweb.com/economia/quien-tarado-202689050",
-      "detectado": "2026-08-09T04:42:19.274Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/electorado-joven-aleja-milei-puede-inclinar-balanza-electoral-202689050",
-      "sitio": "El Destape",
-      "titulo": "El electorado joven se aleja de Milei y puede inclinar la balanza electoral",
-      "url": "https://www.eldestapeweb.com/politica/electorado-joven-aleja-milei-puede-inclinar-balanza-electoral-202689050",
-      "detectado": "2026-08-09T04:42:19.274Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-09T04:42:19.274Z"
     }
   ]
 }
