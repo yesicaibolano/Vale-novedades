@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-11T20:10:15.542Z",
+  "actualizado": "2026-08-12T05:19:53.362Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
+      "sitio": "El Destape",
+      "titulo": "Después de la catástrofe, LLA planifica el próximo temario para enviar al Senado",
+      "url": "https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
+      "detectado": "2026-08-12T05:19:52.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-12T05:19:52.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/telecom-telefonica-aparecio-comprador-necesitaba-clarin-202681123654",
+      "sitio": "El Destape",
+      "titulo": "Telecom-Telefónica: ¿apareció el comprador que necesitaba Clarín?",
+      "url": "https://www.eldestapeweb.com/politica/telecom-telefonica-aparecio-comprador-necesitaba-clarin-202681123654",
+      "detectado": "2026-08-12T05:19:52.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/uala-peor-todas-202681123730",
+      "sitio": "El Destape",
+      "titulo": "Qué revela el balance de la fintech y la morosidad",
+      "url": "https://www.eldestapeweb.com/economia/uala-peor-todas-202681123730",
+      "detectado": "2026-08-12T05:19:52.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-enfrenta-desafio-renovar-deuda-mayor-presion-dolar-202681121373",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno enfrenta el desafío de renovar deuda con mayor presión sobre el dólar",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-enfrenta-desafio-renovar-deuda-mayor-presion-dolar-202681121373",
+      "detectado": "2026-08-12T05:19:52.905Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
       "sitio": "CPBA (Buenos Aires)",
@@ -254,13 +289,6 @@
       "detectado": "2026-08-10T05:10:11.601Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-08-10T05:10:11.601Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/no-commerce-no-compensa-presencial-datos-desmienten-galperin-20268100527",
       "sitio": "El Destape",
       "titulo": "No, el e-commerce no compensa el presencial: los datos que desmienten a Galperin",
@@ -392,34 +420,6 @@
       "titulo": "La historia de Jorge Messi: quién fue el hombre clave en la carrera de Lionel",
       "url": "https://www.eldestapeweb.com/deportes/historia-jorge-messi-quien-fue-hombre-clave-carrera-lionel-messi-202688102429",
       "detectado": "2026-08-08T14:04:50.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/sanatorio-centro-confirmo-muerte-jorge-messi-comunicado-202688105647",
-      "sitio": "El Destape",
-      "titulo": "El Sanatorio Centro confirmó la muerte de Jorge Messi: el comunicado",
-      "url": "https://www.eldestapeweb.com/deportes/sanatorio-centro-confirmo-muerte-jorge-messi-comunicado-202688105647",
-      "detectado": "2026-08-08T14:04:50.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/asi-fue-ultima-aparicion-publica-jorge-messi-padre-lionel-messi-202688102338",
-      "sitio": "El Destape",
-      "titulo": "Así fue la última aparición pública de Jorge Messi, padre de Lionel Messi",
-      "url": "https://www.eldestapeweb.com/deportes/asi-fue-ultima-aparicion-publica-jorge-messi-padre-lionel-messi-202688102338",
-      "detectado": "2026-08-08T14:04:50.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/crisis-diplomatica",
-      "sitio": "El Destape",
-      "titulo": "Crisis Diplomática",
-      "url": "https://www.eldestapeweb.com/tag/crisis-diplomatica",
-      "detectado": "2026-08-08T03:59:46.398Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/brasil-mucho-socio-comercial-riesgos-economicos-escalada-milei-2026880527",
-      "sitio": "El Destape",
-      "titulo": "Brasil, mucho más que un socio comercial: los riesgos económicos de la escalada con Milei",
-      "url": "https://www.eldestapeweb.com/economia/brasil-mucho-socio-comercial-riesgos-economicos-escalada-milei-2026880527",
-      "detectado": "2026-08-08T03:59:46.398Z"
     }
   ]
 }
