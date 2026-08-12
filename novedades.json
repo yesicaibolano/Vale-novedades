@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-12T09:46:36.894Z",
+  "actualizado": "2026-08-12T15:29:57.322Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
+      "sitio": "Contadores en Red",
+      "titulo": "FAL Fondos de Asistencia Laboral ¿En que podrán invertirse los fondos?",
+      "url": "https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
+      "detectado": "2026-08-12T15:29:49.153Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/fondos-asistencia-laboral-pautas-inversion-fal-resolucion-1276-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Fondos de Asistencia Laboral: Economía fija las pautas de inversión de los recursos del FAL",
+      "url": "https://www.ignacioonline.com.ar/fondos-asistencia-laboral-pautas-inversion-fal-resolucion-1276-2026/",
+      "detectado": "2026-08-12T15:29:51.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-08-12T15:29:56.847Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-puso-duda-futuro-futbol-muerte-papa-no-creo-seguir-haciendolo-2026812101718",
+      "sitio": "El Destape",
+      "titulo": "Messi puso en duda su futuro en el fútbol tras la muerte de su papá: \"No creo seguir\"",
+      "url": "https://www.eldestapeweb.com/deportes/messi-puso-duda-futuro-futbol-muerte-papa-no-creo-seguir-haciendolo-2026812101718",
+      "detectado": "2026-08-12T15:29:56.847Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/reforma-laboral-gobierno-definio-hacer-plata-indemnizaciones-despido-202681211441",
+      "sitio": "El Destape",
+      "titulo": "Reforma laboral: el Gobierno habilitó invertir fondos de despido en deuda estatal",
+      "url": "https://www.eldestapeweb.com/economia/reforma-laboral-gobierno-definio-hacer-plata-indemnizaciones-despido-202681211441",
+      "detectado": "2026-08-12T15:29:56.847Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mineria-gobierno-elimino-monitoreo-ambiental-participacion-ciudadana-2026812101052",
+      "sitio": "El Destape",
+      "titulo": "Minería: el Gobierno eliminó el monitoreo ambiental y participación ciudadana",
+      "url": "https://www.eldestapeweb.com/politica/mineria-gobierno-elimino-monitoreo-ambiental-participacion-ciudadana-2026812101052",
+      "detectado": "2026-08-12T15:29:56.847Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/marcha-guinos-candidatos-cgt-busca-rumbo-mapa-electoral-202681294823",
+      "sitio": "El Destape",
+      "titulo": "Con marcha y guiños a candidatos, la CGT busca el rumbo en el mapa electoral",
+      "url": "https://www.eldestapeweb.com/politica/marcha-guinos-candidatos-cgt-busca-rumbo-mapa-electoral-202681294823",
+      "detectado": "2026-08-12T15:29:56.847Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Por Fernando Cibeira",
       "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-08-09T04:42:19.274Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/argentina-milei-arquitectura-neocolonialismo-20268821300",
-      "sitio": "El Destape",
-      "titulo": "Argentina o Milei: la arquitectura del neocolonialismo",
-      "url": "https://www.eldestapeweb.com/politica/argentina-milei-arquitectura-neocolonialismo-20268821300",
-      "detectado": "2026-08-09T04:42:19.274Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pais-remate-plan-pedir-trump-tropezo-calle-202688114612",
-      "sitio": "El Destape",
-      "titulo": "Relaciones carnales 2.0",
-      "url": "https://www.eldestapeweb.com/politica/pais-remate-plan-pedir-trump-tropezo-calle-202688114612",
-      "detectado": "2026-08-08T19:18:44.932Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/anuncio-afa-muerte-jorge-messi-medidas-partidos-futbol-argentino-20268812759",
-      "sitio": "El Destape",
-      "titulo": "El anuncio de última hora de AFA por la muerte de Jorge Messi",
-      "url": "https://www.eldestapeweb.com/deportes/anuncio-afa-muerte-jorge-messi-medidas-partidos-futbol-argentino-20268812759",
-      "detectado": "2026-08-08T19:18:44.932Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/mensajes-repercusiones-ultimas-noticias-muerte-papa-lionel-messi-20268812825",
-      "sitio": "El Destape",
-      "titulo": "Messi está volando a Rosario para dar el último adiós a su padre",
-      "url": "https://www.eldestapeweb.com/deportes/mensajes-repercusiones-ultimas-noticias-muerte-papa-lionel-messi-20268812825",
-      "detectado": "2026-08-08T19:18:44.932Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-08-08T14:04:50.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/murio-padre-lionel-messi-jorge-messi-68-anos-202688102034",
-      "sitio": "El Destape",
-      "titulo": "Murió el padre de Lionel Messi a los 68 años",
-      "url": "https://www.eldestapeweb.com/deportes/murio-padre-lionel-messi-jorge-messi-68-anos-202688102034",
-      "detectado": "2026-08-08T14:04:50.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/historia-jorge-messi-quien-fue-hombre-clave-carrera-lionel-messi-202688102429",
-      "sitio": "El Destape",
-      "titulo": "La historia de Jorge Messi: quién fue el hombre clave en la carrera de Lionel",
-      "url": "https://www.eldestapeweb.com/deportes/historia-jorge-messi-quien-fue-hombre-clave-carrera-lionel-messi-202688102429",
-      "detectado": "2026-08-08T14:04:50.162Z"
     }
   ]
 }
