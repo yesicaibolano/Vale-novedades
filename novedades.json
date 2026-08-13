@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-13T09:46:30.234Z",
+  "actualizado": "2026-08-13T15:32:03.142Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
+      "sitio": "Contadores en Red",
+      "titulo": "Proyecto de reglamentación para los Productos de Inversión Colectiva – Fondos de Asistencia Laboral (PIC FAL)",
+      "url": "https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
+      "detectado": "2026-08-13T15:31:57.940Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15917-queres-ir-al-encuentro-deportivo-nacional-la-caja-te-acompana",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "¿Querés ir al Encuentro Deportivo Nacional? La Caja te acompaña",
+      "url": "https://www.cpba.com.ar/noticias/item/15917-queres-ir-al-encuentro-deportivo-nacional-la-caja-te-acompana",
+      "detectado": "2026-08-13T15:32:01.226Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "DPPJ: Nuevo formulario para el Régimen Informativo Anual de sociedades extranjeras",
+      "url": "https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
+      "detectado": "2026-08-13T15:32:01.226Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/hoy-conoce-inflacion-julio-esperan-primera-suba-cuatro-meses-202681384520",
+      "sitio": "El Destape",
+      "titulo": "Hoy se conoce la inflación de julio: esperan la primera suba en cuatro meses",
+      "url": "https://www.eldestapeweb.com/economia/hoy-conoce-inflacion-julio-esperan-primera-suba-cuatro-meses-202681384520",
+      "detectado": "2026-08-13T15:32:02.573Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-volvio-atacar-adorni-dijo-no-sera-candidata-ciudad-hay-ser-realistas-2026813111757",
+      "sitio": "El Destape",
+      "titulo": "En la previa de la reunión LLA-PRO",
+      "url": "https://www.eldestapeweb.com/politica/bullrich-volvio-atacar-adorni-dijo-no-sera-candidata-ciudad-hay-ser-realistas-2026813111757",
+      "detectado": "2026-08-13T15:32:02.573Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-volvio-jugar-inter-miam-adios-padre-202681223824",
+      "sitio": "El Destape",
+      "titulo": "Messi volvió a jugar para el Inter Miami tras el adiós a su padre",
+      "url": "https://www.eldestapeweb.com/deportes/messi-volvio-jugar-inter-miam-adios-padre-202681223824",
+      "detectado": "2026-08-13T15:32:02.573Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-comercio-rama-cereales-acuerdo-salarial-julio-2026/",
       "sitio": "Ignacio Online",
@@ -378,48 +420,6 @@
       "titulo": "La Justicia pidió a Adorni explicaciones sobre su patrimonio: las claves del requerimiento",
       "url": "https://www.eldestapeweb.com/politica/justicia-pidio-adorni-explicaciones-patrimonio-claves-requerimiento-202681093325",
       "detectado": "2026-08-10T15:32:05.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-08-10T15:32:05.141Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uif-actualiza-el-regimen-de-prevencion-de-lavado-para-los-registros-de-la-propiedad-inmueble/",
-      "sitio": "Ignacio Online",
-      "titulo": "UIF actualiza el régimen de prevención de lavado para los Registros de la Propiedad Inmueble",
-      "url": "https://www.ignacioonline.com.ar/uif-actualiza-el-regimen-de-prevencion-de-lavado-para-los-registros-de-la-propiedad-inmueble/",
-      "detectado": "2026-08-10T10:39:52.273Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uta-acuerdo-salarial-julio-agosto-septiembre-2026-amba/",
-      "sitio": "Ignacio Online",
-      "titulo": "UTA: acuerdo salarial julio, agosto y septiembre 2026 para transporte de pasajeros AMBA",
-      "url": "https://www.ignacioonline.com.ar/uta-acuerdo-salarial-julio-agosto-septiembre-2026-amba/",
-      "detectado": "2026-08-10T10:39:52.273Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/pistola-cabeza-llegar-fin-mes-deuda-crece-barrios-populares-20268100527",
-      "sitio": "El Destape",
-      "titulo": "La “pistola en la cabeza” es llegar a fin de mes: la deuda crece en los barrios populares",
-      "url": "https://www.eldestapeweb.com/economia/pistola-cabeza-llegar-fin-mes-deuda-crece-barrios-populares-20268100527",
-      "detectado": "2026-08-10T05:10:11.601Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-08-10T05:10:11.601Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-detono-puentes-congreso-pone-riesgo-plan-milei-2027-20268100527",
-      "sitio": "El Destape",
-      "titulo": "LLA detonó sus puentes en el Congreso y pone en riesgo el plan Milei 2027",
-      "url": "https://www.eldestapeweb.com/politica/lla-detono-puentes-congreso-pone-riesgo-plan-milei-2027-20268100527",
-      "detectado": "2026-08-10T05:10:11.601Z"
     }
   ]
 }
