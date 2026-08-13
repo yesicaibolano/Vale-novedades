@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-13T15:32:03.142Z",
+  "actualizado": "2026-08-13T20:02:50.389Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-julio-volvio-ubicarse-encima-2-no-logra-romper-ese-piso-2026813161618",
+      "sitio": "El Destape",
+      "titulo": "La inflación de julio volvió a ubicarse por encima de 2% y no logra romper ese piso",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-julio-volvio-ubicarse-encima-2-no-logra-romper-ese-piso-2026813161618",
+      "detectado": "2026-08-13T20:02:49.918Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-no-competitiva-casi-mitad-insumos-caros-importarlos-2026813134935",
+      "sitio": "El Destape",
+      "titulo": "Argentina no es competitiva: casi la mitad de los insumos son más caros que importarlos",
+      "url": "https://www.eldestapeweb.com/economia/argentina-no-competitiva-casi-mitad-insumos-caros-importarlos-2026813134935",
+      "detectado": "2026-08-13T20:02:49.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-anuncio-prestamos-dolares-empresas-nego-ayuda-familias-endeudadas-202681316166",
+      "sitio": "El Destape",
+      "titulo": "Caputo anunció préstamos en dólares para empresas y negó ayuda a familias endeudadas",
+      "url": "https://www.eldestapeweb.com/economia/caputo-anuncio-prestamos-dolares-empresas-nego-ayuda-familias-endeudadas-202681316166",
+      "detectado": "2026-08-13T20:02:49.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/llamado-karina-macri-reunieron-libertarios-pro-debilidad-cogobierno-alianzas-202681315428",
+      "sitio": "El Destape",
+      "titulo": "Tras el llamado de Karina a Macri, se reunieron LLA y PRO: debilidad, cogobierno y alianza",
+      "url": "https://www.eldestapeweb.com/politica/llamado-karina-macri-reunieron-libertarios-pro-debilidad-cogobierno-alianzas-202681315428",
+      "detectado": "2026-08-13T20:02:49.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-13T20:02:49.919Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
       "sitio": "Contadores en Red",
@@ -385,41 +420,6 @@
       "titulo": "Lavado de activos: la UIF establece nuevas obligaciones para los Registros de la Propiedad Inmueble",
       "url": "https://contadoresenred.com/lavado-de-activos-la-uif-establece-nuevas-obligaciones-para-los-registros-de-la-propiedad-inmueble/",
       "detectado": "2026-08-10T15:31:51.967Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/xxiv-jornadas-nacionales-de-jovenes-profesionales-ia-y-ejercicio-profesional-en-corrientes/",
-      "sitio": "Ignacio Online",
-      "titulo": "XXIV Jornadas Nacionales de Jóvenes Profesionales: IA y ejercicio profesional en Corrientes",
-      "url": "https://www.ignacioonline.com.ar/xxiv-jornadas-nacionales-de-jovenes-profesionales-ia-y-ejercicio-profesional-en-corrientes/",
-      "detectado": "2026-08-10T15:31:52.838Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/flybondi-quiere-reconvertirse-sigue-pagarle-exempleados-2026810121231",
-      "sitio": "El Destape",
-      "titulo": "Flybondi quiere reconvertirse, pero sigue sin pagarle a sus exempleados",
-      "url": "https://www.eldestapeweb.com/economia/flybondi-quiere-reconvertirse-sigue-pagarle-exempleados-2026810121231",
-      "detectado": "2026-08-10T15:32:05.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/inedita-carta-conjunta-uefa-concacaf-asia-fifa-gianni-infantino-engano-202681010383",
-      "sitio": "El Destape",
-      "titulo": "Inédita carta conjunta de UEFA, Concacaf y Asia contra la FIFA: \"Engaño\"",
-      "url": "https://www.eldestapeweb.com/deportes/inedita-carta-conjunta-uefa-concacaf-asia-fifa-gianni-infantino-engano-202681010383",
-      "detectado": "2026-08-10T15:32:05.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-10T15:32:05.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/justicia-pidio-adorni-explicaciones-patrimonio-claves-requerimiento-202681093325",
-      "sitio": "El Destape",
-      "titulo": "La Justicia pidió a Adorni explicaciones sobre su patrimonio: las claves del requerimiento",
-      "url": "https://www.eldestapeweb.com/politica/justicia-pidio-adorni-explicaciones-patrimonio-claves-requerimiento-202681093325",
-      "detectado": "2026-08-10T15:32:05.141Z"
     }
   ]
 }
