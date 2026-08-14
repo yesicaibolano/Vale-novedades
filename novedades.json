@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-14T15:06:44.055Z",
+  "actualizado": "2026-08-14T20:00:19.705Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-acuerdo-salarial-2026-2027-valores-hora-imgr/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOM: acuerdo salarial 2026/2027 con nuevos valores hora, gratificaciones e ingreso mínimo",
+      "url": "https://www.ignacioonline.com.ar/uom-acuerdo-salarial-2026-2027-valores-hora-imgr/",
+      "detectado": "2026-08-14T20:00:12.853Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15926-ahora-en-repro-ddjj-de-ganancias-2025-el-dia-despues-de-la-prorroga",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | DDJJ de Ganancias 2025: El día después de la prórroga",
+      "url": "https://www.cpba.com.ar/noticias/item/15926-ahora-en-repro-ddjj-de-ganancias-2025-el-dia-despues-de-la-prorroga",
+      "detectado": "2026-08-14T20:00:17.248Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/familias-jovenes-rojo-sobreendeudadas-recurren-banco-provincia-cifra-record-mes-2026814142340",
+      "sitio": "El Destape",
+      "titulo": "Los sobreendeudados por Milei recurren al Banco Provincia: la cifra récord en un mes",
+      "url": "https://www.eldestapeweb.com/politica/familias-jovenes-rojo-sobreendeudadas-recurren-banco-provincia-cifra-record-mes-2026814142340",
+      "detectado": "2026-08-14T20:00:19.237Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/corte-suprema-emitio-fallo-macri-complico-milei-2026814135632",
+      "sitio": "El Destape",
+      "titulo": "La Corte Suprema emitió un fallo contra Macri y complicó a Milei",
+      "url": "https://www.eldestapeweb.com/politica/corte-suprema-emitio-fallo-macri-complico-milei-2026814135632",
+      "detectado": "2026-08-14T20:00:19.238Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
+      "sitio": "El Destape",
+      "titulo": "Creció la informalidad en el último año e impacta más a mujeres y jóvenes",
+      "url": "https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
+      "detectado": "2026-08-14T20:00:19.238Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-08-14T20:00:19.238Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-proyecta-alianza-pro-busca-calmar-frente-financiero-rumbo-2027-202681473152",
+      "sitio": "El Destape",
+      "titulo": "Carrió: \"Milei es un empleadito y bufón de Trump\"",
+      "url": "https://www.eldestapeweb.com/politica/milei-proyecta-alianza-pro-busca-calmar-frente-financiero-rumbo-2027-202681473152",
+      "detectado": "2026-08-14T20:00:19.238Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/pago-en-termino-ddjj-simplificada-ganancias-2025/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Qué necesito para que me autoricen facturas “A” y el perjuicio que implica la limitación al uso de “CBU”",
       "url": "https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
       "detectado": "2026-08-11T15:29:47.367Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/facturacion-y-cobro-de-prestaciones-sanitarias-a-personas-extranjeras-sin-residencia-permanente/",
-      "sitio": "Contadores en Red",
-      "titulo": "Facturación y cobro de prestaciones sanitarias a personas extranjeras sin residencia permanente",
-      "url": "https://contadoresenred.com/facturacion-y-cobro-de-prestaciones-sanitarias-a-personas-extranjeras-sin-residencia-permanente/",
-      "detectado": "2026-08-11T15:29:47.367Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15920-ahora-en-repro-como-saber-si-el-estudio-contable-crecio-mas-rapido-que-su-organizacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Cómo saber si el estudio contable creció más rápido que su…",
-      "url": "https://www.cpba.com.ar/noticias/item/15920-ahora-en-repro-como-saber-si-el-estudio-contable-crecio-mas-rapido-que-su-organizacion",
-      "detectado": "2026-08-11T15:29:50.989Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ravier-expuso-milei-campana-antiargentina-no-tengo-fuentes-2026811122611",
-      "sitio": "El Destape",
-      "titulo": "Ravier expuso a Milei por la campaña antiargentina: \"No tengo las fuentes\"",
-      "url": "https://www.eldestapeweb.com/politica/ravier-expuso-milei-campana-antiargentina-no-tengo-fuentes-2026811122611",
-      "detectado": "2026-08-11T15:29:53.558Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-reglamento-cobro-extranjeros-no-residentes-hospitales-nacionales-202681171522",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno cobrará a extranjeros el tratamiento en hospitales nacionales",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-reglamento-cobro-extranjeros-no-residentes-hospitales-nacionales-202681171522",
-      "detectado": "2026-08-11T15:29:53.558Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/fuerte-autocritica-di-carlo-marginados-river-error-2026811111418",
-      "sitio": "El Destape",
-      "titulo": "La fuerte autocrítica de Di Carlo por los marginados de River: \"Error\"",
-      "url": "https://www.eldestapeweb.com/deportes/fuerte-autocritica-di-carlo-marginados-river-error-2026811111418",
-      "detectado": "2026-08-11T15:29:53.558Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/martes-ucr-relanzo-provincia-donde-pro-apuesta-amplia-alianza-opositora-peronismo-2026810195259",
-      "sitio": "El Destape",
-      "titulo": "La UCR se relanzó en la Provincia, donde el PRO apuesta por una amplia alianza opositora",
-      "url": "https://www.eldestapeweb.com/politica/martes-ucr-relanzo-provincia-donde-pro-apuesta-amplia-alianza-opositora-peronismo-2026810195259",
-      "detectado": "2026-08-11T15:29:53.558Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
-      "sitio": "El Destape",
-      "titulo": "Mora: se acumulan los proyectos en el Congreso pero el oficialismo los frena",
-      "url": "https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
-      "detectado": "2026-08-11T04:49:59.642Z"
     }
   ]
 }
