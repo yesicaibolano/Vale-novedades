@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-13T20:02:50.389Z",
+  "actualizado": "2026-08-14T05:44:46.345Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/osdepym-renovo-su-sede-en-la-ciudad-de-cordoba/",
+      "sitio": "Ignacio Online",
+      "titulo": "OSDEPYM renovó su sede en la ciudad de Córdoba",
+      "url": "https://www.ignacioonline.com.ar/osdepym-renovo-su-sede-en-la-ciudad-de-cordoba/",
+      "detectado": "2026-08-14T05:44:40.496Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-milagro-vender-infinitamente-mismo-dolar-2026813185149",
+      "sitio": "El Destape",
+      "titulo": "Caputo y el milagro de vender infinitamente el mismo dólar",
+      "url": "https://www.eldestapeweb.com/economia/caputo-milagro-vender-infinitamente-mismo-dolar-2026813185149",
+      "detectado": "2026-08-14T05:44:45.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-08-14T05:44:45.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cumbre-sirvio-reinstalar-idea-unidad-peronismo-2026814055",
+      "sitio": "El Destape",
+      "titulo": "Una cumbre que sirvió para reinstalar la idea de la unidad del peronismo",
+      "url": "https://www.eldestapeweb.com/politica/cumbre-sirvio-reinstalar-idea-unidad-peronismo-2026814055",
+      "detectado": "2026-08-14T05:44:45.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/superavit-vaca-muerta-uso-dolarizacion-ahorro-pago-dividendos-2026813193923",
+      "sitio": "El Destape",
+      "titulo": "El superávit de Vaca Muerta se usó para la dolarización del ahorro y el pago de dividendos",
+      "url": "https://www.eldestapeweb.com/economia/superavit-vaca-muerta-uso-dolarizacion-ahorro-pago-dividendos-2026813193923",
+      "detectado": "2026-08-14T05:44:45.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-08-14T05:44:45.738Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-julio-volvio-ubicarse-encima-2-no-logra-romper-ese-piso-2026813161618",
       "sitio": "El Destape",
@@ -97,13 +139,6 @@
       "sitio": "El Destape",
       "titulo": "Desempleo estructural: 3 de cada 10 desocupados hace más de un año que busca empleo",
       "url": "https://www.eldestapeweb.com/economia/desempleo-estructural-3-cada-10-desocupados-hace-ano-busca-empleo-2026812184519",
-      "detectado": "2026-08-13T05:48:58.243Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
       "detectado": "2026-08-13T05:48:58.243Z"
     },
     {
@@ -359,13 +394,6 @@
       "detectado": "2026-08-11T04:49:59.643Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-08-11T04:49:59.643Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/maniobras-milei-respaldar-sturzenegger-medio-ruido-politico-karina-gabinete-2026810175450",
       "sitio": "El Destape",
       "titulo": "Tensión en el Gobierno",
@@ -392,34 +420,6 @@
       "titulo": "Fuerte sismo en Colombia: reportan 111 muertos y buscan personas entre los escombros",
       "url": "https://www.eldestapeweb.com/internacionales/fuerte-sismo-7-5-sacudio-colombia-2026810113739",
       "detectado": "2026-08-10T20:08:59.683Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/denunciaron-monteoliva-comisario-gauna-feroz-represion-frente-congreso-2026810142346",
-      "sitio": "El Destape",
-      "titulo": "Denuncian a Monteoliva y al comisario Gauna por la feroz represión frente al Congreso",
-      "url": "https://www.eldestapeweb.com/sociedad/denunciaron-monteoliva-comisario-gauna-feroz-represion-frente-congreso-2026810142346",
-      "detectado": "2026-08-10T20:08:59.683Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
-      "sitio": "El Destape",
-      "titulo": "La bandera argentina, la fuerza que se lleva puesto al gobierno de Milei",
-      "url": "https://www.eldestapeweb.com/politica/bandera-argentina-fuerza-lleva-puesto-gobierno-milei-202689050",
-      "detectado": "2026-08-10T20:08:59.683Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/xxiv-jornada-nacional-jovenes-profesionales-ciencias-economicas/",
-      "sitio": "Contadores en Red",
-      "titulo": "XXIV Jornada Nacional de Jóvenes Profesionales en Ciencias Económicas: Corrientes será sede de un nuevo encuentro federal.",
-      "url": "https://contadoresenred.com/xxiv-jornada-nacional-jovenes-profesionales-ciencias-economicas/",
-      "detectado": "2026-08-10T15:31:51.967Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/lavado-de-activos-la-uif-establece-nuevas-obligaciones-para-los-registros-de-la-propiedad-inmueble/",
-      "sitio": "Contadores en Red",
-      "titulo": "Lavado de activos: la UIF establece nuevas obligaciones para los Registros de la Propiedad Inmueble",
-      "url": "https://contadoresenred.com/lavado-de-activos-la-uif-establece-nuevas-obligaciones-para-los-registros-de-la-propiedad-inmueble/",
-      "detectado": "2026-08-10T15:31:51.967Z"
     }
   ]
 }
