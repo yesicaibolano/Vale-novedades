@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-14T09:39:41.364Z",
+  "actualizado": "2026-08-14T15:06:44.055Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/pago-en-termino-ddjj-simplificada-ganancias-2025/",
+      "sitio": "Contadores en Red",
+      "titulo": "Pago en término de la DDJJ Simplificada de Ganancias 2025",
+      "url": "https://contadoresenred.com/pago-en-termino-ddjj-simplificada-ganancias-2025/",
+      "detectado": "2026-08-14T15:06:38.771Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/osdepym-renueva-sede-cordoba/",
+      "sitio": "Contadores en Red",
+      "titulo": "OSDEPYM renueva su sede en la Provincia de Córdoba",
+      "url": "https://contadoresenred.com/osdepym-renueva-sede-cordoba/",
+      "detectado": "2026-08-14T15:06:38.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
+      "sitio": "El Destape",
+      "titulo": "Transporte público",
+      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
+      "detectado": "2026-08-14T15:06:43.732Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-amba-cantidad-pasajeros-colectivos-desplomo-19-agosto-202681485720",
+      "sitio": "El Destape",
+      "titulo": "Colectivos: la cantidad de pasajeros en el AMBA se desplomó un 19% en agosto",
+      "url": "https://www.eldestapeweb.com/economia/crisis-amba-cantidad-pasajeros-colectivos-desplomo-19-agosto-202681485720",
+      "detectado": "2026-08-14T15:06:43.732Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/hablo-trabajador-asistencia-suicidio-falta-trabajo-endeudamiento-problema-recurrente-202681411122",
+      "sitio": "El Destape",
+      "titulo": "Crisis social y salud mental",
+      "url": "https://www.eldestapeweb.com/sociedad/hablo-trabajador-asistencia-suicidio-falta-trabajo-endeudamiento-problema-recurrente-202681411122",
+      "detectado": "2026-08-14T15:06:43.732Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
+      "sitio": "El Destape",
+      "titulo": "Actividad económica",
+      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
+      "detectado": "2026-08-14T15:06:43.732Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crecio-cierre-empresas-mayo-30-000-menos-era-milei-202681411351",
+      "sitio": "El Destape",
+      "titulo": "Aumentó el cierre de empresas durante mayo y ya son 30.000 menos en la era Milei",
+      "url": "https://www.eldestapeweb.com/economia/crecio-cierre-empresas-mayo-30-000-menos-era-milei-202681411351",
+      "detectado": "2026-08-14T15:06:43.732Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/osdepym-renovo-su-sede-en-la-ciudad-de-cordoba/",
       "sitio": "Ignacio Online",
@@ -317,13 +366,6 @@
       "detectado": "2026-08-11T20:10:15.052Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-08-11T20:10:15.052Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
       "sitio": "Contadores en Red",
       "titulo": "Qué necesito para que me autoricen facturas “A” y el perjuicio que implica la limitación al uso de “CBU”",
@@ -378,48 +420,6 @@
       "titulo": "Mora: se acumulan los proyectos en el Congreso pero el oficialismo los frena",
       "url": "https://www.eldestapeweb.com/politica/mora-acumulan-proyectos-congreso-frena-libertad-avanza-2026810233413",
       "detectado": "2026-08-11T04:49:59.642Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-08-11T04:49:59.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-dice-pesos-estan-sospecha-timbea-bajar-tasa-2026810192052",
-      "sitio": "El Destape",
-      "titulo": "Caputo dice que los pesos están, pero se sospecha que los timbea para bajar la tasa",
-      "url": "https://www.eldestapeweb.com/economia/caputo-dice-pesos-estan-sospecha-timbea-bajar-tasa-2026810192052",
-      "detectado": "2026-08-11T04:49:59.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/maniobras-milei-respaldar-sturzenegger-medio-ruido-politico-karina-gabinete-2026810175450",
-      "sitio": "El Destape",
-      "titulo": "Tensión en el Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/maniobras-milei-respaldar-sturzenegger-medio-ruido-politico-karina-gabinete-2026810175450",
-      "detectado": "2026-08-11T04:49:59.643Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15919-la-comision-de-ambito-municipal-se-reunio-en-las-flores",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Comisión de Ámbito Municipal se reunió en Las Flores",
-      "url": "https://www.cpba.com.ar/noticias/item/15919-la-comision-de-ambito-municipal-se-reunio-en-las-flores",
-      "detectado": "2026-08-10T20:08:57.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-quiebras-crecen-concursos-consultas-empresas-crisis-202681014331",
-      "sitio": "El Destape",
-      "titulo": "Alerta por las quiebras: crecen los concursos y las consultas de empresas en crisis",
-      "url": "https://www.eldestapeweb.com/economia/alerta-quiebras-crecen-concursos-consultas-empresas-crisis-202681014331",
-      "detectado": "2026-08-10T20:08:59.683Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fuerte-sismo-7-5-sacudio-colombia-2026810113739",
-      "sitio": "El Destape",
-      "titulo": "Fuerte sismo en Colombia: reportan 111 muertos y buscan personas entre los escombros",
-      "url": "https://www.eldestapeweb.com/internacionales/fuerte-sismo-7-5-sacudio-colombia-2026810113739",
-      "detectado": "2026-08-10T20:08:59.683Z"
     }
   ]
 }
