@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-14T20:00:19.705Z",
+  "actualizado": "2026-08-15T03:02:07.090Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/diputada-denuncio-posible-compra-votos-gobierno-cambio-presupuesto-obras-viales-millonarias-2026814192057",
+      "sitio": "El Destape",
+      "titulo": "Diputada denunció posible “compra” de votos del gobierno por presupuesto para obras viales",
+      "url": "https://www.eldestapeweb.com/politica/diputada-denuncio-posible-compra-votos-gobierno-cambio-presupuesto-obras-viales-millonarias-2026814192057",
+      "detectado": "2026-08-15T03:02:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-08-15T03:02:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-acumulada-milei-seria-15-puntos-mayor-si-no-hubiese-intervenido-ipc-2026814173154",
+      "sitio": "El Destape",
+      "titulo": "La inflación acumulada con Milei sería 15 puntos mayor si no hubiese intervenido el IPC",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-acumulada-milei-seria-15-puntos-mayor-si-no-hubiese-intervenido-ipc-2026814173154",
+      "detectado": "2026-08-15T03:02:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-proyecta-recaudar-4600-millones-dolares-concepto-retenciones-agropecuarias-2026814183844",
+      "sitio": "El Destape",
+      "titulo": "Milei proyecta recaudar 4600 millones de dólares en concepto de retenciones agropecuarias",
+      "url": "https://www.eldestapeweb.com/economia/milei-proyecta-recaudar-4600-millones-dolares-concepto-retenciones-agropecuarias-2026814183844",
+      "detectado": "2026-08-15T03:02:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-08-15T03:02:06.571Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-acuerdo-salarial-2026-2027-valores-hora-imgr/",
       "sitio": "Ignacio Online",
@@ -132,13 +167,6 @@
       "sitio": "El Destape",
       "titulo": "El superávit de Vaca Muerta se usó para la dolarización del ahorro y el pago de dividendos",
       "url": "https://www.eldestapeweb.com/economia/superavit-vaca-muerta-uso-dolarizacion-ahorro-pago-dividendos-2026813193923",
-      "detectado": "2026-08-14T05:44:45.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
       "detectado": "2026-08-14T05:44:45.738Z"
     },
     {
@@ -275,13 +303,6 @@
       "detectado": "2026-08-12T20:09:11.931Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-08-12T20:09:11.931Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/papelon-milei-quiso-colgar-messi-incentivo-retiro-2026812155348",
       "sitio": "El Destape",
       "titulo": "Papelón de Milei: se quiso colgar de Messi tras la carta a su padre",
@@ -399,27 +420,6 @@
       "titulo": "Interna libertaria",
       "url": "https://www.eldestapeweb.com/tag/interna-libertaria",
       "detectado": "2026-08-11T20:10:15.052Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-bullrich-gobierno-derrota-senado-algunos-momentos-choca-2026811132446",
-      "sitio": "El Destape",
-      "titulo": "El alerta de Bullrich al Gobierno tras la derrota en Senado: \"En algunos momentos choca\"",
-      "url": "https://www.eldestapeweb.com/politica/alerta-bullrich-gobierno-derrota-senado-algunos-momentos-choca-2026811132446",
-      "detectado": "2026-08-11T20:10:15.052Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/terremoto-colombia-aumentan-224-muertos-temen-erupcion-volcan-2026811125315",
-      "sitio": "El Destape",
-      "titulo": "Terremoto en Colombia: aumentan a 240 muertos y temen por la erupción de un volcán",
-      "url": "https://www.eldestapeweb.com/internacionales/terremoto-colombia-aumentan-224-muertos-temen-erupcion-volcan-2026811125315",
-      "detectado": "2026-08-11T20:10:15.052Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
-      "sitio": "Contadores en Red",
-      "titulo": "Qué necesito para que me autoricen facturas “A” y el perjuicio que implica la limitación al uso de “CBU”",
-      "url": "https://contadoresenred.com/que-necesito-para-que-me-autoricen-facturas-a-y-el-perjuicio-que-implica-la-limitacion-al-uso-de-cbu/",
-      "detectado": "2026-08-11T15:29:47.367Z"
     }
   ]
 }
