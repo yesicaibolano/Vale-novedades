@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-08-15T13:20:11.025Z",
+  "actualizado": "2026-08-15T18:59:56.873Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/precarizados-baratos-descartables-auge-trabajador-basura-era-milei-202681512734",
+      "sitio": "El Destape",
+      "titulo": "La crisis del trabajo",
+      "url": "https://www.eldestapeweb.com/politica/precarizados-baratos-descartables-auge-trabajador-basura-era-milei-202681512734",
+      "detectado": "2026-08-15T18:59:56.369Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/buenos-aires-laboratorio-donde-pro-lla-ensayan-alianza-nacional-202681515110",
+      "sitio": "El Destape",
+      "titulo": "Buenos Aires: el laboratorio donde el PRO y LLA ensayan la alianza nacional",
+      "url": "https://www.eldestapeweb.com/politica/buenos-aires-laboratorio-donde-pro-lla-ensayan-alianza-nacional-202681515110",
+      "detectado": "2026-08-15T18:59:56.369Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-sigue-podio-inflacion-america-latina-pese-ajuste-milei-2026815134927",
+      "sitio": "El Destape",
+      "titulo": "La \"motosierra\" no alcanza",
+      "url": "https://www.eldestapeweb.com/economia/argentina-sigue-podio-inflacion-america-latina-pese-ajuste-milei-2026815134927",
+      "detectado": "2026-08-15T18:59:56.369Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/sonrie-arruabarrena-refuerzo-boca-esperaba-esta-paso-ser-parte-equipo-2026815121414",
+      "sitio": "El Destape",
+      "titulo": "El \"refuerzo\" que Boca esperaba está a un paso de ser parte del equipo",
+      "url": "https://www.eldestapeweb.com/deportes/sonrie-arruabarrena-refuerzo-boca-esperaba-esta-paso-ser-parte-equipo-2026815121414",
+      "detectado": "2026-08-15T18:59:56.369Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "sitio": "El Destape",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Después de la catástrofe, LLA planifica el próximo temario para enviar al Senado",
       "url": "https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
-      "detectado": "2026-08-12T05:19:52.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-08-12T05:19:52.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/telecom-telefonica-aparecio-comprador-necesitaba-clarin-202681123654",
-      "sitio": "El Destape",
-      "titulo": "Telecom-Telefónica: ¿apareció el comprador que necesitaba Clarín?",
-      "url": "https://www.eldestapeweb.com/politica/telecom-telefonica-aparecio-comprador-necesitaba-clarin-202681123654",
-      "detectado": "2026-08-12T05:19:52.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/uala-peor-todas-202681123730",
-      "sitio": "El Destape",
-      "titulo": "Qué revela el balance de la fintech y la morosidad",
-      "url": "https://www.eldestapeweb.com/economia/uala-peor-todas-202681123730",
-      "detectado": "2026-08-12T05:19:52.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-enfrenta-desafio-renovar-deuda-mayor-presion-dolar-202681121373",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno enfrenta el desafío de renovar deuda con mayor presión sobre el dólar",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-enfrenta-desafio-renovar-deuda-mayor-presion-dolar-202681121373",
       "detectado": "2026-08-12T05:19:52.905Z"
     }
   ]
