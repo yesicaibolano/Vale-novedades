@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-15T03:02:07.090Z",
+  "actualizado": "2026-08-15T07:18:41.389Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-08-15T07:18:40.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-encerrado-temor-dolar-paso-burlas-reunion-pj-20268150538",
+      "sitio": "El Destape",
+      "titulo": "Milei encerrado, temor por el “dólar PASO” y las burlas a la reunión del PJ",
+      "url": "https://www.eldestapeweb.com/politica/milei-encerrado-temor-dolar-paso-burlas-reunion-pj-20268150538",
+      "detectado": "2026-08-15T07:18:40.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-15T07:18:40.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
+      "sitio": "El Destape",
+      "titulo": "Ganar menos y pagar más: cómo el modelo de Milei recarga el peso sobre salarios y consumo",
+      "url": "https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
+      "detectado": "2026-08-15T07:18:40.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-15T07:18:40.922Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/diputada-denuncio-posible-compra-votos-gobierno-cambio-presupuesto-obras-viales-millonarias-2026814192057",
       "sitio": "El Destape",
@@ -69,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "Creció la informalidad en el último año e impacta más a mujeres y jóvenes",
       "url": "https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
-      "detectado": "2026-08-14T20:00:19.238Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-08-14T20:00:19.238Z"
     },
     {
@@ -195,13 +223,6 @@
       "sitio": "El Destape",
       "titulo": "Tras el llamado de Karina a Macri, se reunieron LLA y PRO: debilidad, cogobierno y alianza",
       "url": "https://www.eldestapeweb.com/politica/llamado-karina-macri-reunieron-libertarios-pro-debilidad-cogobierno-alianzas-202681315428",
-      "detectado": "2026-08-13T20:02:49.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-08-13T20:02:49.919Z"
     },
     {
@@ -399,27 +420,6 @@
       "titulo": "El Gobierno enfrenta el desafío de renovar deuda con mayor presión sobre el dólar",
       "url": "https://www.eldestapeweb.com/economia/gobierno-enfrenta-desafio-renovar-deuda-mayor-presion-dolar-202681121373",
       "detectado": "2026-08-12T05:19:52.905Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
-      "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "detectado": "2026-08-11T20:10:13.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-santilli-intentaron-domesticar-sturzenegger-reunion-tensa-trazo-objetivo-maximo-gobierno-suspender-paso-2027-2026811165417",
-      "sitio": "El Destape",
-      "titulo": "Karina y Santilli intentaron \"domesticar\" a Sturzenegger en una reunión tensa",
-      "url": "https://www.eldestapeweb.com/politica/karina-santilli-intentaron-domesticar-sturzenegger-reunion-tensa-trazo-objetivo-maximo-gobierno-suspender-paso-2027-2026811165417",
-      "detectado": "2026-08-11T20:10:15.052Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/interna-libertaria",
-      "sitio": "El Destape",
-      "titulo": "Interna libertaria",
-      "url": "https://www.eldestapeweb.com/tag/interna-libertaria",
-      "detectado": "2026-08-11T20:10:15.052Z"
     }
   ]
 }
