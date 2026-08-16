@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-08-16T13:40:52.569Z",
+  "actualizado": "2026-08-16T19:00:05.920Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dia-nino-ventas-cayeron-2-5-consumo-sigue-estancado-2026816143541",
+      "sitio": "El Destape",
+      "titulo": "Día del Niño: las ventas cayeron 2,5% y el consumo sigue estancado",
+      "url": "https://www.eldestapeweb.com/economia/dia-nino-ventas-cayeron-2-5-consumo-sigue-estancado-2026816143541",
+      "detectado": "2026-08-16T19:00:05.508Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
       "sitio": "El Destape",
@@ -413,13 +420,6 @@
       "titulo": "Cuidado personal en crisis: se desplomó el consumo de productos de higiene básica",
       "url": "https://www.eldestapeweb.com/economia/cuidado-personal-crisis-productos-higiene-basica-argentinos-no-pueden-comprar-202681214332",
       "detectado": "2026-08-12T20:09:11.931Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
-      "sitio": "Contadores en Red",
-      "titulo": "FAL Fondos de Asistencia Laboral ¿En que podrán invertirse los fondos?",
-      "url": "https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
-      "detectado": "2026-08-12T15:29:49.153Z"
     }
   ]
 }
