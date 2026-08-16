@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-16T07:20:49.450Z",
+  "actualizado": "2026-08-16T13:40:52.569Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
+      "sitio": "El Destape",
+      "titulo": "La disputa por el centro político que seduce en las encuestas y fracasa en las urnas",
+      "url": "https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
+      "detectado": "2026-08-16T13:40:52.054Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-16T13:40:52.055Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/2623-uom-acordo-nuevos-basicos-y-sumas-no-remunerativas-periodo-abril-26-a-abril-27.html",
       "sitio": "Jorge Vega",
@@ -406,20 +420,6 @@
       "titulo": "FAL Fondos de Asistencia Laboral ¿En que podrán invertirse los fondos?",
       "url": "https://contadoresenred.com/fal-fondos-de-asistencia-laboral-en-que-podran-invertirse-los-fondos/",
       "detectado": "2026-08-12T15:29:49.153Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fondos-asistencia-laboral-pautas-inversion-fal-resolucion-1276-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Fondos de Asistencia Laboral: Economía fija las pautas de inversión de los recursos del FAL",
-      "url": "https://www.ignacioonline.com.ar/fondos-asistencia-laboral-pautas-inversion-fal-resolucion-1276-2026/",
-      "detectado": "2026-08-12T15:29:51.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-08-12T15:29:56.847Z"
     }
   ]
 }
