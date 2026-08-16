@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-15T18:59:56.873Z",
+  "actualizado": "2026-08-16T03:15:25.382Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2623-uom-acordo-nuevos-basicos-y-sumas-no-remunerativas-periodo-abril-26-a-abril-27.html",
+      "sitio": "Jorge Vega",
+      "titulo": "UOM acordó nuevos básicos y sumas no remunerativas (Período Abril/26 a Abril/27)",
+      "url": "https://jorgevega.com.ar/laboral/2623-uom-acordo-nuevos-basicos-y-sumas-no-remunerativas-periodo-abril-26-a-abril-27.html",
+      "detectado": "2026-08-16T03:15:19.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/manzano-magnetto-s-monopolio-millones-ajustados-no-tienen-opcion-20268160511",
+      "sitio": "El Destape",
+      "titulo": "Manzano y Magnetto S.A, el monopolio sobre millones de ajustados que no tienen opción",
+      "url": "https://www.eldestapeweb.com/politica/manzano-magnetto-s-monopolio-millones-ajustados-no-tienen-opcion-20268160511",
+      "detectado": "2026-08-16T03:15:24.802Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/big-mac-revela-problema-dolar-milei-20268160510",
+      "sitio": "El Destape",
+      "titulo": "Atraso cambiario y presión devaluatoria",
+      "url": "https://www.eldestapeweb.com/economia/big-mac-revela-problema-dolar-milei-20268160510",
+      "detectado": "2026-08-16T03:15:24.802Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/salarios-miedo-20268160511",
+      "sitio": "El Destape",
+      "titulo": "Los salarios del miedo",
+      "url": "https://www.eldestapeweb.com/opinion/salarios-miedo-20268160511",
+      "detectado": "2026-08-16T03:15:24.802Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-08-16T03:15:24.802Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/insiders-plan-garantizar-rumbo-alla-2027-202681521459",
+      "sitio": "El Destape",
+      "titulo": "Panorama electoral",
+      "url": "https://www.eldestapeweb.com/politica/insiders-plan-garantizar-rumbo-alla-2027-202681521459",
+      "detectado": "2026-08-16T03:15:24.802Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/precarizados-baratos-descartables-auge-trabajador-basura-era-milei-202681512734",
       "sitio": "El Destape",
@@ -324,13 +366,6 @@
       "detectado": "2026-08-13T05:48:58.243Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-08-13T05:48:58.243Z"
-    },
-    {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
       "sitio": "CPBA (Buenos Aires)",
       "titulo": "ARCA informó un nuevo mantenimiento en sus sistemas de facturación",
@@ -385,41 +420,6 @@
       "titulo": "Selección Argentina",
       "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
       "detectado": "2026-08-12T15:29:56.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-puso-duda-futuro-futbol-muerte-papa-no-creo-seguir-haciendolo-2026812101718",
-      "sitio": "El Destape",
-      "titulo": "Messi puso en duda su futuro en el fútbol tras la muerte de su papá: \"No creo seguir\"",
-      "url": "https://www.eldestapeweb.com/deportes/messi-puso-duda-futuro-futbol-muerte-papa-no-creo-seguir-haciendolo-2026812101718",
-      "detectado": "2026-08-12T15:29:56.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/reforma-laboral-gobierno-definio-hacer-plata-indemnizaciones-despido-202681211441",
-      "sitio": "El Destape",
-      "titulo": "Reforma laboral: el Gobierno habilitó invertir fondos de despido en deuda estatal",
-      "url": "https://www.eldestapeweb.com/economia/reforma-laboral-gobierno-definio-hacer-plata-indemnizaciones-despido-202681211441",
-      "detectado": "2026-08-12T15:29:56.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mineria-gobierno-elimino-monitoreo-ambiental-participacion-ciudadana-2026812101052",
-      "sitio": "El Destape",
-      "titulo": "Minería: el Gobierno eliminó el monitoreo ambiental y participación ciudadana",
-      "url": "https://www.eldestapeweb.com/politica/mineria-gobierno-elimino-monitoreo-ambiental-participacion-ciudadana-2026812101052",
-      "detectado": "2026-08-12T15:29:56.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/marcha-guinos-candidatos-cgt-busca-rumbo-mapa-electoral-202681294823",
-      "sitio": "El Destape",
-      "titulo": "Con marcha y guiños a candidatos, la CGT busca el rumbo en el mapa electoral",
-      "url": "https://www.eldestapeweb.com/politica/marcha-guinos-candidatos-cgt-busca-rumbo-mapa-electoral-202681294823",
-      "detectado": "2026-08-12T15:29:56.847Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
-      "sitio": "El Destape",
-      "titulo": "Después de la catástrofe, LLA planifica el próximo temario para enviar al Senado",
-      "url": "https://www.eldestapeweb.com/politica/despues-catastrofe-lla-planifica-proximo-temario-enviar-senado-2026811201137",
-      "detectado": "2026-08-12T05:19:52.905Z"
     }
   ]
 }
