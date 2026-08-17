@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-17T08:06:40.630Z",
+  "actualizado": "2026-08-17T13:56:11.212Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/exclusivo-secretaria-malvinas-argentina-trabaja-formar-cuadros-ingleses-202681710254",
+      "sitio": "El Destape",
+      "titulo": "Exclusivo: La secretaria de Malvinas argentina trabaja para formar cuadros ingleses",
+      "url": "https://www.eldestapeweb.com/politica/exclusivo-secretaria-malvinas-argentina-trabaja-formar-cuadros-ingleses-202681710254",
+      "detectado": "2026-08-17T13:56:10.822Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-08-17T13:56:10.822Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/desigualdad-regional",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "Desempleo estructural: 3 de cada 10 desocupados hace más de un año que busca empleo",
       "url": "https://www.eldestapeweb.com/economia/desempleo-estructural-3-cada-10-desocupados-hace-ano-busca-empleo-2026812184519",
       "detectado": "2026-08-13T05:48:58.243Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/auge-rentistas-miseria-trabajadores-2026812225448",
-      "sitio": "El Destape",
-      "titulo": "El auge de los rentistas y la miseria de los trabajadores",
-      "url": "https://www.eldestapeweb.com/opinion/auge-rentistas-miseria-trabajadores-2026812225448",
-      "detectado": "2026-08-13T05:48:58.243Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "ARCA informó un nuevo mantenimiento en sus sistemas de facturación",
-      "url": "https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
-      "detectado": "2026-08-12T20:09:10.518Z"
     }
   ]
 }
