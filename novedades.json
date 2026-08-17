@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-16T19:00:05.920Z",
+  "actualizado": "2026-08-17T03:15:40.333Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/desigualdad-regional",
+      "sitio": "El Destape",
+      "titulo": "Desigualdad Regional",
+      "url": "https://www.eldestapeweb.com/tag/desigualdad-regional",
+      "detectado": "2026-08-17T03:15:39.909Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mapa-desigualdad-cambio-desempeno-productivo-provincias-milei-2026817058",
+      "sitio": "El Destape",
+      "titulo": "Mapa de la desigualdad: el cambio del desempeño productivo de las provincias con Milei",
+      "url": "https://www.eldestapeweb.com/economia/mapa-desigualdad-cambio-desempeno-productivo-provincias-milei-2026817058",
+      "detectado": "2026-08-17T03:15:39.909Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-17T03:15:39.909Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/arranco-rosca-electoral-libertad-avanza-sigue-congreso-empantanado-2026817058",
+      "sitio": "El Destape",
+      "titulo": "Arrancó la rosca electoral y La Libertad Avanza sigue con un Congreso empantanado",
+      "url": "https://www.eldestapeweb.com/politica/arranco-rosca-electoral-libertad-avanza-sigue-congreso-empantanado-2026817058",
+      "detectado": "2026-08-17T03:15:39.909Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-17T03:15:39.909Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/dia-nino-ventas-cayeron-2-5-consumo-sigue-estancado-2026816143541",
       "sitio": "El Destape",
@@ -118,13 +153,6 @@
       "sitio": "El Destape",
       "titulo": "Ganar menos y pagar más: cómo el modelo de Milei recarga el peso sobre salarios y consumo",
       "url": "https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
-      "detectado": "2026-08-15T07:18:40.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-08-15T07:18:40.922Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "ARCA informó un nuevo mantenimiento en sus sistemas de facturación",
       "url": "https://www.cpba.com.ar/noticias/item/15921-arca-informo-un-nuevo-mantenimiento-en-sus-sistemas-de-facturacion",
       "detectado": "2026-08-12T20:09:10.518Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-cambia-calculo-jubilaciones-quienes-cobraran-nueva-formula-2026812152752",
-      "sitio": "El Destape",
-      "titulo": "Milei cambia el cálculo jubilatorio, pero no les aumenta a los 7 millones ya jubilados",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-cambia-calculo-jubilaciones-quienes-cobraran-nueva-formula-2026812152752",
-      "detectado": "2026-08-12T20:09:11.931Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dos-jueces-amigos-mahiques-quedaron-paso-integrar-tribunal-clave-comodoro-py-2026812163518",
-      "sitio": "El Destape",
-      "titulo": "Dos jueces “amigos” de Mahiques, a un paso de integrar un tribunal clave de Comodoro Py",
-      "url": "https://www.eldestapeweb.com/politica/dos-jueces-amigos-mahiques-quedaron-paso-integrar-tribunal-clave-comodoro-py-2026812163518",
-      "detectado": "2026-08-12T20:09:11.931Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papelon-milei-quiso-colgar-messi-incentivo-retiro-2026812155348",
-      "sitio": "El Destape",
-      "titulo": "Papelón de Milei: se quiso colgar de Messi tras la carta a su padre",
-      "url": "https://www.eldestapeweb.com/politica/papelon-milei-quiso-colgar-messi-incentivo-retiro-2026812155348",
-      "detectado": "2026-08-12T20:09:11.931Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cuidado-personal-crisis-productos-higiene-basica-argentinos-no-pueden-comprar-202681214332",
-      "sitio": "El Destape",
-      "titulo": "Cuidado personal en crisis: se desplomó el consumo de productos de higiene básica",
-      "url": "https://www.eldestapeweb.com/economia/cuidado-personal-crisis-productos-higiene-basica-argentinos-no-pueden-comprar-202681214332",
-      "detectado": "2026-08-12T20:09:11.931Z"
     }
   ]
 }
