@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-18T14:01:57.598Z",
+  "actualizado": "2026-08-18T19:17:50.421Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15932-facpce-solicito-a-arca-una-nueva-prorroga-para-la-presentacion-de-ganancias-2025",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "FACPCE solicitó a ARCA una nueva prórroga para la presentación de Ganancias 2025",
+      "url": "https://www.cpba.com.ar/noticias/item/15932-facpce-solicito-a-arca-una-nueva-prorroga-para-la-presentacion-de-ganancias-2025",
+      "detectado": "2026-08-18T19:17:48.474Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15929-ahora-en-repro-honorarios-profesionales-cuanto-vale-mi-trabajo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Honorarios profesionales: ¿Cuánto vale mi trabajo?",
+      "url": "https://www.cpba.com.ar/noticias/item/15929-ahora-en-repro-honorarios-profesionales-cuanto-vale-mi-trabajo",
+      "detectado": "2026-08-18T19:17:48.475Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15930-el-comite-de-jovenes-participo-de-una-nueva-jornada-de-la-dirigencia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Comité de Jóvenes participó de una nueva Jornada de la Dirigencia",
+      "url": "https://www.cpba.com.ar/noticias/item/15930-el-comite-de-jovenes-participo-de-una-nueva-jornada-de-la-dirigencia",
+      "detectado": "2026-08-18T19:17:48.475Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-4-cada-10-chicos-argentinos-no-pueden-acceder-ropa-calzado-falta-dinero-202681814596",
+      "sitio": "El Destape",
+      "titulo": "Casi 4 de cada 10 chicos argentinos no pueden acceder a ropa o calzado por falta de dinero",
+      "url": "https://www.eldestapeweb.com/economia/casi-4-cada-10-chicos-argentinos-no-pueden-acceder-ropa-calzado-falta-dinero-202681814596",
+      "detectado": "2026-08-18T19:17:49.888Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dilema-gobierno-paso-apurar-gobernadores-tranquilizar-mercados-2026818154114",
+      "sitio": "El Destape",
+      "titulo": "El dilema de Milei por las PASO: apurar a los gobernadores o tranquilizar a los mercados",
+      "url": "https://www.eldestapeweb.com/politica/dilema-gobierno-paso-apurar-gobernadores-tranquilizar-mercados-2026818154114",
+      "detectado": "2026-08-18T19:17:49.888Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-18T19:17:49.888Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/ley-de-financiamiento-universitario",
+      "sitio": "El Destape",
+      "titulo": "Ley de Financiamiento Universitario",
+      "url": "https://www.eldestapeweb.com/tag/ley-de-financiamiento-universitario",
+      "detectado": "2026-08-18T19:17:49.888Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nuevo-paro-semana-recrudece-conflicto-universidades-gobierno-nacional-2026818141522",
+      "sitio": "El Destape",
+      "titulo": "Con un paro de una semana recrudece el conflicto de las universidades con el Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/nuevo-paro-semana-recrudece-conflicto-universidades-gobierno-nacional-2026818141522",
+      "detectado": "2026-08-18T19:17:49.888Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/autonomos-agosto-2026-cuanto-se-paga-por-categoria-a-partir-del-15-8-2026/",
       "sitio": "Contadores en Red",
@@ -289,13 +345,6 @@
       "detectado": "2026-08-15T07:18:40.922Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-08-15T07:18:40.922Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
       "sitio": "El Destape",
       "titulo": "Ganar menos y pagar más: cómo el modelo de Milei recarga el peso sobre salarios y consumo",
@@ -371,55 +420,6 @@
       "titulo": "Creció la informalidad en el último año e impacta más a mujeres y jóvenes",
       "url": "https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
       "detectado": "2026-08-14T20:00:19.238Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-proyecta-alianza-pro-busca-calmar-frente-financiero-rumbo-2027-202681473152",
-      "sitio": "El Destape",
-      "titulo": "Carrió: \"Milei es un empleadito y bufón de Trump\"",
-      "url": "https://www.eldestapeweb.com/politica/milei-proyecta-alianza-pro-busca-calmar-frente-financiero-rumbo-2027-202681473152",
-      "detectado": "2026-08-14T20:00:19.238Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/pago-en-termino-ddjj-simplificada-ganancias-2025/",
-      "sitio": "Contadores en Red",
-      "titulo": "Pago en término de la DDJJ Simplificada de Ganancias 2025",
-      "url": "https://contadoresenred.com/pago-en-termino-ddjj-simplificada-ganancias-2025/",
-      "detectado": "2026-08-14T15:06:38.771Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/osdepym-renueva-sede-cordoba/",
-      "sitio": "Contadores en Red",
-      "titulo": "OSDEPYM renueva su sede en la Provincia de Córdoba",
-      "url": "https://contadoresenred.com/osdepym-renueva-sede-cordoba/",
-      "detectado": "2026-08-14T15:06:38.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-amba-cantidad-pasajeros-colectivos-desplomo-19-agosto-202681485720",
-      "sitio": "El Destape",
-      "titulo": "Colectivos: la cantidad de pasajeros en el AMBA se desplomó un 19% en agosto",
-      "url": "https://www.eldestapeweb.com/economia/crisis-amba-cantidad-pasajeros-colectivos-desplomo-19-agosto-202681485720",
-      "detectado": "2026-08-14T15:06:43.732Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/hablo-trabajador-asistencia-suicidio-falta-trabajo-endeudamiento-problema-recurrente-202681411122",
-      "sitio": "El Destape",
-      "titulo": "Crisis social y salud mental",
-      "url": "https://www.eldestapeweb.com/sociedad/hablo-trabajador-asistencia-suicidio-falta-trabajo-endeudamiento-problema-recurrente-202681411122",
-      "detectado": "2026-08-14T15:06:43.732Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-08-14T15:06:43.732Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crecio-cierre-empresas-mayo-30-000-menos-era-milei-202681411351",
-      "sitio": "El Destape",
-      "titulo": "Aumentó el cierre de empresas durante mayo y ya son 30.000 menos en la era Milei",
-      "url": "https://www.eldestapeweb.com/economia/crecio-cierre-empresas-mayo-30-000-menos-era-milei-202681411351",
-      "detectado": "2026-08-14T15:06:43.732Z"
     }
   ]
 }
