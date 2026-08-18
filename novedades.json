@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-08-18T07:57:38.442Z",
+  "actualizado": "2026-08-18T14:01:57.598Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/autonomos-agosto-2026-cuanto-se-paga-por-categoria-a-partir-del-15-8-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Autónomos Agosto 2026. ¿Cuánto se paga por categoría a partir del 15-8-2026?",
+      "url": "https://contadoresenred.com/autonomos-agosto-2026-cuanto-se-paga-por-categoria-a-partir-del-15-8-2026/",
+      "detectado": "2026-08-18T14:01:49.653Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-julio-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ajuste por Inflación contable e impositivo. Índices Julio 2026.",
+      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-julio-2026/",
+      "detectado": "2026-08-18T14:01:49.653Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/convenio-multilateral-limites-a-la-aplicacion-del-regimen-especial-del-art-11-para-los-intermediarios/",
+      "sitio": "Contadores en Red",
+      "titulo": "Convenio Multilateral. Límites a la aplicación del Régimen Especial del Art. 11 para los intermediarios",
+      "url": "https://contadoresenred.com/convenio-multilateral-limites-a-la-aplicacion-del-regimen-especial-del-art-11-para-los-intermediarios/",
+      "detectado": "2026-08-18T14:01:49.653Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/las-cuentas-sueldo-quedan-alcanzadas-por-el-regimen-de-intercambio-automatico-de-informacion-relativo-a-cuentas-financieras/",
+      "sitio": "Contadores en Red",
+      "titulo": "Las Cuentas Sueldo quedan alcanzadas por el Régimen de Intercambio Automático de Información relativo a cuentas financieras.",
+      "url": "https://contadoresenred.com/las-cuentas-sueldo-quedan-alcanzadas-por-el-regimen-de-intercambio-automatico-de-informacion-relativo-a-cuentas-financieras/",
+      "detectado": "2026-08-18T14:01:49.653Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-agosto.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Autónomos y dependientes: Categorías, aportes y topes - AGOSTO 2026",
+      "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-agosto.html",
+      "detectado": "2026-08-18T14:01:50.029Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/convenio-multilateral-comision-arbitral-aclara-el-regimen-para-intermediarios-del-articulo-11/",
+      "sitio": "Ignacio Online",
+      "titulo": "Convenio Multilateral: Comisión Arbitral aclara el régimen para intermediarios del artículo 11",
+      "url": "https://www.ignacioonline.com.ar/convenio-multilateral-comision-arbitral-aclara-el-regimen-para-intermediarios-del-articulo-11/",
+      "detectado": "2026-08-18T14:01:52.344Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-modifica-el-regimen-de-intercambio-automatico-de-informacion-sobre-cuentas-financieras/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA modifica el régimen de intercambio automático de información sobre cuentas financieras",
+      "url": "https://www.ignacioonline.com.ar/arca-modifica-el-regimen-de-intercambio-automatico-de-informacion-sobre-cuentas-financieras/",
+      "detectado": "2026-08-18T14:01:52.344Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/privatizacion-ferroviaria-milei-cambia-rigi-pedido-empresa-202681884740",
+      "sitio": "El Destape",
+      "titulo": "Privatización ferroviaria: Milei cambia el RIGI a pedido de una empresa",
+      "url": "https://www.eldestapeweb.com/economia/privatizacion-ferroviaria-milei-cambia-rigi-pedido-empresa-202681884740",
+      "detectado": "2026-08-18T14:01:57.096Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/detienen-fernando-cerimedo-bolivia-atentado-activista-nadia-beller-202681891011",
+      "sitio": "El Destape",
+      "titulo": "Ataque en Santa Cruz de la Sierra",
+      "url": "https://www.eldestapeweb.com/politica/detienen-fernando-cerimedo-bolivia-atentado-activista-nadia-beller-202681891011",
+      "detectado": "2026-08-18T14:01:57.096Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-amplio-secreto-militar-salida-armamento-militar-20268189319",
+      "sitio": "El Destape",
+      "titulo": "Más opacidad en Defensa",
+      "url": "https://www.eldestapeweb.com/politica/milei-amplio-secreto-militar-salida-armamento-militar-20268189319",
+      "detectado": "2026-08-18T14:01:57.096Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/posicionamientos-paso-tercera-via-tablero-politico-reordena-camino-elecciones-2026817235828",
       "sitio": "El Destape",
@@ -350,76 +420,6 @@
       "titulo": "Aumentó el cierre de empresas durante mayo y ya son 30.000 menos en la era Milei",
       "url": "https://www.eldestapeweb.com/economia/crecio-cierre-empresas-mayo-30-000-menos-era-milei-202681411351",
       "detectado": "2026-08-14T15:06:43.732Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/osdepym-renovo-su-sede-en-la-ciudad-de-cordoba/",
-      "sitio": "Ignacio Online",
-      "titulo": "OSDEPYM renovó su sede en la ciudad de Córdoba",
-      "url": "https://www.ignacioonline.com.ar/osdepym-renovo-su-sede-en-la-ciudad-de-cordoba/",
-      "detectado": "2026-08-14T05:44:40.496Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-milagro-vender-infinitamente-mismo-dolar-2026813185149",
-      "sitio": "El Destape",
-      "titulo": "Caputo y el milagro de vender infinitamente el mismo dólar",
-      "url": "https://www.eldestapeweb.com/economia/caputo-milagro-vender-infinitamente-mismo-dolar-2026813185149",
-      "detectado": "2026-08-14T05:44:45.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-08-14T05:44:45.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cumbre-sirvio-reinstalar-idea-unidad-peronismo-2026814055",
-      "sitio": "El Destape",
-      "titulo": "Una cumbre que sirvió para reinstalar la idea de la unidad del peronismo",
-      "url": "https://www.eldestapeweb.com/politica/cumbre-sirvio-reinstalar-idea-unidad-peronismo-2026814055",
-      "detectado": "2026-08-14T05:44:45.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/superavit-vaca-muerta-uso-dolarizacion-ahorro-pago-dividendos-2026813193923",
-      "sitio": "El Destape",
-      "titulo": "El superávit de Vaca Muerta se usó para la dolarización del ahorro y el pago de dividendos",
-      "url": "https://www.eldestapeweb.com/economia/superavit-vaca-muerta-uso-dolarizacion-ahorro-pago-dividendos-2026813193923",
-      "detectado": "2026-08-14T05:44:45.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-julio-volvio-ubicarse-encima-2-no-logra-romper-ese-piso-2026813161618",
-      "sitio": "El Destape",
-      "titulo": "La inflación de julio volvió a ubicarse por encima de 2% y no logra romper ese piso",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-julio-volvio-ubicarse-encima-2-no-logra-romper-ese-piso-2026813161618",
-      "detectado": "2026-08-13T20:02:49.918Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-no-competitiva-casi-mitad-insumos-caros-importarlos-2026813134935",
-      "sitio": "El Destape",
-      "titulo": "Argentina no es competitiva: casi la mitad de los insumos son más caros que importarlos",
-      "url": "https://www.eldestapeweb.com/economia/argentina-no-competitiva-casi-mitad-insumos-caros-importarlos-2026813134935",
-      "detectado": "2026-08-13T20:02:49.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-anuncio-prestamos-dolares-empresas-nego-ayuda-familias-endeudadas-202681316166",
-      "sitio": "El Destape",
-      "titulo": "Caputo anunció préstamos en dólares para empresas y negó ayuda a familias endeudadas",
-      "url": "https://www.eldestapeweb.com/economia/caputo-anuncio-prestamos-dolares-empresas-nego-ayuda-familias-endeudadas-202681316166",
-      "detectado": "2026-08-13T20:02:49.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/llamado-karina-macri-reunieron-libertarios-pro-debilidad-cogobierno-alianzas-202681315428",
-      "sitio": "El Destape",
-      "titulo": "Tras el llamado de Karina a Macri, se reunieron LLA y PRO: debilidad, cogobierno y alianza",
-      "url": "https://www.eldestapeweb.com/politica/llamado-karina-macri-reunieron-libertarios-pro-debilidad-cogobierno-alianzas-202681315428",
-      "detectado": "2026-08-13T20:02:49.919Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
-      "sitio": "Contadores en Red",
-      "titulo": "Proyecto de reglamentación para los Productos de Inversión Colectiva – Fondos de Asistencia Laboral (PIC FAL)",
-      "url": "https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
-      "detectado": "2026-08-13T15:31:57.940Z"
     }
   ]
 }
