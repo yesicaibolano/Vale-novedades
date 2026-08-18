@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-17T19:17:30.742Z",
+  "actualizado": "2026-08-18T03:09:18.953Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/posicionamientos-paso-tercera-via-tablero-politico-reordena-camino-elecciones-2026817235828",
+      "sitio": "El Destape",
+      "titulo": "Posicionamientos, PASO y tercera vía: el tablero político camino a las elecciones",
+      "url": "https://www.eldestapeweb.com/politica/posicionamientos-paso-tercera-via-tablero-politico-reordena-camino-elecciones-2026817235828",
+      "detectado": "2026-08-18T03:09:18.388Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-volvio-escena-amenaza-enemigos-internos-2026817162032",
+      "sitio": "El Destape",
+      "titulo": "Homenaje a San Martín",
+      "url": "https://www.eldestapeweb.com/politica/milei-volvio-escena-amenaza-enemigos-internos-2026817162032",
+      "detectado": "2026-08-18T03:09:18.388Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/rodriguez-larreta-peronismo-negaron-contactos-acuerdo-electoral-caba-2026818055",
+      "sitio": "El Destape",
+      "titulo": "Rodríguez Larreta y el peronismo negaron contactos para un acuerdo electoral en CABA",
+      "url": "https://www.eldestapeweb.com/politica/rodriguez-larreta-peronismo-negaron-contactos-acuerdo-electoral-caba-2026818055",
+      "detectado": "2026-08-18T03:09:18.388Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-18T03:09:18.388Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/juan-maldacena-puede-viajar-futuro-no-volver-contarlo-202681722141",
+      "sitio": "El Destape",
+      "titulo": "Juan Maldacena: “Se puede viajar al futuro, pero no volver para contarlo”",
+      "url": "https://www.eldestapeweb.com/sociedad/juan-maldacena-puede-viajar-futuro-no-volver-contarlo-202681722141",
+      "detectado": "2026-08-18T03:09:18.388Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/produccion-metalurgica-desplomo-julio-esta-niveles-pandemia-2026817101244",
       "sitio": "El Destape",
@@ -98,13 +133,6 @@
       "titulo": "La disputa por el centro político que seduce en las encuestas y fracasa en las urnas",
       "url": "https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
       "detectado": "2026-08-16T13:40:52.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-16T13:40:52.055Z"
     },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/2623-uom-acordo-nuevos-basicos-y-sumas-no-remunerativas-periodo-abril-26-a-abril-27.html",
@@ -392,34 +420,6 @@
       "titulo": "Proyecto de reglamentación para los Productos de Inversión Colectiva – Fondos de Asistencia Laboral (PIC FAL)",
       "url": "https://contadoresenred.com/proyecto-de-reglamentacion-para-los-productos-de-inversion-colectiva-fondos-de-asistencia-laboral-pic-fal/",
       "detectado": "2026-08-13T15:31:57.940Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15917-queres-ir-al-encuentro-deportivo-nacional-la-caja-te-acompana",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¿Querés ir al Encuentro Deportivo Nacional? La Caja te acompaña",
-      "url": "https://www.cpba.com.ar/noticias/item/15917-queres-ir-al-encuentro-deportivo-nacional-la-caja-te-acompana",
-      "detectado": "2026-08-13T15:32:01.226Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "DPPJ: Nuevo formulario para el Régimen Informativo Anual de sociedades extranjeras",
-      "url": "https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
-      "detectado": "2026-08-13T15:32:01.226Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/hoy-conoce-inflacion-julio-esperan-primera-suba-cuatro-meses-202681384520",
-      "sitio": "El Destape",
-      "titulo": "Hoy se conoce la inflación de julio: esperan la primera suba en cuatro meses",
-      "url": "https://www.eldestapeweb.com/economia/hoy-conoce-inflacion-julio-esperan-primera-suba-cuatro-meses-202681384520",
-      "detectado": "2026-08-13T15:32:02.573Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-volvio-atacar-adorni-dijo-no-sera-candidata-ciudad-hay-ser-realistas-2026813111757",
-      "sitio": "El Destape",
-      "titulo": "En la previa de la reunión LLA-PRO",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-volvio-atacar-adorni-dijo-no-sera-candidata-ciudad-hay-ser-realistas-2026813111757",
-      "detectado": "2026-08-13T15:32:02.573Z"
     }
   ]
 }
