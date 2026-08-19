@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-19T07:57:25.806Z",
+  "actualizado": "2026-08-19T14:05:18.678Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/nuevo-regimen-de-trazabilidad-de-celulares-usados-que-contribuyentes-quedan-obligados/",
+      "sitio": "Contadores en Red",
+      "titulo": "Nuevo régimen de trazabilidad de celulares usados: ¿Qué contribuyentes quedarán obligados?",
+      "url": "https://contadoresenred.com/nuevo-regimen-de-trazabilidad-de-celulares-usados-que-contribuyentes-quedan-obligados/",
+      "detectado": "2026-08-19T14:05:11.348Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/agip-da-mas-plazo-para-cumplir-con-la-obligacion-de-discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales/",
+      "sitio": "Contadores en Red",
+      "titulo": "AGIP da más plazo para cumplir con la obligación de discriminar Ingresos Brutos en las facturas a consumidores finales",
+      "url": "https://contadoresenred.com/agip-da-mas-plazo-para-cumplir-con-la-obligacion-de-discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales/",
+      "detectado": "2026-08-19T14:05:11.348Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-servicio-domestico-convocan-a-la-comision-para-analizar-las-remuneraciones-minimas/",
+      "sitio": "Ignacio Online",
+      "titulo": "Paritaria Servicio Doméstico: convocan a la Comisión para analizar las remuneraciones mínimas",
+      "url": "https://www.ignacioonline.com.ar/paritaria-servicio-domestico-convocan-a-la-comision-para-analizar-las-remuneraciones-minimas/",
+      "detectado": "2026-08-19T14:05:14.249Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-desarma-control-ambiental-mineria-deja-fiscalizacion-manos-provincias-20268199210",
+      "sitio": "El Destape",
+      "titulo": "Desregulación del sector minero",
+      "url": "https://www.eldestapeweb.com/politica/milei-desarma-control-ambiental-mineria-deja-fiscalizacion-manos-provincias-20268199210",
+      "detectado": "2026-08-19T14:05:18.159Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/rodrigo-paz-hablo-ataque-expareja-cerimedo-violencia-extrema-202681991148",
+      "sitio": "El Destape",
+      "titulo": "Rodrigo Paz habló del ataque a la expareja de Cerimedo: “Violencia extrema”",
+      "url": "https://www.eldestapeweb.com/internacionales/rodrigo-paz-hablo-ataque-expareja-cerimedo-violencia-extrema-202681991148",
+      "detectado": "2026-08-19T14:05:18.159Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/san-pablo-rival-boca-copa-sudamericana-calleri-brilla-ex-river-amargo-pobre-brasileirao-2026819102447",
+      "sitio": "El Destape",
+      "titulo": "San Pablo, el rival de Boca: brilla Calleri, un ex River y pobre Brasileirao",
+      "url": "https://www.eldestapeweb.com/deportes/san-pablo-rival-boca-copa-sudamericana-calleri-brilla-ex-river-amargo-pobre-brasileirao-2026819102447",
+      "detectado": "2026-08-19T14:05:18.159Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/desempleo-changas-supervivencia-dura-vida-comedores-conurbano-202681995443",
+      "sitio": "El Destape",
+      "titulo": "Desempleo y changas de supervivencia: la dura vida en los comedores del Conurbano",
+      "url": "https://www.eldestapeweb.com/economia/desempleo-changas-supervivencia-dura-vida-comedores-conurbano-202681995443",
+      "detectado": "2026-08-19T14:05:18.159Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-escala-salarial-2026-2027-rama-17-cct-260-75/",
       "sitio": "Ignacio Online",
@@ -371,55 +420,6 @@
       "titulo": "El \"refuerzo\" que Boca esperaba está a un paso de ser parte del equipo",
       "url": "https://www.eldestapeweb.com/deportes/sonrie-arruabarrena-refuerzo-boca-esperaba-esta-paso-ser-parte-equipo-2026815121414",
       "detectado": "2026-08-15T18:59:56.369Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-15T07:18:40.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-encerrado-temor-dolar-paso-burlas-reunion-pj-20268150538",
-      "sitio": "El Destape",
-      "titulo": "Milei encerrado, temor por el “dólar PASO” y las burlas a la reunión del PJ",
-      "url": "https://www.eldestapeweb.com/politica/milei-encerrado-temor-dolar-paso-burlas-reunion-pj-20268150538",
-      "detectado": "2026-08-15T07:18:40.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
-      "sitio": "El Destape",
-      "titulo": "Ganar menos y pagar más: cómo el modelo de Milei recarga el peso sobre salarios y consumo",
-      "url": "https://www.eldestapeweb.com/economia/ganar-menos-pagar-modelo-milei-recarga-peso-salarios-consumo-20268150538",
-      "detectado": "2026-08-15T07:18:40.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/diputada-denuncio-posible-compra-votos-gobierno-cambio-presupuesto-obras-viales-millonarias-2026814192057",
-      "sitio": "El Destape",
-      "titulo": "Diputada denunció posible “compra” de votos del gobierno por presupuesto para obras viales",
-      "url": "https://www.eldestapeweb.com/politica/diputada-denuncio-posible-compra-votos-gobierno-cambio-presupuesto-obras-viales-millonarias-2026814192057",
-      "detectado": "2026-08-15T03:02:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-08-15T03:02:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-acumulada-milei-seria-15-puntos-mayor-si-no-hubiese-intervenido-ipc-2026814173154",
-      "sitio": "El Destape",
-      "titulo": "La inflación acumulada con Milei sería 15 puntos mayor si no hubiese intervenido el IPC",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-acumulada-milei-seria-15-puntos-mayor-si-no-hubiese-intervenido-ipc-2026814173154",
-      "detectado": "2026-08-15T03:02:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-proyecta-recaudar-4600-millones-dolares-concepto-retenciones-agropecuarias-2026814183844",
-      "sitio": "El Destape",
-      "titulo": "Milei proyecta recaudar 4600 millones de dólares en concepto de retenciones agropecuarias",
-      "url": "https://www.eldestapeweb.com/economia/milei-proyecta-recaudar-4600-millones-dolares-concepto-retenciones-agropecuarias-2026814183844",
-      "detectado": "2026-08-15T03:02:06.571Z"
     }
   ]
 }
