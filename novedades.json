@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-18T19:17:50.421Z",
+  "actualizado": "2026-08-19T03:13:07.511Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-escala-salarial-2026-2027-rama-17-cct-260-75/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOM: escala salarial 2026/2027 Rama 17 CCT 260/75",
+      "url": "https://www.ignacioonline.com.ar/uom-escala-salarial-2026-2027-rama-17-cct-260-75/",
+      "detectado": "2026-08-19T03:13:01.896Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/soberania-argentina",
+      "sitio": "El Destape",
+      "titulo": "soberanía argentina",
+      "url": "https://www.eldestapeweb.com/tag/soberania-argentina",
+      "detectado": "2026-08-19T03:13:06.794Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fracaso-tierras-milei-busca-privatizar-extranjerizar-fabricaciones-militares-2026818201953",
+      "sitio": "El Destape",
+      "titulo": "Milei busca privatizar y extranjerizar Fabricaciones Militares",
+      "url": "https://www.eldestapeweb.com/politica/fracaso-tierras-milei-busca-privatizar-extranjerizar-fabricaciones-militares-2026818201953",
+      "detectado": "2026-08-19T03:13:06.794Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/quiere-mercado-20268190530",
+      "sitio": "El Destape",
+      "titulo": "Sube el riesgo país",
+      "url": "https://www.eldestapeweb.com/economia/quiere-mercado-20268190530",
+      "detectado": "2026-08-19T03:13:06.794Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/problema-electoral-milei-jovenes-20268190530",
+      "sitio": "El Destape",
+      "titulo": "El problema electoral de Milei con los jóvenes",
+      "url": "https://www.eldestapeweb.com/politica/problema-electoral-milei-jovenes-20268190530",
+      "detectado": "2026-08-19T03:13:06.794Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fondos-internacionales-dejan-apostar-milei-riesgo-pais-otra-vez-supera-500-puntos-2026818204018",
+      "sitio": "El Destape",
+      "titulo": "Los fondos internacionales abandonan a Milei y el Riesgo País, otra vez arriba de 500",
+      "url": "https://www.eldestapeweb.com/economia/fondos-internacionales-dejan-apostar-milei-riesgo-pais-otra-vez-supera-500-puntos-2026818204018",
+      "detectado": "2026-08-19T03:13:06.794Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15932-facpce-solicito-a-arca-una-nueva-prorroga-para-la-presentacion-de-ganancias-2025",
       "sitio": "CPBA (Buenos Aires)",
@@ -378,48 +420,6 @@
       "titulo": "Milei proyecta recaudar 4600 millones de dólares en concepto de retenciones agropecuarias",
       "url": "https://www.eldestapeweb.com/economia/milei-proyecta-recaudar-4600-millones-dolares-concepto-retenciones-agropecuarias-2026814183844",
       "detectado": "2026-08-15T03:02:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-08-15T03:02:06.571Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-acuerdo-salarial-2026-2027-valores-hora-imgr/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOM: acuerdo salarial 2026/2027 con nuevos valores hora, gratificaciones e ingreso mínimo",
-      "url": "https://www.ignacioonline.com.ar/uom-acuerdo-salarial-2026-2027-valores-hora-imgr/",
-      "detectado": "2026-08-14T20:00:12.853Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15926-ahora-en-repro-ddjj-de-ganancias-2025-el-dia-despues-de-la-prorroga",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | DDJJ de Ganancias 2025: El día después de la prórroga",
-      "url": "https://www.cpba.com.ar/noticias/item/15926-ahora-en-repro-ddjj-de-ganancias-2025-el-dia-despues-de-la-prorroga",
-      "detectado": "2026-08-14T20:00:17.248Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/familias-jovenes-rojo-sobreendeudadas-recurren-banco-provincia-cifra-record-mes-2026814142340",
-      "sitio": "El Destape",
-      "titulo": "Los sobreendeudados por Milei recurren al Banco Provincia: la cifra récord en un mes",
-      "url": "https://www.eldestapeweb.com/politica/familias-jovenes-rojo-sobreendeudadas-recurren-banco-provincia-cifra-record-mes-2026814142340",
-      "detectado": "2026-08-14T20:00:19.237Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/corte-suprema-emitio-fallo-macri-complico-milei-2026814135632",
-      "sitio": "El Destape",
-      "titulo": "La Corte Suprema emitió un fallo contra Macri y complicó a Milei",
-      "url": "https://www.eldestapeweb.com/politica/corte-suprema-emitio-fallo-macri-complico-milei-2026814135632",
-      "detectado": "2026-08-14T20:00:19.238Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
-      "sitio": "El Destape",
-      "titulo": "Creció la informalidad en el último año e impacta más a mujeres y jóvenes",
-      "url": "https://www.eldestapeweb.com/politica/crecio-informalidad-ultimo-ano-impacta-mujeres-jovenes-202681416738",
-      "detectado": "2026-08-14T20:00:19.238Z"
     }
   ]
 }
