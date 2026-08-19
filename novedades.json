@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-19T14:05:18.678Z",
+  "actualizado": "2026-08-19T19:12:01.766Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-quiere-disputar-papa-peronismo-analiza-decretar-feriado-visita-leon-xiv-2026819154647",
+      "sitio": "El Destape",
+      "titulo": "Milei le quiere disputar el Papa al PJ y ya se analiza feriado por la visita de León XIV",
+      "url": "https://www.eldestapeweb.com/politica/milei-le-quiere-disputar-papa-peronismo-analiza-decretar-feriado-visita-leon-xiv-2026819154647",
+      "detectado": "2026-08-19T19:12:01.333Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-19T19:12:01.333Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/caso-cerimedo-justicia-bolivia-abrira-celular-buscar-pruebas-2026819144439",
+      "sitio": "El Destape",
+      "titulo": "Caso Cerimedo: la Justicia de Bolivia abrirá su celular para buscar pruebas",
+      "url": "https://www.eldestapeweb.com/politica/caso-cerimedo-justicia-bolivia-abrira-celular-buscar-pruebas-2026819144439",
+      "detectado": "2026-08-19T19:12:01.333Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
+      "sitio": "El Destape",
+      "titulo": "Transporte público",
+      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
+      "detectado": "2026-08-19T19:12:01.333Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/nuevo-golpe-bolsillo-transporte-publico-amba-vuelve-subir-septiembre-2026819145549",
+      "sitio": "El Destape",
+      "titulo": "Nuevo golpe al bolsillo: el transporte público en el AMBA vuelve a subir en septiembre",
+      "url": "https://www.eldestapeweb.com/economia/nuevo-golpe-bolsillo-transporte-publico-amba-vuelve-subir-septiembre-2026819145549",
+      "detectado": "2026-08-19T19:12:01.333Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/nuevo-regimen-de-trazabilidad-de-celulares-usados-que-contribuyentes-quedan-obligados/",
       "sitio": "Contadores en Red",
@@ -125,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "El dilema de Milei por las PASO: apurar a los gobernadores o tranquilizar a los mercados",
       "url": "https://www.eldestapeweb.com/politica/dilema-gobierno-paso-apurar-gobernadores-tranquilizar-mercados-2026818154114",
-      "detectado": "2026-08-18T19:17:49.888Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-08-18T19:17:49.888Z"
     },
     {
@@ -275,13 +303,6 @@
       "detectado": "2026-08-17T19:17:30.222Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
-      "sitio": "El Destape",
-      "titulo": "Transporte público",
-      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
-      "detectado": "2026-08-17T19:17:30.222Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/cambio-red-sube-tarifazo-oculto-15-millones-bonaerenses-2026817132644",
       "sitio": "El Destape",
       "titulo": "Cambio en la Red SUBE: el tarifazo oculto de 15% para millones de bonaerenses",
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "La crisis del trabajo",
       "url": "https://www.eldestapeweb.com/politica/precarizados-baratos-descartables-auge-trabajador-basura-era-milei-202681512734",
-      "detectado": "2026-08-15T18:59:56.369Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/buenos-aires-laboratorio-donde-pro-lla-ensayan-alianza-nacional-202681515110",
-      "sitio": "El Destape",
-      "titulo": "Buenos Aires: el laboratorio donde el PRO y LLA ensayan la alianza nacional",
-      "url": "https://www.eldestapeweb.com/politica/buenos-aires-laboratorio-donde-pro-lla-ensayan-alianza-nacional-202681515110",
-      "detectado": "2026-08-15T18:59:56.369Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-sigue-podio-inflacion-america-latina-pese-ajuste-milei-2026815134927",
-      "sitio": "El Destape",
-      "titulo": "La \"motosierra\" no alcanza",
-      "url": "https://www.eldestapeweb.com/economia/argentina-sigue-podio-inflacion-america-latina-pese-ajuste-milei-2026815134927",
-      "detectado": "2026-08-15T18:59:56.369Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/sonrie-arruabarrena-refuerzo-boca-esperaba-esta-paso-ser-parte-equipo-2026815121414",
-      "sitio": "El Destape",
-      "titulo": "El \"refuerzo\" que Boca esperaba está a un paso de ser parte del equipo",
-      "url": "https://www.eldestapeweb.com/deportes/sonrie-arruabarrena-refuerzo-boca-esperaba-esta-paso-ser-parte-equipo-2026815121414",
       "detectado": "2026-08-15T18:59:56.369Z"
     }
   ]
