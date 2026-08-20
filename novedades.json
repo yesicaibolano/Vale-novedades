@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-20T14:08:35.804Z",
+  "actualizado": "2026-08-20T19:44:04.068Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/confrontacion-acordada-modalidad-acuerdos-explora-milei-gobernadores-aliados-2027-2026820153452",
+      "sitio": "El Destape",
+      "titulo": "\"Confrontación acordada\": la modalidad que explora Milei con gobernadores para 2027",
+      "url": "https://www.eldestapeweb.com/politica/confrontacion-acordada-modalidad-acuerdos-explora-milei-gobernadores-aliados-2027-2026820153452",
+      "detectado": "2026-08-20T19:44:03.660Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-20T19:44:03.660Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/council-of-the-americas",
+      "sitio": "El Destape",
+      "titulo": "Council of the Americas",
+      "url": "https://www.eldestapeweb.com/tag/council-of-the-americas",
+      "detectado": "2026-08-20T19:44:03.660Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-nego-crisis-economica-no-aumento-desempleo-cayeron-salarios-20268201449",
+      "sitio": "El Destape",
+      "titulo": "Milei negó la crisis económica: \"No aumentó el desempleo ni cayeron los salarios\"",
+      "url": "https://www.eldestapeweb.com/politica/milei-nego-crisis-economica-no-aumento-desempleo-cayeron-salarios-20268201449",
+      "detectado": "2026-08-20T19:44:03.660Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/canasta-servicios-lleva-15-salario-transporte-principal-gasto-2026820132510",
+      "sitio": "El Destape",
+      "titulo": "La canasta de servicios se lleva el 15% del salario y el transporte es el principal gasto",
+      "url": "https://www.eldestapeweb.com/economia/canasta-servicios-lleva-15-salario-transporte-principal-gasto-2026820132510",
+      "detectado": "2026-08-20T19:44:03.660Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/cnv-reforma-la-transparencia-en-oferta-publica-cambios-en-los-eecc/",
       "sitio": "Contadores en Red",
@@ -125,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "Milei le quiere disputar el Papa al PJ y ya se analiza feriado por la visita de León XIV",
       "url": "https://www.eldestapeweb.com/politica/milei-le-quiere-disputar-papa-peronismo-analiza-decretar-feriado-visita-leon-xiv-2026819154647",
-      "detectado": "2026-08-19T19:12:01.333Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-08-19T19:12:01.333Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Por Fernando Cibeira",
       "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-08-18T03:09:18.388Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/juan-maldacena-puede-viajar-futuro-no-volver-contarlo-202681722141",
-      "sitio": "El Destape",
-      "titulo": "Juan Maldacena: “Se puede viajar al futuro, pero no volver para contarlo”",
-      "url": "https://www.eldestapeweb.com/sociedad/juan-maldacena-puede-viajar-futuro-no-volver-contarlo-202681722141",
-      "detectado": "2026-08-18T03:09:18.388Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/produccion-metalurgica-desplomo-julio-esta-niveles-pandemia-2026817101244",
-      "sitio": "El Destape",
-      "titulo": "La producción metalúrgica se desplomó en julio y está a niveles de la pandemia",
-      "url": "https://www.eldestapeweb.com/economia/produccion-metalurgica-desplomo-julio-esta-niveles-pandemia-2026817101244",
-      "detectado": "2026-08-17T19:17:30.222Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/6-cada-10-argentinos-sueldo-agota-antes-dia-20-2026817133331",
-      "sitio": "El Destape",
-      "titulo": "Crisis económica: para 6 de cada 10 argentinos el sueldo se agota antes del día 20",
-      "url": "https://www.eldestapeweb.com/economia/6-cada-10-argentinos-sueldo-agota-antes-dia-20-2026817133331",
-      "detectado": "2026-08-17T19:17:30.222Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/luego-10-dias-reclusion-milei-sale-olivos-homenaje-san-martin-202681785728",
-      "sitio": "El Destape",
-      "titulo": "Luego de 10 días de reclusión, Milei salió de Olivos para el homenaje de San Martín",
-      "url": "https://www.eldestapeweb.com/politica/luego-10-dias-reclusion-milei-sale-olivos-homenaje-san-martin-202681785728",
-      "detectado": "2026-08-17T19:17:30.222Z"
     }
   ]
 }
