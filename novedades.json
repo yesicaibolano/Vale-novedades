@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-08-20T08:02:05.319Z",
+  "actualizado": "2026-08-20T14:08:35.804Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/cnv-reforma-la-transparencia-en-oferta-publica-cambios-en-los-eecc/",
+      "sitio": "Contadores en Red",
+      "titulo": "CNV reforma la transparencia en oferta pública. Cambios en los EECC",
+      "url": "https://contadoresenred.com/cnv-reforma-la-transparencia-en-oferta-publica-cambios-en-los-eecc/",
+      "detectado": "2026-08-20T14:08:27.089Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2406-uom-metalurgicos-2026-2027.html",
+      "sitio": "Jorge Vega",
+      "titulo": "UOM Metalúrgicos - Escalas hasta abril 2027 (+ACUERDO)",
+      "url": "https://jorgevega.com.ar/laboral/2406-uom-metalurgicos-2026-2027.html",
+      "detectado": "2026-08-20T14:08:27.859Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/salario-minimo-convocan-al-consejo-para-definir-nuevos-montos/",
+      "sitio": "Ignacio Online",
+      "titulo": "Salario Mínimo: convocan al Consejo para definir nuevos montos",
+      "url": "https://www.ignacioonline.com.ar/salario-minimo-convocan-al-consejo-para-definir-nuevos-montos/",
+      "detectado": "2026-08-20T14:08:30.400Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15934-nueva-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nueva Jura: Profesionales reforzaron su compromiso con las Ciencias Económicas",
+      "url": "https://www.cpba.com.ar/noticias/item/15934-nueva-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
+      "detectado": "2026-08-20T14:08:33.735Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-08-20T14:08:35.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/empresarios-marcharon-plaza-mayo-politica-milei-nos-estan-asfixiando-202682010101",
+      "sitio": "El Destape",
+      "titulo": "Los empresarios marcharon a Plaza de Mayo contra Milei: \"Nos están asfixiando\"",
+      "url": "https://www.eldestapeweb.com/politica/empresarios-marcharon-plaza-mayo-politica-milei-nos-estan-asfixiando-202682010101",
+      "detectado": "2026-08-20T14:08:35.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "sitio": "El Destape",
+      "titulo": "Por Gino Viglianco",
+      "url": "https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "detectado": "2026-08-20T14:08:35.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-enfrenta-audiencia-clave-tentativa-feminicidio-202682094834",
+      "sitio": "El Destape",
+      "titulo": "Cerimedo enfrenta una audiencia clave por tentativa de feminicidio",
+      "url": "https://www.eldestapeweb.com/politica/cerimedo-enfrenta-audiencia-clave-tentativa-feminicidio-202682094834",
+      "detectado": "2026-08-20T14:08:35.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/3-bajas-confirmadas-boca-suma-otras-2-dudas-visitar-racing-202682095558",
+      "sitio": "El Destape",
+      "titulo": "Tras las 3 bajas confirmadas, Boca suma otras dos dudas ante Racing",
+      "url": "https://www.eldestapeweb.com/deportes/3-bajas-confirmadas-boca-suma-otras-2-dudas-visitar-racing-202682095558",
+      "detectado": "2026-08-20T14:08:35.432Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/escala-salarial-agosto-2026-saeoep-cct-88-90-colegios/",
       "sitio": "Ignacio Online",
@@ -357,69 +420,6 @@
       "titulo": "Luego de 10 días de reclusión, Milei salió de Olivos para el homenaje de San Martín",
       "url": "https://www.eldestapeweb.com/politica/luego-10-dias-reclusion-milei-sale-olivos-homenaje-san-martin-202681785728",
       "detectado": "2026-08-17T19:17:30.222Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cambio-red-sube-tarifazo-oculto-15-millones-bonaerenses-2026817132644",
-      "sitio": "El Destape",
-      "titulo": "Cambio en la Red SUBE: el tarifazo oculto de 15% para millones de bonaerenses",
-      "url": "https://www.eldestapeweb.com/economia/cambio-red-sube-tarifazo-oculto-15-millones-bonaerenses-2026817132644",
-      "detectado": "2026-08-17T19:17:30.222Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/exclusivo-secretaria-malvinas-argentina-trabaja-formar-cuadros-ingleses-202681710254",
-      "sitio": "El Destape",
-      "titulo": "Exclusivo: La secretaria de Malvinas argentina trabaja para formar cuadros ingleses",
-      "url": "https://www.eldestapeweb.com/politica/exclusivo-secretaria-malvinas-argentina-trabaja-formar-cuadros-ingleses-202681710254",
-      "detectado": "2026-08-17T13:56:10.822Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-08-17T13:56:10.822Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/desigualdad-regional",
-      "sitio": "El Destape",
-      "titulo": "Desigualdad Regional",
-      "url": "https://www.eldestapeweb.com/tag/desigualdad-regional",
-      "detectado": "2026-08-17T03:15:39.909Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mapa-desigualdad-cambio-desempeno-productivo-provincias-milei-2026817058",
-      "sitio": "El Destape",
-      "titulo": "Mapa de la desigualdad: el cambio del desempeño productivo de las provincias con Milei",
-      "url": "https://www.eldestapeweb.com/economia/mapa-desigualdad-cambio-desempeno-productivo-provincias-milei-2026817058",
-      "detectado": "2026-08-17T03:15:39.909Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/arranco-rosca-electoral-libertad-avanza-sigue-congreso-empantanado-2026817058",
-      "sitio": "El Destape",
-      "titulo": "Arrancó la rosca electoral y La Libertad Avanza sigue con un Congreso empantanado",
-      "url": "https://www.eldestapeweb.com/politica/arranco-rosca-electoral-libertad-avanza-sigue-congreso-empantanado-2026817058",
-      "detectado": "2026-08-17T03:15:39.909Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-08-17T03:15:39.909Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dia-nino-ventas-cayeron-2-5-consumo-sigue-estancado-2026816143541",
-      "sitio": "El Destape",
-      "titulo": "Día del Niño: las ventas cayeron 2,5% y el consumo sigue estancado",
-      "url": "https://www.eldestapeweb.com/economia/dia-nino-ventas-cayeron-2-5-consumo-sigue-estancado-2026816143541",
-      "detectado": "2026-08-16T19:00:05.508Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
-      "sitio": "El Destape",
-      "titulo": "La disputa por el centro político que seduce en las encuestas y fracasa en las urnas",
-      "url": "https://www.eldestapeweb.com/politica/disputa-centro-politico-seduce-encuestas-fracasa-urnas-20268160510",
-      "detectado": "2026-08-16T13:40:52.054Z"
     }
   ]
 }
