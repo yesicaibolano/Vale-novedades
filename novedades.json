@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-08-21T14:05:34.060Z",
+  "actualizado": "2026-08-21T19:15:55.501Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOCRA: homologan el acuerdo por contribución empresaria del 2% para los CCT 76/75 y 577/10",
+      "url": "https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
+      "detectado": "2026-08-21T19:15:49.819Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/saeoep-escala-salarial-cct-88-90-colegios-privados/",
+      "sitio": "Ignacio Online",
+      "titulo": "SAEOEP escala salarial CCT 88/90 colegios privados",
+      "url": "https://www.ignacioonline.com.ar/saeoep-escala-salarial-cct-88-90-colegios-privados/",
+      "detectado": "2026-08-21T19:15:49.819Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-nego-tener-us-1-millon-granja-bots-pagos-legisladores-202682113545",
+      "sitio": "El Destape",
+      "titulo": "Cerimedo negó tener US$ 1 millón, una granja de bots y los pagos a legisladores",
+      "url": "https://www.eldestapeweb.com/politica/cerimedo-nego-tener-us-1-millon-granja-bots-pagos-legisladores-202682113545",
+      "detectado": "2026-08-21T19:15:55.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-08-21T19:15:55.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/respuesta-afa-sancion-fifa-seleccion-argentina-202682114157",
+      "sitio": "El Destape",
+      "titulo": "La respuesta de la AFA a la sanción de la FIFA para la Selección Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/respuesta-afa-sancion-fifa-seleccion-argentina-202682114157",
+      "detectado": "2026-08-21T19:15:55.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-esta-justicia-bolivia-fuerte-operativo-seguridad-llegada-20268211555",
+      "sitio": "El Destape",
+      "titulo": "Cerimedo ya está ante la Justicia de Bolivia: fuerte operativo de seguridad en su llegada",
+      "url": "https://www.eldestapeweb.com/politica/cerimedo-esta-justicia-bolivia-fuerte-operativo-seguridad-llegada-20268211555",
+      "detectado": "2026-08-21T19:15:55.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-pone-venta-terrenos-estado-cuatro-provincias-2026821143124",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno pone en venta terrenos del Estado en cuatro provincias",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-pone-venta-terrenos-estado-cuatro-provincias-2026821143124",
+      "detectado": "2026-08-21T19:15:55.235Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-cuando-es-y-si-se-traslada/",
       "sitio": "Ignacio Online",
@@ -371,55 +420,6 @@
       "titulo": "El problema electoral de Milei con los jóvenes",
       "url": "https://www.eldestapeweb.com/politica/problema-electoral-milei-jovenes-20268190530",
       "detectado": "2026-08-19T03:13:06.794Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fondos-internacionales-dejan-apostar-milei-riesgo-pais-otra-vez-supera-500-puntos-2026818204018",
-      "sitio": "El Destape",
-      "titulo": "Los fondos internacionales abandonan a Milei y el Riesgo País, otra vez arriba de 500",
-      "url": "https://www.eldestapeweb.com/economia/fondos-internacionales-dejan-apostar-milei-riesgo-pais-otra-vez-supera-500-puntos-2026818204018",
-      "detectado": "2026-08-19T03:13:06.794Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15932-facpce-solicito-a-arca-una-nueva-prorroga-para-la-presentacion-de-ganancias-2025",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "FACPCE solicitó a ARCA una nueva prórroga para la presentación de Ganancias 2025",
-      "url": "https://www.cpba.com.ar/noticias/item/15932-facpce-solicito-a-arca-una-nueva-prorroga-para-la-presentacion-de-ganancias-2025",
-      "detectado": "2026-08-18T19:17:48.474Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15929-ahora-en-repro-honorarios-profesionales-cuanto-vale-mi-trabajo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Honorarios profesionales: ¿Cuánto vale mi trabajo?",
-      "url": "https://www.cpba.com.ar/noticias/item/15929-ahora-en-repro-honorarios-profesionales-cuanto-vale-mi-trabajo",
-      "detectado": "2026-08-18T19:17:48.475Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15930-el-comite-de-jovenes-participo-de-una-nueva-jornada-de-la-dirigencia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Comité de Jóvenes participó de una nueva Jornada de la Dirigencia",
-      "url": "https://www.cpba.com.ar/noticias/item/15930-el-comite-de-jovenes-participo-de-una-nueva-jornada-de-la-dirigencia",
-      "detectado": "2026-08-18T19:17:48.475Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-4-cada-10-chicos-argentinos-no-pueden-acceder-ropa-calzado-falta-dinero-202681814596",
-      "sitio": "El Destape",
-      "titulo": "Casi 4 de cada 10 chicos argentinos no pueden acceder a ropa o calzado por falta de dinero",
-      "url": "https://www.eldestapeweb.com/economia/casi-4-cada-10-chicos-argentinos-no-pueden-acceder-ropa-calzado-falta-dinero-202681814596",
-      "detectado": "2026-08-18T19:17:49.888Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dilema-gobierno-paso-apurar-gobernadores-tranquilizar-mercados-2026818154114",
-      "sitio": "El Destape",
-      "titulo": "El dilema de Milei por las PASO: apurar a los gobernadores o tranquilizar a los mercados",
-      "url": "https://www.eldestapeweb.com/politica/dilema-gobierno-paso-apurar-gobernadores-tranquilizar-mercados-2026818154114",
-      "detectado": "2026-08-18T19:17:49.888Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/ley-de-financiamiento-universitario",
-      "sitio": "El Destape",
-      "titulo": "Ley de Financiamiento Universitario",
-      "url": "https://www.eldestapeweb.com/tag/ley-de-financiamiento-universitario",
-      "detectado": "2026-08-18T19:17:49.888Z"
     }
   ]
 }
