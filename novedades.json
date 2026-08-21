@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-21T08:03:56.483Z",
+  "actualizado": "2026-08-21T14:05:34.060Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-cuando-es-y-si-se-traslada/",
+      "sitio": "Ignacio Online",
+      "titulo": "Día del Empleado de Comercio 2026: cuándo es y si se traslada",
+      "url": "https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-cuando-es-y-si-se-traslada/",
+      "detectado": "2026-08-21T14:05:28.472Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-agosto-2026-cct-589-10/",
+      "sitio": "Ignacio Online",
+      "titulo": "Encargados de Edificios: nueva escala salarial agosto 2026 CCT 589/10",
+      "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-agosto-2026-cct-589-10/",
+      "detectado": "2026-08-21T14:05:28.472Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15935-ahora-en-repro-ganancias-2025-por-que-seria-necesaria-una-tercera-prorroga",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Ganancias 2025: Por qué sería necesaria una tercera prórroga",
+      "url": "https://www.cpba.com.ar/noticias/item/15935-ahora-en-repro-ganancias-2025-por-que-seria-necesaria-una-tercera-prorroga",
+      "detectado": "2026-08-21T14:05:31.649Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-reconoce-problema-ludopatia-alerta-1-cada-4-estudiantes-aposto-202682193152",
+      "sitio": "El Destape",
+      "titulo": "Milei reconoce el problema de la ludopatía y alerta que 1 de cada 4 estudiantes apostó",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-reconoce-problema-ludopatia-alerta-1-cada-4-estudiantes-aposto-202682193152",
+      "detectado": "2026-08-21T14:05:33.621Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-08-21T14:05:33.621Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-acelera-agenda-legislativa-prepara-terreno-electoral-2027-202682173548",
+      "sitio": "El Destape",
+      "titulo": "Milei vuelve a la Bolsa de Rosario y se enfrenta los reclamos del agro",
+      "url": "https://www.eldestapeweb.com/politica/milei-acelera-agenda-legislativa-prepara-terreno-electoral-2027-202682173548",
+      "detectado": "2026-08-21T14:05:33.621Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
       "sitio": "El Destape",
@@ -378,48 +420,6 @@
       "titulo": "Ley de Financiamiento Universitario",
       "url": "https://www.eldestapeweb.com/tag/ley-de-financiamiento-universitario",
       "detectado": "2026-08-18T19:17:49.888Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/nuevo-paro-semana-recrudece-conflicto-universidades-gobierno-nacional-2026818141522",
-      "sitio": "El Destape",
-      "titulo": "Con un paro de una semana recrudece el conflicto de las universidades con el Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/nuevo-paro-semana-recrudece-conflicto-universidades-gobierno-nacional-2026818141522",
-      "detectado": "2026-08-18T19:17:49.888Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/autonomos-agosto-2026-cuanto-se-paga-por-categoria-a-partir-del-15-8-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Autónomos Agosto 2026. ¿Cuánto se paga por categoría a partir del 15-8-2026?",
-      "url": "https://contadoresenred.com/autonomos-agosto-2026-cuanto-se-paga-por-categoria-a-partir-del-15-8-2026/",
-      "detectado": "2026-08-18T14:01:49.653Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-julio-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ajuste por Inflación contable e impositivo. Índices Julio 2026.",
-      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-julio-2026/",
-      "detectado": "2026-08-18T14:01:49.653Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/convenio-multilateral-limites-a-la-aplicacion-del-regimen-especial-del-art-11-para-los-intermediarios/",
-      "sitio": "Contadores en Red",
-      "titulo": "Convenio Multilateral. Límites a la aplicación del Régimen Especial del Art. 11 para los intermediarios",
-      "url": "https://contadoresenred.com/convenio-multilateral-limites-a-la-aplicacion-del-regimen-especial-del-art-11-para-los-intermediarios/",
-      "detectado": "2026-08-18T14:01:49.653Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/las-cuentas-sueldo-quedan-alcanzadas-por-el-regimen-de-intercambio-automatico-de-informacion-relativo-a-cuentas-financieras/",
-      "sitio": "Contadores en Red",
-      "titulo": "Las Cuentas Sueldo quedan alcanzadas por el Régimen de Intercambio Automático de Información relativo a cuentas financieras.",
-      "url": "https://contadoresenred.com/las-cuentas-sueldo-quedan-alcanzadas-por-el-regimen-de-intercambio-automatico-de-informacion-relativo-a-cuentas-financieras/",
-      "detectado": "2026-08-18T14:01:49.653Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-agosto.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Autónomos y dependientes: Categorías, aportes y topes - AGOSTO 2026",
-      "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-agosto.html",
-      "detectado": "2026-08-18T14:01:50.029Z"
     }
   ]
 }
