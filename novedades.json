@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-21T03:30:20.110Z",
+  "actualizado": "2026-08-21T08:03:56.483Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-08-21T08:03:56.110Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alivio-endeudados-oposicion-prepara-contraofensiva-congreso-20268210545",
+      "sitio": "El Destape",
+      "titulo": "Alivio para endeudados: la oposición prepara una contraofensiva en el Congreso",
+      "url": "https://www.eldestapeweb.com/politica/alivio-endeudados-oposicion-prepara-contraofensiva-congreso-20268210545",
+      "detectado": "2026-08-21T08:03:56.111Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/detencion-cerimedo-desato-crisis-bolivia-hace-tambalear-presidente-20268210545",
+      "sitio": "El Destape",
+      "titulo": "La detención de Cerimedo desató una crisis en Bolivia y hace tambalear al Presidente",
+      "url": "https://www.eldestapeweb.com/internacionales/detencion-cerimedo-desato-crisis-bolivia-hace-tambalear-presidente-20268210545",
+      "detectado": "2026-08-21T08:03:56.111Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sofia-solari-arena",
+      "sitio": "El Destape",
+      "titulo": "Por Sofía Solari Arena",
+      "url": "https://www.eldestapeweb.com/perfil/sofia-solari-arena",
+      "detectado": "2026-08-21T08:03:56.111Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-criticos-buscan-ampliar-nuevo-bloque-ser-arbitros-quorum-20268210546",
+      "sitio": "El Destape",
+      "titulo": "Los gobernadores críticos buscan ampliar el nuevo bloque y ser árbitros del quórum",
+      "url": "https://www.eldestapeweb.com/politica/gobernadores-criticos-buscan-ampliar-nuevo-bloque-ser-arbitros-quorum-20268210546",
+      "detectado": "2026-08-21T08:03:56.111Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/presuntos-chats-eliminarla-coartadas-fallidas-detalles-causa-comprometen-cerimedo-bolivia-2026820223329",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Autónomos y dependientes: Categorías, aportes y topes - AGOSTO 2026",
       "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-agosto.html",
       "detectado": "2026-08-18T14:01:50.029Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/convenio-multilateral-comision-arbitral-aclara-el-regimen-para-intermediarios-del-articulo-11/",
-      "sitio": "Ignacio Online",
-      "titulo": "Convenio Multilateral: Comisión Arbitral aclara el régimen para intermediarios del artículo 11",
-      "url": "https://www.ignacioonline.com.ar/convenio-multilateral-comision-arbitral-aclara-el-regimen-para-intermediarios-del-articulo-11/",
-      "detectado": "2026-08-18T14:01:52.344Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-modifica-el-regimen-de-intercambio-automatico-de-informacion-sobre-cuentas-financieras/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA modifica el régimen de intercambio automático de información sobre cuentas financieras",
-      "url": "https://www.ignacioonline.com.ar/arca-modifica-el-regimen-de-intercambio-automatico-de-informacion-sobre-cuentas-financieras/",
-      "detectado": "2026-08-18T14:01:52.344Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/privatizacion-ferroviaria-milei-cambia-rigi-pedido-empresa-202681884740",
-      "sitio": "El Destape",
-      "titulo": "Privatización ferroviaria: Milei cambia el RIGI a pedido de una empresa",
-      "url": "https://www.eldestapeweb.com/economia/privatizacion-ferroviaria-milei-cambia-rigi-pedido-empresa-202681884740",
-      "detectado": "2026-08-18T14:01:57.096Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/detienen-fernando-cerimedo-bolivia-atentado-activista-nadia-beller-202681891011",
-      "sitio": "El Destape",
-      "titulo": "Ataque en Santa Cruz de la Sierra",
-      "url": "https://www.eldestapeweb.com/politica/detienen-fernando-cerimedo-bolivia-atentado-activista-nadia-beller-202681891011",
-      "detectado": "2026-08-18T14:01:57.096Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-amplio-secreto-militar-salida-armamento-militar-20268189319",
-      "sitio": "El Destape",
-      "titulo": "Más opacidad en Defensa",
-      "url": "https://www.eldestapeweb.com/politica/milei-amplio-secreto-militar-salida-armamento-militar-20268189319",
-      "detectado": "2026-08-18T14:01:57.096Z"
     }
   ]
 }
