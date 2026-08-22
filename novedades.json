@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-08-22T07:20:27.480Z",
+  "actualizado": "2026-08-22T13:41:17.375Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/campana-border-milei-retoma-tono-ultra-violento-aferra-thiel-2026822103849",
+      "sitio": "El Destape",
+      "titulo": "Campaña border: Milei retoma el tono ultra violento y se aferra a Thiel",
+      "url": "https://www.eldestapeweb.com/politica/campana-border-milei-retoma-tono-ultra-violento-aferra-thiel-2026822103849",
+      "detectado": "2026-08-22T13:41:17.006Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-acuerdo-salarial-agosto-2026-para-cct-804-23/",
       "sitio": "Ignacio Online",
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "San Pablo, el rival de Boca: brilla Calleri, un ex River y pobre Brasileirao",
       "url": "https://www.eldestapeweb.com/deportes/san-pablo-rival-boca-copa-sudamericana-calleri-brilla-ex-river-amargo-pobre-brasileirao-2026819102447",
-      "detectado": "2026-08-19T14:05:18.159Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/desempleo-changas-supervivencia-dura-vida-comedores-conurbano-202681995443",
-      "sitio": "El Destape",
-      "titulo": "Desempleo y changas de supervivencia: la dura vida en los comedores del Conurbano",
-      "url": "https://www.eldestapeweb.com/economia/desempleo-changas-supervivencia-dura-vida-comedores-conurbano-202681995443",
       "detectado": "2026-08-19T14:05:18.159Z"
     }
   ]
