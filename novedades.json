@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-23T13:44:53.658Z",
+  "actualizado": "2026-08-23T19:01:03.256Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Transformación Digital ¿Dónde estamos parados los contadores en 2026?",
+      "url": "https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026/",
+      "detectado": "2026-08-23T19:00:55.338Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/liquidacion-de-sueldos-de-empleados-de-comercio-agosto-2026-con-aumento/",
+      "sitio": "Ignacio Online",
+      "titulo": "Liquidación de sueldos de Empleados de Comercio Agosto 2026 con aumento",
+      "url": "https://www.ignacioonline.com.ar/liquidacion-de-sueldos-de-empleados-de-comercio-agosto-2026-con-aumento/",
+      "detectado": "2026-08-23T19:00:58.380Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/crisis-bolivia-fernando-cerimedo-manipulacion-arma-politica-20268230520",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El ajuste en el campo: los trabajadores producen los alimentos que ya no pueden comprar",
       "url": "https://www.eldestapeweb.com/economia/ajuste-campo-trabajadores-producen-alimentos-no-pueden-comprar-20268200517",
-      "detectado": "2026-08-20T03:11:54.472Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-extendio-alfombra-roja-guerra-drogas-trump-20268200517",
-      "sitio": "El Destape",
-      "titulo": "EEUU-América Latina",
-      "url": "https://www.eldestapeweb.com/politica/milei-le-extendio-alfombra-roja-guerra-drogas-trump-20268200517",
-      "detectado": "2026-08-20T03:11:54.472Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/maria-laura-carpineta",
-      "sitio": "El Destape",
-      "titulo": "Por María Laura Carpineta",
-      "url": "https://www.eldestapeweb.com/perfil/maria-laura-carpineta",
       "detectado": "2026-08-20T03:11:54.472Z"
     }
   ]
