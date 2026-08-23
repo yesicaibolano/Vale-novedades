@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-22T19:01:59.794Z",
+  "actualizado": "2026-08-23T03:30:07.765Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/frena-porque-no-ganas-cuando-aliados-ahorcan-presidente-campana-20268230520",
+      "sitio": "El Destape",
+      "titulo": "“Frená porque no ganás”: cuando los aliados ahorcan a un presidente en campaña",
+      "url": "https://www.eldestapeweb.com/politica/frena-porque-no-ganas-cuando-aliados-ahorcan-presidente-campana-20268230520",
+      "detectado": "2026-08-23T03:30:05.923Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-logro-peor-macri-20268230520",
+      "sitio": "El Destape",
+      "titulo": "El derrumbe laboral y empresarial",
+      "url": "https://www.eldestapeweb.com/economia/milei-logro-peor-macri-20268230520",
+      "detectado": "2026-08-23T03:30:05.923Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-kicillof-disputan-voto-joven-divino-tesoro-electoral-2027-20268230520",
+      "sitio": "El Destape",
+      "titulo": "Milei y Kicillof disputan el voto joven, el “divino tesoro” electoral de 2027",
+      "url": "https://www.eldestapeweb.com/politica/milei-kicillof-disputan-voto-joven-divino-tesoro-electoral-2027-20268230520",
+      "detectado": "2026-08-23T03:30:05.923Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-23T03:30:05.923Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-galperin-fabula-china-2026822214520",
+      "sitio": "El Destape",
+      "titulo": "Cerimedo, Galperín y una fábula china",
+      "url": "https://www.eldestapeweb.com/politica/cerimedo-galperin-fabula-china-2026822214520",
+      "detectado": "2026-08-23T03:30:05.923Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-tuvo-gran-arranque-no-llego-q3-largara-14-gp-paises-bajos-formula-1-202682212511",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Caso Cerimedo: la Justicia de Bolivia abrirá su celular para buscar pruebas",
       "url": "https://www.eldestapeweb.com/politica/caso-cerimedo-justicia-bolivia-abrira-celular-buscar-pruebas-2026819144439",
       "detectado": "2026-08-19T19:12:01.333Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
-      "sitio": "El Destape",
-      "titulo": "Transporte público",
-      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
-      "detectado": "2026-08-19T19:12:01.333Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/nuevo-golpe-bolsillo-transporte-publico-amba-vuelve-subir-septiembre-2026819145549",
-      "sitio": "El Destape",
-      "titulo": "Nuevo golpe al bolsillo: el transporte público en el AMBA vuelve a subir en septiembre",
-      "url": "https://www.eldestapeweb.com/economia/nuevo-golpe-bolsillo-transporte-publico-amba-vuelve-subir-septiembre-2026819145549",
-      "detectado": "2026-08-19T19:12:01.333Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/nuevo-regimen-de-trazabilidad-de-celulares-usados-que-contribuyentes-quedan-obligados/",
-      "sitio": "Contadores en Red",
-      "titulo": "Nuevo régimen de trazabilidad de celulares usados: ¿Qué contribuyentes quedarán obligados?",
-      "url": "https://contadoresenred.com/nuevo-regimen-de-trazabilidad-de-celulares-usados-que-contribuyentes-quedan-obligados/",
-      "detectado": "2026-08-19T14:05:11.348Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/agip-da-mas-plazo-para-cumplir-con-la-obligacion-de-discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales/",
-      "sitio": "Contadores en Red",
-      "titulo": "AGIP da más plazo para cumplir con la obligación de discriminar Ingresos Brutos en las facturas a consumidores finales",
-      "url": "https://contadoresenred.com/agip-da-mas-plazo-para-cumplir-con-la-obligacion-de-discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales/",
-      "detectado": "2026-08-19T14:05:11.348Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-servicio-domestico-convocan-a-la-comision-para-analizar-las-remuneraciones-minimas/",
-      "sitio": "Ignacio Online",
-      "titulo": "Paritaria Servicio Doméstico: convocan a la Comisión para analizar las remuneraciones mínimas",
-      "url": "https://www.ignacioonline.com.ar/paritaria-servicio-domestico-convocan-a-la-comision-para-analizar-las-remuneraciones-minimas/",
-      "detectado": "2026-08-19T14:05:14.249Z"
     }
   ]
 }
