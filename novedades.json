@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-23T19:01:03.256Z",
+  "actualizado": "2026-08-24T03:32:34.190Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-estimada-agosto-2026-aumento/",
+      "sitio": "Ignacio Online",
+      "titulo": "Servicio Doméstico: escala agosto 2026 con aumento del 1,9%",
+      "url": "https://www.ignacioonline.com.ar/servicio-domestico-escala-estimada-agosto-2026-aumento/",
+      "detectado": "2026-08-24T03:32:27.495Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/desregulaciones-milei-sturzenegger-afectaron-argentinos-2026823195211",
+      "sitio": "El Destape",
+      "titulo": "Una por una, las desregulaciones de Milei y Sturzenegger que afectaron a los argentinos",
+      "url": "https://www.eldestapeweb.com/economia/desregulaciones-milei-sturzenegger-afectaron-argentinos-2026823195211",
+      "detectado": "2026-08-24T03:32:33.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crecimiento-no-llega-mesa-familiar-cae-consumo-crece-deuda-comprar-alimentos-202682212460",
+      "sitio": "El Destape",
+      "titulo": "El crecimiento no llega a la mesa: cae el consumo y crece la deuda para comprar comida",
+      "url": "https://www.eldestapeweb.com/economia/crecimiento-no-llega-mesa-familiar-cae-consumo-crece-deuda-comprar-alimentos-202682212460",
+      "detectado": "2026-08-24T03:32:33.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-24T03:32:33.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/reactiva-congreso-lla-busca-recuperar-impulso-oposicion-encontro-agenda-unirse-20268221530",
+      "sitio": "El Destape",
+      "titulo": "Se reactiva el Congreso: LLA busca recuperar su impulso, la oposición apuesta a unirse",
+      "url": "https://www.eldestapeweb.com/politica/reactiva-congreso-lla-busca-recuperar-impulso-oposicion-encontro-agenda-unirse-20268221530",
+      "detectado": "2026-08-24T03:32:33.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-08-24T03:32:33.569Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026/",
       "sitio": "Contadores en Red",
@@ -125,13 +167,6 @@
       "sitio": "El Destape",
       "titulo": "La desregulación de Milei encareció la energía y trasladó el costo a familias e industrias",
       "url": "https://www.eldestapeweb.com/economia/desregulacion-milei-encarecio-energia-traslado-costo-familias-industrias-20268220559",
-      "detectado": "2026-08-22T03:07:30.603Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-08-22T03:07:30.603Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Cerimedo enfrenta una audiencia clave por tentativa de feminicidio",
       "url": "https://www.eldestapeweb.com/politica/cerimedo-enfrenta-audiencia-clave-tentativa-feminicidio-202682094834",
       "detectado": "2026-08-20T14:08:35.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/3-bajas-confirmadas-boca-suma-otras-2-dudas-visitar-racing-202682095558",
-      "sitio": "El Destape",
-      "titulo": "Tras las 3 bajas confirmadas, Boca suma otras dos dudas ante Racing",
-      "url": "https://www.eldestapeweb.com/deportes/3-bajas-confirmadas-boca-suma-otras-2-dudas-visitar-racing-202682095558",
-      "detectado": "2026-08-20T14:08:35.432Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/escala-salarial-agosto-2026-saeoep-cct-88-90-colegios/",
-      "sitio": "Ignacio Online",
-      "titulo": "Escala Salarial Agosto 2026 SAEOEP CCT 88/90 Colegios",
-      "url": "https://www.ignacioonline.com.ar/escala-salarial-agosto-2026-saeoep-cct-88-90-colegios/",
-      "detectado": "2026-08-20T03:11:49.520Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15934-nuevo-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuevo Jura: Profesionales reforzaron su compromiso con las Ciencias Económicas",
-      "url": "https://www.cpba.com.ar/noticias/item/15934-nuevo-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
-      "detectado": "2026-08-20T03:11:52.816Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15933-entrega-de-medallas-en-moron",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Entrega de medallas en Morón",
-      "url": "https://www.cpba.com.ar/noticias/item/15933-entrega-de-medallas-en-moron",
-      "detectado": "2026-08-20T03:11:52.816Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-campo-trabajadores-producen-alimentos-no-pueden-comprar-20268200517",
-      "sitio": "El Destape",
-      "titulo": "El ajuste en el campo: los trabajadores producen los alimentos que ya no pueden comprar",
-      "url": "https://www.eldestapeweb.com/economia/ajuste-campo-trabajadores-producen-alimentos-no-pueden-comprar-20268200517",
-      "detectado": "2026-08-20T03:11:54.472Z"
     }
   ]
 }
