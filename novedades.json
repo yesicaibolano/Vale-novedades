@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-08-24T08:25:06.244Z",
+  "actualizado": "2026-08-24T14:26:30.318Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-aumentos-de-agosto-a-diciembre-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Personal de Casas Particulares Aumentos de Agosto a Diciembre 2026",
+      "url": "https://contadoresenred.com/personal-de-casas-particulares-aumentos-de-agosto-a-diciembre-2026/",
+      "detectado": "2026-08-24T14:24:22.100Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15936-uif-y-facpce-analizaron-criterios-de-aplicacion-de-la-resolucion-uif-42-2024",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "UIF y FACPCE analizaron criterios de aplicación de la Resolución UIF 42/2024",
+      "url": "https://www.cpba.com.ar/noticias/item/15936-uif-y-facpce-analizaron-criterios-de-aplicacion-de-la-resolucion-uif-42-2024",
+      "detectado": "2026-08-24T14:26:28.248Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-tiene-dos-bajas-lanus-les-paso-ayrton-costa-milton-delgado-202682410859",
+      "sitio": "El Destape",
+      "titulo": "Boca tiene dos bajas más ante Lanús: qué les pasó a Costa y Delgado",
+      "url": "https://www.eldestapeweb.com/deportes/boca-tiene-dos-bajas-lanus-les-paso-ayrton-costa-milton-delgado-202682410859",
+      "detectado": "2026-08-24T14:26:29.766Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-estimada-agosto-2026-aumento/",
       "sitio": "Ignacio Online",
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Javier Milei presidente",
       "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-20T14:08:35.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/empresarios-marcharon-plaza-mayo-politica-milei-nos-estan-asfixiando-202682010101",
-      "sitio": "El Destape",
-      "titulo": "Los empresarios marcharon a Plaza de Mayo contra Milei: \"Nos están asfixiando\"",
-      "url": "https://www.eldestapeweb.com/politica/empresarios-marcharon-plaza-mayo-politica-milei-nos-estan-asfixiando-202682010101",
-      "detectado": "2026-08-20T14:08:35.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gino-viglianco",
-      "sitio": "El Destape",
-      "titulo": "Por Gino Viglianco",
-      "url": "https://www.eldestapeweb.com/perfil/gino-viglianco",
-      "detectado": "2026-08-20T14:08:35.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-enfrenta-audiencia-clave-tentativa-feminicidio-202682094834",
-      "sitio": "El Destape",
-      "titulo": "Cerimedo enfrenta una audiencia clave por tentativa de feminicidio",
-      "url": "https://www.eldestapeweb.com/politica/cerimedo-enfrenta-audiencia-clave-tentativa-feminicidio-202682094834",
       "detectado": "2026-08-20T14:08:35.432Z"
     }
   ]
