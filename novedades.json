@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-24T14:26:30.318Z",
+  "actualizado": "2026-08-24T19:18:45.954Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/multas-fiscales-la-desproporcion-que-persiste-y-el-proyecto-que-busca-corregirla/",
+      "sitio": "Contadores en Red",
+      "titulo": "Multas fiscales: la desproporción que persiste y el proyecto que busca corregirla",
+      "url": "https://contadoresenred.com/multas-fiscales-la-desproporcion-que-persiste-y-el-proyecto-que-busca-corregirla/",
+      "detectado": "2026-08-24T19:18:36.975Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "No te pierdas las 17as Jornadas Provinciales de Cooperativismo",
+      "url": "https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
+      "detectado": "2026-08-24T19:18:44.035Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "DPPJ: Nuevo formulario para el Régimen Informativo Anual de sociedades extranjeras",
+      "url": "https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
+      "detectado": "2026-08-24T19:18:44.035Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/si-aumento-desempleo-cayo-salario-cifras-desmienten-milei-2026824144411",
+      "sitio": "El Destape",
+      "titulo": "Sí aumentó el desempleo y cayó el salario: las cifras que desmienten a Milei",
+      "url": "https://www.eldestapeweb.com/economia/si-aumento-desempleo-cayo-salario-cifras-desmienten-milei-2026824144411",
+      "detectado": "2026-08-24T19:18:45.657Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/reunion-gabinete-milei-nego-morosidad-aseguro-indicadores-no-reflejan-situacion-crisis-2026824151510",
+      "sitio": "El Destape",
+      "titulo": "Milei negó la morosidad y afirmó que los indicadores \"no reflejan una situación de crisis\"",
+      "url": "https://www.eldestapeweb.com/politica/reunion-gabinete-milei-nego-morosidad-aseguro-indicadores-no-reflejan-situacion-crisis-2026824151510",
+      "detectado": "2026-08-24T19:18:45.658Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/consejo-del-salario",
+      "sitio": "El Destape",
+      "titulo": "Consejo del salario",
+      "url": "https://www.eldestapeweb.com/tag/consejo-del-salario",
+      "detectado": "2026-08-24T19:18:45.658Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-mantendra-consejo-salario-puertas-cerradas-evitar-acto-politico-202682494836",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno mantendrá el Consejo del Salario a puertas cerradas",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-mantendra-consejo-salario-puertas-cerradas-evitar-acto-politico-202682494836",
+      "detectado": "2026-08-24T19:18:45.658Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
+      "sitio": "El Destape",
+      "titulo": "Por Mariano Martín",
+      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
+      "detectado": "2026-08-24T19:18:45.658Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-aumentos-de-agosto-a-diciembre-2026/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "\"Confrontación acordada\": la modalidad que explora Milei con gobernadores para 2027",
       "url": "https://www.eldestapeweb.com/politica/confrontacion-acordada-modalidad-acuerdos-explora-milei-gobernadores-aliados-2027-2026820153452",
       "detectado": "2026-08-20T19:44:03.660Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/council-of-the-americas",
-      "sitio": "El Destape",
-      "titulo": "Council of the Americas",
-      "url": "https://www.eldestapeweb.com/tag/council-of-the-americas",
-      "detectado": "2026-08-20T19:44:03.660Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-nego-crisis-economica-no-aumento-desempleo-cayeron-salarios-20268201449",
-      "sitio": "El Destape",
-      "titulo": "Milei negó la crisis económica: \"No aumentó el desempleo ni cayeron los salarios\"",
-      "url": "https://www.eldestapeweb.com/politica/milei-nego-crisis-economica-no-aumento-desempleo-cayeron-salarios-20268201449",
-      "detectado": "2026-08-20T19:44:03.660Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/canasta-servicios-lleva-15-salario-transporte-principal-gasto-2026820132510",
-      "sitio": "El Destape",
-      "titulo": "La canasta de servicios se lleva el 15% del salario y el transporte es el principal gasto",
-      "url": "https://www.eldestapeweb.com/economia/canasta-servicios-lleva-15-salario-transporte-principal-gasto-2026820132510",
-      "detectado": "2026-08-20T19:44:03.660Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/cnv-reforma-la-transparencia-en-oferta-publica-cambios-en-los-eecc/",
-      "sitio": "Contadores en Red",
-      "titulo": "CNV reforma la transparencia en oferta pública. Cambios en los EECC",
-      "url": "https://contadoresenred.com/cnv-reforma-la-transparencia-en-oferta-publica-cambios-en-los-eecc/",
-      "detectado": "2026-08-20T14:08:27.089Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2406-uom-metalurgicos-2026-2027.html",
-      "sitio": "Jorge Vega",
-      "titulo": "UOM Metalúrgicos - Escalas hasta abril 2027 (+ACUERDO)",
-      "url": "https://jorgevega.com.ar/laboral/2406-uom-metalurgicos-2026-2027.html",
-      "detectado": "2026-08-20T14:08:27.859Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/salario-minimo-convocan-al-consejo-para-definir-nuevos-montos/",
-      "sitio": "Ignacio Online",
-      "titulo": "Salario Mínimo: convocan al Consejo para definir nuevos montos",
-      "url": "https://www.ignacioonline.com.ar/salario-minimo-convocan-al-consejo-para-definir-nuevos-montos/",
-      "detectado": "2026-08-20T14:08:30.400Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15934-nueva-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nueva Jura: Profesionales reforzaron su compromiso con las Ciencias Económicas",
-      "url": "https://www.cpba.com.ar/noticias/item/15934-nueva-jura-profesionales-reforzaron-su-compromiso-con-las-ciencias-economicas",
-      "detectado": "2026-08-20T14:08:33.735Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-20T14:08:35.432Z"
     }
   ]
 }
