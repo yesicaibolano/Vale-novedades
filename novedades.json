@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-25T14:27:32.769Z",
+  "actualizado": "2026-08-25T19:19:52.299Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-apoya-tuit-economista-vinculado-galperin-desmentir-crisis-endeudamiento-2026825144547",
+      "sitio": "El Destape",
+      "titulo": "Milei se apoya en un socio de Galperín para desmentir la crisis de los endeudados",
+      "url": "https://www.eldestapeweb.com/politica/milei-apoya-tuit-economista-vinculado-galperin-desmentir-crisis-endeudamiento-2026825144547",
+      "detectado": "2026-08-25T19:19:52.002Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-25T19:19:52.002Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820",
+      "sitio": "El Destape",
+      "titulo": "Milei reconoce una suba de la morosidad pero sigue sin admitir el problema: salarios bajos",
+      "url": "https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820",
+      "detectado": "2026-08-25T19:19:52.002Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-08-25T19:19:52.002Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-dice-buque-britanico-no-violo-soberania-oposicion-pide-explicaciones-2026825143137",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno dice que buque británico no violó soberanía y la oposición pide explicaciones",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-dice-buque-britanico-no-violo-soberania-oposicion-pide-explicaciones-2026825143137",
+      "detectado": "2026-08-25T19:19:52.002Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/cuantos-envios-internacionales-te-quedan-como-chequear-tu-cupo-antes-de-comprar-en-el-exterior/",
       "sitio": "Contadores en Red",
@@ -380,46 +415,11 @@
       "detectado": "2026-08-22T03:07:30.603Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-08-22T03:07:30.603Z"
-    },
-    {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
       "sitio": "Ignacio Online",
       "titulo": "UOCRA: homologan el acuerdo por contribución empresaria del 2% para los CCT 76/75 y 577/10",
       "url": "https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
       "detectado": "2026-08-21T19:15:49.819Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/saeoep-escala-salarial-cct-88-90-colegios-privados/",
-      "sitio": "Ignacio Online",
-      "titulo": "SAEOEP escala salarial CCT 88/90 colegios privados",
-      "url": "https://www.ignacioonline.com.ar/saeoep-escala-salarial-cct-88-90-colegios-privados/",
-      "detectado": "2026-08-21T19:15:49.819Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-nego-tener-us-1-millon-granja-bots-pagos-legisladores-202682113545",
-      "sitio": "El Destape",
-      "titulo": "Cerimedo negó tener US$ 1 millón, una granja de bots y los pagos a legisladores",
-      "url": "https://www.eldestapeweb.com/politica/cerimedo-nego-tener-us-1-millon-granja-bots-pagos-legisladores-202682113545",
-      "detectado": "2026-08-21T19:15:55.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-08-21T19:15:55.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/respuesta-afa-sancion-fifa-seleccion-argentina-202682114157",
-      "sitio": "El Destape",
-      "titulo": "La respuesta de la AFA a la sanción de la FIFA para la Selección Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/respuesta-afa-sancion-fifa-seleccion-argentina-202682114157",
-      "detectado": "2026-08-21T19:15:55.235Z"
     }
   ]
 }
