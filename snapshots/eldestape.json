@@ -1,7 +1,15 @@
 [
   {
-    "titulo": "Reservas en garantía de deudas",
-    "url": "https://www.eldestapeweb.com/economia/reforma-oculta-banco-central-20268260529"
+    "titulo": "Caputo anunció créditos hipotecarios financiados con el FGS de Anses",
+    "url": "https://www.eldestapeweb.com/economia/caputo-anuncio-creditos-hipotecarios-financiados-fgs-anses-2026826101925"
+  },
+  {
+    "titulo": "Paran las Fuerzas Armadas y marchan al Ministerio de Defensa",
+    "url": "https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723"
+  },
+  {
+    "titulo": "Billeteras virtuales podrán entrar a las cuentas bancaria para cobrar deudas",
+    "url": "https://www.eldestapeweb.com/economia/gobierno-habilito-billeteras-virtuales-podran-entrar-cuentas-bancaria-cobrar-deudas-20268261071"
   },
   {
     "titulo": "Inteligencia artificial",
@@ -20,24 +28,12 @@
     "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira"
   },
   {
-    "titulo": "La canasta real: el 60% del ingreso hogareño se va en el pago de alquiler y deudas",
-    "url": "https://www.eldestapeweb.com/economia/canasta-real-60-ingreso-hogareno-va-pago-alquiler-deudas-2026825193615"
+    "titulo": "El enigmático mensaje que encendió las alarmas en el oficialismo: \"Esto termina mal\"",
+    "url": "https://www.eldestapeweb.com/politica/enigmatico-mensaje-encendio-alarmas-oficialismo-esto-termina-mal-20268261310"
   },
   {
-    "titulo": "Por Sebastián Premici",
-    "url": "https://www.eldestapeweb.com/perfil/sebastian-premici"
-  },
-  {
-    "titulo": "Interés por las nubes y poca información: el costo oculto de la morosidad llega al 1000%",
-    "url": "https://www.eldestapeweb.com/economia/interes-nubes-poca-informacion-empresas-costo-oculto-morosidad-alcanza-promedio-995-98-2026825204231"
-  },
-  {
-    "titulo": "Milei reconoce una suba de la morosidad pero sigue sin admitir el problema: salarios bajos",
-    "url": "https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820"
-  },
-  {
-    "titulo": "Por Cristian Carrillo",
-    "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo"
+    "titulo": "Por Redacción El Destape",
+    "url": "https://www.eldestapeweb.com/perfil/agencia-web"
   },
   {
     "titulo": "LLA busca reactivar la reforma de salud mental, que no convence a las provincias",
@@ -46,5 +42,9 @@
   {
     "titulo": "Por Federico Pokorowski",
     "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski"
+  },
+  {
+    "titulo": "La canasta real: el 60% del ingreso hogareño se va en el pago de alquiler y deudas",
+    "url": "https://www.eldestapeweb.com/economia/canasta-real-60-ingreso-hogareno-va-pago-alquiler-deudas-2026825193615"
   }
 ]

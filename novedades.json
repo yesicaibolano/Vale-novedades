@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-26T08:08:14.814Z",
+  "actualizado": "2026-08-26T14:24:59.529Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-agosto-2026-disposicion-8-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Valor Suma Fija ART Agosto 2026. Disposición 8/2026",
+      "url": "https://contadoresenred.com/valor-suma-fija-art-agosto-2026-disposicion-8-2026/",
+      "detectado": "2026-08-26T14:24:48.732Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2626-riesgos-trabajo-cuota-agosto-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Riesgos del Trabajo - La Cuota Fija aumenta a $ 1.905 en Agosto 2026 (vencimiento Septiembre)",
+      "url": "https://jorgevega.com.ar/laboral/2626-riesgos-trabajo-cuota-agosto-2026.html",
+      "detectado": "2026-08-26T14:24:49.666Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-905-para-agosto-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "SRT: la suma fija del FFEP será de $1.905 para agosto 2026",
+      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-905-para-agosto-2026/",
+      "detectado": "2026-08-26T14:24:52.376Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-anuncio-creditos-hipotecarios-financiados-fgs-anses-2026826101925",
+      "sitio": "El Destape",
+      "titulo": "Caputo anunció créditos hipotecarios financiados con el FGS de Anses",
+      "url": "https://www.eldestapeweb.com/economia/caputo-anuncio-creditos-hipotecarios-financiados-fgs-anses-2026826101925",
+      "detectado": "2026-08-26T14:24:59.104Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723",
+      "sitio": "El Destape",
+      "titulo": "Paran las Fuerzas Armadas y marchan al Ministerio de Defensa",
+      "url": "https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723",
+      "detectado": "2026-08-26T14:24:59.104Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-habilito-billeteras-virtuales-podran-entrar-cuentas-bancaria-cobrar-deudas-20268261071",
+      "sitio": "El Destape",
+      "titulo": "Billeteras virtuales podrán entrar a las cuentas bancaria para cobrar deudas",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-habilito-billeteras-virtuales-podran-entrar-cuentas-bancaria-cobrar-deudas-20268261071",
+      "detectado": "2026-08-26T14:24:59.104Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/enigmatico-mensaje-encendio-alarmas-oficialismo-esto-termina-mal-20268261310",
+      "sitio": "El Destape",
+      "titulo": "El enigmático mensaje que encendió las alarmas en el oficialismo: \"Esto termina mal\"",
+      "url": "https://www.eldestapeweb.com/politica/enigmatico-mensaje-encendio-alarmas-oficialismo-esto-termina-mal-20268261310",
+      "detectado": "2026-08-26T14:24:59.104Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/agencia-web",
+      "sitio": "El Destape",
+      "titulo": "Por Redacción El Destape",
+      "url": "https://www.eldestapeweb.com/perfil/agencia-web",
+      "detectado": "2026-08-26T14:24:59.104Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/2625-gastronomicos-comedores-401-05-se-acordaron-nuevos-basicos-y-sumas-no-remunerativas-agosto-2026-a-enero-2027.html",
       "sitio": "Jorge Vega",
@@ -364,62 +420,6 @@
       "titulo": "El Gol radical: la gira de los 30 mil kilómetros, la pelea santafesina y el plan 2027",
       "url": "https://www.eldestapeweb.com/politica/gol-radical-gira-30-mil-kilometros-pelea-santafesina-plan-2027-2026822213520",
       "detectado": "2026-08-23T13:44:53.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/campana-border-milei-retoma-tono-ultra-violento-aferra-thiel-2026822103849",
-      "sitio": "El Destape",
-      "titulo": "Campaña border: Milei retoma el tono ultra violento y se aferra a Thiel",
-      "url": "https://www.eldestapeweb.com/politica/campana-border-milei-retoma-tono-ultra-violento-aferra-thiel-2026822103849",
-      "detectado": "2026-08-23T13:44:53.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-penal-maxima-seguridad-bolivia-todas-pruebas-comprometen-intento-femicidio-2026821225319",
-      "sitio": "El Destape",
-      "titulo": "Intento de femicidio",
-      "url": "https://www.eldestapeweb.com/politica/cerimedo-penal-maxima-seguridad-bolivia-todas-pruebas-comprometen-intento-femicidio-2026821225319",
-      "detectado": "2026-08-23T13:44:53.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/frena-porque-no-ganas-cuando-aliados-ahorcan-presidente-campana-20268230520",
-      "sitio": "El Destape",
-      "titulo": "“Frená porque no ganás”: cuando los aliados ahorcan a un presidente en campaña",
-      "url": "https://www.eldestapeweb.com/politica/frena-porque-no-ganas-cuando-aliados-ahorcan-presidente-campana-20268230520",
-      "detectado": "2026-08-23T03:30:05.923Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-logro-peor-macri-20268230520",
-      "sitio": "El Destape",
-      "titulo": "El derrumbe laboral y empresarial",
-      "url": "https://www.eldestapeweb.com/economia/milei-logro-peor-macri-20268230520",
-      "detectado": "2026-08-23T03:30:05.923Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-kicillof-disputan-voto-joven-divino-tesoro-electoral-2027-20268230520",
-      "sitio": "El Destape",
-      "titulo": "Milei y Kicillof disputan el voto joven, el “divino tesoro” electoral de 2027",
-      "url": "https://www.eldestapeweb.com/politica/milei-kicillof-disputan-voto-joven-divino-tesoro-electoral-2027-20268230520",
-      "detectado": "2026-08-23T03:30:05.923Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-galperin-fabula-china-2026822214520",
-      "sitio": "El Destape",
-      "titulo": "Cerimedo, Galperín y una fábula china",
-      "url": "https://www.eldestapeweb.com/politica/cerimedo-galperin-fabula-china-2026822214520",
-      "detectado": "2026-08-23T03:30:05.923Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-tuvo-gran-arranque-no-llego-q3-largara-14-gp-paises-bajos-formula-1-202682212511",
-      "sitio": "El Destape",
-      "titulo": "Colapinto no pasó a la Q3 en Países Bajos de la Fórmula 1 y largará 14",
-      "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-tuvo-gran-arranque-no-llego-q3-largara-14-gp-paises-bajos-formula-1-202682212511",
-      "detectado": "2026-08-22T19:01:59.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/libertad-para-el-saqueo",
-      "sitio": "El Destape",
-      "titulo": "Libertad para el saqueo",
-      "url": "https://www.eldestapeweb.com/tag/libertad-para-el-saqueo",
-      "detectado": "2026-08-22T19:01:59.332Z"
     }
   ]
 }
