@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-25T19:19:52.299Z",
+  "actualizado": "2026-08-26T03:34:22.537Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2625-gastronomicos-comedores-401-05-se-acordaron-nuevos-basicos-y-sumas-no-remunerativas-agosto-2026-a-enero-2027.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Gastronómicos - Comedores 401/05: se acordaron nuevos básicos y sumas no remunerativas (Agosto 2026 a Enero 2027)",
+      "url": "https://jorgevega.com.ar/laboral/2625-gastronomicos-comedores-401-05-se-acordaron-nuevos-basicos-y-sumas-no-remunerativas-agosto-2026-a-enero-2027.html",
+      "detectado": "2026-08-26T03:34:05.400Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-arca-oficializo-la-prorroga-de-la-presentacion/",
+      "sitio": "Ignacio Online",
+      "titulo": "Ganancias: ARCA oficializó la prórroga de la presentación",
+      "url": "https://www.ignacioonline.com.ar/ganancias-arca-oficializo-la-prorroga-de-la-presentacion/",
+      "detectado": "2026-08-26T03:34:08.302Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/maestranza-som-acuerdo-salarial-agosto-a-diciembre-2026-cct-281-96/",
+      "sitio": "Ignacio Online",
+      "titulo": "Maestranza SOM: acuerdo salarial agosto a diciembre 2026 CCT 281/96",
+      "url": "https://www.ignacioonline.com.ar/maestranza-som-acuerdo-salarial-agosto-a-diciembre-2026-cct-281-96/",
+      "detectado": "2026-08-26T03:34:08.302Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/reforma-oculta-banco-central-20268260529",
+      "sitio": "El Destape",
+      "titulo": "Reservas en garantía de deudas",
+      "url": "https://www.eldestapeweb.com/economia/reforma-oculta-banco-central-20268260529",
+      "detectado": "2026-08-26T03:34:22.186Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/inteligencia-artificial",
+      "sitio": "El Destape",
+      "titulo": "Inteligencia artificial",
+      "url": "https://www.eldestapeweb.com/tag/inteligencia-artificial",
+      "detectado": "2026-08-26T03:34:22.186Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/empleo-era-ia-sindicato-mundial-trabajadores-datos-20268260529",
+      "sitio": "El Destape",
+      "titulo": "Empleo en la era IA: El Sindicato Mundial de Trabajadores de Datos",
+      "url": "https://www.eldestapeweb.com/politica/empleo-era-ia-sindicato-mundial-trabajadores-datos-20268260529",
+      "detectado": "2026-08-26T03:34:22.186Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-buscara-debatir-endeudamiento-asfixia-cada-vez-hogares-20268260529",
+      "sitio": "El Destape",
+      "titulo": "La oposición buscará debatir el endeudamiento que asfixia a cada vez más hogares",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-buscara-debatir-endeudamiento-asfixia-cada-vez-hogares-20268260529",
+      "detectado": "2026-08-26T03:34:22.186Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-08-26T03:34:22.186Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-apoya-tuit-economista-vinculado-galperin-desmentir-crisis-endeudamiento-2026825144547",
       "sitio": "El Destape",
@@ -345,13 +401,6 @@
       "detectado": "2026-08-23T03:30:05.923Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-23T03:30:05.923Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-galperin-fabula-china-2026822214520",
       "sitio": "El Destape",
       "titulo": "Cerimedo, Galperín y una fábula china",
@@ -371,55 +420,6 @@
       "titulo": "Libertad para el saqueo",
       "url": "https://www.eldestapeweb.com/tag/libertad-para-el-saqueo",
       "detectado": "2026-08-22T19:01:59.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/unico-prolifera-economia-milei-trabajo-desprotegido-202682214471",
-      "sitio": "El Destape",
-      "titulo": "Lo único que prolifera en la economía de Milei es el trabajo desprotegido",
-      "url": "https://www.eldestapeweb.com/economia/unico-prolifera-economia-milei-trabajo-desprotegido-202682214471",
-      "detectado": "2026-08-22T19:01:59.332Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-acuerdo-salarial-agosto-2026-para-cct-804-23/",
-      "sitio": "Ignacio Online",
-      "titulo": "UTEDYC: acuerdo salarial agosto 2026 para CCT 804/23",
-      "url": "https://www.ignacioonline.com.ar/utedyc-acuerdo-salarial-agosto-2026-para-cct-804-23/",
-      "detectado": "2026-08-22T03:07:25.318Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-nuevo-aumento-salarial-de-agosto-a-diciembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: nuevo aumento salarial de agosto a diciembre 2026",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-nuevo-aumento-salarial-de-agosto-a-diciembre-2026/",
-      "detectado": "2026-08-22T03:07:25.318Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/desregulacion-economica",
-      "sitio": "El Destape",
-      "titulo": "Desregulación económica",
-      "url": "https://www.eldestapeweb.com/tag/desregulacion-economica",
-      "detectado": "2026-08-22T03:07:30.603Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/desregulacion-milei-encarecio-energia-traslado-costo-familias-industrias-20268220559",
-      "sitio": "El Destape",
-      "titulo": "La desregulación de Milei encareció la energía y trasladó el costo a familias e industrias",
-      "url": "https://www.eldestapeweb.com/economia/desregulacion-milei-encarecio-energia-traslado-costo-familias-industrias-20268220559",
-      "detectado": "2026-08-22T03:07:30.603Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/rencores-cerimedo-milei-abandono-rosada-crecen-reproches-economia-20268220559",
-      "sitio": "El Destape",
-      "titulo": "Rencores por Cerimedo, Milei abandonó la Rosada y crecen los reproches por la economía",
-      "url": "https://www.eldestapeweb.com/politica/rencores-cerimedo-milei-abandono-rosada-crecen-reproches-economia-20268220559",
-      "detectado": "2026-08-22T03:07:30.603Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOCRA: homologan el acuerdo por contribución empresaria del 2% para los CCT 76/75 y 577/10",
-      "url": "https://www.ignacioonline.com.ar/uocra-homologan-el-acuerdo-por-contribucion-empresaria-del-2-para-los-cct-76-75-y-577-10/",
-      "detectado": "2026-08-21T19:15:49.819Z"
     }
   ]
 }
