@@ -1,6 +1,111 @@
 {
-  "actualizado": "2026-08-26T14:24:59.529Z",
+  "actualizado": "2026-08-28T01:37:32.557Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/e-book-compendio-de-jurisprudencia-tributaria/",
+      "sitio": "Contadores en Red",
+      "titulo": "E-Book | Compendio de Jurisprudencia Tributaria",
+      "url": "https://contadoresenred.com/e-book-compendio-de-jurisprudencia-tributaria/",
+      "detectado": "2026-08-28T01:37:23.244Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/e-book-exclusiones-del-monotributo/",
+      "sitio": "Contadores en Red",
+      "titulo": "E-Book | Exclusiones del Monotributo",
+      "url": "https://contadoresenred.com/e-book-exclusiones-del-monotributo/",
+      "detectado": "2026-08-28T01:37:23.244Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/e-book-procedimiento-recursivo-y-defensas-en-materia-tributaria/",
+      "sitio": "Contadores en Red",
+      "titulo": "E-Book | Procedimiento Recursivo y Defensas en materia tributaria",
+      "url": "https://contadoresenred.com/e-book-procedimiento-recursivo-y-defensas-en-materia-tributaria/",
+      "detectado": "2026-08-28T01:37:23.244Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/1889-recibo-uthgra-comedores-paritarias-2026-agosto.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Recibo de Sueldo Empleados UTHGRA - COMEDORES 401/05 (con Acuerdo de fecha 24/08/2026)",
+      "url": "https://jorgevega.com.ar/laboral/1889-recibo-uthgra-comedores-paritarias-2026-agosto.html",
+      "detectado": "2026-08-28T01:37:24.121Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/el-gobierno-busca-impulsar-un-salario-minimo-garantizado-de-mas-de-1-millon/",
+      "sitio": "Ignacio Online",
+      "titulo": "El Gobierno busca impulsar un salario mínimo garantizado de más de $1 millón",
+      "url": "https://www.ignacioonline.com.ar/el-gobierno-busca-impulsar-un-salario-minimo-garantizado-de-mas-de-1-millon/",
+      "detectado": "2026-08-28T01:37:26.626Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/asimra-acuerdo-salarial-agosto-2026-para-supervisores-metalmecanicos/",
+      "sitio": "Ignacio Online",
+      "titulo": "ASIMRA: acuerdo salarial agosto 2026 para supervisores metalmecánicos",
+      "url": "https://www.ignacioonline.com.ar/asimra-acuerdo-salarial-agosto-2026-para-supervisores-metalmecanicos/",
+      "detectado": "2026-08-28T01:37:26.626Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-de-agosto-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOM: homologan el acuerdo salarial Rama 21 siderúrgica",
+      "url": "https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-de-agosto-2026/",
+      "detectado": "2026-08-28T01:37:26.626Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-cct-42-89-nuevo-acuerdo-salarial-agosto-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad CCT 42/89: nuevo acuerdo salarial agosto 2026",
+      "url": "https://www.ignacioonline.com.ar/sanidad-cct-42-89-nuevo-acuerdo-salarial-agosto-2026/",
+      "detectado": "2026-08-28T01:37:26.626Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Capacitate en investigación de mercados con IA",
+      "url": "https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
+      "detectado": "2026-08-28T01:37:30.058Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15942-arca-implemento-el-sistema-de-gestion-de-inversiones-sgi",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA implementó el Sistema de Gestión de Inversiones (SGI)",
+      "url": "https://www.cpba.com.ar/noticias/item/15942-arca-implemento-el-sistema-de-gestion-de-inversiones-sgi",
+      "detectado": "2026-08-28T01:37:30.059Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-emitio-pesos-subio-tasa-frenar-dolar-202682720311",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno emitió pesos y subió la tasa para frenar al dólar",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-emitio-pesos-subio-tasa-frenar-dolar-202682720311",
+      "detectado": "2026-08-28T01:37:31.736Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-08-28T01:37:31.736Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/legislatura-portena",
+      "sitio": "El Destape",
+      "titulo": "Legislatura porteña",
+      "url": "https://www.eldestapeweb.com/tag/legislatura-portena",
+      "detectado": "2026-08-28T01:37:31.736Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/plena-crisis-habitacional-pro-lla-aprobaron-ley-restar-fondos-obras-politicas-vivienda-2026827194354",
+      "sitio": "El Destape",
+      "titulo": "El PRO y LLA aprobaron una ley para restar fondos a las obras y políticas de vivienda",
+      "url": "https://www.eldestapeweb.com/politica/plena-crisis-habitacional-pro-lla-aprobaron-ley-restar-fondos-obras-politicas-vivienda-2026827194354",
+      "detectado": "2026-08-28T01:37:31.736Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-le-dio-66-pliegos-judiciales-milei-oposicion-instalo-crisis-mora-202682717025",
+      "sitio": "El Destape",
+      "titulo": "El Senado le dio 67 pliegos judiciales a Milei y la oposición instaló la crisis de la mora",
+      "url": "https://www.eldestapeweb.com/politica/senado-le-dio-66-pliegos-judiciales-milei-oposicion-instalo-crisis-mora-202682717025",
+      "detectado": "2026-08-28T01:37:31.736Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-agosto-2026-disposicion-8-2026/",
       "sitio": "Contadores en Red",
@@ -315,111 +420,6 @@
       "titulo": "Milei negó la morosidad y afirmó que los indicadores \"no reflejan una situación de crisis\"",
       "url": "https://www.eldestapeweb.com/politica/reunion-gabinete-milei-nego-morosidad-aseguro-indicadores-no-reflejan-situacion-crisis-2026824151510",
       "detectado": "2026-08-24T19:18:45.658Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/consejo-del-salario",
-      "sitio": "El Destape",
-      "titulo": "Consejo del salario",
-      "url": "https://www.eldestapeweb.com/tag/consejo-del-salario",
-      "detectado": "2026-08-24T19:18:45.658Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-mantendra-consejo-salario-puertas-cerradas-evitar-acto-politico-202682494836",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno mantendrá el Consejo del Salario a puertas cerradas",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-mantendra-consejo-salario-puertas-cerradas-evitar-acto-politico-202682494836",
-      "detectado": "2026-08-24T19:18:45.658Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-aumentos-de-agosto-a-diciembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Personal de Casas Particulares Aumentos de Agosto a Diciembre 2026",
-      "url": "https://contadoresenred.com/personal-de-casas-particulares-aumentos-de-agosto-a-diciembre-2026/",
-      "detectado": "2026-08-24T14:24:22.100Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15936-uif-y-facpce-analizaron-criterios-de-aplicacion-de-la-resolucion-uif-42-2024",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "UIF y FACPCE analizaron criterios de aplicación de la Resolución UIF 42/2024",
-      "url": "https://www.cpba.com.ar/noticias/item/15936-uif-y-facpce-analizaron-criterios-de-aplicacion-de-la-resolucion-uif-42-2024",
-      "detectado": "2026-08-24T14:26:28.248Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-tiene-dos-bajas-lanus-les-paso-ayrton-costa-milton-delgado-202682410859",
-      "sitio": "El Destape",
-      "titulo": "Boca tiene dos bajas más ante Lanús: qué les pasó a Costa y Delgado",
-      "url": "https://www.eldestapeweb.com/deportes/boca-tiene-dos-bajas-lanus-les-paso-ayrton-costa-milton-delgado-202682410859",
-      "detectado": "2026-08-24T14:26:29.766Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-estimada-agosto-2026-aumento/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: escala agosto 2026 con aumento del 1,9%",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-escala-estimada-agosto-2026-aumento/",
-      "detectado": "2026-08-24T03:32:27.495Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/desregulaciones-milei-sturzenegger-afectaron-argentinos-2026823195211",
-      "sitio": "El Destape",
-      "titulo": "Una por una, las desregulaciones de Milei y Sturzenegger que afectaron a los argentinos",
-      "url": "https://www.eldestapeweb.com/economia/desregulaciones-milei-sturzenegger-afectaron-argentinos-2026823195211",
-      "detectado": "2026-08-24T03:32:33.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crecimiento-no-llega-mesa-familiar-cae-consumo-crece-deuda-comprar-alimentos-202682212460",
-      "sitio": "El Destape",
-      "titulo": "El crecimiento no llega a la mesa: cae el consumo y crece la deuda para comprar comida",
-      "url": "https://www.eldestapeweb.com/economia/crecimiento-no-llega-mesa-familiar-cae-consumo-crece-deuda-comprar-alimentos-202682212460",
-      "detectado": "2026-08-24T03:32:33.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-08-24T03:32:33.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reactiva-congreso-lla-busca-recuperar-impulso-oposicion-encontro-agenda-unirse-20268221530",
-      "sitio": "El Destape",
-      "titulo": "Se reactiva el Congreso: LLA busca recuperar su impulso, la oposición apuesta a unirse",
-      "url": "https://www.eldestapeweb.com/politica/reactiva-congreso-lla-busca-recuperar-impulso-oposicion-encontro-agenda-unirse-20268221530",
-      "detectado": "2026-08-24T03:32:33.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-08-24T03:32:33.569Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Transformación Digital ¿Dónde estamos parados los contadores en 2026?",
-      "url": "https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026/",
-      "detectado": "2026-08-23T19:00:55.338Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/liquidacion-de-sueldos-de-empleados-de-comercio-agosto-2026-con-aumento/",
-      "sitio": "Ignacio Online",
-      "titulo": "Liquidación de sueldos de Empleados de Comercio Agosto 2026 con aumento",
-      "url": "https://www.ignacioonline.com.ar/liquidacion-de-sueldos-de-empleados-de-comercio-agosto-2026-con-aumento/",
-      "detectado": "2026-08-23T19:00:58.380Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/crisis-bolivia-fernando-cerimedo-manipulacion-arma-politica-20268230520",
-      "sitio": "El Destape",
-      "titulo": "Extrema derecha regional",
-      "url": "https://www.eldestapeweb.com/internacionales/crisis-bolivia-fernando-cerimedo-manipulacion-arma-politica-20268230520",
-      "detectado": "2026-08-23T13:44:53.402Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gol-radical-gira-30-mil-kilometros-pelea-santafesina-plan-2027-2026822213520",
-      "sitio": "El Destape",
-      "titulo": "El Gol radical: la gira de los 30 mil kilómetros, la pelea santafesina y el plan 2027",
-      "url": "https://www.eldestapeweb.com/politica/gol-radical-gira-30-mil-kilometros-pelea-santafesina-plan-2027-2026822213520",
-      "detectado": "2026-08-23T13:44:53.402Z"
     }
   ]
 }
