@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-08-28T01:37:32.557Z",
+  "actualizado": "2026-08-28T21:56:21.256Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/24-jornadas-nacionales-tributarias/",
+      "sitio": "Contadores en Red",
+      "titulo": "24.ª Jornadas Nacionales: dos días para analizar los desafíos de la profesión.",
+      "url": "https://contadoresenred.com/24-jornadas-nacionales-tributarias/",
+      "detectado": "2026-08-28T21:56:12.218Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15900-se-llevan-adelante-las-jornadas-nacionales-y-provinciales-de-economia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se llevan adelante las Jornadas Nacionales y Provinciales de Economía",
+      "url": "https://www.cpba.com.ar/noticias/item/15900-se-llevan-adelante-las-jornadas-nacionales-y-provinciales-de-economia",
+      "detectado": "2026-08-28T21:56:19.246Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15945-la-delegacion-lincoln-celebro-su-60-aniversario",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Delegación Lincoln celebró su 60° aniversario",
+      "url": "https://www.cpba.com.ar/noticias/item/15945-la-delegacion-lincoln-celebro-su-60-aniversario",
+      "detectado": "2026-08-28T21:56:19.246Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15883-almorza-con-descuento-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Almorzá con descuento en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/15883-almorza-con-descuento-en-sede-provincial",
+      "detectado": "2026-08-28T21:56:19.246Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
+      "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
+      "detectado": "2026-08-28T21:56:19.246Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15944-ahora-en-repro-agentes-de-inteligencia-artificial-como-cambian-los-procesos-de-trabajo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Agentes de inteligencia artificial: Cómo cambian los procesos de trabajo",
+      "url": "https://www.cpba.com.ar/noticias/item/15944-ahora-en-repro-agentes-de-inteligencia-artificial-como-cambian-los-procesos-de-trabajo",
+      "detectado": "2026-08-28T21:56:19.246Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/falsa-justicia-social-gobierno-va-suba-salarial-no-subira-sueldos-2026828164451",
+      "sitio": "El Destape",
+      "titulo": "La falsa \"justicia social\": el Gobierno va por una suba salarial que no subirá los sueldos",
+      "url": "https://www.eldestapeweb.com/economia/falsa-justicia-social-gobierno-va-suba-salarial-no-subira-sueldos-2026828164451",
+      "detectado": "2026-08-28T21:56:20.759Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-bloquea-llamado-sesion-morosidad-familiar-diputados-202682818330",
+      "sitio": "El Destape",
+      "titulo": "LLA bloquea el llamado a sesión por la morosidad familiar en Diputados",
+      "url": "https://www.eldestapeweb.com/politica/lla-bloquea-llamado-sesion-morosidad-familiar-diputados-202682818330",
+      "detectado": "2026-08-28T21:56:20.759Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fracaso-reunion-define-suba-salario-minimo-gobierno-volvio-cargar-sindicatos-2026828184347",
+      "sitio": "El Destape",
+      "titulo": "Consejo del Salario: fracasó la reunión y el Gobierno definirá el aumento",
+      "url": "https://www.eldestapeweb.com/politica/fracaso-reunion-define-suba-salario-minimo-gobierno-volvio-cargar-sindicatos-2026828184347",
+      "detectado": "2026-08-28T21:56:20.759Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/echaron-intento-suicidar-fabrica-presidente-uia-2026828133940",
+      "sitio": "El Destape",
+      "titulo": "Lo echaron y se intentó suicidar en una fábrica del presidente de UIA",
+      "url": "https://www.eldestapeweb.com/politica/echaron-intento-suicidar-fabrica-presidente-uia-2026828133940",
+      "detectado": "2026-08-28T21:56:20.759Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
+      "sitio": "El Destape",
+      "titulo": "Por Mariano Martín",
+      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
+      "detectado": "2026-08-28T21:56:20.759Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/e-book-compendio-de-jurisprudencia-tributaria/",
       "sitio": "Contadores en Red",
@@ -338,88 +415,11 @@
       "detectado": "2026-08-25T14:27:32.446Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
-      "sitio": "El Destape",
-      "titulo": "Por Mariano Martín",
-      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
-      "detectado": "2026-08-25T14:27:32.446Z"
-    },
-    {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-humanas-2025-arca-prorroga-la-presentacion-de-la-declaracion-jurada/",
       "sitio": "Ignacio Online",
       "titulo": "Ganancias Personas Humanas 2025: ARCA prorroga la presentación de la declaración jurada",
       "url": "https://www.ignacioonline.com.ar/ganancias-personas-humanas-2025-arca-prorroga-la-presentacion-de-la-declaracion-jurada/",
       "detectado": "2026-08-25T03:15:16.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/prestamistas-informales-usura-debate-llega-congreso-2026825053",
-      "sitio": "El Destape",
-      "titulo": "Prestamistas informales, usura y un debate que llega al Congreso",
-      "url": "https://www.eldestapeweb.com/politica/prestamistas-informales-usura-debate-llega-congreso-2026825053",
-      "detectado": "2026-08-25T03:15:21.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/no-ignorancia-desesperacion-argentinos-miran-costo-antes-endeudarse-2026825053",
-      "sitio": "El Destape",
-      "titulo": "No es ignorancia, es desesperación: los argentinos miran el costo antes de endeudarse",
-      "url": "https://www.eldestapeweb.com/economia/no-ignorancia-desesperacion-argentinos-miran-costo-antes-endeudarse-2026825053",
-      "detectado": "2026-08-25T03:15:21.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ajuste-milei-detona-provincias-caen-fondos-crecen-protestas-2026825053",
-      "sitio": "El Destape",
-      "titulo": "El ajuste de Milei detona las provincias: caen los fondos, crecen las protestas",
-      "url": "https://www.eldestapeweb.com/politica/ajuste-milei-detona-provincias-caen-fondos-crecen-protestas-2026825053",
-      "detectado": "2026-08-25T03:15:21.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-08-25T03:15:21.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mientras-pais-no-come-primer-semestre-cerro-boom-exportador-carne-202682420333",
-      "sitio": "El Destape",
-      "titulo": "Mientras el país no come, el primer semestre cerró con un boom exportador de carne",
-      "url": "https://www.eldestapeweb.com/economia/mientras-pais-no-come-primer-semestre-cerro-boom-exportador-carne-202682420333",
-      "detectado": "2026-08-25T03:15:21.560Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/multas-fiscales-la-desproporcion-que-persiste-y-el-proyecto-que-busca-corregirla/",
-      "sitio": "Contadores en Red",
-      "titulo": "Multas fiscales: la desproporción que persiste y el proyecto que busca corregirla",
-      "url": "https://contadoresenred.com/multas-fiscales-la-desproporcion-que-persiste-y-el-proyecto-que-busca-corregirla/",
-      "detectado": "2026-08-24T19:18:36.975Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "No te pierdas las 17as Jornadas Provinciales de Cooperativismo",
-      "url": "https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
-      "detectado": "2026-08-24T19:18:44.035Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "DPPJ: Nuevo formulario para el Régimen Informativo Anual de sociedades extranjeras",
-      "url": "https://www.cpba.com.ar/noticias/item/15922-dppj-nuevo-formulario-para-el-regimen-informativo-anual-de-sociedades-extranjeras",
-      "detectado": "2026-08-24T19:18:44.035Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/si-aumento-desempleo-cayo-salario-cifras-desmienten-milei-2026824144411",
-      "sitio": "El Destape",
-      "titulo": "Sí aumentó el desempleo y cayó el salario: las cifras que desmienten a Milei",
-      "url": "https://www.eldestapeweb.com/economia/si-aumento-desempleo-cayo-salario-cifras-desmienten-milei-2026824144411",
-      "detectado": "2026-08-24T19:18:45.657Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reunion-gabinete-milei-nego-morosidad-aseguro-indicadores-no-reflejan-situacion-crisis-2026824151510",
-      "sitio": "El Destape",
-      "titulo": "Milei negó la morosidad y afirmó que los indicadores \"no reflejan una situación de crisis\"",
-      "url": "https://www.eldestapeweb.com/politica/reunion-gabinete-milei-nego-morosidad-aseguro-indicadores-no-reflejan-situacion-crisis-2026824151510",
-      "detectado": "2026-08-24T19:18:45.658Z"
     }
   ]
 }
