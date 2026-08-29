@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-08-29T11:50:26.783Z",
+  "actualizado": "2026-08-29T15:48:39.392Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/reforma-electoral-proxima-escala-plan-blindar-modelo-20268290544",
+      "sitio": "El Destape",
+      "titulo": "Reforma electoral: próxima escala del plan para blindar el modelo",
+      "url": "https://www.eldestapeweb.com/politica/reforma-electoral-proxima-escala-plan-blindar-modelo-20268290544",
+      "detectado": "2026-08-29T15:48:38.862Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/vivo-leonas-empatan-final-mundial-2026-hockey-vs-paises-bajos-2026829112547",
+      "sitio": "El Destape",
+      "titulo": "Leonas heroicas: vencieron a Países Bajos en la final y son campeonas del mundo",
+      "url": "https://www.eldestapeweb.com/deportes/vivo-leonas-empatan-final-mundial-2026-hockey-vs-paises-bajos-2026829112547",
+      "detectado": "2026-08-29T15:48:38.862Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/aire-respiramos-caba-puede-variar-vereda-otra-2026828181931",
+      "sitio": "El Destape",
+      "titulo": "El aire que respiramos en CABA puede variar de una vereda a la otra",
+      "url": "https://www.eldestapeweb.com/sociedad/aire-respiramos-caba-puede-variar-vereda-otra-2026828181931",
+      "detectado": "2026-08-29T15:48:38.862Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-turismo-nuevo-acuerdo-salarial-agosto-2026-con-aumento-del-57-y-suma-extra-de-50-000/",
       "sitio": "Ignacio Online",
@@ -399,27 +420,6 @@
       "titulo": "ARCA prorroga presentación DDJJ Ganancias y 1er. anticipo 2026.",
       "url": "https://contadoresenred.com/arca-prorroga-presentacion-ddjj-ganancias-y-1er-anticipo-2026/",
       "detectado": "2026-08-25T14:27:23.792Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2624-rg-5890-ganancias-prorroga.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ARCA RG 5890 - Ganancias: se prorrogó el vencimiento hasta el 22 de septiembre (SOLO PRESENTACIÓN)",
-      "url": "https://jorgevega.com.ar/impuestos/2624-rg-5890-ganancias-prorroga.html",
-      "detectado": "2026-08-25T14:27:24.361Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15939-ganancias-2025-arca-prorrogo-hasta-el-22-de-septiembre-la-presentacion-de-la-ddjj",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ganancias 2025: ARCA prorrogó hasta el 22 de septiembre la presentación de la DDJJ",
-      "url": "https://www.cpba.com.ar/noticias/item/15939-ganancias-2025-arca-prorrogo-hasta-el-22-de-septiembre-la-presentacion-de-la-ddjj",
-      "detectado": "2026-08-25T14:27:30.403Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15940-ahora-en-repro-la-tasa-municipal-bajo-la-lupa-criterios-para-detectar-impuestos-encubiertos",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | La tasa municipal bajo la lupa: Criterios para detectar impuestos encubiertos",
-      "url": "https://www.cpba.com.ar/noticias/item/15940-ahora-en-repro-la-tasa-municipal-bajo-la-lupa-criterios-para-detectar-impuestos-encubiertos",
-      "detectado": "2026-08-25T14:27:30.403Z"
     }
   ]
 }
