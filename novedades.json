@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-28T21:56:21.256Z",
+  "actualizado": "2026-08-29T04:27:33.537Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-turismo-nuevo-acuerdo-salarial-agosto-2026-con-aumento-del-57-y-suma-extra-de-50-000/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio Turismo: nuevo acuerdo salarial agosto 2026 con aumento del 5,7% y suma extra de $50.000",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-turismo-nuevo-acuerdo-salarial-agosto-2026-con-aumento-del-57-y-suma-extra-de-50-000/",
+      "detectado": "2026-08-29T04:27:28.488Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fragilidad-laboral-record-cada-vez-cuesta-entrar-permanecer-puesto-registrado-20268290544",
+      "sitio": "El Destape",
+      "titulo": "Fragilidad laboral récord: cada vez cuesta más entrar y permanecer en un puesto registrado",
+      "url": "https://www.eldestapeweb.com/economia/fragilidad-laboral-record-cada-vez-cuesta-entrar-permanecer-puesto-registrado-20268290544",
+      "detectado": "2026-08-29T04:27:32.926Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-29T04:27:32.926Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-juega-policia-malo-caputo-empaticos-gobierno-pj-libertario-20268290544",
+      "sitio": "El Destape",
+      "titulo": "Milei juega al “policía malo” con Caputo, los “empáticos” del Gobierno y el PJ libertario",
+      "url": "https://www.eldestapeweb.com/politica/milei-juega-policia-malo-caputo-empaticos-gobierno-pj-libertario-20268290544",
+      "detectado": "2026-08-29T04:27:32.926Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-08-29T04:27:32.926Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/desesperado-trump-lanzo-guerra-economica-iran-efectos-antecedente-ruso-20268290544",
+      "sitio": "El Destape",
+      "titulo": "Conflicto en Medio Oriente",
+      "url": "https://www.eldestapeweb.com/internacionales/desesperado-trump-lanzo-guerra-economica-iran-efectos-antecedente-ruso-20268290544",
+      "detectado": "2026-08-29T04:27:32.926Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/24-jornadas-nacionales-tributarias/",
       "sitio": "Contadores en Red",
@@ -303,13 +345,6 @@
       "detectado": "2026-08-25T19:19:52.002Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-08-25T19:19:52.002Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820",
       "sitio": "El Destape",
       "titulo": "Milei reconoce una suba de la morosidad pero sigue sin admitir el problema: salarios bajos",
@@ -385,41 +420,6 @@
       "titulo": "Ahora en RePro | La tasa municipal bajo la lupa: Criterios para detectar impuestos encubiertos",
       "url": "https://www.cpba.com.ar/noticias/item/15940-ahora-en-repro-la-tasa-municipal-bajo-la-lupa-criterios-para-detectar-impuestos-encubiertos",
       "detectado": "2026-08-25T14:27:30.403Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-08-25T14:27:32.446Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/low-cost-autorizo-milei-volar-argentina-aterrizo-emergencia-brasil-mantiene-400-pasajeros-varados-202682585928",
-      "sitio": "El Destape",
-      "titulo": "La low cost que autorizó Milei aterrizó de emergencia en Brasil y dejó 400 varados",
-      "url": "https://www.eldestapeweb.com/politica/low-cost-autorizo-milei-volar-argentina-aterrizo-emergencia-brasil-mantiene-400-pasajeros-varados-202682585928",
-      "detectado": "2026-08-25T14:27:32.446Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-legisladores-lla-casa-rosada-202682562812",
-      "sitio": "El Destape",
-      "titulo": "Milei encabeza una reunión clave con legisladores de LLA en Casa Rosada",
-      "url": "https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-legisladores-lla-casa-rosada-202682562812",
-      "detectado": "2026-08-25T14:27:32.446Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/freno-economia-gobierno-impulsa-sueldo-minimo-garantizado-1-millon-202682594749",
-      "sitio": "El Destape",
-      "titulo": "Exclusivo: impulsan \"salario mínimo garantizado” de $ 1 millón para reactivar",
-      "url": "https://www.eldestapeweb.com/politica/freno-economia-gobierno-impulsa-sueldo-minimo-garantizado-1-millon-202682594749",
-      "detectado": "2026-08-25T14:27:32.446Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-humanas-2025-arca-prorroga-la-presentacion-de-la-declaracion-jurada/",
-      "sitio": "Ignacio Online",
-      "titulo": "Ganancias Personas Humanas 2025: ARCA prorroga la presentación de la declaración jurada",
-      "url": "https://www.ignacioonline.com.ar/ganancias-personas-humanas-2025-arca-prorroga-la-presentacion-de-la-declaracion-jurada/",
-      "detectado": "2026-08-25T03:15:16.141Z"
     }
   ]
 }
