@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-08-30T15:33:47.650Z",
+  "actualizado": "2026-08-30T20:09:28.871Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/crisis-milei-30-mil-empleadas-domesticas-perdieron-trabajo-2026830141836",
+      "sitio": "El Destape",
+      "titulo": "Más de 30 mil empleadas domésticas perdieron su trabajo formal",
+      "url": "https://www.eldestapeweb.com/sociedad/crisis-milei-30-mil-empleadas-domesticas-perdieron-trabajo-2026830141836",
+      "detectado": "2026-08-30T20:09:28.346Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/river-vencio-3-1-banfield-torneo-clausura-estreno-ponzio-dt-202683016560",
+      "sitio": "El Destape",
+      "titulo": "River venció a Banfield por 3 a 2 en el debut de Ponzio como DT",
+      "url": "https://www.eldestapeweb.com/deportes/river-vencio-3-1-banfield-torneo-clausura-estreno-ponzio-dt-202683016560",
+      "detectado": "2026-08-30T20:09:28.346Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/roberto-navarro-panorana-politico-semana-justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-202683011540",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "SRT: la suma fija del FFEP será de $1.905 para agosto 2026",
       "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-905-para-agosto-2026/",
       "detectado": "2026-08-26T14:24:52.376Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-anuncio-creditos-hipotecarios-financiados-fgs-anses-2026826101925",
-      "sitio": "El Destape",
-      "titulo": "Caputo anunció créditos hipotecarios financiados con el FGS de Anses",
-      "url": "https://www.eldestapeweb.com/economia/caputo-anuncio-creditos-hipotecarios-financiados-fgs-anses-2026826101925",
-      "detectado": "2026-08-26T14:24:59.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723",
-      "sitio": "El Destape",
-      "titulo": "Paran las Fuerzas Armadas y marchan al Ministerio de Defensa",
-      "url": "https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723",
-      "detectado": "2026-08-26T14:24:59.104Z"
     }
   ]
 }
