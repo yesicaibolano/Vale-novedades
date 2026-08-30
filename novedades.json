@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-30T10:47:18.571Z",
+  "actualizado": "2026-08-30T15:33:47.650Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/roberto-navarro-panorana-politico-semana-justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-202683011540",
+      "sitio": "El Destape",
+      "titulo": "La justicia social de Caputo, el rumbo de Kicillof y la fuerte compra de dólares",
+      "url": "https://www.eldestapeweb.com/politica/roberto-navarro-panorana-politico-semana-justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-202683011540",
+      "detectado": "2026-08-30T15:33:47.304Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/robarse-continente-202683091853",
+      "sitio": "El Destape",
+      "titulo": "Cómo robarse un continente",
+      "url": "https://www.eldestapeweb.com/politica/robarse-continente-202683091853",
+      "detectado": "2026-08-30T15:33:47.304Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-08-30T15:33:47.304Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/evasion-impositiva",
+      "sitio": "El Destape",
+      "titulo": "Evasión impositiva",
+      "url": "https://www.eldestapeweb.com/tag/evasion-impositiva",
+      "detectado": "2026-08-30T15:33:47.304Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/abcd-opacidad-fiscal-evasion-tributaria-2026829201421",
+      "sitio": "El Destape",
+      "titulo": "El ABCD de la opacidad fiscal y la evasión tributaria",
+      "url": "https://www.eldestapeweb.com/economia/abcd-opacidad-fiscal-evasion-tributaria-2026829201421",
+      "detectado": "2026-08-30T15:33:47.304Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-empezo-pensar-puede-volver-gobernar-20268300556",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Paran las Fuerzas Armadas y marchan al Ministerio de Defensa",
       "url": "https://www.eldestapeweb.com/politica/ate-lanzo-paro-fuerzas-armadas-marchara-ministerio-defensa-202682692723",
       "detectado": "2026-08-26T14:24:59.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-habilito-billeteras-virtuales-podran-entrar-cuentas-bancaria-cobrar-deudas-20268261071",
-      "sitio": "El Destape",
-      "titulo": "Billeteras virtuales podrán entrar a las cuentas bancaria para cobrar deudas",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-habilito-billeteras-virtuales-podran-entrar-cuentas-bancaria-cobrar-deudas-20268261071",
-      "detectado": "2026-08-26T14:24:59.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/enigmatico-mensaje-encendio-alarmas-oficialismo-esto-termina-mal-20268261310",
-      "sitio": "El Destape",
-      "titulo": "El enigmático mensaje que encendió las alarmas en el oficialismo: \"Esto termina mal\"",
-      "url": "https://www.eldestapeweb.com/politica/enigmatico-mensaje-encendio-alarmas-oficialismo-esto-termina-mal-20268261310",
-      "detectado": "2026-08-26T14:24:59.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/agencia-web",
-      "sitio": "El Destape",
-      "titulo": "Por Redacción El Destape",
-      "url": "https://www.eldestapeweb.com/perfil/agencia-web",
-      "detectado": "2026-08-26T14:24:59.104Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2625-gastronomicos-comedores-401-05-se-acordaron-nuevos-basicos-y-sumas-no-remunerativas-agosto-2026-a-enero-2027.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Gastronómicos - Comedores 401/05: se acordaron nuevos básicos y sumas no remunerativas (Agosto 2026 a Enero 2027)",
-      "url": "https://jorgevega.com.ar/laboral/2625-gastronomicos-comedores-401-05-se-acordaron-nuevos-basicos-y-sumas-no-remunerativas-agosto-2026-a-enero-2027.html",
-      "detectado": "2026-08-26T03:34:05.400Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-arca-oficializo-la-prorroga-de-la-presentacion/",
-      "sitio": "Ignacio Online",
-      "titulo": "Ganancias: ARCA oficializó la prórroga de la presentación",
-      "url": "https://www.ignacioonline.com.ar/ganancias-arca-oficializo-la-prorroga-de-la-presentacion/",
-      "detectado": "2026-08-26T03:34:08.302Z"
     }
   ]
 }
