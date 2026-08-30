@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-30T01:55:46.174Z",
+  "actualizado": "2026-08-30T10:47:18.571Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-empezo-pensar-puede-volver-gobernar-20268300556",
+      "sitio": "El Destape",
+      "titulo": "El peronismo empezó a pensar que puede volver a gobernar",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-empezo-pensar-puede-volver-gobernar-20268300556",
+      "detectado": "2026-08-30T10:47:18.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/volver-pasado-milei-pasado-mismo-20268300556",
+      "sitio": "El Destape",
+      "titulo": "Interpelar el discurso de la derecha",
+      "url": "https://www.eldestapeweb.com/economia/volver-pasado-milei-pasado-mismo-20268300556",
+      "detectado": "2026-08-30T10:47:18.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/persistencia-dogma-retorno-economia-depresion-20268300556",
+      "sitio": "El Destape",
+      "titulo": "La persistencia del dogma y el retorno de la economía de la depresión",
+      "url": "https://www.eldestapeweb.com/opinion/persistencia-dogma-retorno-economia-depresion-20268300556",
+      "detectado": "2026-08-30T10:47:18.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-08-30T10:47:18.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/conflicto-en-medio-oriente",
+      "sitio": "El Destape",
+      "titulo": "Conflicto en Medio Oriente",
+      "url": "https://www.eldestapeweb.com/tag/conflicto-en-medio-oriente",
+      "detectado": "2026-08-30T10:47:18.087Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-2026829192414",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Ganancias: ARCA oficializó la prórroga de la presentación",
       "url": "https://www.ignacioonline.com.ar/ganancias-arca-oficializo-la-prorroga-de-la-presentacion/",
       "detectado": "2026-08-26T03:34:08.302Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/maestranza-som-acuerdo-salarial-agosto-a-diciembre-2026-cct-281-96/",
-      "sitio": "Ignacio Online",
-      "titulo": "Maestranza SOM: acuerdo salarial agosto a diciembre 2026 CCT 281/96",
-      "url": "https://www.ignacioonline.com.ar/maestranza-som-acuerdo-salarial-agosto-a-diciembre-2026-cct-281-96/",
-      "detectado": "2026-08-26T03:34:08.302Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/reforma-oculta-banco-central-20268260529",
-      "sitio": "El Destape",
-      "titulo": "Reservas en garantía de deudas",
-      "url": "https://www.eldestapeweb.com/economia/reforma-oculta-banco-central-20268260529",
-      "detectado": "2026-08-26T03:34:22.186Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/inteligencia-artificial",
-      "sitio": "El Destape",
-      "titulo": "Inteligencia artificial",
-      "url": "https://www.eldestapeweb.com/tag/inteligencia-artificial",
-      "detectado": "2026-08-26T03:34:22.186Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/empleo-era-ia-sindicato-mundial-trabajadores-datos-20268260529",
-      "sitio": "El Destape",
-      "titulo": "Empleo en la era IA: El Sindicato Mundial de Trabajadores de Datos",
-      "url": "https://www.eldestapeweb.com/politica/empleo-era-ia-sindicato-mundial-trabajadores-datos-20268260529",
-      "detectado": "2026-08-26T03:34:22.186Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-buscara-debatir-endeudamiento-asfixia-cada-vez-hogares-20268260529",
-      "sitio": "El Destape",
-      "titulo": "La oposición buscará debatir el endeudamiento que asfixia a cada vez más hogares",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-buscara-debatir-endeudamiento-asfixia-cada-vez-hogares-20268260529",
-      "detectado": "2026-08-26T03:34:22.186Z"
     }
   ]
 }
