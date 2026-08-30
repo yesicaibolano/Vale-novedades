@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-08-29T20:03:36.951Z",
+  "actualizado": "2026-08-30T01:55:46.174Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-2026829192414",
+      "sitio": "El Destape",
+      "titulo": "La justicia social de Caputo, el rumbo de Kicillof y la fuerte compra de dólares",
+      "url": "https://www.eldestapeweb.com/politica/justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-2026829192414",
+      "detectado": "2026-08-30T01:55:45.611Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Navarro",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "detectado": "2026-08-30T01:55:45.611Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/garrahan-desvio-50-millones-hospital-titulos-bonos-financieros-2026829171629",
+      "sitio": "El Destape",
+      "titulo": "El Garrahan desvió 50 mil millones del hospital en títulos y bonos financieros",
+      "url": "https://www.eldestapeweb.com/politica/garrahan-desvio-50-millones-hospital-titulos-bonos-financieros-2026829171629",
+      "detectado": "2026-08-30T01:55:45.611Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/agustina-arredondo",
+      "sitio": "El Destape",
+      "titulo": "Por Agustina Arredondo",
+      "url": "https://www.eldestapeweb.com/perfil/agustina-arredondo",
+      "detectado": "2026-08-30T01:55:45.611Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-continua-desguace-opc-semanas-milei-presente-presupuesto-2027-2026829201226",
+      "sitio": "El Destape",
+      "titulo": "LLA continúa con el desguace de la OPC, a días de que Milei presente el presupuesto 2027",
+      "url": "https://www.eldestapeweb.com/politica/lla-continua-desguace-opc-semanas-milei-presente-presupuesto-2027-2026829201226",
+      "detectado": "2026-08-30T01:55:45.611Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/leonas-40-anos-elite-hockey-legado-mantiene-gloria-202682913170",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "La oposición buscará debatir el endeudamiento que asfixia a cada vez más hogares",
       "url": "https://www.eldestapeweb.com/politica/oposicion-buscara-debatir-endeudamiento-asfixia-cada-vez-hogares-20268260529",
       "detectado": "2026-08-26T03:34:22.186Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-08-26T03:34:22.186Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-apoya-tuit-economista-vinculado-galperin-desmentir-crisis-endeudamiento-2026825144547",
-      "sitio": "El Destape",
-      "titulo": "Milei se apoya en un socio de Galperín para desmentir la crisis de los endeudados",
-      "url": "https://www.eldestapeweb.com/politica/milei-apoya-tuit-economista-vinculado-galperin-desmentir-crisis-endeudamiento-2026825144547",
-      "detectado": "2026-08-25T19:19:52.002Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820",
-      "sitio": "El Destape",
-      "titulo": "Milei reconoce una suba de la morosidad pero sigue sin admitir el problema: salarios bajos",
-      "url": "https://www.eldestapeweb.com/economia/milei-reconoce-suba-morosidad-sigue-admitir-problema-salarios-bajos-2026825144820",
-      "detectado": "2026-08-25T19:19:52.002Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-08-25T19:19:52.002Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-dice-buque-britanico-no-violo-soberania-oposicion-pide-explicaciones-2026825143137",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno dice que buque británico no violó soberanía y la oposición pide explicaciones",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-dice-buque-britanico-no-violo-soberania-oposicion-pide-explicaciones-2026825143137",
-      "detectado": "2026-08-25T19:19:52.002Z"
     }
   ]
 }
