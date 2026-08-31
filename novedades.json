@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-08-31T11:57:08.483Z",
+  "actualizado": "2026-08-31T18:32:43.859Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA suma al VUCEA la importación de líneas usadas. ¿Qué cambia para el trámite?",
+      "url": "https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
+      "detectado": "2026-08-31T18:30:47.902Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-unifica-el-tramite-de-modificacion-de-destinaciones-de-exportacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA unifica el trámite de modificación de destinaciones de exportación.",
+      "url": "https://contadoresenred.com/arca-unifica-el-tramite-de-modificacion-de-destinaciones-de-exportacion/",
+      "detectado": "2026-08-31T18:30:47.903Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15943-trabajas-con-monotributistas-este-beneficio-es-para-vos",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "¿Trabajás con monotributistas? Este beneficio es para vos",
+      "url": "https://www.cpba.com.ar/noticias/item/15943-trabajas-con-monotributistas-este-beneficio-es-para-vos",
+      "detectado": "2026-08-31T18:32:41.861Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15946-sentido-de-pertenencia-25-y-50-anos-de-matriculacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Sentido de pertenencia: 25 y 50 años de matriculación",
+      "url": "https://www.cpba.com.ar/noticias/item/15946-sentido-de-pertenencia-25-y-50-anos-de-matriculacion",
+      "detectado": "2026-08-31T18:32:41.861Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-08-31T18:32:43.352Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-messi-anuncio-retira-seleccion-argentina-duele-alma-2026831121249",
+      "sitio": "El Destape",
+      "titulo": "Messi anunció que se retira de la Selección Argentina: \"Duele en el alma\"",
+      "url": "https://www.eldestapeweb.com/deportes/lionel-messi-anuncio-retira-seleccion-argentina-duele-alma-2026831121249",
+      "detectado": "2026-08-31T18:32:43.352Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/cuantos-anos-tiene-lionel-messi-edad-fecha-nacimiento-curiosidades-vida-2026624103451",
+      "sitio": "El Destape",
+      "titulo": "Un genio de 39 años: las curiosidades de una vida increíble",
+      "url": "https://www.eldestapeweb.com/deportes/cuantos-anos-tiene-lionel-messi-edad-fecha-nacimiento-curiosidades-vida-2026624103451",
+      "detectado": "2026-08-31T18:32:43.352Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/retira-messi-seleccion-emotivos-mensajes-companeros-despidieron-202683113150",
+      "sitio": "El Destape",
+      "titulo": "Así reaccionaron los jugadores de La Scaloneta al adiós de Lionel: los mensajes",
+      "url": "https://www.eldestapeweb.com/deportes/retira-messi-seleccion-emotivos-mensajes-companeros-despidieron-202683113150",
+      "detectado": "2026-08-31T18:32:43.352Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/emotivo-video-lionel-messi-retiro-seleccion-argentina-202683113648",
+      "sitio": "El Destape",
+      "titulo": "El emotivo video de Messi tras el retiro de la Selección Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/emotivo-video-lionel-messi-retiro-seleccion-argentina-202683113648",
+      "detectado": "2026-08-31T18:32:43.352Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-amplia-el-uso-de-comprobantes-electronicos-a-quienes-alcanza-ahora/",
       "sitio": "Contadores en Red",
@@ -357,69 +420,6 @@
       "titulo": "Consejo del Salario: fracasó la reunión y el Gobierno definirá el aumento",
       "url": "https://www.eldestapeweb.com/politica/fracaso-reunion-define-suba-salario-minimo-gobierno-volvio-cargar-sindicatos-2026828184347",
       "detectado": "2026-08-28T21:56:20.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/echaron-intento-suicidar-fabrica-presidente-uia-2026828133940",
-      "sitio": "El Destape",
-      "titulo": "Lo echaron y se intentó suicidar en una fábrica del presidente de UIA",
-      "url": "https://www.eldestapeweb.com/politica/echaron-intento-suicidar-fabrica-presidente-uia-2026828133940",
-      "detectado": "2026-08-28T21:56:20.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
-      "sitio": "El Destape",
-      "titulo": "Por Mariano Martín",
-      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
-      "detectado": "2026-08-28T21:56:20.759Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/e-book-compendio-de-jurisprudencia-tributaria/",
-      "sitio": "Contadores en Red",
-      "titulo": "E-Book | Compendio de Jurisprudencia Tributaria",
-      "url": "https://contadoresenred.com/e-book-compendio-de-jurisprudencia-tributaria/",
-      "detectado": "2026-08-28T01:37:23.244Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/e-book-exclusiones-del-monotributo/",
-      "sitio": "Contadores en Red",
-      "titulo": "E-Book | Exclusiones del Monotributo",
-      "url": "https://contadoresenred.com/e-book-exclusiones-del-monotributo/",
-      "detectado": "2026-08-28T01:37:23.244Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/e-book-procedimiento-recursivo-y-defensas-en-materia-tributaria/",
-      "sitio": "Contadores en Red",
-      "titulo": "E-Book | Procedimiento Recursivo y Defensas en materia tributaria",
-      "url": "https://contadoresenred.com/e-book-procedimiento-recursivo-y-defensas-en-materia-tributaria/",
-      "detectado": "2026-08-28T01:37:23.244Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/1889-recibo-uthgra-comedores-paritarias-2026-agosto.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Recibo de Sueldo Empleados UTHGRA - COMEDORES 401/05 (con Acuerdo de fecha 24/08/2026)",
-      "url": "https://jorgevega.com.ar/laboral/1889-recibo-uthgra-comedores-paritarias-2026-agosto.html",
-      "detectado": "2026-08-28T01:37:24.121Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/el-gobierno-busca-impulsar-un-salario-minimo-garantizado-de-mas-de-1-millon/",
-      "sitio": "Ignacio Online",
-      "titulo": "El Gobierno busca impulsar un salario mínimo garantizado de más de $1 millón",
-      "url": "https://www.ignacioonline.com.ar/el-gobierno-busca-impulsar-un-salario-minimo-garantizado-de-mas-de-1-millon/",
-      "detectado": "2026-08-28T01:37:26.626Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/asimra-acuerdo-salarial-agosto-2026-para-supervisores-metalmecanicos/",
-      "sitio": "Ignacio Online",
-      "titulo": "ASIMRA: acuerdo salarial agosto 2026 para supervisores metalmecánicos",
-      "url": "https://www.ignacioonline.com.ar/asimra-acuerdo-salarial-agosto-2026-para-supervisores-metalmecanicos/",
-      "detectado": "2026-08-28T01:37:26.626Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-de-agosto-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOM: homologan el acuerdo salarial Rama 21 siderúrgica",
-      "url": "https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-de-agosto-2026/",
-      "detectado": "2026-08-28T01:37:26.626Z"
     }
   ]
 }
