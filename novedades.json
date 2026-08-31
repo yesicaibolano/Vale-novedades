@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-08-30T20:09:28.871Z",
+  "actualizado": "2026-08-31T01:50:53.294Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-arranca-septiembre-foro-libertario-reunion-kast-chile-2026830184946",
+      "sitio": "El Destape",
+      "titulo": "Milei arranca septiembre con un foro libertario y una reunión con Kast en Chile",
+      "url": "https://www.eldestapeweb.com/politica/milei-arranca-septiembre-foro-libertario-reunion-kast-chile-2026830184946",
+      "detectado": "2026-08-31T01:50:52.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-libertaria-tercio-votantes-milei-exige-cambiar-rumbo-economico-apoyar-consumo-2026830165619",
+      "sitio": "El Destape",
+      "titulo": "La encuesta sobre la dirección del gobierno que alarma a la Casa Rosada",
+      "url": "https://www.eldestapeweb.com/politica/alerta-libertaria-tercio-votantes-milei-exige-cambiar-rumbo-economico-apoyar-consumo-2026830165619",
+      "detectado": "2026-08-31T01:50:52.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/independiente-perdio-baile-local-gimnasia-estadio-exploto-todos-20268302170",
+      "sitio": "El Destape",
+      "titulo": "Independiente perdió con baile de local ante Gimnasia y su estadio explotó contra todos",
+      "url": "https://www.eldestapeweb.com/deportes/independiente-perdio-baile-local-gimnasia-estadio-exploto-todos-20268302170",
+      "detectado": "2026-08-31T01:50:52.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/acuerdo-trump-llenara-reservas-estrategicas-petroleo-venezolano-20268301344",
+      "sitio": "El Destape",
+      "titulo": "Tras el acuerdo, Trump llenará las reservas estratégicas con petróleo venezolano",
+      "url": "https://www.eldestapeweb.com/internacionales/acuerdo-trump-llenara-reservas-estrategicas-petroleo-venezolano-20268301344",
+      "detectado": "2026-08-31T01:50:52.943Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/crisis-milei-30-mil-empleadas-domesticas-perdieron-trabajo-2026830141836",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "El PRO y LLA aprobaron una ley para restar fondos a las obras y políticas de vivienda",
       "url": "https://www.eldestapeweb.com/politica/plena-crisis-habitacional-pro-lla-aprobaron-ley-restar-fondos-obras-politicas-vivienda-2026827194354",
       "detectado": "2026-08-28T01:37:31.736Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-le-dio-66-pliegos-judiciales-milei-oposicion-instalo-crisis-mora-202682717025",
-      "sitio": "El Destape",
-      "titulo": "El Senado le dio 67 pliegos judiciales a Milei y la oposición instaló la crisis de la mora",
-      "url": "https://www.eldestapeweb.com/politica/senado-le-dio-66-pliegos-judiciales-milei-oposicion-instalo-crisis-mora-202682717025",
-      "detectado": "2026-08-28T01:37:31.736Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-agosto-2026-disposicion-8-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Valor Suma Fija ART Agosto 2026. Disposición 8/2026",
-      "url": "https://contadoresenred.com/valor-suma-fija-art-agosto-2026-disposicion-8-2026/",
-      "detectado": "2026-08-26T14:24:48.732Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2626-riesgos-trabajo-cuota-agosto-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Riesgos del Trabajo - La Cuota Fija aumenta a $ 1.905 en Agosto 2026 (vencimiento Septiembre)",
-      "url": "https://jorgevega.com.ar/laboral/2626-riesgos-trabajo-cuota-agosto-2026.html",
-      "detectado": "2026-08-26T14:24:49.666Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-905-para-agosto-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "SRT: la suma fija del FFEP será de $1.905 para agosto 2026",
-      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-905-para-agosto-2026/",
-      "detectado": "2026-08-26T14:24:52.376Z"
     }
   ]
 }
