@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-08-31T01:50:53.294Z",
+  "actualizado": "2026-08-31T11:57:08.483Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-amplia-el-uso-de-comprobantes-electronicos-a-quienes-alcanza-ahora/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA amplía el uso de comprobantes electrónicos. ¿A quiénes alcanza ahora?",
+      "url": "https://contadoresenred.com/arca-amplia-el-uso-de-comprobantes-electronicos-a-quienes-alcanza-ahora/",
+      "detectado": "2026-08-31T11:56:59.080Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-amplia-la-obligacion-de-emitir-comprobantes-desde-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA amplía la obligación de emitir comprobantes desde noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/arca-amplia-la-obligacion-de-emitir-comprobantes-desde-noviembre-2026/",
+      "detectado": "2026-08-31T11:57:04.567Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-desde-agosto-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad CCT 120/75: nueva escala salarial desde agosto 2026",
+      "url": "https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-desde-agosto-2026/",
+      "detectado": "2026-08-31T11:57:04.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/poco-festejar-alarmantes-cifras-industria-argentina-despues-tres-anos-milei-202682920470",
+      "sitio": "El Destape",
+      "titulo": "Poco que festejar: las alarmantes cifras de la industria después de tres años de Milei",
+      "url": "https://www.eldestapeweb.com/economia/poco-festejar-alarmantes-cifras-industria-argentina-despues-tres-anos-milei-202682920470",
+      "detectado": "2026-08-31T11:57:07.975Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-08-31T11:57:07.975Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/hay-plata-milei-aumento-sueldo-12-fuerzas-armadas-medio-reclamos-202683184455",
+      "sitio": "El Destape",
+      "titulo": "Hay plata: Milei aumentó un 12% el sueldo a las Fuerzas Armadas",
+      "url": "https://www.eldestapeweb.com/politica/hay-plata-milei-aumento-sueldo-12-fuerzas-armadas-medio-reclamos-202683184455",
+      "detectado": "2026-08-31T11:57:07.975Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/agoto-obstaculo-insalvable-milei-seguir-bajando-pobreza-202683018540",
+      "sitio": "El Destape",
+      "titulo": "Se agotó: el obstáculo insalvable de Milei para seguir bajando la pobreza",
+      "url": "https://www.eldestapeweb.com/economia/agoto-obstaculo-insalvable-milei-seguir-bajando-pobreza-202683018540",
+      "detectado": "2026-08-31T11:57:07.975Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/declaracion-jurada",
+      "sitio": "El Destape",
+      "titulo": "declaración jurada",
+      "url": "https://www.eldestapeweb.com/tag/declaracion-jurada",
+      "detectado": "2026-08-31T11:57:07.975Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-arranca-septiembre-foro-libertario-reunion-kast-chile-2026830184946",
       "sitio": "El Destape",
@@ -219,13 +275,6 @@
       "detectado": "2026-08-29T04:27:32.926Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-08-29T04:27:32.926Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-juega-policia-malo-caputo-empaticos-gobierno-pj-libertario-20268290544",
       "sitio": "El Destape",
       "titulo": "Milei juega al “policía malo” con Caputo, los “empáticos” del Gobierno y el PJ libertario",
@@ -371,55 +420,6 @@
       "titulo": "UOM: homologan el acuerdo salarial Rama 21 siderúrgica",
       "url": "https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-de-agosto-2026/",
       "detectado": "2026-08-28T01:37:26.626Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-cct-42-89-nuevo-acuerdo-salarial-agosto-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Sanidad CCT 42/89: nuevo acuerdo salarial agosto 2026",
-      "url": "https://www.ignacioonline.com.ar/sanidad-cct-42-89-nuevo-acuerdo-salarial-agosto-2026/",
-      "detectado": "2026-08-28T01:37:26.626Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Capacitate en investigación de mercados con IA",
-      "url": "https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
-      "detectado": "2026-08-28T01:37:30.058Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15942-arca-implemento-el-sistema-de-gestion-de-inversiones-sgi",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "ARCA implementó el Sistema de Gestión de Inversiones (SGI)",
-      "url": "https://www.cpba.com.ar/noticias/item/15942-arca-implemento-el-sistema-de-gestion-de-inversiones-sgi",
-      "detectado": "2026-08-28T01:37:30.059Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-emitio-pesos-subio-tasa-frenar-dolar-202682720311",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno emitió pesos y subió la tasa para frenar al dólar",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-emitio-pesos-subio-tasa-frenar-dolar-202682720311",
-      "detectado": "2026-08-28T01:37:31.736Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-08-28T01:37:31.736Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/legislatura-portena",
-      "sitio": "El Destape",
-      "titulo": "Legislatura porteña",
-      "url": "https://www.eldestapeweb.com/tag/legislatura-portena",
-      "detectado": "2026-08-28T01:37:31.736Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/plena-crisis-habitacional-pro-lla-aprobaron-ley-restar-fondos-obras-politicas-vivienda-2026827194354",
-      "sitio": "El Destape",
-      "titulo": "El PRO y LLA aprobaron una ley para restar fondos a las obras y políticas de vivienda",
-      "url": "https://www.eldestapeweb.com/politica/plena-crisis-habitacional-pro-lla-aprobaron-ley-restar-fondos-obras-politicas-vivienda-2026827194354",
-      "detectado": "2026-08-28T01:37:31.736Z"
     }
   ]
 }
