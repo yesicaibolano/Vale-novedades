@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-01T15:38:33.830Z",
+  "actualizado": "2026-09-01T20:12:37.324Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15948-participa-de-la-ronda-de-consultas-tributarias-de-arba",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Participá de la ronda de consultas tributarias de ARBA",
+      "url": "https://www.cpba.com.ar/noticias/item/15948-participa-de-la-ronda-de-consultas-tributarias-de-arba",
+      "detectado": "2026-09-01T20:12:34.149Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15950-mas-de-mil-asistentes-participaron-de-las-jornadas-nacionales-y-provinciales-de-economia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Más de mil asistentes participaron de las Jornadas Nacionales y Provinciales de Economía",
+      "url": "https://www.cpba.com.ar/noticias/item/15950-mas-de-mil-asistentes-participaron-de-las-jornadas-nacionales-y-provinciales-de-economia",
+      "detectado": "2026-09-01T20:12:34.149Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-lanza-ambicioso-plan-blindarse-futuro-reformar-comodoro-py-202691151918",
+      "sitio": "El Destape",
+      "titulo": "Milei lanza un ambicioso plan para blindarse a futuro: reformar Comodoro Py",
+      "url": "https://www.eldestapeweb.com/politica/milei-lanza-ambicioso-plan-blindarse-futuro-reformar-comodoro-py-202691151918",
+      "detectado": "2026-09-01T20:12:36.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-01T20:12:36.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-cayo-julio-pese-mejora-defiende-milei-empleo-sigue-baja-20269113409",
+      "sitio": "El Destape",
+      "titulo": "La actividad cayó en julio y, pese a la mejora que defiende Milei, el empleo sigue en baja",
+      "url": "https://www.eldestapeweb.com/economia/actividad-cayo-julio-pese-mejora-defiende-milei-empleo-sigue-baja-20269113409",
+      "detectado": "2026-09-01T20:12:36.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-09-01T20:12:36.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/otro-lesionado-boca-durisima-baja-ultima-hora-velez-copa-argentina-20269113337",
+      "sitio": "El Destape",
+      "titulo": "Otro lesionado en Boca: durísima baja de última hora vs Vélez por Copa Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/otro-lesionado-boca-durisima-baja-ultima-hora-velez-copa-argentina-20269113337",
+      "detectado": "2026-09-01T20:12:36.332Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/mineria-se-digitaliza-el-tramite-de-exencion-de-derechos-de-importacion/",
       "sitio": "Contadores en Red",
@@ -198,13 +247,6 @@
       "detectado": "2026-09-01T02:13:42.928Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-01T02:13:42.928Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
       "sitio": "Contadores en Red",
       "titulo": "ARCA suma al VUCEA la importación de líneas usadas. ¿Qué cambia para el trámite?",
@@ -378,48 +420,6 @@
       "titulo": "Cómo robarse un continente",
       "url": "https://www.eldestapeweb.com/politica/robarse-continente-202683091853",
       "detectado": "2026-08-30T15:33:47.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-08-30T15:33:47.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/evasion-impositiva",
-      "sitio": "El Destape",
-      "titulo": "Evasión impositiva",
-      "url": "https://www.eldestapeweb.com/tag/evasion-impositiva",
-      "detectado": "2026-08-30T15:33:47.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/abcd-opacidad-fiscal-evasion-tributaria-2026829201421",
-      "sitio": "El Destape",
-      "titulo": "El ABCD de la opacidad fiscal y la evasión tributaria",
-      "url": "https://www.eldestapeweb.com/economia/abcd-opacidad-fiscal-evasion-tributaria-2026829201421",
-      "detectado": "2026-08-30T15:33:47.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-empezo-pensar-puede-volver-gobernar-20268300556",
-      "sitio": "El Destape",
-      "titulo": "El peronismo empezó a pensar que puede volver a gobernar",
-      "url": "https://www.eldestapeweb.com/politica/peronismo-empezo-pensar-puede-volver-gobernar-20268300556",
-      "detectado": "2026-08-30T10:47:18.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/volver-pasado-milei-pasado-mismo-20268300556",
-      "sitio": "El Destape",
-      "titulo": "Interpelar el discurso de la derecha",
-      "url": "https://www.eldestapeweb.com/economia/volver-pasado-milei-pasado-mismo-20268300556",
-      "detectado": "2026-08-30T10:47:18.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/persistencia-dogma-retorno-economia-depresion-20268300556",
-      "sitio": "El Destape",
-      "titulo": "La persistencia del dogma y el retorno de la economía de la depresión",
-      "url": "https://www.eldestapeweb.com/opinion/persistencia-dogma-retorno-economia-depresion-20268300556",
-      "detectado": "2026-08-30T10:47:18.087Z"
     }
   ]
 }
