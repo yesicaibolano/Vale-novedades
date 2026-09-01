@@ -1,6 +1,125 @@
 {
-  "actualizado": "2026-09-01T10:36:28.562Z",
+  "actualizado": "2026-09-01T15:38:33.830Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/mineria-se-digitaliza-el-tramite-de-exencion-de-derechos-de-importacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "Minería se digitaliza el trámite de exención de derechos de importación.",
+      "url": "https://contadoresenred.com/mineria-se-digitaliza-el-tramite-de-exencion-de-derechos-de-importacion/",
+      "detectado": "2026-09-01T15:38:05.763Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/programa-kit-4-0-elimina-el-requisito-de-ser-industria-a-quienes-alcanza-ahora/",
+      "sitio": "Contadores en Red",
+      "titulo": "Programa KIT 4.0 elimina el requisito de ser industria. ¿A quiénes alcanza ahora?",
+      "url": "https://contadoresenred.com/programa-kit-4-0-elimina-el-requisito-de-ser-industria-a-quienes-alcanza-ahora/",
+      "detectado": "2026-09-01T15:38:05.763Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
+      "sitio": "Contadores en Red",
+      "titulo": "ANSES crea el Domicilio Electrónico de la Seguridad Social.",
+      "url": "https://contadoresenred.com/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
+      "detectado": "2026-09-01T15:38:05.763Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-septiembre-2026-minima-y-maxima/",
+      "sitio": "Contadores en Red",
+      "titulo": "Base Imponible SIPA Septiembre 2026. Mínima y máxima.",
+      "url": "https://contadoresenred.com/base-imponible-sipa-septiembre-2026-minima-y-maxima/",
+      "detectado": "2026-09-01T15:38:05.763Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-agrega-requisito-para-el-reintegro-del-sisa-que-cambia-para-los-productores/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA agrega requisito para IP1 / IP2 y el reintegro del SISA. ¿Qué cambia para los productores?",
+      "url": "https://contadoresenred.com/arca-agrega-requisito-para-el-reintegro-del-sisa-que-cambia-para-los-productores/",
+      "detectado": "2026-09-01T15:38:05.763Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2627-anses-res-262-2026-domicilio-electronico-de-la-seguridad-social.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ANSeS - Res. 262/2026 - Domicilio Electrónico de la Seguridad Social",
+      "url": "https://jorgevega.com.ar/laboral/2627-anses-res-262-2026-domicilio-electronico-de-la-seguridad-social.html",
+      "detectado": "2026-09-01T15:38:06.542Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-septiembre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ANSeS: Montos Asignaciones familiares - SEPTIEMBRE 2026",
+      "url": "https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-septiembre.html",
+      "detectado": "2026-09-01T15:38:06.542Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-septiembre-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Jubilaciones y bases imponibles: actualización - Septiembre 2026",
+      "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-septiembre-2026.html",
+      "detectado": "2026-09-01T15:38:06.542Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-septiembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Servicio Doméstico: escala salarial septiembre 2026",
+      "url": "https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-septiembre-2026/",
+      "detectado": "2026-09-01T15:38:07.419Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
+      "sitio": "Ignacio Online",
+      "titulo": "ANSES crea el Domicilio Electrónico de la Seguridad Social",
+      "url": "https://www.ignacioonline.com.ar/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
+      "detectado": "2026-09-01T15:38:07.419Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/montos-asignaciones-familiares-septiembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Montos Asignaciones Familiares Septiembre 2026",
+      "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-septiembre-2026/",
+      "detectado": "2026-09-01T15:38:07.419Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15949-ahora-en-repro-ia-y-trazabilidad-como-auditar-lo-que-produce-la-inteligencia-artificial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | IA y trazabilidad: ¿Cómo auditar lo que produce la inteligencia artificial?",
+      "url": "https://www.cpba.com.ar/noticias/item/15949-ahora-en-repro-ia-y-trazabilidad-como-auditar-lo-que-produce-la-inteligencia-artificial",
+      "detectado": "2026-09-01T15:38:11.144Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-09-01T15:38:33.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-hara-cadena-nacional-malvinas-202691123559",
+      "sitio": "El Destape",
+      "titulo": "Milei hará una cadena nacional por las Islas Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/milei-hara-cadena-nacional-malvinas-202691123559",
+      "detectado": "2026-09-01T15:38:33.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/revelan-recorrida-papa-incomodara-javier-milei-202691114815",
+      "sitio": "El Destape",
+      "titulo": "Visita del pontífice a la Argentina",
+      "url": "https://www.eldestapeweb.com/politica/revelan-recorrida-papa-incomodara-javier-milei-202691114815",
+      "detectado": "2026-09-01T15:38:33.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/atentado-a-cristina",
+      "sitio": "El Destape",
+      "titulo": "Atentado a Cristina",
+      "url": "https://www.eldestapeweb.com/tag/atentado-a-cristina",
+      "detectado": "2026-09-01T15:38:33.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/carta-pj-cuatro-anos-intento-asesinato-cfk-nunca-20269193712",
+      "sitio": "El Destape",
+      "titulo": "La carta del PJ a cuatro años del intento de asesinato de CFK: \"Nunca más\"",
+      "url": "https://www.eldestapeweb.com/politica/carta-pj-cuatro-anos-intento-asesinato-cfk-nunca-20269193712",
+      "detectado": "2026-09-01T15:38:33.320Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/septiembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
       "sitio": "Ignacio Online",
@@ -301,125 +420,6 @@
       "titulo": "La persistencia del dogma y el retorno de la economía de la depresión",
       "url": "https://www.eldestapeweb.com/opinion/persistencia-dogma-retorno-economia-depresion-20268300556",
       "detectado": "2026-08-30T10:47:18.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-08-30T10:47:18.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/conflicto-en-medio-oriente",
-      "sitio": "El Destape",
-      "titulo": "Conflicto en Medio Oriente",
-      "url": "https://www.eldestapeweb.com/tag/conflicto-en-medio-oriente",
-      "detectado": "2026-08-30T10:47:18.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-2026829192414",
-      "sitio": "El Destape",
-      "titulo": "La justicia social de Caputo, el rumbo de Kicillof y la fuerte compra de dólares",
-      "url": "https://www.eldestapeweb.com/politica/justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-2026829192414",
-      "detectado": "2026-08-30T01:55:45.611Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Navarro",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "detectado": "2026-08-30T01:55:45.611Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/garrahan-desvio-50-millones-hospital-titulos-bonos-financieros-2026829171629",
-      "sitio": "El Destape",
-      "titulo": "El Garrahan desvió 50 mil millones del hospital en títulos y bonos financieros",
-      "url": "https://www.eldestapeweb.com/politica/garrahan-desvio-50-millones-hospital-titulos-bonos-financieros-2026829171629",
-      "detectado": "2026-08-30T01:55:45.611Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/agustina-arredondo",
-      "sitio": "El Destape",
-      "titulo": "Por Agustina Arredondo",
-      "url": "https://www.eldestapeweb.com/perfil/agustina-arredondo",
-      "detectado": "2026-08-30T01:55:45.611Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-continua-desguace-opc-semanas-milei-presente-presupuesto-2027-2026829201226",
-      "sitio": "El Destape",
-      "titulo": "LLA continúa con el desguace de la OPC, a días de que Milei presente el presupuesto 2027",
-      "url": "https://www.eldestapeweb.com/politica/lla-continua-desguace-opc-semanas-milei-presente-presupuesto-2027-2026829201226",
-      "detectado": "2026-08-30T01:55:45.611Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/leonas-40-anos-elite-hockey-legado-mantiene-gloria-202682913170",
-      "sitio": "El Destape",
-      "titulo": "Las Leonas campeonas del mundo: más de 40 años en la elite y un legado que se mantiene",
-      "url": "https://www.eldestapeweb.com/deportes/leonas-40-anos-elite-hockey-legado-mantiene-gloria-202682913170",
-      "detectado": "2026-08-29T20:03:36.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/esteban-micozzi",
-      "sitio": "El Destape",
-      "titulo": "Por Esteban Micozzi",
-      "url": "https://www.eldestapeweb.com/perfil/esteban-micozzi",
-      "detectado": "2026-08-29T20:03:36.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cerimedo-pista-cripto-investigan-movimientos-millones-dolares-202682913044",
-      "sitio": "El Destape",
-      "titulo": "Cerimedo, la pista cripto: investigan movimientos por millones de dólares",
-      "url": "https://www.eldestapeweb.com/politica/cerimedo-pista-cripto-investigan-movimientos-millones-dolares-202682913044",
-      "detectado": "2026-08-29T20:03:36.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-08-29T20:03:36.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fotos-cruzadas-trastienda-armado-porteno-2027-202682916820",
-      "sitio": "El Destape",
-      "titulo": "Fotos cruzadas de la trastienda del armado porteño 2027",
-      "url": "https://www.eldestapeweb.com/politica/fotos-cruzadas-trastienda-armado-porteno-2027-202682916820",
-      "detectado": "2026-08-29T20:03:36.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reforma-electoral-proxima-escala-plan-blindar-modelo-20268290544",
-      "sitio": "El Destape",
-      "titulo": "Reforma electoral: próxima escala del plan para blindar el modelo",
-      "url": "https://www.eldestapeweb.com/politica/reforma-electoral-proxima-escala-plan-blindar-modelo-20268290544",
-      "detectado": "2026-08-29T15:48:38.862Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/vivo-leonas-empatan-final-mundial-2026-hockey-vs-paises-bajos-2026829112547",
-      "sitio": "El Destape",
-      "titulo": "Leonas heroicas: vencieron a Países Bajos en la final y son campeonas del mundo",
-      "url": "https://www.eldestapeweb.com/deportes/vivo-leonas-empatan-final-mundial-2026-hockey-vs-paises-bajos-2026829112547",
-      "detectado": "2026-08-29T15:48:38.862Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/aire-respiramos-caba-puede-variar-vereda-otra-2026828181931",
-      "sitio": "El Destape",
-      "titulo": "El aire que respiramos en CABA puede variar de una vereda a la otra",
-      "url": "https://www.eldestapeweb.com/sociedad/aire-respiramos-caba-puede-variar-vereda-otra-2026828181931",
-      "detectado": "2026-08-29T15:48:38.862Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-turismo-nuevo-acuerdo-salarial-agosto-2026-con-aumento-del-57-y-suma-extra-de-50-000/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio Turismo: nuevo acuerdo salarial agosto 2026 con aumento del 5,7% y suma extra de $50.000",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-turismo-nuevo-acuerdo-salarial-agosto-2026-con-aumento-del-57-y-suma-extra-de-50-000/",
-      "detectado": "2026-08-29T04:27:28.488Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fragilidad-laboral-record-cada-vez-cuesta-entrar-permanecer-puesto-registrado-20268290544",
-      "sitio": "El Destape",
-      "titulo": "Fragilidad laboral récord: cada vez cuesta más entrar y permanecer en un puesto registrado",
-      "url": "https://www.eldestapeweb.com/economia/fragilidad-laboral-record-cada-vez-cuesta-entrar-permanecer-puesto-registrado-20268290544",
-      "detectado": "2026-08-29T04:27:32.926Z"
     }
   ]
 }
