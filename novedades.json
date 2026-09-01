@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-08-31T18:32:43.859Z",
+  "actualizado": "2026-09-01T02:13:43.348Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15947-inscripcion-de-profesionales-auxiliares-de-justicia-para-el-2027",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Inscripción de Profesionales Auxiliares de Justicia para el 2027",
+      "url": "https://www.cpba.com.ar/noticias/item/15947-inscripcion-de-profesionales-auxiliares-de-justicia-para-el-2027",
+      "detectado": "2026-09-01T02:13:41.342Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/10-10-momentos-iconicos-lionel-messi-seleccion-argentina-20268312111",
+      "sitio": "El Destape",
+      "titulo": "Los 10 del 10: los momentos claves de Lionel Messi en la Selección Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/10-10-momentos-iconicos-lionel-messi-seleccion-argentina-20268312111",
+      "detectado": "2026-09-01T02:13:42.928Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-retiro-seleccion-adios-crack-normalizo-imposible-2026831145551",
+      "sitio": "El Destape",
+      "titulo": "Messi se retiró de la Selección: el adiós del crack que normalizó lo imposible",
+      "url": "https://www.eldestapeweb.com/deportes/messi-retiro-seleccion-adios-crack-normalizo-imposible-2026831145551",
+      "detectado": "2026-09-01T02:13:42.928Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
+      "sitio": "El Destape",
+      "titulo": "Por Ezequiel Fernández Moores",
+      "url": "https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
+      "detectado": "2026-09-01T02:13:42.928Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pausa-duro-mes-mora-volvio-subir-juilio-alcanzo-casi-6-millones-personas-2026831153536",
+      "sitio": "El Destape",
+      "titulo": "La pausa duró un mes: la mora volvió a subir en julio y alcanzó a 6 millones de personas",
+      "url": "https://www.eldestapeweb.com/economia/pausa-duro-mes-mora-volvio-subir-juilio-alcanzo-casi-6-millones-personas-2026831153536",
+      "detectado": "2026-09-01T02:13:42.928Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-09-01T02:13:42.928Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "La Delegación Lincoln celebró su 60° aniversario",
       "url": "https://www.cpba.com.ar/noticias/item/15945-la-delegacion-lincoln-celebro-su-60-aniversario",
       "detectado": "2026-08-28T21:56:19.246Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15883-almorza-con-descuento-en-sede-provincial",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Almorzá con descuento en Sede Provincial",
-      "url": "https://www.cpba.com.ar/noticias/item/15883-almorza-con-descuento-en-sede-provincial",
-      "detectado": "2026-08-28T21:56:19.246Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
-      "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "detectado": "2026-08-28T21:56:19.246Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15944-ahora-en-repro-agentes-de-inteligencia-artificial-como-cambian-los-procesos-de-trabajo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Agentes de inteligencia artificial: Cómo cambian los procesos de trabajo",
-      "url": "https://www.cpba.com.ar/noticias/item/15944-ahora-en-repro-agentes-de-inteligencia-artificial-como-cambian-los-procesos-de-trabajo",
-      "detectado": "2026-08-28T21:56:19.246Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/falsa-justicia-social-gobierno-va-suba-salarial-no-subira-sueldos-2026828164451",
-      "sitio": "El Destape",
-      "titulo": "La falsa \"justicia social\": el Gobierno va por una suba salarial que no subirá los sueldos",
-      "url": "https://www.eldestapeweb.com/economia/falsa-justicia-social-gobierno-va-suba-salarial-no-subira-sueldos-2026828164451",
-      "detectado": "2026-08-28T21:56:20.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-bloquea-llamado-sesion-morosidad-familiar-diputados-202682818330",
-      "sitio": "El Destape",
-      "titulo": "LLA bloquea el llamado a sesión por la morosidad familiar en Diputados",
-      "url": "https://www.eldestapeweb.com/politica/lla-bloquea-llamado-sesion-morosidad-familiar-diputados-202682818330",
-      "detectado": "2026-08-28T21:56:20.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fracaso-reunion-define-suba-salario-minimo-gobierno-volvio-cargar-sindicatos-2026828184347",
-      "sitio": "El Destape",
-      "titulo": "Consejo del Salario: fracasó la reunión y el Gobierno definirá el aumento",
-      "url": "https://www.eldestapeweb.com/politica/fracaso-reunion-define-suba-salario-minimo-gobierno-volvio-cargar-sindicatos-2026828184347",
-      "detectado": "2026-08-28T21:56:20.759Z"
     }
   ]
 }
