@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-02T15:25:45.074Z",
+  "actualizado": "2026-09-02T20:11:13.690Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/el-conflicto-social",
+      "sitio": "El Destape",
+      "titulo": "El conflicto social",
+      "url": "https://www.eldestapeweb.com/tag/el-conflicto-social",
+      "detectado": "2026-09-02T20:11:12.668Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/tres-cada-cuatro-hogares-barrios-populares-no-llegan-cubrir-basico-vivir-20269214441",
+      "sitio": "El Destape",
+      "titulo": "Tres de cada cuatro hogares de barrios populares no llegan a cubrir lo básico para vivir",
+      "url": "https://www.eldestapeweb.com/economia/tres-cada-cuatro-hogares-barrios-populares-no-llegan-cubrir-basico-vivir-20269214441",
+      "detectado": "2026-09-02T20:11:12.668Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-02T20:11:12.668Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
+      "sitio": "El Destape",
+      "titulo": "Fuerte reclamo de la UIA al gobierno de Milei que vació el evento de funcionarios",
+      "url": "https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
+      "detectado": "2026-09-02T20:11:12.668Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
+      "sitio": "El Destape",
+      "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
+      "url": "https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
+      "detectado": "2026-09-02T20:11:12.668Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
       "sitio": "Jorge Vega",
@@ -125,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "La oposición acusó al Gobierno de intentar \"distraer\" y apuesta todo a la sesión del 9",
       "url": "https://www.eldestapeweb.com/politica/oposicion-acuso-gobierno-intentar-distraer-proyectos-apuesta-todo-sesion-miercoles-9-20269120954",
-      "detectado": "2026-09-02T01:36:20.834Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-09-02T01:36:20.834Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "¿Trabajás con monotributistas? Este beneficio es para vos",
       "url": "https://www.cpba.com.ar/noticias/item/15943-trabajas-con-monotributistas-este-beneficio-es-para-vos",
       "detectado": "2026-08-31T18:32:41.861Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15946-sentido-de-pertenencia-25-y-50-anos-de-matriculacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Sentido de pertenencia: 25 y 50 años de matriculación",
-      "url": "https://www.cpba.com.ar/noticias/item/15946-sentido-de-pertenencia-25-y-50-anos-de-matriculacion",
-      "detectado": "2026-08-31T18:32:41.861Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-messi-anuncio-retira-seleccion-argentina-duele-alma-2026831121249",
-      "sitio": "El Destape",
-      "titulo": "Messi anunció que se retira de la Selección Argentina: \"Duele en el alma\"",
-      "url": "https://www.eldestapeweb.com/deportes/lionel-messi-anuncio-retira-seleccion-argentina-duele-alma-2026831121249",
-      "detectado": "2026-08-31T18:32:43.352Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/cuantos-anos-tiene-lionel-messi-edad-fecha-nacimiento-curiosidades-vida-2026624103451",
-      "sitio": "El Destape",
-      "titulo": "Un genio de 39 años: las curiosidades de una vida increíble",
-      "url": "https://www.eldestapeweb.com/deportes/cuantos-anos-tiene-lionel-messi-edad-fecha-nacimiento-curiosidades-vida-2026624103451",
-      "detectado": "2026-08-31T18:32:43.352Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/retira-messi-seleccion-emotivos-mensajes-companeros-despidieron-202683113150",
-      "sitio": "El Destape",
-      "titulo": "Así reaccionaron los jugadores de La Scaloneta al adiós de Lionel: los mensajes",
-      "url": "https://www.eldestapeweb.com/deportes/retira-messi-seleccion-emotivos-mensajes-companeros-despidieron-202683113150",
-      "detectado": "2026-08-31T18:32:43.352Z"
     }
   ]
 }
