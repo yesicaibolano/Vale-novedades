@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-02T10:01:34.197Z",
+  "actualizado": "2026-09-02T15:25:45.074Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Salario mínimo y Prestación por Desempleo - Incrementos Hasta Abril 2027 (Res. 4/2026)",
+      "url": "https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
+      "detectado": "2026-09-02T15:25:37.981Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/salario-minimo-nuevos-valores-de-septiembre-2026-a-abril-2027/",
+      "sitio": "Ignacio Online",
+      "titulo": "Salario Mínimo: nuevos valores de septiembre 2026 a abril 2027",
+      "url": "https://www.ignacioonline.com.ar/salario-minimo-nuevos-valores-de-septiembre-2026-a-abril-2027/",
+      "detectado": "2026-09-02T15:25:39.730Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/salario-minimo-compra-300-kilos-comida-menos-2023-202692105435",
+      "sitio": "El Destape",
+      "titulo": "El salario mínimo compra 300 kilos de comida menos que en 2023",
+      "url": "https://www.eldestapeweb.com/economia/salario-minimo-compra-300-kilos-comida-menos-2023-202692105435",
+      "detectado": "2026-09-02T15:25:44.400Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-designo-bertuzzi-yadarola-renovo-jueza-freno-causa-correo-argentino-20269285654",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno refuerza su armado judicial",
+      "url": "https://www.eldestapeweb.com/politica/milei-designo-bertuzzi-yadarola-renovo-jueza-freno-causa-correo-argentino-20269285654",
+      "detectado": "2026-09-02T15:25:44.400Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-02T15:25:44.400Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-defiende-modelo-cumbre-ultraderecha-sheraton-20269275158",
+      "sitio": "El Destape",
+      "titulo": "Quirno sobre la posibilidad de recuperar Malvinas: “Siempre hay chance”",
+      "url": "https://www.eldestapeweb.com/politica/milei-defiende-modelo-cumbre-ultraderecha-sheraton-20269275158",
+      "detectado": "2026-09-02T15:25:44.400Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ofrecen-salario-emocional-cientificos-organismo-tecnico-ingresos-atrasados-20269285956",
+      "sitio": "El Destape",
+      "titulo": "Ofrecen \"salario emocional\" a científicos con ingresos atrasados",
+      "url": "https://www.eldestapeweb.com/politica/ofrecen-salario-emocional-cientificos-organismo-tecnico-ingresos-atrasados-20269285956",
+      "detectado": "2026-09-02T15:25:44.400Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/salario-minimo-vital-y-movil-aumento-de-septiembre-2026-hasta-abril-2027/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Así reaccionaron los jugadores de La Scaloneta al adiós de Lionel: los mensajes",
       "url": "https://www.eldestapeweb.com/deportes/retira-messi-seleccion-emotivos-mensajes-companeros-despidieron-202683113150",
       "detectado": "2026-08-31T18:32:43.352Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/emotivo-video-lionel-messi-retiro-seleccion-argentina-202683113648",
-      "sitio": "El Destape",
-      "titulo": "El emotivo video de Messi tras el retiro de la Selección Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/emotivo-video-lionel-messi-retiro-seleccion-argentina-202683113648",
-      "detectado": "2026-08-31T18:32:43.352Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-amplia-el-uso-de-comprobantes-electronicos-a-quienes-alcanza-ahora/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA amplía el uso de comprobantes electrónicos. ¿A quiénes alcanza ahora?",
-      "url": "https://contadoresenred.com/arca-amplia-el-uso-de-comprobantes-electronicos-a-quienes-alcanza-ahora/",
-      "detectado": "2026-08-31T11:56:59.080Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-amplia-la-obligacion-de-emitir-comprobantes-desde-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA amplía la obligación de emitir comprobantes desde noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/arca-amplia-la-obligacion-de-emitir-comprobantes-desde-noviembre-2026/",
-      "detectado": "2026-08-31T11:57:04.567Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-desde-agosto-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Sanidad CCT 120/75: nueva escala salarial desde agosto 2026",
-      "url": "https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-desde-agosto-2026/",
-      "detectado": "2026-08-31T11:57:04.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/poco-festejar-alarmantes-cifras-industria-argentina-despues-tres-anos-milei-202682920470",
-      "sitio": "El Destape",
-      "titulo": "Poco que festejar: las alarmantes cifras de la industria después de tres años de Milei",
-      "url": "https://www.eldestapeweb.com/economia/poco-festejar-alarmantes-cifras-industria-argentina-despues-tres-anos-milei-202682920470",
-      "detectado": "2026-08-31T11:57:07.975Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-08-31T11:57:07.975Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/hay-plata-milei-aumento-sueldo-12-fuerzas-armadas-medio-reclamos-202683184455",
-      "sitio": "El Destape",
-      "titulo": "Hay plata: Milei aumentó un 12% el sueldo a las Fuerzas Armadas",
-      "url": "https://www.eldestapeweb.com/politica/hay-plata-milei-aumento-sueldo-12-fuerzas-armadas-medio-reclamos-202683184455",
-      "detectado": "2026-08-31T11:57:07.975Z"
     }
   ]
 }
