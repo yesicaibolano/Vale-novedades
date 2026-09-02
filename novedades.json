@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-01T20:12:37.324Z",
+  "actualizado": "2026-09-02T01:36:21.348Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/recaudacion-corre-atras-inflacion-refleja-fuerte-caida-actividad-202691204559",
+      "sitio": "El Destape",
+      "titulo": "La recaudación corre de atrás a la inflación y refleja la fuerte caída de actividad",
+      "url": "https://www.eldestapeweb.com/economia/recaudacion-corre-atras-inflacion-refleja-fuerte-caida-actividad-202691204559",
+      "detectado": "2026-09-02T01:36:20.834Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-02T01:36:20.834Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-09-02T01:36:20.834Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-acuso-gobierno-intentar-distraer-proyectos-apuesta-todo-sesion-miercoles-9-20269120954",
+      "sitio": "El Destape",
+      "titulo": "La oposición acusó al Gobierno de intentar \"distraer\" y apuesta todo a la sesión del 9",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-acuso-gobierno-intentar-distraer-proyectos-apuesta-todo-sesion-miercoles-9-20269120954",
+      "detectado": "2026-09-02T01:36:20.834Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-02T01:36:20.834Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15948-participa-de-la-ronda-de-consultas-tributarias-de-arba",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Independiente perdió con baile de local ante Gimnasia y su estadio explotó contra todos",
       "url": "https://www.eldestapeweb.com/deportes/independiente-perdio-baile-local-gimnasia-estadio-exploto-todos-20268302170",
       "detectado": "2026-08-31T01:50:52.943Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/acuerdo-trump-llenara-reservas-estrategicas-petroleo-venezolano-20268301344",
-      "sitio": "El Destape",
-      "titulo": "Tras el acuerdo, Trump llenará las reservas estratégicas con petróleo venezolano",
-      "url": "https://www.eldestapeweb.com/internacionales/acuerdo-trump-llenara-reservas-estrategicas-petroleo-venezolano-20268301344",
-      "detectado": "2026-08-31T01:50:52.943Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/crisis-milei-30-mil-empleadas-domesticas-perdieron-trabajo-2026830141836",
-      "sitio": "El Destape",
-      "titulo": "Más de 30 mil empleadas domésticas perdieron su trabajo formal",
-      "url": "https://www.eldestapeweb.com/sociedad/crisis-milei-30-mil-empleadas-domesticas-perdieron-trabajo-2026830141836",
-      "detectado": "2026-08-30T20:09:28.346Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/river-vencio-3-1-banfield-torneo-clausura-estreno-ponzio-dt-202683016560",
-      "sitio": "El Destape",
-      "titulo": "River venció a Banfield por 3 a 2 en el debut de Ponzio como DT",
-      "url": "https://www.eldestapeweb.com/deportes/river-vencio-3-1-banfield-torneo-clausura-estreno-ponzio-dt-202683016560",
-      "detectado": "2026-08-30T20:09:28.346Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/roberto-navarro-panorana-politico-semana-justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-202683011540",
-      "sitio": "El Destape",
-      "titulo": "La justicia social de Caputo, el rumbo de Kicillof y la fuerte compra de dólares",
-      "url": "https://www.eldestapeweb.com/politica/roberto-navarro-panorana-politico-semana-justicia-social-caputo-rumbo-kicillof-fuerte-compra-dolares-ano-elecciones-202683011540",
-      "detectado": "2026-08-30T15:33:47.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/robarse-continente-202683091853",
-      "sitio": "El Destape",
-      "titulo": "Cómo robarse un continente",
-      "url": "https://www.eldestapeweb.com/politica/robarse-continente-202683091853",
-      "detectado": "2026-08-30T15:33:47.304Z"
     }
   ]
 }
