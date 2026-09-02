@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-02T01:36:21.348Z",
+  "actualizado": "2026-09-02T10:01:34.197Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/salario-minimo-vital-y-movil-aumento-de-septiembre-2026-hasta-abril-2027/",
+      "sitio": "Contadores en Red",
+      "titulo": "Salario mínimo, vital y móvil. Aumento de septiembre 2026 hasta abril 2027",
+      "url": "https://contadoresenred.com/salario-minimo-vital-y-movil-aumento-de-septiembre-2026-hasta-abril-2027/",
+      "detectado": "2026-09-02T10:01:25.862Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-2026-2027-del-cct-260-75/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOM: homologan el acuerdo salarial 2026/2027 del CCT 260/75",
+      "url": "https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-2026-2027-del-cct-260-75/",
+      "detectado": "2026-09-02T10:01:27.794Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-quien-apuesta-dolar-pierde-igual-compra-dolares-2026920523",
+      "sitio": "El Destape",
+      "titulo": "Por qué se adelanta la corrida",
+      "url": "https://www.eldestapeweb.com/economia/milei-quien-apuesta-dolar-pierde-igual-compra-dolares-2026920523",
+      "detectado": "2026-09-02T10:01:33.670Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-mientras-milei-prepara-anuncio-ex-combatientes-denunciaron-petroleras-2026920523",
+      "sitio": "El Destape",
+      "titulo": "Malvinas: Mientras Milei prepara anuncio, los ex combatientes denunciaron a petroleras",
+      "url": "https://www.eldestapeweb.com/politica/malvinas-mientras-milei-prepara-anuncio-ex-combatientes-denunciaron-petroleras-2026920523",
+      "detectado": "2026-09-02T10:01:33.670Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-02T10:01:33.670Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-09-02T10:01:33.670Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/enzo-fernandez-nuevo-jugador-manchester-city-inglaterra-cifra-millonaria-202691131925",
+      "sitio": "El Destape",
+      "titulo": "El Manchester City presentó a Enzo Fernández: la cifra millonaria del pase",
+      "url": "https://www.eldestapeweb.com/deportes/enzo-fernandez-nuevo-jugador-manchester-city-inglaterra-cifra-millonaria-202691131925",
+      "detectado": "2026-09-02T10:01:33.670Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/recaudacion-corre-atras-inflacion-refleja-fuerte-caida-actividad-202691204559",
       "sitio": "El Destape",
@@ -226,13 +275,6 @@
       "detectado": "2026-09-01T10:36:28.040Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-01T10:36:28.040Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-retiro-seleccion-abrio-periodo-incertidumbre-argentina-vivio-2026910513",
       "sitio": "El Destape",
       "titulo": "Messi se retiró de la Selección y abrió un período de incertidumbre que Argentina ya vivió",
@@ -310,13 +352,6 @@
       "detectado": "2026-08-31T18:32:41.861Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-08-31T18:32:43.352Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-messi-anuncio-retira-seleccion-argentina-duele-alma-2026831121249",
       "sitio": "El Destape",
       "titulo": "Messi anunció que se retira de la Selección Argentina: \"Duele en el alma\"",
@@ -385,41 +420,6 @@
       "titulo": "Hay plata: Milei aumentó un 12% el sueldo a las Fuerzas Armadas",
       "url": "https://www.eldestapeweb.com/politica/hay-plata-milei-aumento-sueldo-12-fuerzas-armadas-medio-reclamos-202683184455",
       "detectado": "2026-08-31T11:57:07.975Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/agoto-obstaculo-insalvable-milei-seguir-bajando-pobreza-202683018540",
-      "sitio": "El Destape",
-      "titulo": "Se agotó: el obstáculo insalvable de Milei para seguir bajando la pobreza",
-      "url": "https://www.eldestapeweb.com/economia/agoto-obstaculo-insalvable-milei-seguir-bajando-pobreza-202683018540",
-      "detectado": "2026-08-31T11:57:07.975Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/declaracion-jurada",
-      "sitio": "El Destape",
-      "titulo": "declaración jurada",
-      "url": "https://www.eldestapeweb.com/tag/declaracion-jurada",
-      "detectado": "2026-08-31T11:57:07.975Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-arranca-septiembre-foro-libertario-reunion-kast-chile-2026830184946",
-      "sitio": "El Destape",
-      "titulo": "Milei arranca septiembre con un foro libertario y una reunión con Kast en Chile",
-      "url": "https://www.eldestapeweb.com/politica/milei-arranca-septiembre-foro-libertario-reunion-kast-chile-2026830184946",
-      "detectado": "2026-08-31T01:50:52.943Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-libertaria-tercio-votantes-milei-exige-cambiar-rumbo-economico-apoyar-consumo-2026830165619",
-      "sitio": "El Destape",
-      "titulo": "La encuesta sobre la dirección del gobierno que alarma a la Casa Rosada",
-      "url": "https://www.eldestapeweb.com/politica/alerta-libertaria-tercio-votantes-milei-exige-cambiar-rumbo-economico-apoyar-consumo-2026830165619",
-      "detectado": "2026-08-31T01:50:52.943Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/independiente-perdio-baile-local-gimnasia-estadio-exploto-todos-20268302170",
-      "sitio": "El Destape",
-      "titulo": "Independiente perdió con baile de local ante Gimnasia y su estadio explotó contra todos",
-      "url": "https://www.eldestapeweb.com/deportes/independiente-perdio-baile-local-gimnasia-estadio-exploto-todos-20268302170",
-      "detectado": "2026-08-31T01:50:52.943Z"
     }
   ]
 }
