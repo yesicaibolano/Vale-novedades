@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-03T10:12:17.468Z",
+  "actualizado": "2026-09-03T15:19:24.797Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/vii-jornada-provincial-jovenes-profesionales-entre-rios/",
+      "sitio": "Contadores en Red",
+      "titulo": "VII Jornada Provincial de Jóvenes Profesionales de Entre Ríos: “Crecer desde adentro”",
+      "url": "https://contadoresenred.com/vii-jornada-provincial-jovenes-profesionales-entre-rios/",
+      "detectado": "2026-09-03T15:19:14.991Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026-resultado-de-la-encuesta/",
+      "sitio": "Contadores en Red",
+      "titulo": "Transformación Digital ¿Dónde estamos parados los contadores en 2026? Resultado de la encuesta",
+      "url": "https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026-resultado-de-la-encuesta/",
+      "detectado": "2026-09-03T15:19:14.991Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-hablo-anuncio-milei-malvinas-reino-unido-no-le-va-bien-20269391654",
+      "sitio": "El Destape",
+      "titulo": "Trump habló del anuncio de Milei por Malvinas: \"A Reino Unido no le va bien\"",
+      "url": "https://www.eldestapeweb.com/politica/trump-hablo-anuncio-milei-malvinas-reino-unido-no-le-va-bien-20269391654",
+      "detectado": "2026-09-03T15:19:23.466Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-ingles-malvinas-sostiene-no-iran-islas-20269310916",
+      "sitio": "El Destape",
+      "titulo": "Tensión diplomática",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-ingles-malvinas-sostiene-no-iran-islas-20269310916",
+      "detectado": "2026-09-03T15:19:23.466Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-03T15:19:23.466Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
+      "sitio": "El Destape",
+      "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
+      "url": "https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
+      "detectado": "2026-09-03T15:19:23.466Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-escalas-salariales-de-agosto-a-diciembre-2026/",
       "sitio": "Contadores en Red",
@@ -107,24 +149,10 @@
       "detectado": "2026-09-02T20:11:12.668Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-02T20:11:12.668Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
       "sitio": "El Destape",
       "titulo": "Fuerte reclamo de la UIA al gobierno de Milei que vació el evento de funcionarios",
       "url": "https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
-      "detectado": "2026-09-02T20:11:12.668Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
-      "sitio": "El Destape",
-      "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
-      "url": "https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
       "detectado": "2026-09-02T20:11:12.668Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Milei hará una cadena nacional por las Islas Malvinas",
       "url": "https://www.eldestapeweb.com/politica/milei-hara-cadena-nacional-malvinas-202691123559",
       "detectado": "2026-09-01T15:38:33.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/revelan-recorrida-papa-incomodara-javier-milei-202691114815",
-      "sitio": "El Destape",
-      "titulo": "Visita del pontífice a la Argentina",
-      "url": "https://www.eldestapeweb.com/politica/revelan-recorrida-papa-incomodara-javier-milei-202691114815",
-      "detectado": "2026-09-01T15:38:33.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/atentado-a-cristina",
-      "sitio": "El Destape",
-      "titulo": "Atentado a Cristina",
-      "url": "https://www.eldestapeweb.com/tag/atentado-a-cristina",
-      "detectado": "2026-09-01T15:38:33.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/carta-pj-cuatro-anos-intento-asesinato-cfk-nunca-20269193712",
-      "sitio": "El Destape",
-      "titulo": "La carta del PJ a cuatro años del intento de asesinato de CFK: \"Nunca más\"",
-      "url": "https://www.eldestapeweb.com/politica/carta-pj-cuatro-anos-intento-asesinato-cfk-nunca-20269193712",
-      "detectado": "2026-09-01T15:38:33.320Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/septiembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "sitio": "Ignacio Online",
-      "titulo": "Septiembre 2026: Aportes y Contribuciones – Base Imponible Máxima y Mínima",
-      "url": "https://www.ignacioonline.com.ar/septiembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "detectado": "2026-09-01T10:36:23.957Z"
     }
   ]
 }
