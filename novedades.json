@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-02T20:11:13.690Z",
+  "actualizado": "2026-09-03T01:40:28.062Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15951-entrega-de-medallas-en-san-nicolas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Entrega de medallas en San Nicolás",
+      "url": "https://www.cpba.com.ar/noticias/item/15951-entrega-de-medallas-en-san-nicolas",
+      "detectado": "2026-09-03T01:40:26.282Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-oculto-gastos-equivalen-10-superavit-primario-20269219137",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno ocultó gastos que equivalen al 10% del superávit primario",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-oculto-gastos-equivalen-10-superavit-primario-20269219137",
+      "detectado": "2026-09-03T01:40:27.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-03T01:40:27.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-enfrenta-velez-copa-argentina-ilusion-seguir-adelante-202692191645",
+      "sitio": "El Destape",
+      "titulo": "Boca enfrenta a Vélez en la Copa Argentina con la ilusión de seguir adelante",
+      "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-velez-copa-argentina-ilusion-seguir-adelante-202692191645",
+      "detectado": "2026-09-03T01:40:27.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/lago-escondido-denuncian-juez-walter-lara-acuerdo-secreto-milei-lewis-202692202243",
+      "sitio": "El Destape",
+      "titulo": "Lago Escondido: denuncian al juez Walter Lara por el acuerdo secreto entre Milei y Lewis",
+      "url": "https://www.eldestapeweb.com/economia/lago-escondido-denuncian-juez-walter-lara-acuerdo-secreto-milei-lewis-202692202243",
+      "detectado": "2026-09-03T01:40:27.569Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-03T01:40:27.569Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/el-conflicto-social",
       "sitio": "El Destape",
@@ -139,13 +181,6 @@
       "sitio": "El Destape",
       "titulo": "La recaudación corre de atrás a la inflación y refleja la fuerte caída de actividad",
       "url": "https://www.eldestapeweb.com/economia/recaudacion-corre-atras-inflacion-refleja-fuerte-caida-actividad-202691204559",
-      "detectado": "2026-09-02T01:36:20.834Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-09-02T01:36:20.834Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Messi se retiró de la Selección: el adiós del crack que normalizó lo imposible",
       "url": "https://www.eldestapeweb.com/deportes/messi-retiro-seleccion-adios-crack-normalizo-imposible-2026831145551",
       "detectado": "2026-09-01T02:13:42.928Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
-      "sitio": "El Destape",
-      "titulo": "Por Ezequiel Fernández Moores",
-      "url": "https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
-      "detectado": "2026-09-01T02:13:42.928Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/pausa-duro-mes-mora-volvio-subir-juilio-alcanzo-casi-6-millones-personas-2026831153536",
-      "sitio": "El Destape",
-      "titulo": "La pausa duró un mes: la mora volvió a subir en julio y alcanzó a 6 millones de personas",
-      "url": "https://www.eldestapeweb.com/economia/pausa-duro-mes-mora-volvio-subir-juilio-alcanzo-casi-6-millones-personas-2026831153536",
-      "detectado": "2026-09-01T02:13:42.928Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA suma al VUCEA la importación de líneas usadas. ¿Qué cambia para el trámite?",
-      "url": "https://contadoresenred.com/arca-suma-al-vucea-la-importacion-de-lineas-usadas-que-cambia-para-el-tramite/",
-      "detectado": "2026-08-31T18:30:47.902Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-unifica-el-tramite-de-modificacion-de-destinaciones-de-exportacion/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA unifica el trámite de modificación de destinaciones de exportación.",
-      "url": "https://contadoresenred.com/arca-unifica-el-tramite-de-modificacion-de-destinaciones-de-exportacion/",
-      "detectado": "2026-08-31T18:30:47.903Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15943-trabajas-con-monotributistas-este-beneficio-es-para-vos",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¿Trabajás con monotributistas? Este beneficio es para vos",
-      "url": "https://www.cpba.com.ar/noticias/item/15943-trabajas-con-monotributistas-este-beneficio-es-para-vos",
-      "detectado": "2026-08-31T18:32:41.861Z"
     }
   ]
 }
