@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-03T15:19:24.797Z",
+  "actualizado": "2026-09-03T20:12:02.635Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15953-la-mesa-directiva-del-consejo-reunida-en-san-isidro",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Mesa Directiva del Consejo, reunida en San Isidro",
+      "url": "https://www.cpba.com.ar/noticias/item/15953-la-mesa-directiva-del-consejo-reunida-en-san-isidro",
+      "detectado": "2026-09-03T20:12:00.047Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/todo-gabinete-afuera-villarruel-mensaje-grabado-sera-cadena-nacional-milei-malvinas-202693152856",
+      "sitio": "El Destape",
+      "titulo": "Todo el Gabinete, Villarruel out y mensaje grabado: así será la cadena nacional de Milei",
+      "url": "https://www.eldestapeweb.com/politica/todo-gabinete-afuera-villarruel-mensaje-grabado-sera-cadena-nacional-milei-malvinas-202693152856",
+      "detectado": "2026-09-03T20:12:02.224Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-03T20:12:02.224Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/china-planteo-fuerte-queja-dichos-funcionario-milei-202693153243",
+      "sitio": "El Destape",
+      "titulo": "China planteó una \"fuerte queja\" por los dichos de un funcionario de Milei",
+      "url": "https://www.eldestapeweb.com/internacionales/china-planteo-fuerte-queja-dichos-funcionario-milei-202693153243",
+      "detectado": "2026-09-03T20:12:02.224Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-120-000-empleos-rurales-estan-riesgo-decision-milei-202693135815",
+      "sitio": "El Destape",
+      "titulo": "Advierten que 120.000 empleos rurales están en riesgo por una decisión de Milei",
+      "url": "https://www.eldestapeweb.com/economia/advierten-120-000-empleos-rurales-estan-riesgo-decision-milei-202693135815",
+      "detectado": "2026-09-03T20:12:02.224Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-03T20:12:02.224Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/vii-jornada-provincial-jovenes-profesionales-entre-rios/",
       "sitio": "Contadores en Red",
@@ -184,13 +226,6 @@
       "detectado": "2026-09-02T15:25:44.400Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-02T15:25:44.400Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-defiende-modelo-cumbre-ultraderecha-sheraton-20269275158",
       "sitio": "El Destape",
       "titulo": "Quirno sobre la posibilidad de recuperar Malvinas: “Siempre hay chance”",
@@ -296,13 +331,6 @@
       "detectado": "2026-09-01T20:12:36.332Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-01T20:12:36.332Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-cayo-julio-pese-mejora-defiende-milei-empleo-sigue-baja-20269113409",
       "sitio": "El Destape",
       "titulo": "La actividad cayó en julio y, pese a la mejora que defiende Milei, el empleo sigue en baja",
@@ -392,34 +420,6 @@
       "titulo": "ANSES crea el Domicilio Electrónico de la Seguridad Social",
       "url": "https://www.ignacioonline.com.ar/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
       "detectado": "2026-09-01T15:38:07.419Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/montos-asignaciones-familiares-septiembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Montos Asignaciones Familiares Septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-septiembre-2026/",
-      "detectado": "2026-09-01T15:38:07.419Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15949-ahora-en-repro-ia-y-trazabilidad-como-auditar-lo-que-produce-la-inteligencia-artificial",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | IA y trazabilidad: ¿Cómo auditar lo que produce la inteligencia artificial?",
-      "url": "https://www.cpba.com.ar/noticias/item/15949-ahora-en-repro-ia-y-trazabilidad-como-auditar-lo-que-produce-la-inteligencia-artificial",
-      "detectado": "2026-09-01T15:38:11.144Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-09-01T15:38:33.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-hara-cadena-nacional-malvinas-202691123559",
-      "sitio": "El Destape",
-      "titulo": "Milei hará una cadena nacional por las Islas Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/milei-hara-cadena-nacional-malvinas-202691123559",
-      "detectado": "2026-09-01T15:38:33.320Z"
     }
   ]
 }
