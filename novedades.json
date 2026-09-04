@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-04T10:09:14.282Z",
+  "actualizado": "2026-09-04T15:14:23.412Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ieric-perdio-el-control-sobre-la-registracion-laboral-y-ahora-intenta-tener-acceso-al-servicio-de-libro-de-sueldos-digital-de-arca/",
+      "sitio": "Contadores en Red",
+      "titulo": "IERIC perdió el control sobre la registración laboral y ahora intenta tener acceso al servicio de Libro de Sueldos Digital de ARCA.",
+      "url": "https://contadoresenred.com/ieric-perdio-el-control-sobre-la-registracion-laboral-y-ahora-intenta-tener-acceso-al-servicio-de-libro-de-sueldos-digital-de-arca/",
+      "detectado": "2026-09-04T15:14:17.003Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/como-se-presenta-la-declaracion-jurada-de-salud-que-pasa-con-el-retiro-por-invalidez-si-no-se-presenta/",
+      "sitio": "Contadores en Red",
+      "titulo": "¿Cómo se presenta la Declaración Jurada de Salud? ¿Qué pasa con el retiro por invalidez si no se presenta?",
+      "url": "https://contadoresenred.com/como-se-presenta-la-declaracion-jurada-de-salud-que-pasa-con-el-retiro-por-invalidez-si-no-se-presenta/",
+      "detectado": "2026-09-04T15:14:17.003Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15956-ahora-en-repro-de-hacer-a-decidir-el-criterio-como-diferencial-en-las-ciencias-economicas-en-tiempos-de-ia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | De hacer a decidir: El criterio como diferencial en las Ciencias…",
+      "url": "https://www.cpba.com.ar/noticias/item/15956-ahora-en-repro-de-hacer-a-decidir-el-criterio-como-diferencial-en-las-ciencias-economicas-en-tiempos-de-ia",
+      "detectado": "2026-09-04T15:14:21.519Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-reforzo-gasto-side-defensa-fuerte-recorte-provincias-2026949200",
+      "sitio": "El Destape",
+      "titulo": "Cambios en el Presupuesto",
+      "url": "https://www.eldestapeweb.com/politica/milei-reforzo-gasto-side-defensa-fuerte-recorte-provincias-2026949200",
+      "detectado": "2026-09-04T15:14:22.836Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-camara-federal-debuto-blindaje-milei-causa-libra-202694113943",
+      "sitio": "El Destape",
+      "titulo": "La nueva Cámara Federal debutó con un blindaje a Milei en la causa $LIBRA",
+      "url": "https://www.eldestapeweb.com/politica/nueva-camara-federal-debuto-blindaje-milei-causa-libra-202694113943",
+      "detectado": "2026-09-04T15:14:22.836Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ingleses-le-contestaron-milei-esto-responde-politica-local-argentina-202694103331",
+      "sitio": "El Destape",
+      "titulo": "Tras la cadena nacional por Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/ingleses-le-contestaron-milei-esto-responde-politica-local-argentina-202694103331",
+      "detectado": "2026-09-04T15:14:22.836Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-09-04T15:14:22.836Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-acorralado-hace-piruetas-cuestion-malvinas-202694827",
+      "sitio": "El Destape",
+      "titulo": "Milei, acorralado, hace piruetas sobre la cuestión Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/milei-acorralado-hace-piruetas-cuestion-malvinas-202694827",
+      "detectado": "2026-09-04T15:14:22.836Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-criticas-desconfianza-oposicion-drastico-giro-milei-202693233540",
       "sitio": "El Destape",
@@ -364,62 +420,6 @@
       "titulo": "Endeudamiento Familiar",
       "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
       "detectado": "2026-09-02T01:36:20.834Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-acuso-gobierno-intentar-distraer-proyectos-apuesta-todo-sesion-miercoles-9-20269120954",
-      "sitio": "El Destape",
-      "titulo": "La oposición acusó al Gobierno de intentar \"distraer\" y apuesta todo a la sesión del 9",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-acuso-gobierno-intentar-distraer-proyectos-apuesta-todo-sesion-miercoles-9-20269120954",
-      "detectado": "2026-09-02T01:36:20.834Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15948-participa-de-la-ronda-de-consultas-tributarias-de-arba",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Participá de la ronda de consultas tributarias de ARBA",
-      "url": "https://www.cpba.com.ar/noticias/item/15948-participa-de-la-ronda-de-consultas-tributarias-de-arba",
-      "detectado": "2026-09-01T20:12:34.149Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15950-mas-de-mil-asistentes-participaron-de-las-jornadas-nacionales-y-provinciales-de-economia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Más de mil asistentes participaron de las Jornadas Nacionales y Provinciales de Economía",
-      "url": "https://www.cpba.com.ar/noticias/item/15950-mas-de-mil-asistentes-participaron-de-las-jornadas-nacionales-y-provinciales-de-economia",
-      "detectado": "2026-09-01T20:12:34.149Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-lanza-ambicioso-plan-blindarse-futuro-reformar-comodoro-py-202691151918",
-      "sitio": "El Destape",
-      "titulo": "Milei lanza un ambicioso plan para blindarse a futuro: reformar Comodoro Py",
-      "url": "https://www.eldestapeweb.com/politica/milei-lanza-ambicioso-plan-blindarse-futuro-reformar-comodoro-py-202691151918",
-      "detectado": "2026-09-01T20:12:36.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-cayo-julio-pese-mejora-defiende-milei-empleo-sigue-baja-20269113409",
-      "sitio": "El Destape",
-      "titulo": "La actividad cayó en julio y, pese a la mejora que defiende Milei, el empleo sigue en baja",
-      "url": "https://www.eldestapeweb.com/economia/actividad-cayo-julio-pese-mejora-defiende-milei-empleo-sigue-baja-20269113409",
-      "detectado": "2026-09-01T20:12:36.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/otro-lesionado-boca-durisima-baja-ultima-hora-velez-copa-argentina-20269113337",
-      "sitio": "El Destape",
-      "titulo": "Otro lesionado en Boca: durísima baja de última hora vs Vélez por Copa Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/otro-lesionado-boca-durisima-baja-ultima-hora-velez-copa-argentina-20269113337",
-      "detectado": "2026-09-01T20:12:36.332Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/mineria-se-digitaliza-el-tramite-de-exencion-de-derechos-de-importacion/",
-      "sitio": "Contadores en Red",
-      "titulo": "Minería se digitaliza el trámite de exención de derechos de importación.",
-      "url": "https://contadoresenred.com/mineria-se-digitaliza-el-tramite-de-exencion-de-derechos-de-importacion/",
-      "detectado": "2026-09-01T15:38:05.763Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/programa-kit-4-0-elimina-el-requisito-de-ser-industria-a-quienes-alcanza-ahora/",
-      "sitio": "Contadores en Red",
-      "titulo": "Programa KIT 4.0 elimina el requisito de ser industria. ¿A quiénes alcanza ahora?",
-      "url": "https://contadoresenred.com/programa-kit-4-0-elimina-el-requisito-de-ser-industria-a-quienes-alcanza-ahora/",
-      "detectado": "2026-09-01T15:38:05.763Z"
     }
   ]
 }
