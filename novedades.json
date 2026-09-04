@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-03T20:12:02.635Z",
+  "actualizado": "2026-09-04T01:36:29.881Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-anuncio-aplicara-ley-sanciona-empresas-operan-malvinas-202693212457",
+      "sitio": "El Destape",
+      "titulo": "Milei anunció que aplicará la ley que sanciona a empresas que operan en Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/milei-anuncio-aplicara-ley-sanciona-empresas-operan-malvinas-202693212457",
+      "detectado": "2026-09-04T01:36:29.305Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-confirmo-construccion-base-naval-integrada-impulsa-estados-unidos-202693212657",
+      "sitio": "El Destape",
+      "titulo": "Milei confirmó la construcción de la base naval integrada que impulsa EE.UU.",
+      "url": "https://www.eldestapeweb.com/politica/milei-confirmo-construccion-base-naval-integrada-impulsa-estados-unidos-202693212657",
+      "detectado": "2026-09-04T01:36:29.305Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/ex-combatientes-de-malvinas",
+      "sitio": "El Destape",
+      "titulo": "Ex combatientes de Malvinas",
+      "url": "https://www.eldestapeweb.com/tag/ex-combatientes-de-malvinas",
+      "detectado": "2026-09-04T01:36:29.305Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/discurso-milei-recuerda-galtieri-20269322248",
+      "sitio": "El Destape",
+      "titulo": "El discurso de Milei recuerda a Galtieri",
+      "url": "https://www.eldestapeweb.com/opinion/discurso-milei-recuerda-galtieri-20269322248",
+      "detectado": "2026-09-04T01:36:29.305Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/instrumentalizacion-trump-reclamo-malvinas-modo-galtieri-milei-202693213328",
+      "sitio": "El Destape",
+      "titulo": "La instrumentalización de Trump sobre Malvinas y el \"modo Galtieri\" de Milei",
+      "url": "https://www.eldestapeweb.com/opinion/instrumentalizacion-trump-reclamo-malvinas-modo-galtieri-milei-202693213328",
+      "detectado": "2026-09-04T01:36:29.305Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15953-la-mesa-directiva-del-consejo-reunida-en-san-isidro",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "ARCA agrega requisito para IP1 / IP2 y el reintegro del SISA. ¿Qué cambia para los productores?",
       "url": "https://contadoresenred.com/arca-agrega-requisito-para-el-reintegro-del-sisa-que-cambia-para-los-productores/",
       "detectado": "2026-09-01T15:38:05.763Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2627-anses-res-262-2026-domicilio-electronico-de-la-seguridad-social.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ANSeS - Res. 262/2026 - Domicilio Electrónico de la Seguridad Social",
-      "url": "https://jorgevega.com.ar/laboral/2627-anses-res-262-2026-domicilio-electronico-de-la-seguridad-social.html",
-      "detectado": "2026-09-01T15:38:06.542Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-septiembre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ANSeS: Montos Asignaciones familiares - SEPTIEMBRE 2026",
-      "url": "https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-septiembre.html",
-      "detectado": "2026-09-01T15:38:06.542Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-septiembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Jubilaciones y bases imponibles: actualización - Septiembre 2026",
-      "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-septiembre-2026.html",
-      "detectado": "2026-09-01T15:38:06.542Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-septiembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: escala salarial septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-septiembre-2026/",
-      "detectado": "2026-09-01T15:38:07.419Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
-      "sitio": "Ignacio Online",
-      "titulo": "ANSES crea el Domicilio Electrónico de la Seguridad Social",
-      "url": "https://www.ignacioonline.com.ar/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
-      "detectado": "2026-09-01T15:38:07.419Z"
     }
   ]
 }
