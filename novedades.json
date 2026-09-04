@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-04T01:36:29.881Z",
+  "actualizado": "2026-09-04T10:09:14.282Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-criticas-desconfianza-oposicion-drastico-giro-milei-202693233540",
+      "sitio": "El Destape",
+      "titulo": "Malvinas: críticas y desconfianza de la oposición ante el drástico giro de Milei",
+      "url": "https://www.eldestapeweb.com/politica/malvinas-criticas-desconfianza-oposicion-drastico-giro-milei-202693233540",
+      "detectado": "2026-09-04T10:09:13.873Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-04T10:09:13.873Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/maniobras-sospechas-opacidad-privatizaciones-milei-202693233711",
+      "sitio": "El Destape",
+      "titulo": "Maniobras, sospechas y opacidad: las privatizaciones de Milei",
+      "url": "https://www.eldestapeweb.com/politica/maniobras-sospechas-opacidad-privatizaciones-milei-202693233711",
+      "detectado": "2026-09-04T10:09:13.873Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mil-dias-milei-supuesta-estabilizacion-economica-pago-mercado-interno-202693233746",
+      "sitio": "El Destape",
+      "titulo": "Los mil días de Milei: la supuesta “estabilización económica” que pagó el mercado interno",
+      "url": "https://www.eldestapeweb.com/economia/mil-dias-milei-supuesta-estabilizacion-economica-pago-mercado-interno-202693233746",
+      "detectado": "2026-09-04T10:09:13.873Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-09-04T10:09:13.873Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-anuncio-aplicara-ley-sanciona-empresas-operan-malvinas-202693212457",
       "sitio": "El Destape",
@@ -303,13 +338,6 @@
       "detectado": "2026-09-02T10:01:33.670Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-02T10:01:33.670Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
       "sitio": "El Destape",
       "titulo": "Selección Argentina",
@@ -373,13 +401,6 @@
       "detectado": "2026-09-01T20:12:36.332Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-01T20:12:36.332Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/otro-lesionado-boca-durisima-baja-ultima-hora-velez-copa-argentina-20269113337",
       "sitio": "El Destape",
       "titulo": "Otro lesionado en Boca: durísima baja de última hora vs Vélez por Copa Argentina",
@@ -398,27 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "Programa KIT 4.0 elimina el requisito de ser industria. ¿A quiénes alcanza ahora?",
       "url": "https://contadoresenred.com/programa-kit-4-0-elimina-el-requisito-de-ser-industria-a-quienes-alcanza-ahora/",
-      "detectado": "2026-09-01T15:38:05.763Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
-      "sitio": "Contadores en Red",
-      "titulo": "ANSES crea el Domicilio Electrónico de la Seguridad Social.",
-      "url": "https://contadoresenred.com/anses-crea-el-domicilio-electronico-de-la-seguridad-social/",
-      "detectado": "2026-09-01T15:38:05.763Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-septiembre-2026-minima-y-maxima/",
-      "sitio": "Contadores en Red",
-      "titulo": "Base Imponible SIPA Septiembre 2026. Mínima y máxima.",
-      "url": "https://contadoresenred.com/base-imponible-sipa-septiembre-2026-minima-y-maxima/",
-      "detectado": "2026-09-01T15:38:05.763Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-agrega-requisito-para-el-reintegro-del-sisa-que-cambia-para-los-productores/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA agrega requisito para IP1 / IP2 y el reintegro del SISA. ¿Qué cambia para los productores?",
-      "url": "https://contadoresenred.com/arca-agrega-requisito-para-el-reintegro-del-sisa-que-cambia-para-los-productores/",
       "detectado": "2026-09-01T15:38:05.763Z"
     }
   ]
