@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-04T19:57:19.075Z",
+  "actualizado": "2026-09-05T01:35:38.170Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alquiler-autos-representa-casi-10-negocio-uber-20269421306",
+      "sitio": "El Destape",
+      "titulo": "El alquiler de autos ya representa casi el 10% del negocio de Uber",
+      "url": "https://www.eldestapeweb.com/economia/alquiler-autos-representa-casi-10-negocio-uber-20269421306",
+      "detectado": "2026-09-05T01:35:37.770Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/donacion-negocio-acuerdo-milei-musk-20269417306",
+      "sitio": "El Destape",
+      "titulo": "¿Donación o negocio? El acuerdo entre Milei y Musk",
+      "url": "https://www.eldestapeweb.com/politica/donacion-negocio-acuerdo-milei-musk-20269417306",
+      "detectado": "2026-09-05T01:35:37.771Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prometio-reformas-si-repite-eleccion-2025-abrochense-cinturones-202694202410",
+      "sitio": "El Destape",
+      "titulo": "Milei prometió más reformas, si repite la elección de 2025: \"Abróchense los cinturones\"",
+      "url": "https://www.eldestapeweb.com/politica/milei-prometio-reformas-si-repite-eleccion-2025-abrochense-cinturones-202694202410",
+      "detectado": "2026-09-05T01:35:37.771Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/super-rigi-lla-busca-convencer-luis-caputo-terminar-convencer-aliados-20269420651",
+      "sitio": "El Destape",
+      "titulo": "Super RIGI: LLA busca el aval de Luis Caputo para terminar de convencer a los aliados",
+      "url": "https://www.eldestapeweb.com/politica/super-rigi-lla-busca-convencer-luis-caputo-terminar-convencer-aliados-20269420651",
+      "detectado": "2026-09-05T01:35:37.771Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-05T01:35:37.771Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15957-el-consejo-fue-anfitrion-de-un-nuevo-ateneo-sobre-personas-juridicas",
       "sitio": "CPBA (Buenos Aires)",
@@ -240,13 +275,6 @@
       "detectado": "2026-09-03T15:19:23.466Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-03T15:19:23.466Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
       "sitio": "El Destape",
       "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
@@ -392,34 +420,6 @@
       "titulo": "El Gobierno refuerza su armado judicial",
       "url": "https://www.eldestapeweb.com/politica/milei-designo-bertuzzi-yadarola-renovo-jueza-freno-causa-correo-argentino-20269285654",
       "detectado": "2026-09-02T15:25:44.400Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-defiende-modelo-cumbre-ultraderecha-sheraton-20269275158",
-      "sitio": "El Destape",
-      "titulo": "Quirno sobre la posibilidad de recuperar Malvinas: “Siempre hay chance”",
-      "url": "https://www.eldestapeweb.com/politica/milei-defiende-modelo-cumbre-ultraderecha-sheraton-20269275158",
-      "detectado": "2026-09-02T15:25:44.400Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ofrecen-salario-emocional-cientificos-organismo-tecnico-ingresos-atrasados-20269285956",
-      "sitio": "El Destape",
-      "titulo": "Ofrecen \"salario emocional\" a científicos con ingresos atrasados",
-      "url": "https://www.eldestapeweb.com/politica/ofrecen-salario-emocional-cientificos-organismo-tecnico-ingresos-atrasados-20269285956",
-      "detectado": "2026-09-02T15:25:44.400Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/salario-minimo-vital-y-movil-aumento-de-septiembre-2026-hasta-abril-2027/",
-      "sitio": "Contadores en Red",
-      "titulo": "Salario mínimo, vital y móvil. Aumento de septiembre 2026 hasta abril 2027",
-      "url": "https://contadoresenred.com/salario-minimo-vital-y-movil-aumento-de-septiembre-2026-hasta-abril-2027/",
-      "detectado": "2026-09-02T10:01:25.862Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-2026-2027-del-cct-260-75/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOM: homologan el acuerdo salarial 2026/2027 del CCT 260/75",
-      "url": "https://www.ignacioonline.com.ar/uom-homologan-el-acuerdo-salarial-2026-2027-del-cct-260-75/",
-      "detectado": "2026-09-02T10:01:27.794Z"
     }
   ]
 }
