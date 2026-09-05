@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-05T01:35:38.170Z",
+  "actualizado": "2026-09-05T09:31:41.985Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/costo-bajar-impuestos-ricos-milei-resigno-3-2-billones-bienes-personales-202695056",
+      "sitio": "El Destape",
+      "titulo": "El costo de bajar impuestos a los ricos: Milei resignó $3,2 billones por Bienes Personales",
+      "url": "https://www.eldestapeweb.com/economia/costo-bajar-impuestos-ricos-milei-resigno-3-2-billones-bienes-personales-202695056",
+      "detectado": "2026-09-05T09:31:41.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-05T09:31:41.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-usa-malvinas-tapar-crisis-empeora-relacion-china-202695056",
+      "sitio": "El Destape",
+      "titulo": "Milei usa a Malvinas para tapar la crisis y empeora la relación con China",
+      "url": "https://www.eldestapeweb.com/politica/milei-usa-malvinas-tapar-crisis-empeora-relacion-china-202695056",
+      "detectado": "2026-09-05T09:31:41.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-05T09:31:41.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/turquia-socio-ee-uu-otan-profundiza-dependencia-energetica-rusia-20269423853",
+      "sitio": "El Destape",
+      "titulo": "Turquía, socio de EE.UU. en la OTAN, profundiza su dependencia energética con Rusia",
+      "url": "https://www.eldestapeweb.com/internacionales/turquia-socio-ee-uu-otan-profundiza-dependencia-energetica-rusia-20269423853",
+      "detectado": "2026-09-05T09:31:41.539Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/alquiler-autos-representa-casi-10-negocio-uber-20269421306",
       "sitio": "El Destape",
@@ -219,13 +254,6 @@
       "detectado": "2026-09-03T20:12:02.224Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-03T20:12:02.224Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/china-planteo-fuerte-queja-dichos-funcionario-milei-202693153243",
       "sitio": "El Destape",
       "titulo": "China planteó una \"fuerte queja\" por los dichos de un funcionario de Milei",
@@ -300,13 +328,6 @@
       "sitio": "El Destape",
       "titulo": "Crecer sin invertir: la paradoja que expone los límites del modelo económico de Milei",
       "url": "https://www.eldestapeweb.com/economia/crecer-invertir-paradoja-expone-limites-modelo-economico-milei-2026930549",
-      "detectado": "2026-09-03T10:12:16.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-09-03T10:12:16.980Z"
     },
     {
@@ -399,27 +420,6 @@
       "titulo": "Salario mínimo y Prestación por Desempleo - Incrementos Hasta Abril 2027 (Res. 4/2026)",
       "url": "https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
       "detectado": "2026-09-02T15:25:37.981Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/salario-minimo-nuevos-valores-de-septiembre-2026-a-abril-2027/",
-      "sitio": "Ignacio Online",
-      "titulo": "Salario Mínimo: nuevos valores de septiembre 2026 a abril 2027",
-      "url": "https://www.ignacioonline.com.ar/salario-minimo-nuevos-valores-de-septiembre-2026-a-abril-2027/",
-      "detectado": "2026-09-02T15:25:39.730Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/salario-minimo-compra-300-kilos-comida-menos-2023-202692105435",
-      "sitio": "El Destape",
-      "titulo": "El salario mínimo compra 300 kilos de comida menos que en 2023",
-      "url": "https://www.eldestapeweb.com/economia/salario-minimo-compra-300-kilos-comida-menos-2023-202692105435",
-      "detectado": "2026-09-02T15:25:44.400Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-designo-bertuzzi-yadarola-renovo-jueza-freno-causa-correo-argentino-20269285654",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno refuerza su armado judicial",
-      "url": "https://www.eldestapeweb.com/politica/milei-designo-bertuzzi-yadarola-renovo-jueza-freno-causa-correo-argentino-20269285654",
-      "detectado": "2026-09-02T15:25:44.400Z"
     }
   ]
 }
