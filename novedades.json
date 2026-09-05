@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-05T09:31:41.985Z",
+  "actualizado": "2026-09-05T14:03:53.222Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-ingresos-explota-deuda-milei-galtieriza-malvinas-reactivan-fuerzas-cielo-202695105430",
+      "sitio": "El Destape",
+      "titulo": "La crisis de ingresos explota en deuda y Milei galtieriza Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/crisis-ingresos-explota-deuda-milei-galtieriza-malvinas-reactivan-fuerzas-cielo-202695105430",
+      "detectado": "2026-09-05T14:03:52.718Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/motor/buenos-aires-caracas-mitica-carrera-tc-gestiono-peron-fascino-che-guevara-20269410827",
+      "sitio": "El Destape",
+      "titulo": "La Buenos Aires - Caracas, la mítica carrera que gestionó Perón y fascinó al Che",
+      "url": "https://www.eldestapeweb.com/motor/buenos-aires-caracas-mitica-carrera-tc-gestiono-peron-fascino-che-guevara-20269410827",
+      "detectado": "2026-09-05T14:03:52.718Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/costo-bajar-impuestos-ricos-milei-resigno-3-2-billones-bienes-personales-202695056",
       "sitio": "El Destape",
@@ -97,13 +111,6 @@
       "sitio": "El Destape",
       "titulo": "Milei habló de Malvinas en un medio inglés y en Gran Bretaña ven \"debilidad política\"",
       "url": "https://www.eldestapeweb.com/politica/milei-conto-plan-malvinas-entrevista-revista-britanica-podemos-recuperarlas-202694161411",
-      "detectado": "2026-09-04T19:57:18.712Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/motor/buenos-aires-caracas-mitica-carrera-tc-gestiono-peron-fascino-che-guevara-20269410827",
-      "sitio": "El Destape",
-      "titulo": "La Buenos Aires - Caracas, la mítica carrera que gestionó Perón y fascinó al Che",
-      "url": "https://www.eldestapeweb.com/motor/buenos-aires-caracas-mitica-carrera-tc-gestiono-peron-fascino-che-guevara-20269410827",
       "detectado": "2026-09-04T19:57:18.712Z"
     },
     {
@@ -413,13 +420,6 @@
       "titulo": "Fuerte reclamo de la UIA al gobierno de Milei que vació el evento de funcionarios",
       "url": "https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
       "detectado": "2026-09-02T20:11:12.668Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Salario mínimo y Prestación por Desempleo - Incrementos Hasta Abril 2027 (Res. 4/2026)",
-      "url": "https://jorgevega.com.ar/laboral/1137-salario-minimo-septiembre-2026.html",
-      "detectado": "2026-09-02T15:25:37.981Z"
     }
   ]
 }
