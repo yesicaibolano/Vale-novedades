@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-05T14:03:53.222Z",
+  "actualizado": "2026-09-05T19:37:31.266Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/sojeros-tienen-vender-9-076-millones-dolares-espera-mejores-precios-202695154711",
+      "sitio": "El Destape",
+      "titulo": "Los sojeros tienen sin vender 9.076 millones de dólares a la espera de mejores precios",
+      "url": "https://www.eldestapeweb.com/economia/sojeros-tienen-vender-9-076-millones-dolares-espera-mejores-precios-202695154711",
+      "detectado": "2026-09-05T19:37:30.780Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-05T19:37:30.780Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/contundente-comunicado-velez-boca-pide-pasar-ronda-copa-argentina-202695144316",
+      "sitio": "El Destape",
+      "titulo": "El contundente comunicado de Vélez contra Boca: pide pasar de ronda en Copa Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/contundente-comunicado-velez-boca-pide-pasar-ronda-copa-argentina-202695144316",
+      "detectado": "2026-09-05T19:37:30.780Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/colapinto-rompio-q1-llego-q3-larga-octavo-gran-premio-italia-formula-1-20269512341",
+      "sitio": "El Destape",
+      "titulo": "Colapinto la rompió en la Q1, llegó a la Q3 y larga séptimo en Monza",
+      "url": "https://www.eldestapeweb.com/deportes/colapinto-rompio-q1-llego-q3-larga-octavo-gran-premio-italia-formula-1-20269512341",
+      "detectado": "2026-09-05T19:37:30.780Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-mahiques-moldean-justicia-medida-casta-les-da-frutos-2026951691",
+      "sitio": "El Destape",
+      "titulo": "Milei y Mahiques moldean una Justicia a medida de la casta que ya les da sus frutos",
+      "url": "https://www.eldestapeweb.com/politica/milei-mahiques-moldean-justicia-medida-casta-les-da-frutos-2026951691",
+      "detectado": "2026-09-05T19:37:30.780Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-ingresos-explota-deuda-milei-galtieriza-malvinas-reactivan-fuerzas-cielo-202695105430",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Boca enfrenta a Vélez en la Copa Argentina con la ilusión de seguir adelante",
       "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-velez-copa-argentina-ilusion-seguir-adelante-202692191645",
       "detectado": "2026-09-03T01:40:27.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/lago-escondido-denuncian-juez-walter-lara-acuerdo-secreto-milei-lewis-202692202243",
-      "sitio": "El Destape",
-      "titulo": "Lago Escondido: denuncian al juez Walter Lara por el acuerdo secreto entre Milei y Lewis",
-      "url": "https://www.eldestapeweb.com/economia/lago-escondido-denuncian-juez-walter-lara-acuerdo-secreto-milei-lewis-202692202243",
-      "detectado": "2026-09-03T01:40:27.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-09-03T01:40:27.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/el-conflicto-social",
-      "sitio": "El Destape",
-      "titulo": "El conflicto social",
-      "url": "https://www.eldestapeweb.com/tag/el-conflicto-social",
-      "detectado": "2026-09-02T20:11:12.668Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/tres-cada-cuatro-hogares-barrios-populares-no-llegan-cubrir-basico-vivir-20269214441",
-      "sitio": "El Destape",
-      "titulo": "Tres de cada cuatro hogares de barrios populares no llegan a cubrir lo básico para vivir",
-      "url": "https://www.eldestapeweb.com/economia/tres-cada-cuatro-hogares-barrios-populares-no-llegan-cubrir-basico-vivir-20269214441",
-      "detectado": "2026-09-02T20:11:12.668Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
-      "sitio": "El Destape",
-      "titulo": "Fuerte reclamo de la UIA al gobierno de Milei que vació el evento de funcionarios",
-      "url": "https://www.eldestapeweb.com/economia/dia-industria-fuerte-reclamo-uia-gobierno-milei-vacio-evento-funcionarios-202692153057",
-      "detectado": "2026-09-02T20:11:12.668Z"
     }
   ]
 }
