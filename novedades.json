@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-06T01:29:42.134Z",
+  "actualizado": "2026-09-06T09:45:51.439Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-tiene-razon-heterodoxia-trucha-no-sirve-2026960555",
+      "sitio": "El Destape",
+      "titulo": "La crisis derrite el dogma libertario",
+      "url": "https://www.eldestapeweb.com/economia/milei-tiene-razon-heterodoxia-trucha-no-sirve-2026960555",
+      "detectado": "2026-09-06T09:45:50.941Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-malvinas-giro-presidente-rehen-propias-opciones-2026960555",
+      "sitio": "El Destape",
+      "titulo": "Milei y Malvinas: el giro de un presidente rehén de sus propias opciones",
+      "url": "https://www.eldestapeweb.com/politica/milei-malvinas-giro-presidente-rehen-propias-opciones-2026960555",
+      "detectado": "2026-09-06T09:45:50.941Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/fuerza-destructiva-politicas-apatridas-2026960555",
+      "sitio": "El Destape",
+      "titulo": "La fuerza destructiva de las políticas apátridas",
+      "url": "https://www.eldestapeweb.com/opinion/fuerza-destructiva-politicas-apatridas-2026960555",
+      "detectado": "2026-09-06T09:45:50.941Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-09-06T09:45:50.941Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-aventaja-milei-oposicion-no-capitaliza-malestar-social-2026960555",
+      "sitio": "El Destape",
+      "titulo": "Kicillof aventaja a Milei, pero la oposición no capitaliza el malestar social",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-aventaja-milei-oposicion-no-capitaliza-malestar-social-2026960555",
+      "detectado": "2026-09-06T09:45:50.941Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
       "url": "https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
       "detectado": "2026-09-03T15:19:23.466Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-escalas-salariales-de-agosto-a-diciembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Personal de Casas Particulares escalas salariales de agosto a diciembre 2026.",
-      "url": "https://contadoresenred.com/personal-de-casas-particulares-escalas-salariales-de-agosto-a-diciembre-2026/",
-      "detectado": "2026-09-03T10:12:10.871Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-oficializan-las-escalas-salariales-de-agosto-a-diciembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: oficializan las escalas salariales de agosto a diciembre 2026",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-oficializan-las-escalas-salariales-de-agosto-a-diciembre-2026/",
-      "detectado": "2026-09-03T10:12:12.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crecer-invertir-paradoja-expone-limites-modelo-economico-milei-2026930549",
-      "sitio": "El Destape",
-      "titulo": "Crecer sin invertir: la paradoja que expone los límites del modelo económico de Milei",
-      "url": "https://www.eldestapeweb.com/economia/crecer-invertir-paradoja-expone-limites-modelo-economico-milei-2026930549",
-      "detectado": "2026-09-03T10:12:16.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/quien-paga-equilibrio-fiscal-202692233351",
-      "sitio": "El Destape",
-      "titulo": "¿Quién paga el equilibrio fiscal?",
-      "url": "https://www.eldestapeweb.com/opinion/quien-paga-equilibrio-fiscal-202692233351",
-      "detectado": "2026-09-03T10:12:16.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-09-03T10:12:16.980Z"
     }
   ]
 }
