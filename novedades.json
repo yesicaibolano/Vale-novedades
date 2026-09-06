@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-05T19:37:31.266Z",
+  "actualizado": "2026-09-06T01:29:42.134Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
+      "sitio": "El Destape",
+      "titulo": "Arrancó el año electoral",
+      "url": "https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
+      "detectado": "2026-09-06T01:29:41.647Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Navarro",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "detectado": "2026-09-06T01:29:41.647Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/malvinas-aclaracion-mayor-empresa-servicios-petroleros-mundo-202695165632",
+      "sitio": "El Destape",
+      "titulo": "Empresas petroleras con presencia en Vaca Muerta afirmaron que no operarán en Malvinas",
+      "url": "https://www.eldestapeweb.com/economia/malvinas-aclaracion-mayor-empresa-servicios-petroleros-mundo-202695165632",
+      "detectado": "2026-09-06T01:29:41.647Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-juniors-no-aguanto-ventaja-gimnasia-mendoza-empato-final-202695182619",
+      "sitio": "El Destape",
+      "titulo": "Boca Juniors no aguantó la ventaja y Gimnasia de Mendoza se lo empató en el final",
+      "url": "https://www.eldestapeweb.com/deportes/boca-juniors-no-aguanto-ventaja-gimnasia-mendoza-empato-final-202695182619",
+      "detectado": "2026-09-06T01:29:41.647Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/causa-fmi-impunidad-caputo-sturzenegger-caso-judicial-importante-pais-202695184014",
+      "sitio": "El Destape",
+      "titulo": "Causa FMI: impunidad para Caputo y Sturzeneggeren",
+      "url": "https://www.eldestapeweb.com/politica/causa-fmi-impunidad-caputo-sturzenegger-caso-judicial-importante-pais-202695184014",
+      "detectado": "2026-09-06T01:29:41.647Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/sojeros-tienen-vender-9-076-millones-dolares-espera-mejores-precios-202695154711",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Por Claudio Scaletta",
       "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
       "detectado": "2026-09-03T10:12:16.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/chaco-suspendio-paso-gobierno-empieza-delinear-mapa-electoral-2027-2026930549",
-      "sitio": "El Destape",
-      "titulo": "Chaco suspendió las PASO y el Gobierno empieza a delinear el mapa electoral de 2027",
-      "url": "https://www.eldestapeweb.com/politica/chaco-suspendio-paso-gobierno-empieza-delinear-mapa-electoral-2027-2026930549",
-      "detectado": "2026-09-03T10:12:16.980Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15951-entrega-de-medallas-en-san-nicolas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Entrega de medallas en San Nicolás",
-      "url": "https://www.cpba.com.ar/noticias/item/15951-entrega-de-medallas-en-san-nicolas",
-      "detectado": "2026-09-03T01:40:26.282Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-oculto-gastos-equivalen-10-superavit-primario-20269219137",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno ocultó gastos que equivalen al 10% del superávit primario",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-oculto-gastos-equivalen-10-superavit-primario-20269219137",
-      "detectado": "2026-09-03T01:40:27.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-03T01:40:27.569Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-enfrenta-velez-copa-argentina-ilusion-seguir-adelante-202692191645",
-      "sitio": "El Destape",
-      "titulo": "Boca enfrenta a Vélez en la Copa Argentina con la ilusión de seguir adelante",
-      "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-velez-copa-argentina-ilusion-seguir-adelante-202692191645",
-      "detectado": "2026-09-03T01:40:27.569Z"
     }
   ]
 }
