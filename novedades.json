@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-09-06T09:45:51.439Z",
+  "actualizado": "2026-09-06T14:28:56.801Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbe-consumo-ventas-minoristas-cayeron-casi-3-julio-agosto-202696111513",
+      "sitio": "El Destape",
+      "titulo": "Derrumbe del consumo: las ventas minoristas cayeron casi 3% entre julio y agosto",
+      "url": "https://www.eldestapeweb.com/economia/derrumbe-consumo-ventas-minoristas-cayeron-casi-3-julio-agosto-202696111513",
+      "detectado": "2026-09-06T14:28:56.303Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-tiene-razon-heterodoxia-trucha-no-sirve-2026960555",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Tensión diplomática",
       "url": "https://www.eldestapeweb.com/politica/gobierno-ingles-malvinas-sostiene-no-iran-islas-20269310916",
-      "detectado": "2026-09-03T15:19:23.466Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
-      "sitio": "El Destape",
-      "titulo": "Milei y la cadena nacional por Malvinas: hermetismo, dudas y en el medio un viaje a Chile",
-      "url": "https://www.eldestapeweb.com/politica/milei-cadena-nacional-malvinas-hermetismo-dudas-viaje-chile-20269216644",
       "detectado": "2026-09-03T15:19:23.466Z"
     }
   ]
