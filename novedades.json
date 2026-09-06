@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-06T14:28:56.801Z",
+  "actualizado": "2026-09-06T19:39:36.255Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-alemania",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Alemania",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-alemania",
+      "detectado": "2026-09-06T19:39:35.724Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/alarma-alemania-ultraderecha-afd-arraso-esta-puertas-gobernar-region-20269614510",
+      "sitio": "El Destape",
+      "titulo": "Alarma en Alemania: la ultraderecha AfD arrasó y está a las puertas de gobernar una región",
+      "url": "https://www.eldestapeweb.com/internacionales/alarma-alemania-ultraderecha-afd-arraso-esta-puertas-gobernar-region-20269614510",
+      "detectado": "2026-09-06T19:39:35.725Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbe-consumo-ventas-minoristas-cayeron-casi-3-julio-agosto-202696111513",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "Transformación Digital ¿Dónde estamos parados los contadores en 2026? Resultado de la encuesta",
       "url": "https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026-resultado-de-la-encuesta/",
       "detectado": "2026-09-03T15:19:14.991Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-hablo-anuncio-milei-malvinas-reino-unido-no-le-va-bien-20269391654",
-      "sitio": "El Destape",
-      "titulo": "Trump habló del anuncio de Milei por Malvinas: \"A Reino Unido no le va bien\"",
-      "url": "https://www.eldestapeweb.com/politica/trump-hablo-anuncio-milei-malvinas-reino-unido-no-le-va-bien-20269391654",
-      "detectado": "2026-09-03T15:19:23.466Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-ingles-malvinas-sostiene-no-iran-islas-20269310916",
-      "sitio": "El Destape",
-      "titulo": "Tensión diplomática",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-ingles-malvinas-sostiene-no-iran-islas-20269310916",
-      "detectado": "2026-09-03T15:19:23.466Z"
     }
   ]
 }
