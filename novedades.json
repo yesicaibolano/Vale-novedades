@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-09-06T19:39:36.255Z",
+  "actualizado": "2026-09-07T01:28:11.777Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-milei-mientras-cae-consumo-6-cada-10-quiere-cambio-rumbo-economico-20269617182",
+      "sitio": "El Destape",
+      "titulo": "Mientras cae el consumo, 6 de cada 10 quiere un cambio de rumbo económico",
+      "url": "https://www.eldestapeweb.com/politica/alerta-milei-mientras-cae-consumo-6-cada-10-quiere-cambio-rumbo-economico-20269617182",
+      "detectado": "2026-09-07T01:28:11.275Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-river-vs-independiente-rivadavia-torneo-clausura-2026-202696211427",
+      "sitio": "El Destape",
+      "titulo": "Uno por uno: los puntajes de los jugadores de River vs Independiente Rivadavia",
+      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-river-vs-independiente-rivadavia-torneo-clausura-2026-202696211427",
+      "detectado": "2026-09-07T01:28:11.275Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/imposible-estados-unidos-abandone-alianza-historica-reino-unido-202695214555",
+      "sitio": "El Destape",
+      "titulo": "¿Por qué es imposible que Estados Unidos abandone su alianza histórica con el Reino Unido?",
+      "url": "https://www.eldestapeweb.com/internacionales/imposible-estados-unidos-abandone-alianza-historica-reino-unido-202695214555",
+      "detectado": "2026-09-07T01:28:11.275Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-alemania",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "Advierten que 120.000 empleos rurales están en riesgo por una decisión de Milei",
       "url": "https://www.eldestapeweb.com/economia/advierten-120-000-empleos-rurales-estan-riesgo-decision-milei-202693135815",
       "detectado": "2026-09-03T20:12:02.224Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-03T20:12:02.224Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/vii-jornada-provincial-jovenes-profesionales-entre-rios/",
-      "sitio": "Contadores en Red",
-      "titulo": "VII Jornada Provincial de Jóvenes Profesionales de Entre Ríos: “Crecer desde adentro”",
-      "url": "https://contadoresenred.com/vii-jornada-provincial-jovenes-profesionales-entre-rios/",
-      "detectado": "2026-09-03T15:19:14.991Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026-resultado-de-la-encuesta/",
-      "sitio": "Contadores en Red",
-      "titulo": "Transformación Digital ¿Dónde estamos parados los contadores en 2026? Resultado de la encuesta",
-      "url": "https://contadoresenred.com/transformacion-digital-donde-estamos-parados-los-contadores-en-2026-resultado-de-la-encuesta/",
-      "detectado": "2026-09-03T15:19:14.991Z"
     }
   ]
 }
