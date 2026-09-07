@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-09-07T10:50:37.493Z",
+  "actualizado": "2026-09-07T16:43:36.849Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/sustitucion-vs-complemento-como-la-ia-impacta-en-nuestra-profesion/",
+      "sitio": "Contadores en Red",
+      "titulo": "Sustitución vs. complemento. Como la IA impacta en nuestra profesión",
+      "url": "https://contadoresenred.com/sustitucion-vs-complemento-como-la-ia-impacta-en-nuestra-profesion/",
+      "detectado": "2026-09-07T16:43:29.724Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/excel-calcula-retenciones-ganancias-rg-830-genera-el-certificado-e-importa-al-sicore/",
+      "sitio": "Contadores en Red",
+      "titulo": "Excel Calcula Retenciones Ganancias RG 830, genera el certificado e importa al SICORE",
+      "url": "https://contadoresenred.com/excel-calcula-retenciones-ganancias-rg-830-genera-el-certificado-e-importa-al-sicore/",
+      "detectado": "2026-09-07T16:43:29.724Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/rosario-24-as-jornadas-nacionales-tributarias-previsionales-laborales-y-agropecuarias/",
+      "sitio": "Ignacio Online",
+      "titulo": "Rosario: 24.as Jornadas Nacionales Tributarias, Previsionales, Laborales y Agropecuarias",
+      "url": "https://www.ignacioonline.com.ar/rosario-24-as-jornadas-nacionales-tributarias-previsionales-laborales-y-agropecuarias/",
+      "detectado": "2026-09-07T16:43:31.534Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15960-reconocimiento-a-profesionales-jubilados-en-la-plata",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Reconocimiento a profesionales jubilados en La Plata",
+      "url": "https://www.cpba.com.ar/noticias/item/15960-reconocimiento-a-profesionales-jubilados-en-la-plata",
+      "detectado": "2026-09-07T16:43:34.858Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15959-entrega-de-medallas-en-avellaneda",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Entrega de medallas en Avellaneda",
+      "url": "https://www.cpba.com.ar/noticias/item/15959-entrega-de-medallas-en-avellaneda",
+      "detectado": "2026-09-07T16:43:34.858Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15958-jura-en-el-gran-buenos-aires",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Jura en el Gran Buenos Aires",
+      "url": "https://www.cpba.com.ar/noticias/item/15958-jura-en-el-gran-buenos-aires",
+      "detectado": "2026-09-07T16:43:34.858Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-07T16:43:36.393Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-gabinete-malvinas-presupuesto-2027-ejes-20269764657",
+      "sitio": "El Destape",
+      "titulo": "Milei reunió al Gabinete con Malvinas y el Presupuesto 2027 como ejes",
+      "url": "https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-gabinete-malvinas-presupuesto-2027-ejes-20269764657",
+      "detectado": "2026-09-07T16:43:36.393Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cumbre-universitaria-incumplimiento-gobierno-organiza-nueva-marcha-federal-202697105546",
+      "sitio": "El Destape",
+      "titulo": "Organizan una nueva marcha universitaria ante el incumplimiento del Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/cumbre-universitaria-incumplimiento-gobierno-organiza-nueva-marcha-federal-202697105546",
+      "detectado": "2026-09-07T16:43:36.393Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-espera-san-pablo-alza-vuelve-paredes-chau-delgado-calleri-duda-202697114315",
+      "sitio": "El Destape",
+      "titulo": "Boca espera a un San Pablo en alza: vuelve Paredes, sin Delgado y Calleri en duda",
+      "url": "https://www.eldestapeweb.com/deportes/boca-espera-san-pablo-alza-vuelve-paredes-chau-delgado-calleri-duda-202697114315",
+      "detectado": "2026-09-07T16:43:36.393Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-oposicion-buscara-tratar-miercoles-proyectos-endeudados-20269711575",
+      "sitio": "El Destape",
+      "titulo": "Diputados: la oposición buscará tratar el miércoles proyectos para endeudados",
+      "url": "https://www.eldestapeweb.com/politica/diputados-oposicion-buscara-tratar-miercoles-proyectos-endeudados-20269711575",
+      "detectado": "2026-09-07T16:43:36.393Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/1-000-dias-milei-menos-consumo-inflacion-acumulada-241-202697055",
       "sitio": "El Destape",
@@ -343,83 +420,6 @@
       "titulo": "Milei, acorralado, hace piruetas sobre la cuestión Malvinas",
       "url": "https://www.eldestapeweb.com/politica/milei-acorralado-hace-piruetas-cuestion-malvinas-202694827",
       "detectado": "2026-09-04T15:14:22.836Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-criticas-desconfianza-oposicion-drastico-giro-milei-202693233540",
-      "sitio": "El Destape",
-      "titulo": "Malvinas: críticas y desconfianza de la oposición ante el drástico giro de Milei",
-      "url": "https://www.eldestapeweb.com/politica/malvinas-criticas-desconfianza-oposicion-drastico-giro-milei-202693233540",
-      "detectado": "2026-09-04T10:09:13.873Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-04T10:09:13.873Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/maniobras-sospechas-opacidad-privatizaciones-milei-202693233711",
-      "sitio": "El Destape",
-      "titulo": "Maniobras, sospechas y opacidad: las privatizaciones de Milei",
-      "url": "https://www.eldestapeweb.com/politica/maniobras-sospechas-opacidad-privatizaciones-milei-202693233711",
-      "detectado": "2026-09-04T10:09:13.873Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mil-dias-milei-supuesta-estabilizacion-economica-pago-mercado-interno-202693233746",
-      "sitio": "El Destape",
-      "titulo": "Los mil días de Milei: la supuesta “estabilización económica” que pagó el mercado interno",
-      "url": "https://www.eldestapeweb.com/economia/mil-dias-milei-supuesta-estabilizacion-economica-pago-mercado-interno-202693233746",
-      "detectado": "2026-09-04T10:09:13.873Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-04T10:09:13.873Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-anuncio-aplicara-ley-sanciona-empresas-operan-malvinas-202693212457",
-      "sitio": "El Destape",
-      "titulo": "Milei anunció que aplicará la ley que sanciona a empresas que operan en Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/milei-anuncio-aplicara-ley-sanciona-empresas-operan-malvinas-202693212457",
-      "detectado": "2026-09-04T01:36:29.305Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-confirmo-construccion-base-naval-integrada-impulsa-estados-unidos-202693212657",
-      "sitio": "El Destape",
-      "titulo": "Milei confirmó la construcción de la base naval integrada que impulsa EE.UU.",
-      "url": "https://www.eldestapeweb.com/politica/milei-confirmo-construccion-base-naval-integrada-impulsa-estados-unidos-202693212657",
-      "detectado": "2026-09-04T01:36:29.305Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/ex-combatientes-de-malvinas",
-      "sitio": "El Destape",
-      "titulo": "Ex combatientes de Malvinas",
-      "url": "https://www.eldestapeweb.com/tag/ex-combatientes-de-malvinas",
-      "detectado": "2026-09-04T01:36:29.305Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/discurso-milei-recuerda-galtieri-20269322248",
-      "sitio": "El Destape",
-      "titulo": "El discurso de Milei recuerda a Galtieri",
-      "url": "https://www.eldestapeweb.com/opinion/discurso-milei-recuerda-galtieri-20269322248",
-      "detectado": "2026-09-04T01:36:29.305Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/instrumentalizacion-trump-reclamo-malvinas-modo-galtieri-milei-202693213328",
-      "sitio": "El Destape",
-      "titulo": "La instrumentalización de Trump sobre Malvinas y el \"modo Galtieri\" de Milei",
-      "url": "https://www.eldestapeweb.com/opinion/instrumentalizacion-trump-reclamo-malvinas-modo-galtieri-milei-202693213328",
-      "detectado": "2026-09-04T01:36:29.305Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15953-la-mesa-directiva-del-consejo-reunida-en-san-isidro",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Mesa Directiva del Consejo, reunida en San Isidro",
-      "url": "https://www.cpba.com.ar/noticias/item/15953-la-mesa-directiva-del-consejo-reunida-en-san-isidro",
-      "detectado": "2026-09-03T20:12:00.047Z"
     }
   ]
 }
