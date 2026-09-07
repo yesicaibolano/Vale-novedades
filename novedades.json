@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-07T16:43:36.849Z",
+  "actualizado": "2026-09-07T20:51:25.807Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-pone-todo-gobierno-trabajar-malvinas-tapar-crisis-morosidad-discapacidad-202697173159",
+      "sitio": "El Destape",
+      "titulo": "Milei pone a todo el Gobierno a trabajar por Malvinas para tapar la crisis de morosidad",
+      "url": "https://www.eldestapeweb.com/politica/milei-pone-todo-gobierno-trabajar-malvinas-tapar-crisis-morosidad-discapacidad-202697173159",
+      "detectado": "2026-09-07T20:51:25.309Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-07T20:51:25.309Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/autocritica-milei-reunio-gabinete-ratificar-rumbo-economico-202697153432",
+      "sitio": "El Destape",
+      "titulo": "Sin autocrítica, Milei reunió a su Gabinete para ratificar el rumbo económico",
+      "url": "https://www.eldestapeweb.com/politica/autocritica-milei-reunio-gabinete-ratificar-rumbo-economico-202697153432",
+      "detectado": "2026-09-07T20:51:25.309Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/deporte-argentino-crisis-leonas-resisten-vaciamiento-falta-difusion-agenda-coptada-futbol-202697144547",
+      "sitio": "El Destape",
+      "titulo": "El deporte en crisis: Las Leonas resisten ante el vaciamiento y la falta de difusión",
+      "url": "https://www.eldestapeweb.com/deportes/deporte-argentino-crisis-leonas-resisten-vaciamiento-falta-difusion-agenda-coptada-futbol-202697144547",
+      "detectado": "2026-09-07T20:51:25.309Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
+      "sitio": "El Destape",
+      "titulo": "Por Ezequiel Fernández Moores",
+      "url": "https://www.eldestapeweb.com/perfil/ezequiel-fernandez-moores",
+      "detectado": "2026-09-07T20:51:25.309Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/sustitucion-vs-complemento-como-la-ia-impacta-en-nuestra-profesion/",
       "sitio": "Contadores en Red",
@@ -289,13 +324,6 @@
       "detectado": "2026-09-05T09:31:41.539Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-05T09:31:41.539Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/turquia-socio-ee-uu-otan-profundiza-dependencia-energetica-rusia-20269423853",
       "sitio": "El Destape",
       "titulo": "Turquía, socio de EE.UU. en la OTAN, profundiza su dependencia energética con Rusia",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Cambios en el Presupuesto",
       "url": "https://www.eldestapeweb.com/politica/milei-reforzo-gasto-side-defensa-fuerte-recorte-provincias-2026949200",
-      "detectado": "2026-09-04T15:14:22.836Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-camara-federal-debuto-blindaje-milei-causa-libra-202694113943",
-      "sitio": "El Destape",
-      "titulo": "La nueva Cámara Federal debutó con un blindaje a Milei en la causa $LIBRA",
-      "url": "https://www.eldestapeweb.com/politica/nueva-camara-federal-debuto-blindaje-milei-causa-libra-202694113943",
-      "detectado": "2026-09-04T15:14:22.836Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ingleses-le-contestaron-milei-esto-responde-politica-local-argentina-202694103331",
-      "sitio": "El Destape",
-      "titulo": "Tras la cadena nacional por Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/ingleses-le-contestaron-milei-esto-responde-politica-local-argentina-202694103331",
-      "detectado": "2026-09-04T15:14:22.836Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-09-04T15:14:22.836Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-acorralado-hace-piruetas-cuestion-malvinas-202694827",
-      "sitio": "El Destape",
-      "titulo": "Milei, acorralado, hace piruetas sobre la cuestión Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/milei-acorralado-hace-piruetas-cuestion-malvinas-202694827",
       "detectado": "2026-09-04T15:14:22.836Z"
     }
   ]
