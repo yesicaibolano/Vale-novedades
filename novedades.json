@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-08T01:37:42.826Z",
+  "actualizado": "2026-09-08T10:09:53.834Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mujeres-rechazan-milei-pregunta-clave-elecciones-2027-202697232739",
+      "sitio": "El Destape",
+      "titulo": "¿Por qué las mujeres rechazan a Milei?: una pregunta clave para 2027",
+      "url": "https://www.eldestapeweb.com/politica/mujeres-rechazan-milei-pregunta-clave-elecciones-2027-202697232739",
+      "detectado": "2026-09-08T10:09:53.508Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-09-08T10:09:53.508Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-encuesta-oficialista-preocupa-gobierno-2026980536",
+      "sitio": "El Destape",
+      "titulo": "Elecciones 2027: la encuesta oficialista que preocupa al Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-encuesta-oficialista-preocupa-gobierno-2026980536",
+      "detectado": "2026-09-08T10:09:53.508Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-08T10:09:53.508Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-se-traslada-al-lunes-28-de-septiembre/",
       "sitio": "Ignacio Online",
@@ -392,34 +420,6 @@
       "titulo": "¿Donación o negocio? El acuerdo entre Milei y Musk",
       "url": "https://www.eldestapeweb.com/politica/donacion-negocio-acuerdo-milei-musk-20269417306",
       "detectado": "2026-09-05T01:35:37.771Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prometio-reformas-si-repite-eleccion-2025-abrochense-cinturones-202694202410",
-      "sitio": "El Destape",
-      "titulo": "Milei prometió más reformas, si repite la elección de 2025: \"Abróchense los cinturones\"",
-      "url": "https://www.eldestapeweb.com/politica/milei-prometio-reformas-si-repite-eleccion-2025-abrochense-cinturones-202694202410",
-      "detectado": "2026-09-05T01:35:37.771Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/super-rigi-lla-busca-convencer-luis-caputo-terminar-convencer-aliados-20269420651",
-      "sitio": "El Destape",
-      "titulo": "Super RIGI: LLA busca el aval de Luis Caputo para terminar de convencer a los aliados",
-      "url": "https://www.eldestapeweb.com/politica/super-rigi-lla-busca-convencer-luis-caputo-terminar-convencer-aliados-20269420651",
-      "detectado": "2026-09-05T01:35:37.771Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15957-el-consejo-fue-anfitrion-de-un-nuevo-ateneo-sobre-personas-juridicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo fue anfitrión de un nuevo Ateneo sobre Personas Jurídicas",
-      "url": "https://www.cpba.com.ar/noticias/item/15957-el-consejo-fue-anfitrion-de-un-nuevo-ateneo-sobre-personas-juridicas",
-      "detectado": "2026-09-04T19:57:17.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilaciones-volvieron-protagonizar-ajuste-milei-agosto-202694135416",
-      "sitio": "El Destape",
-      "titulo": "Las jubilaciones volvieron a protagonizar el ajuste de Milei en agosto",
-      "url": "https://www.eldestapeweb.com/economia/jubilaciones-volvieron-protagonizar-ajuste-milei-agosto-202694135416",
-      "detectado": "2026-09-04T19:57:18.712Z"
     }
   ]
 }
