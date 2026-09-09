@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-09T01:45:21.877Z",
+  "actualizado": "2026-09-09T10:12:52.380Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/verso-estabilidad-riesgo-dolar-crisis-economia-202699052",
+      "sitio": "El Destape",
+      "titulo": "Salarios, jubilaciones y paro nacional",
+      "url": "https://www.eldestapeweb.com/economia/verso-estabilidad-riesgo-dolar-crisis-economia-202699052",
+      "detectado": "2026-09-09T10:12:52.012Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/homenaje-sota-dejo-postales-unidad-peronismo-202699052",
+      "sitio": "El Destape",
+      "titulo": "Partido Justicialista",
+      "url": "https://www.eldestapeweb.com/politica/homenaje-sota-dejo-postales-unidad-peronismo-202699052",
+      "detectado": "2026-09-09T10:12:52.012Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-09T10:12:52.012Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-09-09T10:12:52.012Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/pacto-oculto-laboratorios-termina-medicamentos-caros-202699052",
+      "sitio": "El Destape",
+      "titulo": "El pacto oculto entre laboratorios termina con medicamentos más caros",
+      "url": "https://www.eldestapeweb.com/politica/pacto-oculto-laboratorios-termina-medicamentos-caros-202699052",
+      "detectado": "2026-09-09T10:12:52.012Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-confia-numero-emplazar-endeudamiento-discapacidad-diputados-202698182614",
       "sitio": "El Destape",
@@ -153,13 +188,6 @@
       "sitio": "El Destape",
       "titulo": "Elecciones 2027: la encuesta oficialista que preocupa al Gobierno",
       "url": "https://www.eldestapeweb.com/politica/elecciones-2027-encuesta-oficialista-preocupa-gobierno-2026980536",
-      "detectado": "2026-09-08T10:09:53.508Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-09-08T10:09:53.508Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Milei y Malvinas: el giro de un presidente rehén de sus propias opciones",
       "url": "https://www.eldestapeweb.com/politica/milei-malvinas-giro-presidente-rehen-propias-opciones-2026960555",
       "detectado": "2026-09-06T09:45:50.941Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/fuerza-destructiva-politicas-apatridas-2026960555",
-      "sitio": "El Destape",
-      "titulo": "La fuerza destructiva de las políticas apátridas",
-      "url": "https://www.eldestapeweb.com/opinion/fuerza-destructiva-politicas-apatridas-2026960555",
-      "detectado": "2026-09-06T09:45:50.941Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-09-06T09:45:50.941Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-aventaja-milei-oposicion-no-capitaliza-malestar-social-2026960555",
-      "sitio": "El Destape",
-      "titulo": "Kicillof aventaja a Milei, pero la oposición no capitaliza el malestar social",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-aventaja-milei-oposicion-no-capitaliza-malestar-social-2026960555",
-      "detectado": "2026-09-06T09:45:50.941Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
-      "sitio": "El Destape",
-      "titulo": "Arrancó el año electoral",
-      "url": "https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
-      "detectado": "2026-09-06T01:29:41.647Z"
     }
   ]
 }
