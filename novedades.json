@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-09T15:24:11.487Z",
+  "actualizado": "2026-09-09T20:06:23.259Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
+      "sitio": "El Destape",
+      "titulo": "Morosidad y discapacidad: la oposición presionó a Milei, pero no logró complicarlo",
+      "url": "https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
+      "detectado": "2026-09-09T20:06:22.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-09T20:06:22.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-emplazo-discapacidad-endeudamiento-pulseada-pasa-comisiones-202699143718",
+      "sitio": "El Destape",
+      "titulo": "Diputados emplazó discapacidad y endeudamiento y la pulseada pasa a comisiones",
+      "url": "https://www.eldestapeweb.com/politica/diputados-emplazo-discapacidad-endeudamiento-pulseada-pasa-comisiones-202699143718",
+      "detectado": "2026-09-09T20:06:22.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-09T20:06:22.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-economica-vuelven-grupos-compra-venta-medicamentos-202699142529",
+      "sitio": "El Destape",
+      "titulo": "Crisis económica: vuelven los grupos de compra venta de medicamentos",
+      "url": "https://www.eldestapeweb.com/economia/crisis-economica-vuelven-grupos-compra-venta-medicamentos-202699142529",
+      "detectado": "2026-09-09T20:06:22.567Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales-agip-vuelve-a-prorrogar-la-obligacion/",
       "sitio": "Contadores en Red",
@@ -100,13 +135,6 @@
       "detectado": "2026-09-09T01:45:21.364Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-09T01:45:21.364Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/endeudamiento-casi-tres-cada-diez-hogares-pidieron-plata-llegar-fin-mes-202698181842",
       "sitio": "El Destape",
       "titulo": "Endeudamiento: casi tres de cada diez hogares pidieron plata para llegar a fin de mes",
@@ -160,13 +188,6 @@
       "sitio": "El Destape",
       "titulo": "El Gobierno impulsará el juicio político de la jueza que frenó la Ley Penal Juvenil",
       "url": "https://www.eldestapeweb.com/politica/gobierno-impulsara-juicio-politico-jueza-freno-ley-penal-juvenil-202698134919",
-      "detectado": "2026-09-08T20:23:05.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-09-08T20:23:05.111Z"
     },
     {
@@ -399,27 +420,6 @@
       "titulo": "Los 1.000 días de Milei: menos consumo y una inflación acumulada de 241%",
       "url": "https://www.eldestapeweb.com/economia/1-000-dias-milei-menos-consumo-inflacion-acumulada-241-202697055",
       "detectado": "2026-09-07T10:50:37.003Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mapa-abandono-vial-milei-dijo-rutas-salvan-vidas-recorto-80-gasto-202697055",
-      "sitio": "El Destape",
-      "titulo": "Mapa del abandono vial: Milei dijo que las rutas salvan vidas, pero recortó 80% el gasto",
-      "url": "https://www.eldestapeweb.com/economia/mapa-abandono-vial-milei-dijo-rutas-salvan-vidas-recorto-80-gasto-202697055",
-      "detectado": "2026-09-07T10:50:37.004Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-07T10:50:37.004Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/quorum-detonar-aliados-reconquistar-semana-dificil-lla-congreso-202697055",
-      "sitio": "El Destape",
-      "titulo": "Un quórum a detonar y aliados a reconquistar: una semana difícil para LLA en el Congreso",
-      "url": "https://www.eldestapeweb.com/politica/quorum-detonar-aliados-reconquistar-semana-dificil-lla-congreso-202697055",
-      "detectado": "2026-09-07T10:50:37.004Z"
     }
   ]
 }
