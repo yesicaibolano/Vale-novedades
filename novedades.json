@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-08T20:23:05.797Z",
+  "actualizado": "2026-09-09T01:45:21.877Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-confia-numero-emplazar-endeudamiento-discapacidad-diputados-202698182614",
+      "sitio": "El Destape",
+      "titulo": "La oposición confía en el número para emplazar endeudamiento y discapacidad en Diputados",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-confia-numero-emplazar-endeudamiento-discapacidad-diputados-202698182614",
+      "detectado": "2026-09-09T01:45:21.364Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-09T01:45:21.364Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/endeudamiento-casi-tres-cada-diez-hogares-pidieron-plata-llegar-fin-mes-202698181842",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento: casi tres de cada diez hogares pidieron plata para llegar a fin de mes",
+      "url": "https://www.eldestapeweb.com/economia/endeudamiento-casi-tres-cada-diez-hogares-pidieron-plata-llegar-fin-mes-202698181842",
+      "detectado": "2026-09-09T01:45:21.365Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-boca-vs-sao-paulo-copa-sudamericana-forma-legal-riesgos-202698113037",
+      "sitio": "El Destape",
+      "titulo": "Boca enfrenta a Sao Paulo en la Copa Sudamericana",
+      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-boca-vs-sao-paulo-copa-sudamericana-forma-legal-riesgos-202698113037",
+      "detectado": "2026-09-09T01:45:21.365Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-quiere-llevar-senado-biocombustibles-traspaso-justicia-pliegos-202698214618",
+      "sitio": "El Destape",
+      "titulo": "LLA quiere llevar al Senado biocombustibles, traspaso de la justicia y pliegos",
+      "url": "https://www.eldestapeweb.com/politica/lla-quiere-llevar-senado-biocombustibles-traspaso-justicia-pliegos-202698214618",
+      "detectado": "2026-09-09T01:45:21.365Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uatre-homologan-el-acuerdo-salarial-para-trabajadores-rurales/",
       "sitio": "Ignacio Online",
@@ -303,13 +338,6 @@
       "detectado": "2026-09-07T10:50:37.004Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-07T10:50:37.004Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-milei-mientras-cae-consumo-6-cada-10-quiere-cambio-rumbo-economico-20269617182",
       "sitio": "El Destape",
       "titulo": "Mientras cae el consumo, 6 de cada 10 quiere un cambio de rumbo económico",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Arrancó el año electoral",
       "url": "https://www.eldestapeweb.com/politica/chances-peronismo-ganar-2027-proximo-paso-gobierno-malvinas-empresarios-esperan-deflacion-202695201135",
-      "detectado": "2026-09-06T01:29:41.647Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Navarro",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "detectado": "2026-09-06T01:29:41.647Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/malvinas-aclaracion-mayor-empresa-servicios-petroleros-mundo-202695165632",
-      "sitio": "El Destape",
-      "titulo": "Empresas petroleras con presencia en Vaca Muerta afirmaron que no operarán en Malvinas",
-      "url": "https://www.eldestapeweb.com/economia/malvinas-aclaracion-mayor-empresa-servicios-petroleros-mundo-202695165632",
-      "detectado": "2026-09-06T01:29:41.647Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-juniors-no-aguanto-ventaja-gimnasia-mendoza-empato-final-202695182619",
-      "sitio": "El Destape",
-      "titulo": "Boca Juniors no aguantó la ventaja y Gimnasia de Mendoza se lo empató en el final",
-      "url": "https://www.eldestapeweb.com/deportes/boca-juniors-no-aguanto-ventaja-gimnasia-mendoza-empato-final-202695182619",
-      "detectado": "2026-09-06T01:29:41.647Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/causa-fmi-impunidad-caputo-sturzenegger-caso-judicial-importante-pais-202695184014",
-      "sitio": "El Destape",
-      "titulo": "Causa FMI: impunidad para Caputo y Sturzeneggeren",
-      "url": "https://www.eldestapeweb.com/politica/causa-fmi-impunidad-caputo-sturzenegger-caso-judicial-importante-pais-202695184014",
       "detectado": "2026-09-06T01:29:41.647Z"
     }
   ]
