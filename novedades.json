@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-09T10:12:52.380Z",
+  "actualizado": "2026-09-09T15:24:11.487Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales-agip-vuelve-a-prorrogar-la-obligacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "Discriminar Ingresos Brutos en las facturas a consumidores finales. AGIP vuelve a prorrogar la obligación.",
+      "url": "https://contadoresenred.com/discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales-agip-vuelve-a-prorrogar-la-obligacion/",
+      "detectado": "2026-09-09T15:24:03.531Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/tu-cliente-recibio-notificacion-de-arca-por-emision-de-facturas-sin-informar-la-condicion-frente-al-iva-que-deben-hacer/",
+      "sitio": "Contadores en Red",
+      "titulo": "Tu cliente recibió notificación de ARCA por emisión de facturas sin informar la condición frente al IVA ¿Qué deben hacer?",
+      "url": "https://contadoresenred.com/tu-cliente-recibio-notificacion-de-arca-por-emision-de-facturas-sin-informar-la-condicion-frente-al-iva-que-deben-hacer/",
+      "detectado": "2026-09-09T15:24:03.531Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ddjj-simplificada-de-ganancias-arca-aclara-que-pasa-si-el-pago-en-termino-no-coincide-con-el-impuesto-declarado/",
+      "sitio": "Contadores en Red",
+      "titulo": "DDJJ Simplificada de Ganancias. ARCA aclara qué pasa si el pago en término no coincide con el impuesto declarado.",
+      "url": "https://contadoresenred.com/ddjj-simplificada-de-ganancias-arca-aclara-que-pasa-si-el-pago-en-termino-no-coincide-con-el-impuesto-declarado/",
+      "detectado": "2026-09-09T15:24:03.531Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/conflicto-malvinas",
+      "sitio": "El Destape",
+      "titulo": "Conflicto Malvinas",
+      "url": "https://www.eldestapeweb.com/tag/conflicto-malvinas",
+      "detectado": "2026-09-09T15:24:10.763Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fuerte-advertencia-primer-ministro-reino-unido-malvinas-seremos-implacables-20269912251",
+      "sitio": "El Destape",
+      "titulo": "Fuerte advertencia del Primer Ministro de Reino Unido por Malvinas: \"Implacables\"",
+      "url": "https://www.eldestapeweb.com/politica/fuerte-advertencia-primer-ministro-reino-unido-malvinas-seremos-implacables-20269912251",
+      "detectado": "2026-09-09T15:24:10.763Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/coimas-andis-citan-declarar-ex-pareja-cerimedo-puede-complicar-milei-202699121831",
+      "sitio": "El Destape",
+      "titulo": "Coimas en Andis: citan a declarar a la ex pareja de Cerimedo que puede complicar a Milei",
+      "url": "https://www.eldestapeweb.com/politica/coimas-andis-citan-declarar-ex-pareja-cerimedo-puede-complicar-milei-202699121831",
+      "detectado": "2026-09-09T15:24:10.763Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/espectaculos/murio-chiche-gelblung-82-anos-20269981917",
+      "sitio": "El Destape",
+      "titulo": "Murió Chiche Gelblung a los 82 años",
+      "url": "https://www.eldestapeweb.com/espectaculos/murio-chiche-gelblung-82-anos-20269981917",
+      "detectado": "2026-09-09T15:24:10.763Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-debate-hoy-reforma-bcra-inocencia-fiscal-ii-20269964740",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento y discapacidad: la oposición busca darle un golpe de realidad a Milei",
+      "url": "https://www.eldestapeweb.com/politica/senado-debate-hoy-reforma-bcra-inocencia-fiscal-ii-20269964740",
+      "detectado": "2026-09-09T15:24:10.763Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/verso-estabilidad-riesgo-dolar-crisis-economia-202699052",
       "sitio": "El Destape",
@@ -364,62 +420,6 @@
       "titulo": "Un quórum a detonar y aliados a reconquistar: una semana difícil para LLA en el Congreso",
       "url": "https://www.eldestapeweb.com/politica/quorum-detonar-aliados-reconquistar-semana-dificil-lla-congreso-202697055",
       "detectado": "2026-09-07T10:50:37.004Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-milei-mientras-cae-consumo-6-cada-10-quiere-cambio-rumbo-economico-20269617182",
-      "sitio": "El Destape",
-      "titulo": "Mientras cae el consumo, 6 de cada 10 quiere un cambio de rumbo económico",
-      "url": "https://www.eldestapeweb.com/politica/alerta-milei-mientras-cae-consumo-6-cada-10-quiere-cambio-rumbo-economico-20269617182",
-      "detectado": "2026-09-07T01:28:11.275Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-river-vs-independiente-rivadavia-torneo-clausura-2026-202696211427",
-      "sitio": "El Destape",
-      "titulo": "Uno por uno: los puntajes de los jugadores de River vs Independiente Rivadavia",
-      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-river-vs-independiente-rivadavia-torneo-clausura-2026-202696211427",
-      "detectado": "2026-09-07T01:28:11.275Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/imposible-estados-unidos-abandone-alianza-historica-reino-unido-202695214555",
-      "sitio": "El Destape",
-      "titulo": "¿Por qué es imposible que Estados Unidos abandone su alianza histórica con el Reino Unido?",
-      "url": "https://www.eldestapeweb.com/internacionales/imposible-estados-unidos-abandone-alianza-historica-reino-unido-202695214555",
-      "detectado": "2026-09-07T01:28:11.275Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-alemania",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Alemania",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-alemania",
-      "detectado": "2026-09-06T19:39:35.724Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/alarma-alemania-ultraderecha-afd-arraso-esta-puertas-gobernar-region-20269614510",
-      "sitio": "El Destape",
-      "titulo": "Alarma en Alemania: la ultraderecha AfD arrasó y está a las puertas de gobernar una región",
-      "url": "https://www.eldestapeweb.com/internacionales/alarma-alemania-ultraderecha-afd-arraso-esta-puertas-gobernar-region-20269614510",
-      "detectado": "2026-09-06T19:39:35.725Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbe-consumo-ventas-minoristas-cayeron-casi-3-julio-agosto-202696111513",
-      "sitio": "El Destape",
-      "titulo": "Derrumbe del consumo: las ventas minoristas cayeron casi 3% entre julio y agosto",
-      "url": "https://www.eldestapeweb.com/economia/derrumbe-consumo-ventas-minoristas-cayeron-casi-3-julio-agosto-202696111513",
-      "detectado": "2026-09-06T14:28:56.303Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-tiene-razon-heterodoxia-trucha-no-sirve-2026960555",
-      "sitio": "El Destape",
-      "titulo": "La crisis derrite el dogma libertario",
-      "url": "https://www.eldestapeweb.com/economia/milei-tiene-razon-heterodoxia-trucha-no-sirve-2026960555",
-      "detectado": "2026-09-06T09:45:50.941Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-malvinas-giro-presidente-rehen-propias-opciones-2026960555",
-      "sitio": "El Destape",
-      "titulo": "Milei y Malvinas: el giro de un presidente rehén de sus propias opciones",
-      "url": "https://www.eldestapeweb.com/politica/milei-malvinas-giro-presidente-rehen-propias-opciones-2026960555",
-      "detectado": "2026-09-06T09:45:50.941Z"
     }
   ]
 }
