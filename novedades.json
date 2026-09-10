@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-10T01:40:31.744Z",
+  "actualizado": "2026-09-10T10:07:48.748Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-09-10T10:07:48.417Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/negocio-necesidad-galperin-gana-endeudamiento-familias-20269100511",
+      "sitio": "El Destape",
+      "titulo": "El negocio de la necesidad: cómo Galperín gana con el endeudamiento de las familias",
+      "url": "https://www.eldestapeweb.com/economia/negocio-necesidad-galperin-gana-endeudamiento-familias-20269100511",
+      "detectado": "2026-09-10T10:07:48.417Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "CPBA (Buenos Aires)",
       "titulo": "Reconocimiento a profesionales jubilados en La Plata",
       "url": "https://www.cpba.com.ar/noticias/item/15960-reconocimiento-a-profesionales-jubilados-en-la-plata",
-      "detectado": "2026-09-07T16:43:34.858Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15959-entrega-de-medallas-en-avellaneda",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Entrega de medallas en Avellaneda",
-      "url": "https://www.cpba.com.ar/noticias/item/15959-entrega-de-medallas-en-avellaneda",
-      "detectado": "2026-09-07T16:43:34.858Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15958-jura-en-el-gran-buenos-aires",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Jura en el Gran Buenos Aires",
-      "url": "https://www.cpba.com.ar/noticias/item/15958-jura-en-el-gran-buenos-aires",
       "detectado": "2026-09-07T16:43:34.858Z"
     }
   ]
