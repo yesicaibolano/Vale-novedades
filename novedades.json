@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-10T15:18:34.061Z",
+  "actualizado": "2026-09-10T20:08:38.623Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15966-el-consejo-de-administracion-de-la-caja-reunido-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo de Administración de la Caja, reunido en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/15966-el-consejo-de-administracion-de-la-caja-reunido-en-sede-provincial",
+      "detectado": "2026-09-10T20:08:35.308Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15965-reunion-con-el-decano-de-la-facultad-de-ciencias-economicas-de-la-unlp",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Reunión con el Decano de la Facultad de Ciencias Económicas de la UNLP",
+      "url": "https://www.cpba.com.ar/noticias/item/15965-reunion-con-el-decano-de-la-facultad-de-ciencias-economicas-de-la-unlp",
+      "detectado": "2026-09-10T20:08:35.309Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-agosto-cayo-fue-1-7-202691016430",
+      "sitio": "El Destape",
+      "titulo": "La inflación de agosto cayó y fue de 1,7%",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-agosto-cayo-fue-1-7-202691016430",
+      "detectado": "2026-09-10T20:08:36.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-dara-masterclass-malvinas-presupuesto-legisladores-piden-vaya-palco-votaciones-2026910144642",
+      "sitio": "El Destape",
+      "titulo": "Milei dará una \"masterclass\" sobre Malvinas y Presupuesto a sus legisladores",
+      "url": "https://www.eldestapeweb.com/politica/milei-dara-masterclass-malvinas-presupuesto-legisladores-piden-vaya-palco-votaciones-2026910144642",
+      "detectado": "2026-09-10T20:08:36.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-10T20:08:36.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-ultimo-momento-javier-milei-cancelo-viaje-reino-unido-medio-tensiones-malvinas-2026910162244",
+      "sitio": "El Destape",
+      "titulo": "En medio de la sobreactuación con Malvinas, Milei suspendió su viaje a Reino Unido",
+      "url": "https://www.eldestapeweb.com/politica/giro-ultimo-momento-javier-milei-cancelo-viaje-reino-unido-medio-tensiones-malvinas-2026910162244",
+      "detectado": "2026-09-10T20:08:36.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/donde-esta-oro-estado-documento-desmiente-santiago-bausili-2026910141017",
+      "sitio": "El Destape",
+      "titulo": "¿Dónde está el oro del Estado?: el documento que desmiente a Bausili",
+      "url": "https://www.eldestapeweb.com/politica/donde-esta-oro-estado-documento-desmiente-santiago-bausili-2026910141017",
+      "detectado": "2026-09-10T20:08:36.905Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/caba-reglamenta-el-rimicaba-y-fija-sus-beneficios-impositivos/",
       "sitio": "Contadores en Red",
@@ -97,13 +146,6 @@
       "sitio": "El Destape",
       "titulo": "Morosidad y discapacidad: la oposición presionó a Milei, pero no logró complicarlo",
       "url": "https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
-      "detectado": "2026-09-09T20:06:22.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-09-09T20:06:22.567Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "\"Pesadilla\" y \"desesperación\": las caras de la crisis de morosidad que Milei no ve",
       "url": "https://www.eldestapeweb.com/politica/pesadilla-desesperacion-hostigamiento-caras-crisis-morosidad-milei-niega-ver-202697215233",
       "detectado": "2026-09-08T01:37:42.326Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-refuerza-poder-fuego-bcra-frenar-nueva-corrida-cambiaria-202697193149",
-      "sitio": "El Destape",
-      "titulo": "Caputo refuerza el poder de fuego del BCRA para frenar una nueva corrida cambiaria",
-      "url": "https://www.eldestapeweb.com/economia/caputo-refuerza-poder-fuego-bcra-frenar-nueva-corrida-cambiaria-202697193149",
-      "detectado": "2026-09-08T01:37:42.326Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-08T01:37:42.326Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/contrarreloj-oposicion-negocia-garantizar-quorum-votos-diputados-202697191536",
-      "sitio": "El Destape",
-      "titulo": "A contrarreloj, la oposición negocia para garantizar el quórum y los votos en Diputados",
-      "url": "https://www.eldestapeweb.com/politica/contrarreloj-oposicion-negocia-garantizar-quorum-votos-diputados-202697191536",
-      "detectado": "2026-09-08T01:37:42.326Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-denunciara-navitas-explotar-petroleo-malvinas-202697203016",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno denunciará a Navitas por explotar petróleo en Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-denunciara-navitas-explotar-petroleo-malvinas-202697203016",
-      "detectado": "2026-09-08T01:37:42.326Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-pone-todo-gobierno-trabajar-malvinas-tapar-crisis-morosidad-discapacidad-202697173159",
-      "sitio": "El Destape",
-      "titulo": "Milei pone a todo el Gobierno a trabajar por Malvinas para tapar la crisis de morosidad",
-      "url": "https://www.eldestapeweb.com/politica/milei-pone-todo-gobierno-trabajar-malvinas-tapar-crisis-morosidad-discapacidad-202697173159",
-      "detectado": "2026-09-07T20:51:25.309Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/autocritica-milei-reunio-gabinete-ratificar-rumbo-economico-202697153432",
-      "sitio": "El Destape",
-      "titulo": "Sin autocrítica, Milei reunió a su Gabinete para ratificar el rumbo económico",
-      "url": "https://www.eldestapeweb.com/politica/autocritica-milei-reunio-gabinete-ratificar-rumbo-economico-202697153432",
-      "detectado": "2026-09-07T20:51:25.309Z"
     }
   ]
 }
