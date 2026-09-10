@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-09T20:06:23.259Z",
+  "actualizado": "2026-09-10T01:40:31.744Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
+      "sitio": "El Destape",
+      "titulo": "El plan de LLA para afrontar los emplazamientos de discapacidad y endeudamiento",
+      "url": "https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
+      "detectado": "2026-09-10T01:40:31.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-09-10T01:40:31.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/era-post-messi-seleccion-filtraron-quienes-podrian-ser-proximos-rivales-argentina-fecha-fifa-20269916300",
+      "sitio": "El Destape",
+      "titulo": "Los inesperados rivales que negocia la Selección Argentina para sus próximos amistosos",
+      "url": "https://www.eldestapeweb.com/deportes/era-post-messi-seleccion-filtraron-quienes-podrian-ser-proximos-rivales-argentina-fecha-fifa-20269916300",
+      "detectado": "2026-09-10T01:40:31.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/plena-rosca-lla-lacunza-camina-pais-preservar-identidad-amarilla-202699194150",
+      "sitio": "El Destape",
+      "titulo": "En plena rosca con LLA, Lacunza camina el país para preservar la identidad amarilla",
+      "url": "https://www.eldestapeweb.com/politica/plena-rosca-lla-lacunza-camina-pais-preservar-identidad-amarilla-202699194150",
+      "detectado": "2026-09-10T01:40:31.235Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/no-pedimos-permiso-cambio-exigimos-llamado-cambiar-politicas-drogas-202699171551",
+      "sitio": "El Destape",
+      "titulo": "\"No pedimos permiso para el cambio, lo exigimos\": llaman a cambiar las políticas de drogas",
+      "url": "https://www.eldestapeweb.com/sociedad/no-pedimos-permiso-cambio-exigimos-llamado-cambiar-politicas-drogas-202699171551",
+      "detectado": "2026-09-10T01:40:31.235Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Jura en el Gran Buenos Aires",
       "url": "https://www.cpba.com.ar/noticias/item/15958-jura-en-el-gran-buenos-aires",
       "detectado": "2026-09-07T16:43:34.858Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-gabinete-malvinas-presupuesto-2027-ejes-20269764657",
-      "sitio": "El Destape",
-      "titulo": "Milei reunió al Gabinete con Malvinas y el Presupuesto 2027 como ejes",
-      "url": "https://www.eldestapeweb.com/politica/milei-encabeza-reunion-clave-gabinete-malvinas-presupuesto-2027-ejes-20269764657",
-      "detectado": "2026-09-07T16:43:36.393Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cumbre-universitaria-incumplimiento-gobierno-organiza-nueva-marcha-federal-202697105546",
-      "sitio": "El Destape",
-      "titulo": "Organizan una nueva marcha universitaria ante el incumplimiento del Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/cumbre-universitaria-incumplimiento-gobierno-organiza-nueva-marcha-federal-202697105546",
-      "detectado": "2026-09-07T16:43:36.393Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-espera-san-pablo-alza-vuelve-paredes-chau-delgado-calleri-duda-202697114315",
-      "sitio": "El Destape",
-      "titulo": "Boca espera a un San Pablo en alza: vuelve Paredes, sin Delgado y Calleri en duda",
-      "url": "https://www.eldestapeweb.com/deportes/boca-espera-san-pablo-alza-vuelve-paredes-chau-delgado-calleri-duda-202697114315",
-      "detectado": "2026-09-07T16:43:36.393Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-oposicion-buscara-tratar-miercoles-proyectos-endeudados-20269711575",
-      "sitio": "El Destape",
-      "titulo": "Diputados: la oposición buscará tratar el miércoles proyectos para endeudados",
-      "url": "https://www.eldestapeweb.com/politica/diputados-oposicion-buscara-tratar-miercoles-proyectos-endeudados-20269711575",
-      "detectado": "2026-09-07T16:43:36.393Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/1-000-dias-milei-menos-consumo-inflacion-acumulada-241-202697055",
-      "sitio": "El Destape",
-      "titulo": "Los 1.000 días de Milei: menos consumo y una inflación acumulada de 241%",
-      "url": "https://www.eldestapeweb.com/economia/1-000-dias-milei-menos-consumo-inflacion-acumulada-241-202697055",
-      "detectado": "2026-09-07T10:50:37.003Z"
     }
   ]
 }
