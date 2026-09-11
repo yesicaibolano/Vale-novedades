@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-10T20:08:38.623Z",
+  "actualizado": "2026-09-11T01:39:48.480Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-baja-costa-pulverizacion-salarios-mercado-interno-2026910195924",
+      "sitio": "El Destape",
+      "titulo": "Una inflación a la baja a costa de la pulverización de los salarios y el mercado interno",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-baja-costa-pulverizacion-salarios-mercado-interno-2026910195924",
+      "detectado": "2026-09-11T01:39:48.058Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-11T01:39:48.058Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-agosto-estacionales-inercia-mantiene-2026910222353",
+      "sitio": "El Destape",
+      "titulo": "La inflación de agosto bajó por los estacionales, pero la inercia se mantiene",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-agosto-estacionales-inercia-mantiene-2026910222353",
+      "detectado": "2026-09-11T01:39:48.058Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-familia-necesito-1-6-millones-no-ser-pobre-726-mil-comer-2026910173359",
+      "sitio": "El Destape",
+      "titulo": "Inflación: una familia necesitó $1,6 millones para no ser pobre y $ 726 mil para comer",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-familia-necesito-1-6-millones-no-ser-pobre-726-mil-comer-2026910173359",
+      "detectado": "2026-09-11T01:39:48.058Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/di-tullio-denuncio-oro-esta-londres-tiene-salir-pais-colonizador-202691019753",
+      "sitio": "El Destape",
+      "titulo": "Di Tullio denunció que el oro está en Londres: \"Tiene que salir ya del país colonizador\"",
+      "url": "https://www.eldestapeweb.com/politica/di-tullio-denuncio-oro-esta-londres-tiene-salir-pais-colonizador-202691019753",
+      "detectado": "2026-09-11T01:39:48.058Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15966-el-consejo-de-administracion-de-la-caja-reunido-en-sede-provincial",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "¿Por qué las mujeres rechazan a Milei?: una pregunta clave para 2027",
       "url": "https://www.eldestapeweb.com/politica/mujeres-rechazan-milei-pregunta-clave-elecciones-2027-202697232739",
       "detectado": "2026-09-08T10:09:53.508Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-09-08T10:09:53.508Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-encuesta-oficialista-preocupa-gobierno-2026980536",
-      "sitio": "El Destape",
-      "titulo": "Elecciones 2027: la encuesta oficialista que preocupa al Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-encuesta-oficialista-preocupa-gobierno-2026980536",
-      "detectado": "2026-09-08T10:09:53.508Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-se-traslada-al-lunes-28-de-septiembre/",
-      "sitio": "Ignacio Online",
-      "titulo": "Día del Empleado de Comercio 2026: se traslada al lunes 28 de septiembre",
-      "url": "https://www.ignacioonline.com.ar/dia-del-empleado-de-comercio-2026-se-traslada-al-lunes-28-de-septiembre/",
-      "detectado": "2026-09-08T01:37:37.931Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15961-la-comision-de-ambito-municipal-llevo-su-temario-al-norte-de-la-provincia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Comisión de Ámbito Municipal llevó su temario al norte de la Provincia",
-      "url": "https://www.cpba.com.ar/noticias/item/15961-la-comision-de-ambito-municipal-llevo-su-temario-al-norte-de-la-provincia",
-      "detectado": "2026-09-08T01:37:40.959Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pesadilla-desesperacion-hostigamiento-caras-crisis-morosidad-milei-niega-ver-202697215233",
-      "sitio": "El Destape",
-      "titulo": "\"Pesadilla\" y \"desesperación\": las caras de la crisis de morosidad que Milei no ve",
-      "url": "https://www.eldestapeweb.com/politica/pesadilla-desesperacion-hostigamiento-caras-crisis-morosidad-milei-niega-ver-202697215233",
-      "detectado": "2026-09-08T01:37:42.326Z"
     }
   ]
 }
