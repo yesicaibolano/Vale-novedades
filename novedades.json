@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-11T10:04:59.072Z",
+  "actualizado": "2026-09-11T15:20:20.678Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ddjj-anual-ingresos-brutos-caba-2025-cuando-vence/",
+      "sitio": "Contadores en Red",
+      "titulo": "DDJJ Anual Ingresos Brutos CABA 2025. ¿Cuándo vence?",
+      "url": "https://contadoresenred.com/ddjj-anual-ingresos-brutos-caba-2025-cuando-vence/",
+      "detectado": "2026-09-11T15:20:13.685Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15952-renova-tu-reduccion-de-aportes-minimos-para-2027",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Renová tu Reducción de Aportes Mínimos para 2027",
+      "url": "https://www.cpba.com.ar/noticias/item/15952-renova-tu-reduccion-de-aportes-minimos-para-2027",
+      "detectado": "2026-09-11T15:20:18.556Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15967-ahora-en-repro-regimen-simplificado-de-ganancias-que-pasa-con-el-bloqueo-del-iva-2025",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Régimen Simplificado de Ganancias: Qué pasa con el bloqueo del IVA…",
+      "url": "https://www.cpba.com.ar/noticias/item/15967-ahora-en-repro-regimen-simplificado-de-ganancias-que-pasa-con-el-bloqueo-del-iva-2025",
+      "detectado": "2026-09-11T15:20:18.556Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
+      "sitio": "El Destape",
+      "titulo": "Textiles advierten que las importaciones ya abastecen al 70% del sector",
+      "url": "https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
+      "detectado": "2026-09-11T15:20:20.146Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
+      "sitio": "El Destape",
+      "titulo": "La suba de alquileres duplicó la inflación en agosto",
+      "url": "https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
+      "detectado": "2026-09-11T15:20:20.146Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-baja-costa-pulverizacion-salarios-mercado-interno-2026910195924",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Alarmante resultado en las pruebas PISA: Argentina cae en todas las materias",
       "url": "https://www.eldestapeweb.com/sociedad/alarmante-resultado-pruebas-pisa-argentina-cae-todas-materias-peor-dato-2006-20269893624",
       "detectado": "2026-09-08T15:27:41.966Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/alerta-covid-19-detectaron-primera-vez-nueva-cepa-argentina-2026989718",
-      "sitio": "El Destape",
-      "titulo": "Alerta COVID-19: detectaron por primera vez una nueva cepa en la Argentina",
-      "url": "https://www.eldestapeweb.com/sociedad/alerta-covid-19-detectaron-primera-vez-nueva-cepa-argentina-2026989718",
-      "detectado": "2026-09-08T15:27:41.966Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "sitio": "El Destape",
-      "titulo": "Por Gimena Figueroa",
-      "url": "https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "detectado": "2026-09-08T15:27:41.966Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-08T15:27:41.966Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/medio-crisis-morosidad-reune-mesa-politica-malvinas-eje-2026986265",
-      "sitio": "El Destape",
-      "titulo": "En medio de la crisis de morosidad, se reúne la Mesa Política con Malvinas como eje",
-      "url": "https://www.eldestapeweb.com/politica/medio-crisis-morosidad-reune-mesa-politica-malvinas-eje-2026986265",
-      "detectado": "2026-09-08T15:27:41.966Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mujeres-rechazan-milei-pregunta-clave-elecciones-2027-202697232739",
-      "sitio": "El Destape",
-      "titulo": "¿Por qué las mujeres rechazan a Milei?: una pregunta clave para 2027",
-      "url": "https://www.eldestapeweb.com/politica/mujeres-rechazan-milei-pregunta-clave-elecciones-2027-202697232739",
-      "detectado": "2026-09-08T10:09:53.508Z"
     }
   ]
 }
