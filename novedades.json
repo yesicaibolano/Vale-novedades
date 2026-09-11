@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-11T15:20:20.678Z",
+  "actualizado": "2026-09-11T20:07:48.463Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15968-nuevos-profesionales-juraron-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevos profesionales juraron en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/15968-nuevos-profesionales-juraron-en-sede-provincial",
+      "detectado": "2026-09-11T20:07:46.464Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/jalil-anuncio-elecciones-catamarca-seran-mismo-dia-nacionales-2026911154456",
+      "sitio": "El Destape",
+      "titulo": "Jalil anunció que las elecciones en Catamarca serán el mismo día que las nacionales",
+      "url": "https://www.eldestapeweb.com/politica/jalil-anuncio-elecciones-catamarca-seran-mismo-dia-nacionales-2026911154456",
+      "detectado": "2026-09-11T20:07:48.088Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/insolito-milei-comparo-sarmiento-compartio-dos-mapas-argentina-malvinas-2026911101926",
+      "sitio": "El Destape",
+      "titulo": "Insólito: Milei se comparó con Sarmiento y compartió mapas de Argentina sin las Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/insolito-milei-comparo-sarmiento-compartio-dos-mapas-argentina-malvinas-2026911101926",
+      "detectado": "2026-09-11T20:07:48.088Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-alimentos-endeudados-fue-triple-indec-2026911141153",
+      "sitio": "El Destape",
+      "titulo": "La inflación en alimentos para endeudados fue del triple que la del Indec",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-alimentos-endeudados-fue-triple-indec-2026911141153",
+      "detectado": "2026-09-11T20:07:48.088Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/historico-argentina-le-gano-mexico-metio-octavos-mundial-femenino-sub-20-2026911155044",
+      "sitio": "El Destape",
+      "titulo": "Argentina venció a México y se metió en octavos del Mundial femenino Sub 20",
+      "url": "https://www.eldestapeweb.com/deportes/historico-argentina-le-gano-mexico-metio-octavos-mundial-femenino-sub-20-2026911155044",
+      "detectado": "2026-09-11T20:07:48.088Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/caso-agostina-vega",
+      "sitio": "El Destape",
+      "titulo": "Caso Agostina Vega",
+      "url": "https://www.eldestapeweb.com/tag/caso-agostina-vega",
+      "detectado": "2026-09-11T20:07:48.088Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ddjj-anual-ingresos-brutos-caba-2025-cuando-vence/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "La industria se hundió 5% y casi todas los sectores mostraron una caída",
       "url": "https://www.eldestapeweb.com/economia/industria-hundio-5-casi-todas-sectores-mostraron-caida-202698165141",
       "detectado": "2026-09-08T20:23:05.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/construccion-vuelve-caer-mientras-gobierno-promete-creditos-inmobiliarios-baratos-202698165036",
-      "sitio": "El Destape",
-      "titulo": "La construcción vuelve a caer mientras el Gobierno promete créditos inmobiliarios baratos",
-      "url": "https://www.eldestapeweb.com/economia/construccion-vuelve-caer-mientras-gobierno-promete-creditos-inmobiliarios-baratos-202698165036",
-      "detectado": "2026-09-08T20:23:05.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-impulsara-juicio-politico-jueza-freno-ley-penal-juvenil-202698134919",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno impulsará el juicio político de la jueza que frenó la Ley Penal Juvenil",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-impulsara-juicio-politico-jueza-freno-ley-penal-juvenil-202698134919",
-      "detectado": "2026-09-08T20:23:05.111Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/traslado-del-dia-del-empleado-de-comercio-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Traslado del Día del Empleado de Comercio 2026.",
-      "url": "https://contadoresenred.com/traslado-del-dia-del-empleado-de-comercio-2026/",
-      "detectado": "2026-09-08T15:27:33.316Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15963-ahora-en-repro-firma-digital-vs-firma-electronica-que-cambia-en-el-ejercicio-profesional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Firma digital vs firma electrónica: ¿Qué cambia en el ejercicio profesional?",
-      "url": "https://www.cpba.com.ar/noticias/item/15963-ahora-en-repro-firma-digital-vs-firma-electronica-que-cambia-en-el-ejercicio-profesional",
-      "detectado": "2026-09-08T15:27:40.387Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Capacitate en investigación de mercados con IA",
-      "url": "https://www.cpba.com.ar/noticias/item/15941-capacitate-en-investigacion-de-mercados-con-ia",
-      "detectado": "2026-09-08T15:27:40.387Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/alarmante-resultado-pruebas-pisa-argentina-cae-todas-materias-peor-dato-2006-20269893624",
-      "sitio": "El Destape",
-      "titulo": "Alarmante resultado en las pruebas PISA: Argentina cae en todas las materias",
-      "url": "https://www.eldestapeweb.com/sociedad/alarmante-resultado-pruebas-pisa-argentina-cae-todas-materias-peor-dato-2006-20269893624",
-      "detectado": "2026-09-08T15:27:41.966Z"
     }
   ]
 }
