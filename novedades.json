@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-12T01:45:44.824Z",
+  "actualizado": "2026-09-12T09:40:23.304Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
+      "sitio": "El Destape",
+      "titulo": "Milei busca blindar su modelo: recorta herramientas del BCRA mientras crece la deuda",
+      "url": "https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
+      "detectado": "2026-09-12T09:40:22.950Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-12T09:40:22.950Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-quedan-dos-meses-suspender-paso-pone-riesgo-reeleccion-20269120533",
+      "sitio": "El Destape",
+      "titulo": "A Milei le quedan dos meses para suspender las PASO y pone en riesgo su reelección",
+      "url": "https://www.eldestapeweb.com/politica/milei-le-quedan-dos-meses-suspender-paso-pone-riesgo-reeleccion-20269120533",
+      "detectado": "2026-09-12T09:40:22.950Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-12T09:40:22.950Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/desindustrializacion-falta-respuestas-politicas-avance-neonazi-no-inevitable-20269120533",
+      "sitio": "El Destape",
+      "titulo": "Desindustrialización y falta de respuestas políticas: el avance neonazi no es inevitable",
+      "url": "https://www.eldestapeweb.com/internacionales/desindustrializacion-falta-respuestas-politicas-avance-neonazi-no-inevitable-20269120533",
+      "detectado": "2026-09-12T09:40:22.950Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/precios-canasta-basica-mide-pobreza-aumentaron-ipc-2026911191538",
       "sitio": "El Destape",
@@ -167,13 +202,6 @@
       "sitio": "El Destape",
       "titulo": "Milei dará una \"masterclass\" sobre Malvinas y Presupuesto a sus legisladores",
       "url": "https://www.eldestapeweb.com/politica/milei-dara-masterclass-malvinas-presupuesto-legisladores-piden-vaya-palco-votaciones-2026910144642",
-      "detectado": "2026-09-10T20:08:36.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-09-10T20:08:36.905Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Javier Milei presidente",
       "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-09-09T10:12:52.012Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pacto-oculto-laboratorios-termina-medicamentos-caros-202699052",
-      "sitio": "El Destape",
-      "titulo": "El pacto oculto entre laboratorios termina con medicamentos más caros",
-      "url": "https://www.eldestapeweb.com/politica/pacto-oculto-laboratorios-termina-medicamentos-caros-202699052",
-      "detectado": "2026-09-09T10:12:52.012Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-confia-numero-emplazar-endeudamiento-discapacidad-diputados-202698182614",
-      "sitio": "El Destape",
-      "titulo": "La oposición confía en el número para emplazar endeudamiento y discapacidad en Diputados",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-confia-numero-emplazar-endeudamiento-discapacidad-diputados-202698182614",
-      "detectado": "2026-09-09T01:45:21.364Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/endeudamiento-casi-tres-cada-diez-hogares-pidieron-plata-llegar-fin-mes-202698181842",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento: casi tres de cada diez hogares pidieron plata para llegar a fin de mes",
-      "url": "https://www.eldestapeweb.com/economia/endeudamiento-casi-tres-cada-diez-hogares-pidieron-plata-llegar-fin-mes-202698181842",
-      "detectado": "2026-09-09T01:45:21.365Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-boca-vs-sao-paulo-copa-sudamericana-forma-legal-riesgos-202698113037",
-      "sitio": "El Destape",
-      "titulo": "Boca enfrenta a Sao Paulo en la Copa Sudamericana",
-      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-boca-vs-sao-paulo-copa-sudamericana-forma-legal-riesgos-202698113037",
-      "detectado": "2026-09-09T01:45:21.365Z"
     }
   ]
 }
