@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-12T09:40:23.304Z",
+  "actualizado": "2026-09-12T14:28:23.480Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/negocio-malvinas-deuda-mata-leccion-marcos-juarez-peronismo-2026912112746",
+      "sitio": "El Destape",
+      "titulo": "El negocio Malvinas, la deuda que mata y la lección de Marcos Juárez",
+      "url": "https://www.eldestapeweb.com/politica/negocio-malvinas-deuda-mata-leccion-marcos-juarez-peronismo-2026912112746",
+      "detectado": "2026-09-12T14:28:22.959Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-scaloni-principal-dilema-pone-duda-continuidad-seleccion-argentina-20269111510",
+      "sitio": "El Destape",
+      "titulo": "Incertidumbre en la Selección: el dilema de Lionel Scaloni que pone en duda su continuidad",
+      "url": "https://www.eldestapeweb.com/deportes/lionel-scaloni-principal-dilema-pone-duda-continuidad-seleccion-argentina-20269111510",
+      "detectado": "2026-09-12T14:28:22.959Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Partido Justicialista",
       "url": "https://www.eldestapeweb.com/politica/homenaje-sota-dejo-postales-unidad-peronismo-202699052",
-      "detectado": "2026-09-09T10:12:52.012Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-09T10:12:52.012Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-09-09T10:12:52.012Z"
     }
   ]
