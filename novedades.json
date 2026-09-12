@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-11T20:07:48.463Z",
+  "actualizado": "2026-09-12T01:45:44.824Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precios-canasta-basica-mide-pobreza-aumentaron-ipc-2026911191538",
+      "sitio": "El Destape",
+      "titulo": "Los precios de la Canasta Básica que mide la pobreza aumentaron más que el IPC",
+      "url": "https://www.eldestapeweb.com/economia/precios-canasta-basica-mide-pobreza-aumentaron-ipc-2026911191538",
+      "detectado": "2026-09-12T01:45:44.284Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-12T01:45:44.284Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-dos-tercios-priorizan-salarios-empleo-antes-supuesta-estabilidad-precios-2026911154253",
+      "sitio": "El Destape",
+      "titulo": "Casi dos tercios priorizan salarios y empleo antes que la supuesta estabilidad de precios",
+      "url": "https://www.eldestapeweb.com/economia/casi-dos-tercios-priorizan-salarios-empleo-antes-supuesta-estabilidad-precios-2026911154253",
+      "detectado": "2026-09-12T01:45:44.284Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-le-pide-gobierno-restituya-bandera-flameo-malvinas-20269111982",
+      "sitio": "El Destape",
+      "titulo": "La oposición le pide al Gobierno que restituya bandera que flameó en Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-le-pide-gobierno-restituya-bandera-flameo-malvinas-20269111982",
+      "detectado": "2026-09-12T01:45:44.284Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mapa-desempleo-privado-provincias-puestos-perdieron-milei-202691118564",
+      "sitio": "El Destape",
+      "titulo": "Mapa del desempleo privado: las provincias que más puestos perdieron con Milei",
+      "url": "https://www.eldestapeweb.com/economia/mapa-desempleo-privado-provincias-puestos-perdieron-milei-202691118564",
+      "detectado": "2026-09-12T01:45:44.284Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15968-nuevos-profesionales-juraron-en-sede-provincial",
       "sitio": "CPBA (Buenos Aires)",
@@ -83,13 +118,6 @@
       "sitio": "El Destape",
       "titulo": "Una inflación a la baja a costa de la pulverización de los salarios y el mercado interno",
       "url": "https://www.eldestapeweb.com/economia/inflacion-baja-costa-pulverizacion-salarios-mercado-interno-2026910195924",
-      "detectado": "2026-09-11T01:39:48.058Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
       "detectado": "2026-09-11T01:39:48.058Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Boca enfrenta a Sao Paulo en la Copa Sudamericana",
       "url": "https://www.eldestapeweb.com/deportes/ver-vivo-boca-vs-sao-paulo-copa-sudamericana-forma-legal-riesgos-202698113037",
       "detectado": "2026-09-09T01:45:21.365Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-quiere-llevar-senado-biocombustibles-traspaso-justicia-pliegos-202698214618",
-      "sitio": "El Destape",
-      "titulo": "LLA quiere llevar al Senado biocombustibles, traspaso de la justicia y pliegos",
-      "url": "https://www.eldestapeweb.com/politica/lla-quiere-llevar-senado-biocombustibles-traspaso-justicia-pliegos-202698214618",
-      "detectado": "2026-09-09T01:45:21.365Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uatre-homologan-el-acuerdo-salarial-para-trabajadores-rurales/",
-      "sitio": "Ignacio Online",
-      "titulo": "UATRE: homologan el acuerdo salarial para trabajadores rurales",
-      "url": "https://www.ignacioonline.com.ar/uatre-homologan-el-acuerdo-salarial-para-trabajadores-rurales/",
-      "detectado": "2026-09-08T20:22:59.803Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-uso-malvinas-no-le-sirvio-esconder-derrumbe-consumo-tarifazo-transporte-caida-economia-20269816754",
-      "sitio": "El Destape",
-      "titulo": "Ni cinco días duró: Milei usó a Malvinas pero no pudo esconder la crisis de bolsillo",
-      "url": "https://www.eldestapeweb.com/economia/milei-uso-malvinas-no-le-sirvio-esconder-derrumbe-consumo-tarifazo-transporte-caida-economia-20269816754",
-      "detectado": "2026-09-08T20:23:05.111Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/industria-hundio-5-casi-todas-sectores-mostraron-caida-202698165141",
-      "sitio": "El Destape",
-      "titulo": "La industria se hundió 5% y casi todas los sectores mostraron una caída",
-      "url": "https://www.eldestapeweb.com/economia/industria-hundio-5-casi-todas-sectores-mostraron-caida-202698165141",
-      "detectado": "2026-09-08T20:23:05.111Z"
     }
   ]
 }
