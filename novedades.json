@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-12T14:28:23.480Z",
+  "actualizado": "2026-09-12T19:44:21.268Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/susto-franco-colapinto-llego-q3-tiempazo-larga-noveno-gp-espana-formula-1-202691212228",
+      "sitio": "El Destape",
+      "titulo": "Colapinto llegó a la Q3 y larga noveno en el GP de España en la Fórmula 1",
+      "url": "https://www.eldestapeweb.com/deportes/susto-franco-colapinto-llego-q3-tiempazo-larga-noveno-gp-espana-formula-1-202691212228",
+      "detectado": "2026-09-12T19:44:20.840Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/viento-cola-era-milei-reprimarizacion-economia-destruccion-empresas-2026912143931",
+      "sitio": "El Destape",
+      "titulo": "Viento de cola en la era Milei: reprimarización de la economía y destrucción de empresas",
+      "url": "https://www.eldestapeweb.com/economia/viento-cola-era-milei-reprimarizacion-economia-destruccion-empresas-2026912143931",
+      "detectado": "2026-09-12T19:44:20.840Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
+      "sitio": "El Destape",
+      "titulo": "Textiles advierten que las importaciones ya abastecen al 70% del sector",
+      "url": "https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
+      "detectado": "2026-09-12T19:44:20.840Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
+      "sitio": "El Destape",
+      "titulo": "La suba de alquileres duplicó la inflación en agosto",
+      "url": "https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
+      "detectado": "2026-09-12T19:44:20.840Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/negocio-malvinas-deuda-mata-leccion-marcos-juarez-peronismo-2026912112746",
       "sitio": "El Destape",
@@ -147,20 +175,6 @@
       "titulo": "Ahora en RePro | Régimen Simplificado de Ganancias: Qué pasa con el bloqueo del IVA…",
       "url": "https://www.cpba.com.ar/noticias/item/15967-ahora-en-repro-regimen-simplificado-de-ganancias-que-pasa-con-el-bloqueo-del-iva-2025",
       "detectado": "2026-09-11T15:20:18.556Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
-      "sitio": "El Destape",
-      "titulo": "Textiles advierten que las importaciones ya abastecen al 70% del sector",
-      "url": "https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
-      "detectado": "2026-09-11T15:20:20.146Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
-      "sitio": "El Destape",
-      "titulo": "La suba de alquileres duplicó la inflación en agosto",
-      "url": "https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
-      "detectado": "2026-09-11T15:20:20.146Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-baja-costa-pulverizacion-salarios-mercado-interno-2026910195924",
@@ -406,20 +420,6 @@
       "titulo": "Endeudamiento y discapacidad: la oposición busca darle un golpe de realidad a Milei",
       "url": "https://www.eldestapeweb.com/politica/senado-debate-hoy-reforma-bcra-inocencia-fiscal-ii-20269964740",
       "detectado": "2026-09-09T15:24:10.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/verso-estabilidad-riesgo-dolar-crisis-economia-202699052",
-      "sitio": "El Destape",
-      "titulo": "Salarios, jubilaciones y paro nacional",
-      "url": "https://www.eldestapeweb.com/economia/verso-estabilidad-riesgo-dolar-crisis-economia-202699052",
-      "detectado": "2026-09-09T10:12:52.012Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/homenaje-sota-dejo-postales-unidad-peronismo-202699052",
-      "sitio": "El Destape",
-      "titulo": "Partido Justicialista",
-      "url": "https://www.eldestapeweb.com/politica/homenaje-sota-dejo-postales-unidad-peronismo-202699052",
-      "detectado": "2026-09-09T10:12:52.012Z"
     }
   ]
 }
