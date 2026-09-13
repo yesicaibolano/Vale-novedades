@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-13T01:36:34.716Z",
+  "actualizado": "2026-09-13T10:41:44.064Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/golpes-milei-caputo-bausili-20269130558",
+      "sitio": "El Destape",
+      "titulo": "El tsunami económico libertario",
+      "url": "https://www.eldestapeweb.com/economia/golpes-milei-caputo-bausili-20269130558",
+      "detectado": "2026-09-13T10:41:43.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/modelo-agresivo-menem-riesgo-final-empieza-preocupar-20269130558",
+      "sitio": "El Destape",
+      "titulo": "Un modelo más agresivo que el de Menem, el riesgo de un final que empieza a preocupar",
+      "url": "https://www.eldestapeweb.com/politica/modelo-agresivo-menem-riesgo-final-empieza-preocupar-20269130558",
+      "detectado": "2026-09-13T10:41:43.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/condicionantes-herencia-mileista-20269130558",
+      "sitio": "El Destape",
+      "titulo": "Los condicionantes de la herencia mileísta",
+      "url": "https://www.eldestapeweb.com/opinion/condicionantes-herencia-mileista-20269130558",
+      "detectado": "2026-09-13T10:41:43.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-09-13T10:41:43.557Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-hijo-quirno-trabaja-ong-aliada-inglaterra-202691221058",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "Por Federico Pokorowski",
       "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-09-09T20:06:22.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-economica-vuelven-grupos-compra-venta-medicamentos-202699142529",
-      "sitio": "El Destape",
-      "titulo": "Crisis económica: vuelven los grupos de compra venta de medicamentos",
-      "url": "https://www.eldestapeweb.com/economia/crisis-economica-vuelven-grupos-compra-venta-medicamentos-202699142529",
-      "detectado": "2026-09-09T20:06:22.567Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales-agip-vuelve-a-prorrogar-la-obligacion/",
-      "sitio": "Contadores en Red",
-      "titulo": "Discriminar Ingresos Brutos en las facturas a consumidores finales. AGIP vuelve a prorrogar la obligación.",
-      "url": "https://contadoresenred.com/discriminar-ingresos-brutos-en-las-facturas-a-consumidores-finales-agip-vuelve-a-prorrogar-la-obligacion/",
-      "detectado": "2026-09-09T15:24:03.531Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/tu-cliente-recibio-notificacion-de-arca-por-emision-de-facturas-sin-informar-la-condicion-frente-al-iva-que-deben-hacer/",
-      "sitio": "Contadores en Red",
-      "titulo": "Tu cliente recibió notificación de ARCA por emisión de facturas sin informar la condición frente al IVA ¿Qué deben hacer?",
-      "url": "https://contadoresenred.com/tu-cliente-recibio-notificacion-de-arca-por-emision-de-facturas-sin-informar-la-condicion-frente-al-iva-que-deben-hacer/",
-      "detectado": "2026-09-09T15:24:03.531Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ddjj-simplificada-de-ganancias-arca-aclara-que-pasa-si-el-pago-en-termino-no-coincide-con-el-impuesto-declarado/",
-      "sitio": "Contadores en Red",
-      "titulo": "DDJJ Simplificada de Ganancias. ARCA aclara qué pasa si el pago en término no coincide con el impuesto declarado.",
-      "url": "https://contadoresenred.com/ddjj-simplificada-de-ganancias-arca-aclara-que-pasa-si-el-pago-en-termino-no-coincide-con-el-impuesto-declarado/",
-      "detectado": "2026-09-09T15:24:03.531Z"
     }
   ]
 }
