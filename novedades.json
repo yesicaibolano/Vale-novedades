@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-12T19:44:21.268Z",
+  "actualizado": "2026-09-13T01:36:34.716Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-hijo-quirno-trabaja-ong-aliada-inglaterra-202691221058",
+      "sitio": "El Destape",
+      "titulo": "Malvinas: el hijo de Quirno trabaja en la ONG aliada a Inglaterra",
+      "url": "https://www.eldestapeweb.com/politica/malvinas-hijo-quirno-trabaja-ong-aliada-inglaterra-202691221058",
+      "detectado": "2026-09-13T01:36:34.281Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-09-13T01:36:34.281Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tecnologia/lideres-ia-mundial-ahora-piden-regular-avance-2026912165513",
+      "sitio": "El Destape",
+      "titulo": "Los líderes de la IA mundial ahora piden \"regular\" su avance",
+      "url": "https://www.eldestapeweb.com/tecnologia/lideres-ia-mundial-ahora-piden-regular-avance-2026912165513",
+      "detectado": "2026-09-13T01:36:34.281Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/orden-mundial-resquebrajado-brics-muestra-musculo-2026912191615",
+      "sitio": "El Destape",
+      "titulo": "En un orden mundial resquebrajado, BRICS muestra músculo",
+      "url": "https://www.eldestapeweb.com/internacionales/orden-mundial-resquebrajado-brics-muestra-musculo-2026912191615",
+      "detectado": "2026-09-13T01:36:34.281Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/fuerte-planchazo-river-plate-vs-atletico-tucuman-termino-roja-2026912175844",
+      "sitio": "El Destape",
+      "titulo": "River le ganó sobre la hora a Atlético Tucumán, que terminó con uno menos",
+      "url": "https://www.eldestapeweb.com/deportes/fuerte-planchazo-river-plate-vs-atletico-tucuman-termino-roja-2026912175844",
+      "detectado": "2026-09-13T01:36:34.281Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/susto-franco-colapinto-llego-q3-tiempazo-larga-noveno-gp-espana-formula-1-202691212228",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "DDJJ Simplificada de Ganancias. ARCA aclara qué pasa si el pago en término no coincide con el impuesto declarado.",
       "url": "https://contadoresenred.com/ddjj-simplificada-de-ganancias-arca-aclara-que-pasa-si-el-pago-en-termino-no-coincide-con-el-impuesto-declarado/",
       "detectado": "2026-09-09T15:24:03.531Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/conflicto-malvinas",
-      "sitio": "El Destape",
-      "titulo": "Conflicto Malvinas",
-      "url": "https://www.eldestapeweb.com/tag/conflicto-malvinas",
-      "detectado": "2026-09-09T15:24:10.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fuerte-advertencia-primer-ministro-reino-unido-malvinas-seremos-implacables-20269912251",
-      "sitio": "El Destape",
-      "titulo": "Fuerte advertencia del Primer Ministro de Reino Unido por Malvinas: \"Implacables\"",
-      "url": "https://www.eldestapeweb.com/politica/fuerte-advertencia-primer-ministro-reino-unido-malvinas-seremos-implacables-20269912251",
-      "detectado": "2026-09-09T15:24:10.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/coimas-andis-citan-declarar-ex-pareja-cerimedo-puede-complicar-milei-202699121831",
-      "sitio": "El Destape",
-      "titulo": "Coimas en Andis: citan a declarar a la ex pareja de Cerimedo que puede complicar a Milei",
-      "url": "https://www.eldestapeweb.com/politica/coimas-andis-citan-declarar-ex-pareja-cerimedo-puede-complicar-milei-202699121831",
-      "detectado": "2026-09-09T15:24:10.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/espectaculos/murio-chiche-gelblung-82-anos-20269981917",
-      "sitio": "El Destape",
-      "titulo": "Murió Chiche Gelblung a los 82 años",
-      "url": "https://www.eldestapeweb.com/espectaculos/murio-chiche-gelblung-82-anos-20269981917",
-      "detectado": "2026-09-09T15:24:10.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-debate-hoy-reforma-bcra-inocencia-fiscal-ii-20269964740",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento y discapacidad: la oposición busca darle un golpe de realidad a Milei",
-      "url": "https://www.eldestapeweb.com/politica/senado-debate-hoy-reforma-bcra-inocencia-fiscal-ii-20269964740",
-      "detectado": "2026-09-09T15:24:10.763Z"
     }
   ]
 }
