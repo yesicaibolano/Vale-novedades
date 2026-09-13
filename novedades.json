@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-13T10:41:44.064Z",
+  "actualizado": "2026-09-13T15:09:14.651Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
+      "sitio": "El Destape",
+      "titulo": "Partido Justicialista",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
+      "detectado": "2026-09-13T15:09:14.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-13T15:09:14.193Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/golpes-milei-caputo-bausili-20269130558",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Morosidad y discapacidad: la oposición presionó a Milei, pero no logró complicarlo",
       "url": "https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
-      "detectado": "2026-09-09T20:06:22.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-emplazo-discapacidad-endeudamiento-pulseada-pasa-comisiones-202699143718",
-      "sitio": "El Destape",
-      "titulo": "Diputados emplazó discapacidad y endeudamiento y la pulseada pasa a comisiones",
-      "url": "https://www.eldestapeweb.com/politica/diputados-emplazo-discapacidad-endeudamiento-pulseada-pasa-comisiones-202699143718",
-      "detectado": "2026-09-09T20:06:22.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-09-09T20:06:22.567Z"
     }
   ]
