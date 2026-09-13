@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-09-13T15:09:14.651Z",
+  "actualizado": "2026-09-13T19:55:50.095Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/multiples-polemicas-renuncio-titular-casa-argentina-paris-2026913163610",
+      "sitio": "El Destape",
+      "titulo": "Tras múltiples polémicas, renunció el titular de la Casa Argentina en París",
+      "url": "https://www.eldestapeweb.com/politica/multiples-polemicas-renuncio-titular-casa-argentina-paris-2026913163610",
+      "detectado": "2026-09-13T19:55:49.763Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
       "sitio": "El Destape",
@@ -413,13 +420,6 @@
       "titulo": "\"No pedimos permiso para el cambio, lo exigimos\": llaman a cambiar las políticas de drogas",
       "url": "https://www.eldestapeweb.com/sociedad/no-pedimos-permiso-cambio-exigimos-llamado-cambiar-politicas-drogas-202699171551",
       "detectado": "2026-09-10T01:40:31.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
-      "sitio": "El Destape",
-      "titulo": "Morosidad y discapacidad: la oposición presionó a Milei, pero no logró complicarlo",
-      "url": "https://www.eldestapeweb.com/politica/morosidad-discapacidad-oposicion-presiono-milei-no-logro-complicarlo-congreso-20269915479",
-      "detectado": "2026-09-09T20:06:22.567Z"
     }
   ]
 }
