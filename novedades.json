@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-13T19:55:50.095Z",
+  "actualizado": "2026-09-14T01:54:40.059Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-malvinas-avalar-prohibicion-banderas-usar-jugadores-seleccion-argentina-202691321530",
+      "sitio": "El Destape",
+      "titulo": "Milei con las Malvinas: de avalar la prohibición de las banderas a usar a los jugadores",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-malvinas-avalar-prohibicion-banderas-usar-jugadores-seleccion-argentina-202691321530",
+      "detectado": "2026-09-14T01:54:39.566Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Lamas",
+      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
+      "detectado": "2026-09-14T01:54:39.566Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-09-14T01:54:39.566Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/morosidad-familiar-volvio-aumentar-julio-sigue-niveles-record-2026913182112",
+      "sitio": "El Destape",
+      "titulo": "La morosidad familiar volvió a aumentar en julio y sigue en niveles récord",
+      "url": "https://www.eldestapeweb.com/economia/morosidad-familiar-volvio-aumentar-julio-sigue-niveles-record-2026913182112",
+      "detectado": "2026-09-14T01:54:39.566Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/gp-espana-fue-mejor-franco-colapinto-historia-f1-202691317933",
+      "sitio": "El Destape",
+      "titulo": "Por qué el GP de España fue el mejor para Colapinto en la F1",
+      "url": "https://www.eldestapeweb.com/deportes/gp-espana-fue-mejor-franco-colapinto-historia-f1-202691317933",
+      "detectado": "2026-09-14T01:54:39.566Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/multiples-polemicas-renuncio-titular-casa-argentina-paris-2026913163610",
       "sitio": "El Destape",
@@ -373,13 +408,6 @@
       "detectado": "2026-09-10T15:18:33.363Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento Familiar",
-      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "detectado": "2026-09-10T10:07:48.417Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/negocio-necesidad-galperin-gana-endeudamiento-familias-20269100511",
       "sitio": "El Destape",
       "titulo": "El negocio de la necesidad: cómo Galperín gana con el endeudamiento de las familias",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El plan de LLA para afrontar los emplazamientos de discapacidad y endeudamiento",
       "url": "https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
-      "detectado": "2026-09-10T01:40:31.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-09-10T01:40:31.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/era-post-messi-seleccion-filtraron-quienes-podrian-ser-proximos-rivales-argentina-fecha-fifa-20269916300",
-      "sitio": "El Destape",
-      "titulo": "Los inesperados rivales que negocia la Selección Argentina para sus próximos amistosos",
-      "url": "https://www.eldestapeweb.com/deportes/era-post-messi-seleccion-filtraron-quienes-podrian-ser-proximos-rivales-argentina-fecha-fifa-20269916300",
-      "detectado": "2026-09-10T01:40:31.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/plena-rosca-lla-lacunza-camina-pais-preservar-identidad-amarilla-202699194150",
-      "sitio": "El Destape",
-      "titulo": "En plena rosca con LLA, Lacunza camina el país para preservar la identidad amarilla",
-      "url": "https://www.eldestapeweb.com/politica/plena-rosca-lla-lacunza-camina-pais-preservar-identidad-amarilla-202699194150",
-      "detectado": "2026-09-10T01:40:31.235Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/no-pedimos-permiso-cambio-exigimos-llamado-cambiar-politicas-drogas-202699171551",
-      "sitio": "El Destape",
-      "titulo": "\"No pedimos permiso para el cambio, lo exigimos\": llaman a cambiar las políticas de drogas",
-      "url": "https://www.eldestapeweb.com/sociedad/no-pedimos-permiso-cambio-exigimos-llamado-cambiar-politicas-drogas-202699171551",
       "detectado": "2026-09-10T01:40:31.235Z"
     }
   ]
