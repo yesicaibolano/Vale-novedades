@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-14T01:54:40.059Z",
+  "actualizado": "2026-09-14T11:03:31.458Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-agosto-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ajuste por Inflación contable e impositivo. Índices Agosto 2026.",
+      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-agosto-2026/",
+      "detectado": "2026-09-14T11:03:23.583Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precios-dolares-salarios-piso-argentina-sigue-siendo-cara-quienes-viven-salario-202691216400",
+      "sitio": "El Destape",
+      "titulo": "Precios en dólares y salarios por el piso: Argentina sigue siendo un país caro para vivir",
+      "url": "https://www.eldestapeweb.com/economia/precios-dolares-salarios-piso-argentina-sigue-siendo-cara-quienes-viven-salario-202691216400",
+      "detectado": "2026-09-14T11:03:31.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-14T11:03:31.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-saca-freezer-reforma-electoral-milei-cree-juega-2027-202691215120",
+      "sitio": "El Destape",
+      "titulo": "LLA saca del freezer la reforma electoral, con la que Milei se juega el 2027",
+      "url": "https://www.eldestapeweb.com/politica/lla-saca-freezer-reforma-electoral-milei-cree-juega-2027-202691215120",
+      "detectado": "2026-09-14T11:03:31.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-14T11:03:31.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/ano-despues-milei-incumplio-principales-proyecciones-presupuesto-2026-20269131980",
+      "sitio": "El Destape",
+      "titulo": "Un año después, Milei incumplió las proyecciones del Presupuesto 2026",
+      "url": "https://www.eldestapeweb.com/economia/ano-despues-milei-incumplio-principales-proyecciones-presupuesto-2026-20269131980",
+      "detectado": "2026-09-14T11:03:31.120Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-malvinas-avalar-prohibicion-banderas-usar-jugadores-seleccion-argentina-202691321530",
       "sitio": "El Destape",
@@ -167,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "Milei busca blindar su modelo: recorta herramientas del BCRA mientras crece la deuda",
       "url": "https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
-      "detectado": "2026-09-12T09:40:22.950Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-09-12T09:40:22.950Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "El Gobierno le reconoció al FMI que con el crecimiento actual no alcanza",
       "url": "https://www.eldestapeweb.com/economia/gobierno-le-reconocio-fmi-crecimiento-actual-no-alcanza-202691012518",
       "detectado": "2026-09-10T15:18:33.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/indec-desmiente-milei-farsa-sueldos-millonarios-informalidad-202691011530",
-      "sitio": "El Destape",
-      "titulo": "El INDEC desmiente a Milei: la farsa de los sueldos millonarios en la informalidad",
-      "url": "https://www.eldestapeweb.com/economia/indec-desmiente-milei-farsa-sueldos-millonarios-informalidad-202691011530",
-      "detectado": "2026-09-10T15:18:33.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-remata-tierras-ex-procrear-provincia-buenos-aires-202691085751",
-      "sitio": "El Destape",
-      "titulo": "Milei remata tierras del ex Procrear en la provincia de Buenos Aires",
-      "url": "https://www.eldestapeweb.com/politica/milei-remata-tierras-ex-procrear-provincia-buenos-aires-202691085751",
-      "detectado": "2026-09-10T15:18:33.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/justicia-cito-declarar-gordo-dan-otros-conductores-carajo-hostigamiento-2026910102216",
-      "sitio": "El Destape",
-      "titulo": "La Justicia citó a declarar al Gordo Dan y otros conductores de Carajo por hostigamiento",
-      "url": "https://www.eldestapeweb.com/politica/justicia-cito-declarar-gordo-dan-otros-conductores-carajo-hostigamiento-2026910102216",
-      "detectado": "2026-09-10T15:18:33.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/negocio-necesidad-galperin-gana-endeudamiento-familias-20269100511",
-      "sitio": "El Destape",
-      "titulo": "El negocio de la necesidad: cómo Galperín gana con el endeudamiento de las familias",
-      "url": "https://www.eldestapeweb.com/economia/negocio-necesidad-galperin-gana-endeudamiento-familias-20269100511",
-      "detectado": "2026-09-10T10:07:48.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
-      "sitio": "El Destape",
-      "titulo": "El plan de LLA para afrontar los emplazamientos de discapacidad y endeudamiento",
-      "url": "https://www.eldestapeweb.com/politica/plan-lla-diputados-afrontar-emplazamientos-discapacidad-endeudamiento-20269920337",
-      "detectado": "2026-09-10T01:40:31.235Z"
     }
   ]
 }
