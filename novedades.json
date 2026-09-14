@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-14T11:03:31.458Z",
+  "actualizado": "2026-09-14T17:06:52.396Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
+      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "detectado": "2026-09-14T17:06:49.181Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/era-milei-jovenes-no-pueden-independizarse-hay-2-5-millones-acceso-vivienda-2026914115433",
+      "sitio": "El Destape",
+      "titulo": "En la era Milei, los jóvenes no pueden irse a vivir solos y hay 2,5 millones sin viviendas",
+      "url": "https://www.eldestapeweb.com/sociedad/era-milei-jovenes-no-pueden-independizarse-hay-2-5-millones-acceso-vivienda-2026914115433",
+      "detectado": "2026-09-14T17:06:52.003Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prometio-profundizar-rumbo-economico-desestima-pedidos-cambio-202691413320",
+      "sitio": "El Destape",
+      "titulo": "Reunión de gabinete",
+      "url": "https://www.eldestapeweb.com/politica/milei-prometio-profundizar-rumbo-economico-desestima-pedidos-cambio-202691413320",
+      "detectado": "2026-09-14T17:06:52.003Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-milei-pobreza-volvio-subir-agosto-9-4-millones-viven-hogares-pobres-2026914103753",
+      "sitio": "El Destape",
+      "titulo": "La pobreza volvió a subir en agosto y superó el 30%",
+      "url": "https://www.eldestapeweb.com/economia/alerta-milei-pobreza-volvio-subir-agosto-9-4-millones-viven-hogares-pobres-2026914103753",
+      "detectado": "2026-09-14T17:06:52.003Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/organizaciones-sociales-llevaron-papa-duro-informe-realidad-social-argentina-2026914103630",
+      "sitio": "El Destape",
+      "titulo": "Las organizaciones sociales llevaron al Papa un duro informe sobre la realidad social",
+      "url": "https://www.eldestapeweb.com/politica/organizaciones-sociales-llevaron-papa-duro-informe-realidad-social-argentina-2026914103630",
+      "detectado": "2026-09-14T17:06:52.003Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-milei-malvinas-genero-expectativas-desconfianza-apoyo-2026914135633",
+      "sitio": "El Destape",
+      "titulo": "El giro de Milei sobre Malvinas generó más expectativas y desconfianza que apoyo",
+      "url": "https://www.eldestapeweb.com/politica/giro-milei-malvinas-genero-expectativas-desconfianza-apoyo-2026914135633",
+      "detectado": "2026-09-14T17:06:52.003Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-agosto-2026/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "La inflación de agosto cayó y fue de 1,7%",
       "url": "https://www.eldestapeweb.com/economia/inflacion-agosto-cayo-fue-1-7-202691016430",
       "detectado": "2026-09-10T20:08:36.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-dara-masterclass-malvinas-presupuesto-legisladores-piden-vaya-palco-votaciones-2026910144642",
-      "sitio": "El Destape",
-      "titulo": "Milei dará una \"masterclass\" sobre Malvinas y Presupuesto a sus legisladores",
-      "url": "https://www.eldestapeweb.com/politica/milei-dara-masterclass-malvinas-presupuesto-legisladores-piden-vaya-palco-votaciones-2026910144642",
-      "detectado": "2026-09-10T20:08:36.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-ultimo-momento-javier-milei-cancelo-viaje-reino-unido-medio-tensiones-malvinas-2026910162244",
-      "sitio": "El Destape",
-      "titulo": "En medio de la sobreactuación con Malvinas, Milei suspendió su viaje a Reino Unido",
-      "url": "https://www.eldestapeweb.com/politica/giro-ultimo-momento-javier-milei-cancelo-viaje-reino-unido-medio-tensiones-malvinas-2026910162244",
-      "detectado": "2026-09-10T20:08:36.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/donde-esta-oro-estado-documento-desmiente-santiago-bausili-2026910141017",
-      "sitio": "El Destape",
-      "titulo": "¿Dónde está el oro del Estado?: el documento que desmiente a Bausili",
-      "url": "https://www.eldestapeweb.com/politica/donde-esta-oro-estado-documento-desmiente-santiago-bausili-2026910141017",
-      "detectado": "2026-09-10T20:08:36.905Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/caba-reglamenta-el-rimicaba-y-fija-sus-beneficios-impositivos/",
-      "sitio": "Contadores en Red",
-      "titulo": "CABA reglamenta el RIMICABA y fija sus beneficios impositivos.",
-      "url": "https://contadoresenred.com/caba-reglamenta-el-rimicaba-y-fija-sus-beneficios-impositivos/",
-      "detectado": "2026-09-10T15:18:25.538Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-09-10T15:18:33.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-le-reconocio-fmi-crecimiento-actual-no-alcanza-202691012518",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno le reconoció al FMI que con el crecimiento actual no alcanza",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-le-reconocio-fmi-crecimiento-actual-no-alcanza-202691012518",
-      "detectado": "2026-09-10T15:18:33.363Z"
     }
   ]
 }
