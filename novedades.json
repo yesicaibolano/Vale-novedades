@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-15T15:46:19.500Z",
+  "actualizado": "2026-09-15T20:31:06.206Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Ronda de Consultas Tributarias de ARBA llega a San Isidro",
+      "url": "https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro",
+      "detectado": "2026-09-15T20:31:03.904Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15972-se-realizo-la-primera-ronda-de-consultas-tributarias-de-arba",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se realizó la primera Ronda de Consultas Tributarias de ARBA",
+      "url": "https://www.cpba.com.ar/noticias/item/15972-se-realizo-la-primera-ronda-de-consultas-tributarias-de-arba",
+      "detectado": "2026-09-15T20:31:03.904Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-gobierno-proyecta-4-crecimiento-dolar-1-700-21-1-inflacion-2026915163129",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto 2027: el Gobierno proyecta 4% de crecimiento y 18% de inflación",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-gobierno-proyecta-4-crecimiento-dolar-1-700-21-1-inflacion-2026915163129",
+      "detectado": "2026-09-15T20:31:05.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-no-puede-negar-aumento-pobreza-busca-defensa-2026915151825",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno ya no puede negar el aumento de pobreza y busca una defensa",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-no-puede-negar-aumento-pobreza-busca-defensa-2026915151825",
+      "detectado": "2026-09-15T20:31:05.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-15T20:31:05.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-15T20:31:05.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/expectativa-presupuesto-2027-gobierno-convoca-mesa-politica-20269156435",
+      "sitio": "El Destape",
+      "titulo": "Peligra la sesión el Senado: LLA quiere sacar carta orgánica del BCRA e Inocencia Fiscal",
+      "url": "https://www.eldestapeweb.com/politica/expectativa-presupuesto-2027-gobierno-convoca-mesa-politica-20269156435",
+      "detectado": "2026-09-15T20:31:05.666Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/obra-social-cobertura-nacional-viajar/",
       "sitio": "Contadores en Red",
@@ -111,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "El Gobierno empieza a resignarse y cree que Milei tendrá que medirse en las PASO 2027",
       "url": "https://www.eldestapeweb.com/politica/gobierno-empieza-resignarse-cree-milei-tendra-medirse-paso-2027-202691419219",
-      "detectado": "2026-09-15T02:03:32.556Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-09-15T02:03:32.556Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "Viento de cola en la era Milei: reprimarización de la economía y destrucción de empresas",
       "url": "https://www.eldestapeweb.com/economia/viento-cola-era-milei-reprimarizacion-economia-destruccion-empresas-2026912143931",
       "detectado": "2026-09-12T19:44:20.840Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
-      "sitio": "El Destape",
-      "titulo": "Textiles advierten que las importaciones ya abastecen al 70% del sector",
-      "url": "https://www.eldestapeweb.com/economia/textiles-advierten-importaciones-abastecen-70-sector-202691191551",
-      "detectado": "2026-09-12T19:44:20.840Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
-      "sitio": "El Destape",
-      "titulo": "La suba de alquileres duplicó la inflación en agosto",
-      "url": "https://www.eldestapeweb.com/economia/suba-alquileres-duplico-inflacion-agosto-202691111015",
-      "detectado": "2026-09-12T19:44:20.840Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/negocio-malvinas-deuda-mata-leccion-marcos-juarez-peronismo-2026912112746",
-      "sitio": "El Destape",
-      "titulo": "El negocio Malvinas, la deuda que mata y la lección de Marcos Juárez",
-      "url": "https://www.eldestapeweb.com/politica/negocio-malvinas-deuda-mata-leccion-marcos-juarez-peronismo-2026912112746",
-      "detectado": "2026-09-12T14:28:22.959Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-scaloni-principal-dilema-pone-duda-continuidad-seleccion-argentina-20269111510",
-      "sitio": "El Destape",
-      "titulo": "Incertidumbre en la Selección: el dilema de Lionel Scaloni que pone en duda su continuidad",
-      "url": "https://www.eldestapeweb.com/deportes/lionel-scaloni-principal-dilema-pone-duda-continuidad-seleccion-argentina-20269111510",
-      "detectado": "2026-09-12T14:28:22.959Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
-      "sitio": "El Destape",
-      "titulo": "Milei busca blindar su modelo: recorta herramientas del BCRA mientras crece la deuda",
-      "url": "https://www.eldestapeweb.com/economia/milei-busca-blindar-modelo-recorta-herramientas-bcra-mientras-crece-deuda-20269120533",
-      "detectado": "2026-09-12T09:40:22.950Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-quedan-dos-meses-suspender-paso-pone-riesgo-reeleccion-20269120533",
-      "sitio": "El Destape",
-      "titulo": "A Milei le quedan dos meses para suspender las PASO y pone en riesgo su reelección",
-      "url": "https://www.eldestapeweb.com/politica/milei-le-quedan-dos-meses-suspender-paso-pone-riesgo-reeleccion-20269120533",
-      "detectado": "2026-09-12T09:40:22.950Z"
     }
   ]
 }
