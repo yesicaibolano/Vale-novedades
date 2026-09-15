@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-09-14T21:05:50.779Z",
+  "actualizado": "2026-09-15T02:03:33.108Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/nada-festejar-milei-ajusto-14-puntos-pbi-casi-cinco-presupuestos-ayuda-social-2026914154913",
+      "sitio": "El Destape",
+      "titulo": "Nada que festejar: Milei ajustó 14 puntos del PBI, casi cinco presupuestos de ayuda social",
+      "url": "https://www.eldestapeweb.com/economia/nada-festejar-milei-ajusto-14-puntos-pbi-casi-cinco-presupuestos-ayuda-social-2026914154913",
+      "detectado": "2026-09-15T02:03:32.556Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-empieza-resignarse-cree-milei-tendra-medirse-paso-2027-202691419219",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno empieza a resignarse y cree que Milei tendrá que medirse en las PASO 2027",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-empieza-resignarse-cree-milei-tendra-medirse-paso-2027-202691419219",
+      "detectado": "2026-09-15T02:03:32.556Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-15T02:03:32.556Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
       "sitio": "CPBA (Buenos Aires)",
@@ -310,13 +331,6 @@
       "detectado": "2026-09-12T09:40:22.950Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-12T09:40:22.950Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/desindustrializacion-falta-respuestas-politicas-avance-neonazi-no-inevitable-20269120533",
       "sitio": "El Destape",
       "titulo": "Desindustrialización y falta de respuestas políticas: el avance neonazi no es inevitable",
@@ -406,20 +420,6 @@
       "titulo": "DDJJ Anual Ingresos Brutos CABA 2025. ¿Cuándo vence?",
       "url": "https://contadoresenred.com/ddjj-anual-ingresos-brutos-caba-2025-cuando-vence/",
       "detectado": "2026-09-11T15:20:13.685Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15952-renova-tu-reduccion-de-aportes-minimos-para-2027",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Renová tu Reducción de Aportes Mínimos para 2027",
-      "url": "https://www.cpba.com.ar/noticias/item/15952-renova-tu-reduccion-de-aportes-minimos-para-2027",
-      "detectado": "2026-09-11T15:20:18.556Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15967-ahora-en-repro-regimen-simplificado-de-ganancias-que-pasa-con-el-bloqueo-del-iva-2025",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Régimen Simplificado de Ganancias: Qué pasa con el bloqueo del IVA…",
-      "url": "https://www.cpba.com.ar/noticias/item/15967-ahora-en-repro-regimen-simplificado-de-ganancias-que-pasa-con-el-bloqueo-del-iva-2025",
-      "detectado": "2026-09-11T15:20:18.556Z"
     }
   ]
 }
