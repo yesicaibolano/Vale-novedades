@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-09-15T10:33:00.600Z",
+  "actualizado": "2026-09-15T15:46:19.500Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/obra-social-cobertura-nacional-viajar/",
+      "sitio": "Contadores en Red",
+      "titulo": "La importancia de contar con una obra social con cobertura nacional al viajar por Argentina",
+      "url": "https://contadoresenred.com/obra-social-cobertura-nacional-viajar/",
+      "detectado": "2026-09-15T15:46:13.673Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/la-importancia-de-contar-con-una-obra-social-con-cobertura-nacional-al-viajar-por-argentina/",
+      "sitio": "Ignacio Online",
+      "titulo": "La importancia de contar con una obra social con cobertura nacional al viajar por Argentina",
+      "url": "https://www.ignacioonline.com.ar/la-importancia-de-contar-con-una-obra-social-con-cobertura-nacional-al-viajar-por-argentina/",
+      "detectado": "2026-09-15T15:46:14.761Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-septiembre-2026-cct-589-10/",
+      "sitio": "Ignacio Online",
+      "titulo": "Encargados de Edificios: nueva escala salarial septiembre 2026 CCT 589/10",
+      "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-septiembre-2026-cct-589-10/",
+      "detectado": "2026-09-15T15:46:14.761Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15971-ahora-en-repro-ia-mas-alla-del-chat-como-pasar-de-conversar-a-delegar-trabajo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | IA más allá del chat: Cómo pasar de conversar a delegar…",
+      "url": "https://www.cpba.com.ar/noticias/item/15971-ahora-en-repro-ia-mas-alla-del-chat-como-pasar-de-conversar-a-delegar-trabajo",
+      "detectado": "2026-09-15T15:46:17.779Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/40-barrios-populares-debio-dejar-comer-dia-entero-falta-ingresos-202691510163",
+      "sitio": "El Destape",
+      "titulo": "Más del 40% de los barrios populares debió dejar de comer durante un día entero",
+      "url": "https://www.eldestapeweb.com/economia/40-barrios-populares-debio-dejar-comer-dia-entero-falta-ingresos-202691510163",
+      "detectado": "2026-09-15T15:46:19.073Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/antes-marcha-federal-universitaria-rectores-van-congreso-exigir-presupuesto-2027-2026915103933",
+      "sitio": "El Destape",
+      "titulo": "Rectores van al Congreso a exigir el Prespuesto 2027 pero los marginan a un subsuelo",
+      "url": "https://www.eldestapeweb.com/sociedad/antes-marcha-federal-universitaria-rectores-van-congreso-exigir-presupuesto-2027-2026915103933",
+      "detectado": "2026-09-15T15:46:19.073Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/ninez-riesgo-era-milei-informe-revelo-inicio-consumo-drogas-8-anos-202691512418",
+      "sitio": "El Destape",
+      "titulo": "Niñez en riesgo: un informe reveló el inicio de consumo de drogas desde los 8 años",
+      "url": "https://www.eldestapeweb.com/sociedad/ninez-riesgo-era-milei-informe-revelo-inicio-consumo-drogas-8-anos-202691512418",
+      "detectado": "2026-09-15T15:46:19.073Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gimena-figueroa",
+      "sitio": "El Destape",
+      "titulo": "Por Gimena Figueroa",
+      "url": "https://www.eldestapeweb.com/perfil/gimena-figueroa",
+      "detectado": "2026-09-15T15:46:19.073Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caida-recaudacion-dan-marcha-atras-impuesto-afecta-pymes-20269159316",
+      "sitio": "El Destape",
+      "titulo": "Por la caída en la recaudación, reponen un impuesto que impacta en las pymes",
+      "url": "https://www.eldestapeweb.com/economia/caida-recaudacion-dan-marcha-atras-impuesto-afecta-pymes-20269159316",
+      "detectado": "2026-09-15T15:46:19.073Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/objetivo-bcra-peronismo-apuesta-todo-demorar-debate-senado-2026915054",
       "sitio": "El Destape",
@@ -357,69 +420,6 @@
       "titulo": "A Milei le quedan dos meses para suspender las PASO y pone en riesgo su reelección",
       "url": "https://www.eldestapeweb.com/politica/milei-le-quedan-dos-meses-suspender-paso-pone-riesgo-reeleccion-20269120533",
       "detectado": "2026-09-12T09:40:22.950Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/desindustrializacion-falta-respuestas-politicas-avance-neonazi-no-inevitable-20269120533",
-      "sitio": "El Destape",
-      "titulo": "Desindustrialización y falta de respuestas políticas: el avance neonazi no es inevitable",
-      "url": "https://www.eldestapeweb.com/internacionales/desindustrializacion-falta-respuestas-politicas-avance-neonazi-no-inevitable-20269120533",
-      "detectado": "2026-09-12T09:40:22.950Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/precios-canasta-basica-mide-pobreza-aumentaron-ipc-2026911191538",
-      "sitio": "El Destape",
-      "titulo": "Los precios de la Canasta Básica que mide la pobreza aumentaron más que el IPC",
-      "url": "https://www.eldestapeweb.com/economia/precios-canasta-basica-mide-pobreza-aumentaron-ipc-2026911191538",
-      "detectado": "2026-09-12T01:45:44.284Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-09-12T01:45:44.284Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-dos-tercios-priorizan-salarios-empleo-antes-supuesta-estabilidad-precios-2026911154253",
-      "sitio": "El Destape",
-      "titulo": "Casi dos tercios priorizan salarios y empleo antes que la supuesta estabilidad de precios",
-      "url": "https://www.eldestapeweb.com/economia/casi-dos-tercios-priorizan-salarios-empleo-antes-supuesta-estabilidad-precios-2026911154253",
-      "detectado": "2026-09-12T01:45:44.284Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-le-pide-gobierno-restituya-bandera-flameo-malvinas-20269111982",
-      "sitio": "El Destape",
-      "titulo": "La oposición le pide al Gobierno que restituya bandera que flameó en Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-le-pide-gobierno-restituya-bandera-flameo-malvinas-20269111982",
-      "detectado": "2026-09-12T01:45:44.284Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mapa-desempleo-privado-provincias-puestos-perdieron-milei-202691118564",
-      "sitio": "El Destape",
-      "titulo": "Mapa del desempleo privado: las provincias que más puestos perdieron con Milei",
-      "url": "https://www.eldestapeweb.com/economia/mapa-desempleo-privado-provincias-puestos-perdieron-milei-202691118564",
-      "detectado": "2026-09-12T01:45:44.284Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15968-nuevos-profesionales-juraron-en-sede-provincial",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuevos profesionales juraron en Sede Provincial",
-      "url": "https://www.cpba.com.ar/noticias/item/15968-nuevos-profesionales-juraron-en-sede-provincial",
-      "detectado": "2026-09-11T20:07:46.464Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/jalil-anuncio-elecciones-catamarca-seran-mismo-dia-nacionales-2026911154456",
-      "sitio": "El Destape",
-      "titulo": "Jalil anunció que las elecciones en Catamarca serán el mismo día que las nacionales",
-      "url": "https://www.eldestapeweb.com/politica/jalil-anuncio-elecciones-catamarca-seran-mismo-dia-nacionales-2026911154456",
-      "detectado": "2026-09-11T20:07:48.088Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/insolito-milei-comparo-sarmiento-compartio-dos-mapas-argentina-malvinas-2026911101926",
-      "sitio": "El Destape",
-      "titulo": "Insólito: Milei se comparó con Sarmiento y compartió mapas de Argentina sin las Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/insolito-milei-comparo-sarmiento-compartio-dos-mapas-argentina-malvinas-2026911101926",
-      "detectado": "2026-09-11T20:07:48.088Z"
     }
   ]
 }
