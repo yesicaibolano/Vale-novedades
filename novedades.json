@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-09-16T10:22:13.348Z",
+  "actualizado": "2026-09-16T15:38:32.488Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/auge-y-caida-del-e-cheq-en-la-comitente-y-el-ahorro-del-impuesto-al-cheque/",
+      "sitio": "Contadores en Red",
+      "titulo": "Auge y caída del e-cheq en la comitente y el ahorro del impuesto al cheque.",
+      "url": "https://contadoresenred.com/auge-y-caida-del-e-cheq-en-la-comitente-y-el-ahorro-del-impuesto-al-cheque/",
+      "detectado": "2026-09-16T15:38:24.392Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/autonomos-septiembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-9-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Autónomos Septiembre 2026. ¿Cuánto se paga por categoría a partir del 15-9-2026?",
+      "url": "https://contadoresenred.com/autonomos-septiembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-9-2026/",
+      "detectado": "2026-09-16T15:38:24.393Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/planes-de-facilidades-de-pago-adecuacion-de-los-mecanismos-sistemicos-utilizados-por-la-red-bancaria-para-efectuar-debitos-directos/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA: cambios en el débito de cuotas de planes de pago desde octubre 2026",
+      "url": "https://www.ignacioonline.com.ar/planes-de-facilidades-de-pago-adecuacion-de-los-mecanismos-sistemicos-utilizados-por-la-red-bancaria-para-efectuar-debitos-directos/",
+      "detectado": "2026-09-16T15:38:27.022Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/adicional-de-guarderia-cuanto-se-paga-quienes-tienen-derecho-y-como-se-calcula-guia-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Adicional de guardería: cuánto se paga, quiénes tienen derecho y cómo se calcula (Guía 2026)",
+      "url": "https://www.ignacioonline.com.ar/adicional-de-guarderia-cuanto-se-paga-quienes-tienen-derecho-y-como-se-calcula-guia-2026/",
+      "detectado": "2026-09-16T15:38:27.022Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-armo-presupuesto-privatizar-empresas-pagar-202691695122",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno regala más plata a los ricos: el presupuesto permite privatizar sin pagar",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-armo-presupuesto-privatizar-empresas-pagar-202691695122",
+      "detectado": "2026-09-16T15:38:31.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/derechos-de-personas-con-discapacidad",
+      "sitio": "El Destape",
+      "titulo": "Derechos de Personas con Discapacidad",
+      "url": "https://www.eldestapeweb.com/tag/derechos-de-personas-con-discapacidad",
+      "detectado": "2026-09-16T15:38:31.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/presupuesto-2027-gobierno-arremete-nuevo-personas-discapacidad-202691684138",
+      "sitio": "El Destape",
+      "titulo": "En el Presupuesto 2027, Milei arremete de nuevo contra las personas con discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/presupuesto-2027-gobierno-arremete-nuevo-personas-discapacidad-202691684138",
+      "detectado": "2026-09-16T15:38:31.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/armada-denuncio-presunto-esquema-corrupcion-interna-casi-1-000-millones-2026916115715",
+      "sitio": "El Destape",
+      "titulo": "La Armada denunció un presunto esquema de corrupción interna por casi $1.000 millones",
+      "url": "https://www.eldestapeweb.com/politica/armada-denuncio-presunto-esquema-corrupcion-interna-casi-1-000-millones-2026916115715",
+      "detectado": "2026-09-16T15:38:31.922Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/10-claves-presupuesto-2027-superavit-ajuste-obra-publica-deuda-20269167504",
+      "sitio": "El Destape",
+      "titulo": "La Casa Rosada ratifica el rumbo económico",
+      "url": "https://www.eldestapeweb.com/economia/10-claves-presupuesto-2027-superavit-ajuste-obra-publica-deuda-20269167504",
+      "detectado": "2026-09-16T15:38:31.922Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/planes-de-pago-con-cuotas-superiores-a-100-000-000-se-cancelaran-mediante-debito-directo-en-cuenta-bancaria/",
       "sitio": "Contadores en Red",
@@ -357,69 +420,6 @@
       "titulo": "LLA saca del freezer la reforma electoral, con la que Milei se juega el 2027",
       "url": "https://www.eldestapeweb.com/politica/lla-saca-freezer-reforma-electoral-milei-cree-juega-2027-202691215120",
       "detectado": "2026-09-14T11:03:31.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-14T11:03:31.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ano-despues-milei-incumplio-principales-proyecciones-presupuesto-2026-20269131980",
-      "sitio": "El Destape",
-      "titulo": "Un año después, Milei incumplió las proyecciones del Presupuesto 2026",
-      "url": "https://www.eldestapeweb.com/economia/ano-despues-milei-incumplio-principales-proyecciones-presupuesto-2026-20269131980",
-      "detectado": "2026-09-14T11:03:31.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-malvinas-avalar-prohibicion-banderas-usar-jugadores-seleccion-argentina-202691321530",
-      "sitio": "El Destape",
-      "titulo": "Milei con las Malvinas: de avalar la prohibición de las banderas a usar a los jugadores",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-malvinas-avalar-prohibicion-banderas-usar-jugadores-seleccion-argentina-202691321530",
-      "detectado": "2026-09-14T01:54:39.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Lamas",
-      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
-      "detectado": "2026-09-14T01:54:39.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento Familiar",
-      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "detectado": "2026-09-14T01:54:39.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/morosidad-familiar-volvio-aumentar-julio-sigue-niveles-record-2026913182112",
-      "sitio": "El Destape",
-      "titulo": "La morosidad familiar volvió a aumentar en julio y sigue en niveles récord",
-      "url": "https://www.eldestapeweb.com/economia/morosidad-familiar-volvio-aumentar-julio-sigue-niveles-record-2026913182112",
-      "detectado": "2026-09-14T01:54:39.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/gp-espana-fue-mejor-franco-colapinto-historia-f1-202691317933",
-      "sitio": "El Destape",
-      "titulo": "Por qué el GP de España fue el mejor para Colapinto en la F1",
-      "url": "https://www.eldestapeweb.com/deportes/gp-espana-fue-mejor-franco-colapinto-historia-f1-202691317933",
-      "detectado": "2026-09-14T01:54:39.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/multiples-polemicas-renuncio-titular-casa-argentina-paris-2026913163610",
-      "sitio": "El Destape",
-      "titulo": "Tras múltiples polémicas, renunció el titular de la Casa Argentina en París",
-      "url": "https://www.eldestapeweb.com/politica/multiples-polemicas-renuncio-titular-casa-argentina-paris-2026913163610",
-      "detectado": "2026-09-13T19:55:49.763Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
-      "sitio": "El Destape",
-      "titulo": "Partido Justicialista",
-      "url": "https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
-      "detectado": "2026-09-13T15:09:14.193Z"
     }
   ]
 }
