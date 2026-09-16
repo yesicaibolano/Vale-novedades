@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-16T01:54:33.876Z",
+  "actualizado": "2026-09-16T10:22:13.348Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/planes-de-pago-con-cuotas-superiores-a-100-000-000-se-cancelaran-mediante-debito-directo-en-cuenta-bancaria/",
+      "sitio": "Contadores en Red",
+      "titulo": "Planes de pago con cuotas superiores a $100.000.000 se cancelaran mediante débito directo en cuenta bancaria.",
+      "url": "https://contadoresenred.com/planes-de-pago-con-cuotas-superiores-a-100-000-000-se-cancelaran-mediante-debito-directo-en-cuenta-bancaria/",
+      "detectado": "2026-09-16T10:22:05.610Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/viajantes-nuevo-acuerdo-salarial-septiembre-2026-a-agosto-2027/",
+      "sitio": "Ignacio Online",
+      "titulo": "Viajantes: nuevo acuerdo salarial septiembre 2026 a agosto 2027",
+      "url": "https://www.ignacioonline.com.ar/viajantes-nuevo-acuerdo-salarial-septiembre-2026-a-agosto-2027/",
+      "detectado": "2026-09-16T10:22:07.342Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/antes-eliminar-humanidad-inteligencia-artificial-nos-dejara-trabajo-20269160510",
+      "sitio": "El Destape",
+      "titulo": "Antes de eliminar a la humanidad, ¿la inteligencia artificial nos dejará sin trabajo?",
+      "url": "https://www.eldestapeweb.com/economia/antes-eliminar-humanidad-inteligencia-artificial-nos-dejara-trabajo-20269160510",
+      "detectado": "2026-09-16T10:22:12.812Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lobby-israeli-gran-poder-domina-trump-milei-20269160510",
+      "sitio": "El Destape",
+      "titulo": "Lobby israelí, el gran poder que domina a Trump y a Milei",
+      "url": "https://www.eldestapeweb.com/politica/lobby-israeli-gran-poder-domina-trump-milei-20269160510",
+      "detectado": "2026-09-16T10:22:12.812Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-sumo-otra-foto-peronismo-cordobes-junto-passerini-20269160510",
+      "sitio": "El Destape",
+      "titulo": "Partido Justicialista",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-sumo-otra-foto-peronismo-cordobes-junto-passerini-20269160510",
+      "detectado": "2026-09-16T10:22:12.812Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-16T10:22:12.812Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-igualo-san-pablo-saco-chapa-campeon-paso-semifinales-202691519220",
+      "sitio": "El Destape",
+      "titulo": "Boca igualó ante San Pablo, sacó chapa de campeón y pasó a semifinales",
+      "url": "https://www.eldestapeweb.com/deportes/boca-igualo-san-pablo-saco-chapa-campeon-paso-semifinales-202691519220",
+      "detectado": "2026-09-16T10:22:12.812Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
       "sitio": "El Destape",
@@ -174,13 +223,6 @@
       "sitio": "El Destape",
       "titulo": "Amplían la denuncia contra Bausili y reclaman que diga la verdad sobre el oro del Central",
       "url": "https://www.eldestapeweb.com/politica/reclaman-bausili-vuelva-congreso-diga-verdad-oro-central-2026915054",
-      "detectado": "2026-09-15T10:33:00.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-09-15T10:33:00.250Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "Partido Justicialista",
       "url": "https://www.eldestapeweb.com/politica/peronismo-toma-cuerpo-posibilidad-paso-competitiva-20269130558",
       "detectado": "2026-09-13T15:09:14.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/golpes-milei-caputo-bausili-20269130558",
-      "sitio": "El Destape",
-      "titulo": "El tsunami económico libertario",
-      "url": "https://www.eldestapeweb.com/economia/golpes-milei-caputo-bausili-20269130558",
-      "detectado": "2026-09-13T10:41:43.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/modelo-agresivo-menem-riesgo-final-empieza-preocupar-20269130558",
-      "sitio": "El Destape",
-      "titulo": "Un modelo más agresivo que el de Menem, el riesgo de un final que empieza a preocupar",
-      "url": "https://www.eldestapeweb.com/politica/modelo-agresivo-menem-riesgo-final-empieza-preocupar-20269130558",
-      "detectado": "2026-09-13T10:41:43.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/condicionantes-herencia-mileista-20269130558",
-      "sitio": "El Destape",
-      "titulo": "Los condicionantes de la herencia mileísta",
-      "url": "https://www.eldestapeweb.com/opinion/condicionantes-herencia-mileista-20269130558",
-      "detectado": "2026-09-13T10:41:43.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-09-13T10:41:43.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-hijo-quirno-trabaja-ong-aliada-inglaterra-202691221058",
-      "sitio": "El Destape",
-      "titulo": "Malvinas: el hijo de Quirno trabaja en la ONG aliada a Inglaterra",
-      "url": "https://www.eldestapeweb.com/politica/malvinas-hijo-quirno-trabaja-ong-aliada-inglaterra-202691221058",
-      "detectado": "2026-09-13T01:36:34.281Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-09-13T01:36:34.281Z"
     }
   ]
 }
