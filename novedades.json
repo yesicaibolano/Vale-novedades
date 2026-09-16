@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-16T15:38:32.488Z",
+  "actualizado": "2026-09-16T20:30:50.911Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se lleva adelante la XIII Jornada Nacional de los Tribunales Fiscales en nuestro Consejo",
+      "url": "https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo",
+      "detectado": "2026-09-16T20:30:48.479Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-sesionara-manana-lla-protege-reforma-carta-organica-bcra-2026916164216",
+      "sitio": "El Destape",
+      "titulo": "El Senado sesionará mañana, pero LLA protege la reforma del BCRA",
+      "url": "https://www.eldestapeweb.com/politica/senado-sesionara-manana-lla-protege-reforma-carta-organica-bcra-2026916164216",
+      "detectado": "2026-09-16T20:30:50.373Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-16T20:30:50.373Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precios-mayoristas-casi-triplicaron-agosto-construccion-volvio-acelerar-2026916165817",
+      "sitio": "El Destape",
+      "titulo": "Los precios mayoristas casi se triplicaron en agosto y en construcción volvió a acelerar",
+      "url": "https://www.eldestapeweb.com/economia/precios-mayoristas-casi-triplicaron-agosto-construccion-volvio-acelerar-2026916165817",
+      "detectado": "2026-09-16T20:30:50.373Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-menos-jubilados-bono-reforma-previsional-no-escrita-2026916123753",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto 2027: menos jubilados, sin \"bono\" y la reforma previsional no escrita",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-menos-jubilados-bono-reforma-previsional-no-escrita-2026916123753",
+      "detectado": "2026-09-16T20:30:50.373Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-educacion-suba-nominal-atada-inflacion-dificil-cumplir-2026916135534",
+      "sitio": "El Destape",
+      "titulo": "La partida de educación sube nominalmente pero atada a una inflación difícil de cumplir",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-educacion-suba-nominal-atada-inflacion-dificil-cumplir-2026916135534",
+      "detectado": "2026-09-16T20:30:50.373Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/auge-y-caida-del-e-cheq-en-la-comitente-y-el-ahorro-del-impuesto-al-cheque/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "La pobreza volvió a subir en agosto y superó el 30%",
       "url": "https://www.eldestapeweb.com/economia/alerta-milei-pobreza-volvio-subir-agosto-9-4-millones-viven-hogares-pobres-2026914103753",
       "detectado": "2026-09-14T17:06:52.003Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/organizaciones-sociales-llevaron-papa-duro-informe-realidad-social-argentina-2026914103630",
-      "sitio": "El Destape",
-      "titulo": "Las organizaciones sociales llevaron al Papa un duro informe sobre la realidad social",
-      "url": "https://www.eldestapeweb.com/politica/organizaciones-sociales-llevaron-papa-duro-informe-realidad-social-argentina-2026914103630",
-      "detectado": "2026-09-14T17:06:52.003Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-milei-malvinas-genero-expectativas-desconfianza-apoyo-2026914135633",
-      "sitio": "El Destape",
-      "titulo": "El giro de Milei sobre Malvinas generó más expectativas y desconfianza que apoyo",
-      "url": "https://www.eldestapeweb.com/politica/giro-milei-malvinas-genero-expectativas-desconfianza-apoyo-2026914135633",
-      "detectado": "2026-09-14T17:06:52.003Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-agosto-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ajuste por Inflación contable e impositivo. Índices Agosto 2026.",
-      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-agosto-2026/",
-      "detectado": "2026-09-14T11:03:23.583Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/precios-dolares-salarios-piso-argentina-sigue-siendo-cara-quienes-viven-salario-202691216400",
-      "sitio": "El Destape",
-      "titulo": "Precios en dólares y salarios por el piso: Argentina sigue siendo un país caro para vivir",
-      "url": "https://www.eldestapeweb.com/economia/precios-dolares-salarios-piso-argentina-sigue-siendo-cara-quienes-viven-salario-202691216400",
-      "detectado": "2026-09-14T11:03:31.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-14T11:03:31.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-saca-freezer-reforma-electoral-milei-cree-juega-2027-202691215120",
-      "sitio": "El Destape",
-      "titulo": "LLA saca del freezer la reforma electoral, con la que Milei se juega el 2027",
-      "url": "https://www.eldestapeweb.com/politica/lla-saca-freezer-reforma-electoral-milei-cree-juega-2027-202691215120",
-      "detectado": "2026-09-14T11:03:31.120Z"
     }
   ]
 }
