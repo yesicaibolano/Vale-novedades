@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-15T20:31:06.206Z",
+  "actualizado": "2026-09-16T01:54:33.876Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno necesita subir 4 puntos la presión impositiva para cumplir la meta del 2027",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
+      "detectado": "2026-09-16T01:54:33.299Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-16T01:54:33.299Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-ratifica-ajuste-areas-cientificas-sube-partidas-ciberespionaje-202691520013",
+      "sitio": "El Destape",
+      "titulo": "Milei ratifica el ajuste en áreas científicas y sube las partidas para el ciberespionaje",
+      "url": "https://www.eldestapeweb.com/economia/milei-ratifica-ajuste-areas-cientificas-sube-partidas-ciberespionaje-202691520013",
+      "detectado": "2026-09-16T01:54:33.299Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-16T01:54:33.299Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Boca vence a San Pablo de visitante y sigue creciendo",
+      "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
+      "detectado": "2026-09-16T01:54:33.299Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Por Nicolás Lantos",
       "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
       "detectado": "2026-09-13T01:36:34.281Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tecnologia/lideres-ia-mundial-ahora-piden-regular-avance-2026912165513",
-      "sitio": "El Destape",
-      "titulo": "Los líderes de la IA mundial ahora piden \"regular\" su avance",
-      "url": "https://www.eldestapeweb.com/tecnologia/lideres-ia-mundial-ahora-piden-regular-avance-2026912165513",
-      "detectado": "2026-09-13T01:36:34.281Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/orden-mundial-resquebrajado-brics-muestra-musculo-2026912191615",
-      "sitio": "El Destape",
-      "titulo": "En un orden mundial resquebrajado, BRICS muestra músculo",
-      "url": "https://www.eldestapeweb.com/internacionales/orden-mundial-resquebrajado-brics-muestra-musculo-2026912191615",
-      "detectado": "2026-09-13T01:36:34.281Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/fuerte-planchazo-river-plate-vs-atletico-tucuman-termino-roja-2026912175844",
-      "sitio": "El Destape",
-      "titulo": "River le ganó sobre la hora a Atlético Tucumán, que terminó con uno menos",
-      "url": "https://www.eldestapeweb.com/deportes/fuerte-planchazo-river-plate-vs-atletico-tucuman-termino-roja-2026912175844",
-      "detectado": "2026-09-13T01:36:34.281Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/susto-franco-colapinto-llego-q3-tiempazo-larga-noveno-gp-espana-formula-1-202691212228",
-      "sitio": "El Destape",
-      "titulo": "Colapinto llegó a la Q3 y larga noveno en el GP de España en la Fórmula 1",
-      "url": "https://www.eldestapeweb.com/deportes/susto-franco-colapinto-llego-q3-tiempazo-larga-noveno-gp-espana-formula-1-202691212228",
-      "detectado": "2026-09-12T19:44:20.840Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/viento-cola-era-milei-reprimarizacion-economia-destruccion-empresas-2026912143931",
-      "sitio": "El Destape",
-      "titulo": "Viento de cola en la era Milei: reprimarización de la economía y destrucción de empresas",
-      "url": "https://www.eldestapeweb.com/economia/viento-cola-era-milei-reprimarizacion-economia-destruccion-empresas-2026912143931",
-      "detectado": "2026-09-12T19:44:20.840Z"
     }
   ]
 }
