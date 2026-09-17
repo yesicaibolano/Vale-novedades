@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-16T20:30:50.911Z",
+  "actualizado": "2026-09-17T01:58:33.698Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
+      "sitio": "El Destape",
+      "titulo": "Milei y Caputo se quedan sin empuje y corre riesgo el flujo de dólares",
+      "url": "https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
+      "detectado": "2026-09-17T01:58:33.171Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-17T01:58:33.172Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/discapacidad-side-provincias-primeras-criticas-oposicion-diputados-presupuesto-2027-2026916195459",
+      "sitio": "El Destape",
+      "titulo": "Discapacidad, SIDE y provincias: las primeras críticas de la oposición al presupuesto 2027",
+      "url": "https://www.eldestapeweb.com/politica/discapacidad-side-provincias-primeras-criticas-oposicion-diputados-presupuesto-2027-2026916195459",
+      "detectado": "2026-09-17T01:58:33.172Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-mintio-presupuesto-dijo-empleo-registrado-subio-desmiente-datos-gobierno-2026916183740",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno mintió en el Presupuesto y dijo que el empleo registrado subió",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-mintio-presupuesto-dijo-empleo-registrado-subio-desmiente-datos-gobierno-2026916183740",
+      "detectado": "2026-09-17T01:58:33.172Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-resto-importancia-suba-interes-ee-uu-nego-oportunismo-electoral-malvinas-2026916192052",
+      "sitio": "El Destape",
+      "titulo": "Milei relativizó la suba de interés en EE.UU y negó oportunismo electoral con Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/milei-le-resto-importancia-suba-interes-ee-uu-nego-oportunismo-electoral-malvinas-2026916192052",
+      "detectado": "2026-09-17T01:58:33.172Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo",
       "sitio": "CPBA (Buenos Aires)",
@@ -160,13 +195,6 @@
       "sitio": "El Destape",
       "titulo": "El Gobierno necesita subir 4 puntos la presión impositiva para cumplir la meta del 2027",
       "url": "https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
-      "detectado": "2026-09-16T01:54:33.299Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-09-16T01:54:33.299Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Bolsonaro promete un plan inspirado en Milei en Brasil: ajuste masivo y baja de impuestos",
       "url": "https://www.eldestapeweb.com/internacionales/bolsonaro-promete-plan-inspirado-milei-brasil-ajuste-masivo-baja-impuestos-2026914163816",
       "detectado": "2026-09-14T21:05:50.189Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
-      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "detectado": "2026-09-14T17:06:49.181Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/era-milei-jovenes-no-pueden-independizarse-hay-2-5-millones-acceso-vivienda-2026914115433",
-      "sitio": "El Destape",
-      "titulo": "En la era Milei, los jóvenes no pueden irse a vivir solos y hay 2,5 millones sin viviendas",
-      "url": "https://www.eldestapeweb.com/sociedad/era-milei-jovenes-no-pueden-independizarse-hay-2-5-millones-acceso-vivienda-2026914115433",
-      "detectado": "2026-09-14T17:06:52.003Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prometio-profundizar-rumbo-economico-desestima-pedidos-cambio-202691413320",
-      "sitio": "El Destape",
-      "titulo": "Reunión de gabinete",
-      "url": "https://www.eldestapeweb.com/politica/milei-prometio-profundizar-rumbo-economico-desestima-pedidos-cambio-202691413320",
-      "detectado": "2026-09-14T17:06:52.003Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-milei-pobreza-volvio-subir-agosto-9-4-millones-viven-hogares-pobres-2026914103753",
-      "sitio": "El Destape",
-      "titulo": "La pobreza volvió a subir en agosto y superó el 30%",
-      "url": "https://www.eldestapeweb.com/economia/alerta-milei-pobreza-volvio-subir-agosto-9-4-millones-viven-hogares-pobres-2026914103753",
-      "detectado": "2026-09-14T17:06:52.003Z"
     }
   ]
 }
