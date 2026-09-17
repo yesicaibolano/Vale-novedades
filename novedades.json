@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-17T15:44:27.513Z",
+  "actualizado": "2026-09-17T20:37:38.822Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
+      "sitio": "El Destape",
+      "titulo": "Actividad económica",
+      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
+      "detectado": "2026-09-17T20:37:38.344Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/frenazo-economico-costo-atraso-cambiario-empieza-verse-actividad-2026917162136",
+      "sitio": "El Destape",
+      "titulo": "Frenazo económico: el costo del atraso cambiario empieza a verse en la actividad",
+      "url": "https://www.eldestapeweb.com/economia/frenazo-economico-costo-atraso-cambiario-empieza-verse-actividad-2026917162136",
+      "detectado": "2026-09-17T20:37:38.345Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/escandalo-quinta-olivos-milei-denuncio-espiaban-despidio-trabajadores-residencia-2026917152036",
+      "sitio": "El Destape",
+      "titulo": "Quinta de Olivos: Milei denunció espionaje y puso a cargo a la Casa Militar",
+      "url": "https://www.eldestapeweb.com/politica/escandalo-quinta-olivos-milei-denuncio-espiaban-despidio-trabajadores-residencia-2026917152036",
+      "detectado": "2026-09-17T20:37:38.345Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-17T20:37:38.345Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-17T20:37:38.345Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
       "sitio": "Contadores en Red",
@@ -359,20 +394,6 @@
       "detectado": "2026-09-15T20:31:05.666Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-15T20:31:05.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-15T20:31:05.666Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/expectativa-presupuesto-2027-gobierno-convoca-mesa-politica-20269156435",
       "sitio": "El Destape",
       "titulo": "Peligra la sesión el Senado: LLA quiere sacar carta orgánica del BCRA e Inocencia Fiscal",
@@ -399,27 +420,6 @@
       "titulo": "Encargados de Edificios: nueva escala salarial septiembre 2026 CCT 589/10",
       "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-septiembre-2026-cct-589-10/",
       "detectado": "2026-09-15T15:46:14.761Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15971-ahora-en-repro-ia-mas-alla-del-chat-como-pasar-de-conversar-a-delegar-trabajo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | IA más allá del chat: Cómo pasar de conversar a delegar…",
-      "url": "https://www.cpba.com.ar/noticias/item/15971-ahora-en-repro-ia-mas-alla-del-chat-como-pasar-de-conversar-a-delegar-trabajo",
-      "detectado": "2026-09-15T15:46:17.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/40-barrios-populares-debio-dejar-comer-dia-entero-falta-ingresos-202691510163",
-      "sitio": "El Destape",
-      "titulo": "Más del 40% de los barrios populares debió dejar de comer durante un día entero",
-      "url": "https://www.eldestapeweb.com/economia/40-barrios-populares-debio-dejar-comer-dia-entero-falta-ingresos-202691510163",
-      "detectado": "2026-09-15T15:46:19.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/antes-marcha-federal-universitaria-rectores-van-congreso-exigir-presupuesto-2027-2026915103933",
-      "sitio": "El Destape",
-      "titulo": "Rectores van al Congreso a exigir el Prespuesto 2027 pero los marginan a un subsuelo",
-      "url": "https://www.eldestapeweb.com/sociedad/antes-marcha-federal-universitaria-rectores-van-congreso-exigir-presupuesto-2027-2026915103933",
-      "detectado": "2026-09-15T15:46:19.073Z"
     }
   ]
 }
