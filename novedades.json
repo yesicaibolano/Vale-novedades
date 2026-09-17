@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-09-17T10:31:40.015Z",
+  "actualizado": "2026-09-17T15:44:27.513Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
+      "sitio": "Contadores en Red",
+      "titulo": "Locación de Inmuebles CABA. ABL e Inmobiliario boleta desdoblada.",
+      "url": "https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
+      "detectado": "2026-09-17T15:44:20.913Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/amplian-la-verificacion-automatica-de-la-auh/",
+      "sitio": "Contadores en Red",
+      "titulo": "Amplían la verificación automática de la AUH.",
+      "url": "https://contadoresenred.com/amplian-la-verificacion-automatica-de-la-auh/",
+      "detectado": "2026-09-17T15:44:20.913Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/cnv-reglamenta-el-fal-que-deben-tener-en-cuenta-los-empleadores/",
+      "sitio": "Contadores en Red",
+      "titulo": "CNV reglamenta el FAL. ¿Qué deben tener en cuenta los empleadores?",
+      "url": "https://contadoresenred.com/cnv-reglamenta-el-fal-que-deben-tener-en-cuenta-los-empleadores/",
+      "detectado": "2026-09-17T15:44:20.913Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2628-cnv-res-gral-1167-26-fondo-de-asistencia-laboral-fal-de-la-ley-de-modernizacion-laboral.html",
+      "sitio": "Jorge Vega",
+      "titulo": "CNV - Res. Gral. 1167/26 - Fondo de Asistencia Laboral (FAL) de la Ley de Modernización Laboral",
+      "url": "https://jorgevega.com.ar/laboral/2628-cnv-res-gral-1167-26-fondo-de-asistencia-laboral-fal-de-la-ley-de-modernizacion-laboral.html",
+      "detectado": "2026-09-17T15:44:21.493Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/cnv-rg-1167-2026-fondos-asistencia-laboral-pic-fal-reglamentacion/",
+      "sitio": "Ignacio Online",
+      "titulo": "CNV reglamenta los Fondos de Asistencia Laboral: claves de la RG 1167/2026",
+      "url": "https://www.ignacioonline.com.ar/cnv-rg-1167-2026-fondos-asistencia-laboral-pic-fal-reglamentacion/",
+      "detectado": "2026-09-17T15:44:22.265Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/webinar-la-nueva-evolucion-de-balances-para-automatizar-la-gestion-contable/",
+      "sitio": "Ignacio Online",
+      "titulo": "Webinar: la nueva evolución de Balances para automatizar la gestión contable",
+      "url": "https://www.ignacioonline.com.ar/webinar-la-nueva-evolucion-de-balances-para-automatizar-la-gestion-contable/",
+      "detectado": "2026-09-17T15:44:22.265Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/auh-amplian-la-acreditacion-automatica-de-controles-de-salud-y-escolaridad/",
+      "sitio": "Ignacio Online",
+      "titulo": "AUH: amplían la acreditación automática de controles de salud y escolaridad",
+      "url": "https://www.ignacioonline.com.ar/auh-amplian-la-acreditacion-automatica-de-controles-de-salud-y-escolaridad/",
+      "detectado": "2026-09-17T15:44:22.265Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/control-social-espionaje-politico-oculta-ley-soberania-nacional-milei-2026917115815",
+      "sitio": "El Destape",
+      "titulo": "Control social y espionaje político: qué oculta la Ley de Soberanía Nacional de Milei",
+      "url": "https://www.eldestapeweb.com/politica/control-social-espionaje-politico-oculta-ley-soberania-nacional-milei-2026917115815",
+      "detectado": "2026-09-17T15:44:27.050Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-desentiende-cambios-discapacidad-escala-interna-quedas-tonto-202691710621",
+      "sitio": "El Destape",
+      "titulo": "Ajuste en discapacidad: Bullrich se desmarca del Gobierno y escala la interna",
+      "url": "https://www.eldestapeweb.com/politica/bullrich-desentiende-cambios-discapacidad-escala-interna-quedas-tonto-202691710621",
+      "detectado": "2026-09-17T15:44:27.050Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/reserva-federal-ee-uu-subio-tasa-mete-presion-dolar-20269179243",
+      "sitio": "El Destape",
+      "titulo": "La Reserva Federal de EE.UU. subió la tasa y mete más presión al dólar",
+      "url": "https://www.eldestapeweb.com/economia/reserva-federal-ee-uu-subio-tasa-mete-presion-dolar-20269179243",
+      "detectado": "2026-09-17T15:44:27.050Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/fondo-de-cese-laboral",
+      "sitio": "El Destape",
+      "titulo": "Fondo de Cese Laboral",
+      "url": "https://www.eldestapeweb.com/tag/fondo-de-cese-laboral",
+      "detectado": "2026-09-17T15:44:27.050Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-reglamento-fal-cuentas-consentimiento-fondos-tesoro-riesgo-pymes-202691783530",
+      "sitio": "El Destape",
+      "titulo": "La letra chica del FAL: cuentas sin consentimiento, fondos al Tesoro y riesgos para pymes",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-reglamento-fal-cuentas-consentimiento-fondos-tesoro-riesgo-pymes-202691783530",
+      "detectado": "2026-09-17T15:44:27.050Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/morosidad-agrava-trabajadoras-jovenes-jubiladas-golpeadas-20269170528",
       "sitio": "El Destape",
@@ -336,90 +420,6 @@
       "titulo": "Rectores van al Congreso a exigir el Prespuesto 2027 pero los marginan a un subsuelo",
       "url": "https://www.eldestapeweb.com/sociedad/antes-marcha-federal-universitaria-rectores-van-congreso-exigir-presupuesto-2027-2026915103933",
       "detectado": "2026-09-15T15:46:19.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/ninez-riesgo-era-milei-informe-revelo-inicio-consumo-drogas-8-anos-202691512418",
-      "sitio": "El Destape",
-      "titulo": "Niñez en riesgo: un informe reveló el inicio de consumo de drogas desde los 8 años",
-      "url": "https://www.eldestapeweb.com/sociedad/ninez-riesgo-era-milei-informe-revelo-inicio-consumo-drogas-8-anos-202691512418",
-      "detectado": "2026-09-15T15:46:19.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "sitio": "El Destape",
-      "titulo": "Por Gimena Figueroa",
-      "url": "https://www.eldestapeweb.com/perfil/gimena-figueroa",
-      "detectado": "2026-09-15T15:46:19.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caida-recaudacion-dan-marcha-atras-impuesto-afecta-pymes-20269159316",
-      "sitio": "El Destape",
-      "titulo": "Por la caída en la recaudación, reponen un impuesto que impacta en las pymes",
-      "url": "https://www.eldestapeweb.com/economia/caida-recaudacion-dan-marcha-atras-impuesto-afecta-pymes-20269159316",
-      "detectado": "2026-09-15T15:46:19.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/objetivo-bcra-peronismo-apuesta-todo-demorar-debate-senado-2026915054",
-      "sitio": "El Destape",
-      "titulo": "Objetivo BCRA: el peronismo apuesta todo a demorar el debate en el Senado",
-      "url": "https://www.eldestapeweb.com/politica/objetivo-bcra-peronismo-apuesta-todo-demorar-debate-senado-2026915054",
-      "detectado": "2026-09-15T10:33:00.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-09-15T10:33:00.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-exclusiva-61-7-endeudo-vivir-dos-candidatos-cabeza-cabeza-2026915054",
-      "sitio": "El Destape",
-      "titulo": "Encuesta exclusiva: el 61,7% se endeudó para vivir y dos candidatos cabeza a cabeza",
-      "url": "https://www.eldestapeweb.com/politica/encuesta-exclusiva-61-7-endeudo-vivir-dos-candidatos-cabeza-cabeza-2026915054",
-      "detectado": "2026-09-15T10:33:00.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reclaman-bausili-vuelva-congreso-diga-verdad-oro-central-2026915054",
-      "sitio": "El Destape",
-      "titulo": "Amplían la denuncia contra Bausili y reclaman que diga la verdad sobre el oro del Central",
-      "url": "https://www.eldestapeweb.com/politica/reclaman-bausili-vuelva-congreso-diga-verdad-oro-central-2026915054",
-      "detectado": "2026-09-15T10:33:00.250Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/nada-festejar-milei-ajusto-14-puntos-pbi-casi-cinco-presupuestos-ayuda-social-2026914154913",
-      "sitio": "El Destape",
-      "titulo": "Nada que festejar: Milei ajustó 14 puntos del PBI, casi cinco presupuestos de ayuda social",
-      "url": "https://www.eldestapeweb.com/economia/nada-festejar-milei-ajusto-14-puntos-pbi-casi-cinco-presupuestos-ayuda-social-2026914154913",
-      "detectado": "2026-09-15T02:03:32.556Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-empieza-resignarse-cree-milei-tendra-medirse-paso-2027-202691419219",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno empieza a resignarse y cree que Milei tendrá que medirse en las PASO 2027",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-empieza-resignarse-cree-milei-tendra-medirse-paso-2027-202691419219",
-      "detectado": "2026-09-15T02:03:32.556Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Vence el 4to anticipo del DEP",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "detectado": "2026-09-14T21:05:46.141Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15970-la-delegacion-lomas-de-zamora-festejo-su-60-aniversario",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Delegación Lomas de Zamora festejó su 60° aniversario",
-      "url": "https://www.cpba.com.ar/noticias/item/15970-la-delegacion-lomas-de-zamora-festejo-su-60-aniversario",
-      "detectado": "2026-09-14T21:05:46.141Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-volvio-caer-julio-suma-ocho-meses-consecutivos-retroceso-2025-2026914144520",
-      "sitio": "El Destape",
-      "titulo": "El consumo volvió a caer en julio y suma ocho meses consecutivos en retroceso desde 2025",
-      "url": "https://www.eldestapeweb.com/economia/consumo-volvio-caer-julio-suma-ocho-meses-consecutivos-retroceso-2025-2026914144520",
-      "detectado": "2026-09-14T21:05:50.189Z"
     }
   ]
 }
