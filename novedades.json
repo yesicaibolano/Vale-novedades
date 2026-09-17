@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-17T01:58:33.698Z",
+  "actualizado": "2026-09-17T10:31:40.015Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/morosidad-agrava-trabajadoras-jovenes-jubiladas-golpeadas-20269170528",
+      "sitio": "El Destape",
+      "titulo": "La morosidad se agrava entre las trabajadoras: jóvenes y jubiladas, las más golpeadas",
+      "url": "https://www.eldestapeweb.com/economia/morosidad-agrava-trabajadoras-jovenes-jubiladas-golpeadas-20269170528",
+      "detectado": "2026-09-17T10:31:39.541Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-17T10:31:39.541Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
+      "sitio": "El Destape",
+      "titulo": "Los gobernadores dialoguistas llevaron a Santilli sus quejas por la falta de reciprocidad",
+      "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
+      "detectado": "2026-09-17T10:31:39.541Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-17T10:31:39.541Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/inteligencia-artificial",
+      "sitio": "El Destape",
+      "titulo": "Inteligencia artificial",
+      "url": "https://www.eldestapeweb.com/tag/inteligencia-artificial",
+      "detectado": "2026-09-17T10:31:39.541Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
       "sitio": "El Destape",
@@ -174,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "Partido Justicialista",
       "url": "https://www.eldestapeweb.com/politica/kicillof-sumo-otra-foto-peronismo-cordobes-junto-passerini-20269160510",
-      "detectado": "2026-09-16T10:22:12.812Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-09-16T10:22:12.812Z"
     },
     {
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El consumo volvió a caer en julio y suma ocho meses consecutivos en retroceso desde 2025",
       "url": "https://www.eldestapeweb.com/economia/consumo-volvio-caer-julio-suma-ocho-meses-consecutivos-retroceso-2025-2026914144520",
-      "detectado": "2026-09-14T21:05:50.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-14T21:05:50.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-carne-cayo-casi-10-agosto-sigue-hundido-minimos-historicos-2026914162250",
-      "sitio": "El Destape",
-      "titulo": "El consumo de carne cayó casi 10% agosto y sigue hundido en mínimos históricos",
-      "url": "https://www.eldestapeweb.com/economia/consumo-carne-cayo-casi-10-agosto-sigue-hundido-minimos-historicos-2026914162250",
-      "detectado": "2026-09-14T21:05:50.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-09-14T21:05:50.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/bolsonaro-promete-plan-inspirado-milei-brasil-ajuste-masivo-baja-impuestos-2026914163816",
-      "sitio": "El Destape",
-      "titulo": "Bolsonaro promete un plan inspirado en Milei en Brasil: ajuste masivo y baja de impuestos",
-      "url": "https://www.eldestapeweb.com/internacionales/bolsonaro-promete-plan-inspirado-milei-brasil-ajuste-masivo-baja-impuestos-2026914163816",
       "detectado": "2026-09-14T21:05:50.189Z"
     }
   ]
