@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-09-18T10:08:07.247Z",
+  "actualizado": "2026-09-18T15:16:49.661Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-se-corrigen-escalas-salariales-de-noviembre-y-diciembre-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Personal de Casas Particulares se corrigen escalas salariales de noviembre y diciembre 2026",
+      "url": "https://contadoresenred.com/personal-de-casas-particulares-se-corrigen-escalas-salariales-de-noviembre-y-diciembre-2026/",
+      "detectado": "2026-09-18T15:16:43.505Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2437-servicio-domestico-escalas-2026-agosto-diciembre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Servicio Doméstico: Escalas Salariales Agosto a Diciembre 2026 - Resoluciones 6 y 7",
+      "url": "https://jorgevega.com.ar/laboral/2437-servicio-domestico-escalas-2026-agosto-diciembre.html",
+      "detectado": "2026-09-18T15:16:43.947Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/inocencia-fiscal-ii-el-senado-convirtio-en-ley-el-nuevo-regimen/",
+      "sitio": "Ignacio Online",
+      "titulo": "Inocencia Fiscal II: el Senado convirtió en ley el nuevo régimen",
+      "url": "https://www.ignacioonline.com.ar/inocencia-fiscal-ii-el-senado-convirtio-en-ley-el-nuevo-regimen/",
+      "detectado": "2026-09-18T15:16:44.688Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-rectifican-las-escalas-de-noviembre-y-diciembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Servicio Doméstico: rectifican las escalas de noviembre y diciembre 2026",
+      "url": "https://www.ignacioonline.com.ar/servicio-domestico-rectifican-las-escalas-de-noviembre-y-diciembre-2026/",
+      "detectado": "2026-09-18T15:16:44.688Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA informó tareas de mantenimiento en sus sistemas de facturación",
+      "url": "https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
+      "detectado": "2026-09-18T15:16:47.824Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15976-nueva-sesion-de-consejo-directivo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nueva Sesión de Consejo Directivo",
+      "url": "https://www.cpba.com.ar/noticias/item/15976-nueva-sesion-de-consejo-directivo",
+      "detectado": "2026-09-18T15:16:47.824Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | El Método Dado: El juego que acerca a los más chicos…",
+      "url": "https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas",
+      "detectado": "2026-09-18T15:16:47.824Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/discapacidad-aumento-inflacion-no-alcanza-mientras-crece-interna-bullrich-caputo-202691894417",
+      "sitio": "El Destape",
+      "titulo": "Más motosierra a los vulnerables",
+      "url": "https://www.eldestapeweb.com/politica/discapacidad-aumento-inflacion-no-alcanza-mientras-crece-interna-bullrich-caputo-202691894417",
+      "detectado": "2026-09-18T15:16:49.100Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/negocio-despido-exceptuan-dinero-fal-normas-antilavado-202691884711",
+      "sitio": "El Destape",
+      "titulo": "Negocio con tu despido: exceptúan al dinero del FAL de normas antilavado",
+      "url": "https://www.eldestapeweb.com/economia/negocio-despido-exceptuan-dinero-fal-normas-antilavado-202691884711",
+      "detectado": "2026-09-18T15:16:49.100Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "sitio": "El Destape",
+      "titulo": "Provincia de Buenos Aires",
+      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "detectado": "2026-09-18T15:16:49.100Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
       "sitio": "El Destape",
@@ -350,76 +420,6 @@
       "titulo": "La Armada denunció un presunto esquema de corrupción interna por casi $1.000 millones",
       "url": "https://www.eldestapeweb.com/politica/armada-denuncio-presunto-esquema-corrupcion-interna-casi-1-000-millones-2026916115715",
       "detectado": "2026-09-16T15:38:31.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/10-claves-presupuesto-2027-superavit-ajuste-obra-publica-deuda-20269167504",
-      "sitio": "El Destape",
-      "titulo": "La Casa Rosada ratifica el rumbo económico",
-      "url": "https://www.eldestapeweb.com/economia/10-claves-presupuesto-2027-superavit-ajuste-obra-publica-deuda-20269167504",
-      "detectado": "2026-09-16T15:38:31.922Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/planes-de-pago-con-cuotas-superiores-a-100-000-000-se-cancelaran-mediante-debito-directo-en-cuenta-bancaria/",
-      "sitio": "Contadores en Red",
-      "titulo": "Planes de pago con cuotas superiores a $100.000.000 se cancelaran mediante débito directo en cuenta bancaria.",
-      "url": "https://contadoresenred.com/planes-de-pago-con-cuotas-superiores-a-100-000-000-se-cancelaran-mediante-debito-directo-en-cuenta-bancaria/",
-      "detectado": "2026-09-16T10:22:05.610Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/viajantes-nuevo-acuerdo-salarial-septiembre-2026-a-agosto-2027/",
-      "sitio": "Ignacio Online",
-      "titulo": "Viajantes: nuevo acuerdo salarial septiembre 2026 a agosto 2027",
-      "url": "https://www.ignacioonline.com.ar/viajantes-nuevo-acuerdo-salarial-septiembre-2026-a-agosto-2027/",
-      "detectado": "2026-09-16T10:22:07.342Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/antes-eliminar-humanidad-inteligencia-artificial-nos-dejara-trabajo-20269160510",
-      "sitio": "El Destape",
-      "titulo": "Antes de eliminar a la humanidad, ¿la inteligencia artificial nos dejará sin trabajo?",
-      "url": "https://www.eldestapeweb.com/economia/antes-eliminar-humanidad-inteligencia-artificial-nos-dejara-trabajo-20269160510",
-      "detectado": "2026-09-16T10:22:12.812Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lobby-israeli-gran-poder-domina-trump-milei-20269160510",
-      "sitio": "El Destape",
-      "titulo": "Lobby israelí, el gran poder que domina a Trump y a Milei",
-      "url": "https://www.eldestapeweb.com/politica/lobby-israeli-gran-poder-domina-trump-milei-20269160510",
-      "detectado": "2026-09-16T10:22:12.812Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-sumo-otra-foto-peronismo-cordobes-junto-passerini-20269160510",
-      "sitio": "El Destape",
-      "titulo": "Partido Justicialista",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-sumo-otra-foto-peronismo-cordobes-junto-passerini-20269160510",
-      "detectado": "2026-09-16T10:22:12.812Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-igualo-san-pablo-saco-chapa-campeon-paso-semifinales-202691519220",
-      "sitio": "El Destape",
-      "titulo": "Boca igualó ante San Pablo, sacó chapa de campeón y pasó a semifinales",
-      "url": "https://www.eldestapeweb.com/deportes/boca-igualo-san-pablo-saco-chapa-campeon-paso-semifinales-202691519220",
-      "detectado": "2026-09-16T10:22:12.812Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno necesita subir 4 puntos la presión impositiva para cumplir la meta del 2027",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-necesita-subir-4-puntos-presion-impositiva-nacional-cumplir-meta-2027-202691521331",
-      "detectado": "2026-09-16T01:54:33.299Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-ratifica-ajuste-areas-cientificas-sube-partidas-ciberespionaje-202691520013",
-      "sitio": "El Destape",
-      "titulo": "Milei ratifica el ajuste en áreas científicas y sube las partidas para el ciberespionaje",
-      "url": "https://www.eldestapeweb.com/economia/milei-ratifica-ajuste-areas-cientificas-sube-partidas-ciberespionaje-202691520013",
-      "detectado": "2026-09-16T01:54:33.299Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Boca vence a San Pablo de visitante y sigue creciendo",
-      "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
-      "detectado": "2026-09-16T01:54:33.299Z"
     }
   ]
 }
