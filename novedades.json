@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-18T15:16:49.661Z",
+  "actualizado": "2026-09-18T20:03:17.087Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15979-nuevo-valor-del-caduceo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevo valor del Caduceo",
+      "url": "https://www.cpba.com.ar/noticias/item/15979-nuevo-valor-del-caduceo",
+      "detectado": "2026-09-18T20:03:15.069Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15975-nuevos-beneficios-en-tratamientos-de-fertilidad-y-salud-reproductiva",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevos beneficios en tratamientos de fertilidad y salud reproductiva",
+      "url": "https://www.cpba.com.ar/noticias/item/15975-nuevos-beneficios-en-tratamientos-de-fertilidad-y-salud-reproductiva",
+      "detectado": "2026-09-18T20:03:15.069Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15978-el-comite-de-jovenes-puso-quinta-en-lomas-de-zamora",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Comité de Jóvenes puso quinta en Lomas de Zamora",
+      "url": "https://www.cpba.com.ar/noticias/item/15978-el-comite-de-jovenes-puso-quinta-en-lomas-de-zamora",
+      "detectado": "2026-09-18T20:03:15.069Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/comercio-exterior-da-cuenta-freno-economico-caen-importaciones-productivas-2026918163249",
+      "sitio": "El Destape",
+      "titulo": "El comercio exterior da cuenta del freno económico: caen las importaciones productivas",
+      "url": "https://www.eldestapeweb.com/economia/comercio-exterior-da-cuenta-freno-economico-caen-importaciones-productivas-2026918163249",
+      "detectado": "2026-09-18T20:03:16.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/presupuesto-2027-ajuste-fin-ciencia-ambiente-2026918123854",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto 2027: ajuste sin fin para ciencia y ambiente",
+      "url": "https://www.eldestapeweb.com/sociedad/presupuesto-2027-ajuste-fin-ciencia-ambiente-2026918123854",
+      "detectado": "2026-09-18T20:03:16.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/movimiento-derecho-al-futuro",
+      "sitio": "El Destape",
+      "titulo": "Movimiento Derecho al Futuro",
+      "url": "https://www.eldestapeweb.com/tag/movimiento-derecho-al-futuro",
+      "detectado": "2026-09-18T20:03:16.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-encabezara-acto-nacional-movimiento-derecho-futuro-cara-2027-20269181499",
+      "sitio": "El Destape",
+      "titulo": "Axel Kicillof encabezará el acto nacional de su espacio político de cara al 2027",
+      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-encabezara-acto-nacional-movimiento-derecho-futuro-cara-2027-20269181499",
+      "detectado": "2026-09-18T20:03:16.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/autodromo-buenos-aires-sueno-peron-le-cumplio-fangio-hoy-catedral-automovilismo-argentino-20269189351",
+      "sitio": "El Destape",
+      "titulo": "El autódromo de Buenos Aires, el sueño que Perón le cumplió a Fangio y hoy es mítico",
+      "url": "https://www.eldestapeweb.com/deportes/autodromo-buenos-aires-sueno-peron-le-cumplio-fangio-hoy-catedral-automovilismo-argentino-20269189351",
+      "detectado": "2026-09-18T20:03:16.666Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-se-corrigen-escalas-salariales-de-noviembre-y-diciembre-2026/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "La partida de educación sube nominalmente pero atada a una inflación difícil de cumplir",
       "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-educacion-suba-nominal-atada-inflacion-dificil-cumplir-2026916135534",
       "detectado": "2026-09-16T20:30:50.373Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/auge-y-caida-del-e-cheq-en-la-comitente-y-el-ahorro-del-impuesto-al-cheque/",
-      "sitio": "Contadores en Red",
-      "titulo": "Auge y caída del e-cheq en la comitente y el ahorro del impuesto al cheque.",
-      "url": "https://contadoresenred.com/auge-y-caida-del-e-cheq-en-la-comitente-y-el-ahorro-del-impuesto-al-cheque/",
-      "detectado": "2026-09-16T15:38:24.392Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/autonomos-septiembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-9-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Autónomos Septiembre 2026. ¿Cuánto se paga por categoría a partir del 15-9-2026?",
-      "url": "https://contadoresenred.com/autonomos-septiembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-9-2026/",
-      "detectado": "2026-09-16T15:38:24.393Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/planes-de-facilidades-de-pago-adecuacion-de-los-mecanismos-sistemicos-utilizados-por-la-red-bancaria-para-efectuar-debitos-directos/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA: cambios en el débito de cuotas de planes de pago desde octubre 2026",
-      "url": "https://www.ignacioonline.com.ar/planes-de-facilidades-de-pago-adecuacion-de-los-mecanismos-sistemicos-utilizados-por-la-red-bancaria-para-efectuar-debitos-directos/",
-      "detectado": "2026-09-16T15:38:27.022Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/adicional-de-guarderia-cuanto-se-paga-quienes-tienen-derecho-y-como-se-calcula-guia-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Adicional de guardería: cuánto se paga, quiénes tienen derecho y cómo se calcula (Guía 2026)",
-      "url": "https://www.ignacioonline.com.ar/adicional-de-guarderia-cuanto-se-paga-quienes-tienen-derecho-y-como-se-calcula-guia-2026/",
-      "detectado": "2026-09-16T15:38:27.022Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-armo-presupuesto-privatizar-empresas-pagar-202691695122",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno regala más plata a los ricos: el presupuesto permite privatizar sin pagar",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-armo-presupuesto-privatizar-empresas-pagar-202691695122",
-      "detectado": "2026-09-16T15:38:31.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/derechos-de-personas-con-discapacidad",
-      "sitio": "El Destape",
-      "titulo": "Derechos de Personas con Discapacidad",
-      "url": "https://www.eldestapeweb.com/tag/derechos-de-personas-con-discapacidad",
-      "detectado": "2026-09-16T15:38:31.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/presupuesto-2027-gobierno-arremete-nuevo-personas-discapacidad-202691684138",
-      "sitio": "El Destape",
-      "titulo": "En el Presupuesto 2027, Milei arremete de nuevo contra las personas con discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/presupuesto-2027-gobierno-arremete-nuevo-personas-discapacidad-202691684138",
-      "detectado": "2026-09-16T15:38:31.922Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/armada-denuncio-presunto-esquema-corrupcion-interna-casi-1-000-millones-2026916115715",
-      "sitio": "El Destape",
-      "titulo": "La Armada denunció un presunto esquema de corrupción interna por casi $1.000 millones",
-      "url": "https://www.eldestapeweb.com/politica/armada-denuncio-presunto-esquema-corrupcion-interna-casi-1-000-millones-2026916115715",
-      "detectado": "2026-09-16T15:38:31.922Z"
     }
   ]
 }
