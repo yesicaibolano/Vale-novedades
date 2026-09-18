@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-17T20:37:38.822Z",
+  "actualizado": "2026-09-18T01:45:56.793Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-llegara-elecciones-recesion-descontento-social-calles-2026917185529",
+      "sitio": "El Destape",
+      "titulo": "Milei llegará a las elecciones con recesión y descontento social en las calles",
+      "url": "https://www.eldestapeweb.com/economia/milei-llegara-elecciones-recesion-descontento-social-calles-2026917185529",
+      "detectado": "2026-09-18T01:45:56.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-18T01:45:56.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-avivo-fuego-interna-apunto-directamente-caputo-bomba-atomica-discapacidad-202691722310",
+      "sitio": "El Destape",
+      "titulo": "Bullrich avivó la interna: apuntó contra Caputo por la \"bomba atómica\" en discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/bullrich-avivo-fuego-interna-apunto-directamente-caputo-bomba-atomica-discapacidad-202691722310",
+      "detectado": "2026-09-18T01:45:56.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oficialismo-logro-sancionar-inocencia-fiscal-ii-dejo-afuera-dirigentes-funcionarios-2026917185054",
+      "sitio": "El Destape",
+      "titulo": "El oficialismo logró sancionar Inocencia Fiscal II y dejó afuera dirigentes y funcionarios",
+      "url": "https://www.eldestapeweb.com/politica/oficialismo-logro-sancionar-inocencia-fiscal-ii-dejo-afuera-dirigentes-funcionarios-2026917185054",
+      "detectado": "2026-09-18T01:45:56.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fabiana-solano",
+      "sitio": "El Destape",
+      "titulo": "Por Fabiana Solano",
+      "url": "https://www.eldestapeweb.com/perfil/fabiana-solano",
+      "detectado": "2026-09-18T01:45:56.244Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
       "sitio": "El Destape",
@@ -352,13 +387,6 @@
       "detectado": "2026-09-16T01:54:33.299Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-09-16T01:54:33.299Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
       "sitio": "El Destape",
       "titulo": "Vivo | Boca vence a San Pablo de visitante y sigue creciendo",
@@ -392,34 +420,6 @@
       "titulo": "El Gobierno ya no puede negar el aumento de pobreza y busca una defensa",
       "url": "https://www.eldestapeweb.com/politica/gobierno-no-puede-negar-aumento-pobreza-busca-defensa-2026915151825",
       "detectado": "2026-09-15T20:31:05.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/expectativa-presupuesto-2027-gobierno-convoca-mesa-politica-20269156435",
-      "sitio": "El Destape",
-      "titulo": "Peligra la sesión el Senado: LLA quiere sacar carta orgánica del BCRA e Inocencia Fiscal",
-      "url": "https://www.eldestapeweb.com/politica/expectativa-presupuesto-2027-gobierno-convoca-mesa-politica-20269156435",
-      "detectado": "2026-09-15T20:31:05.666Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/obra-social-cobertura-nacional-viajar/",
-      "sitio": "Contadores en Red",
-      "titulo": "La importancia de contar con una obra social con cobertura nacional al viajar por Argentina",
-      "url": "https://contadoresenred.com/obra-social-cobertura-nacional-viajar/",
-      "detectado": "2026-09-15T15:46:13.673Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/la-importancia-de-contar-con-una-obra-social-con-cobertura-nacional-al-viajar-por-argentina/",
-      "sitio": "Ignacio Online",
-      "titulo": "La importancia de contar con una obra social con cobertura nacional al viajar por Argentina",
-      "url": "https://www.ignacioonline.com.ar/la-importancia-de-contar-con-una-obra-social-con-cobertura-nacional-al-viajar-por-argentina/",
-      "detectado": "2026-09-15T15:46:14.761Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-septiembre-2026-cct-589-10/",
-      "sitio": "Ignacio Online",
-      "titulo": "Encargados de Edificios: nueva escala salarial septiembre 2026 CCT 589/10",
-      "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-septiembre-2026-cct-589-10/",
-      "detectado": "2026-09-15T15:46:14.761Z"
     }
   ]
 }
