@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-18T01:45:56.793Z",
+  "actualizado": "2026-09-18T10:08:07.247Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
+      "sitio": "El Destape",
+      "titulo": "Pese al aumento de la pobreza, Milei recorta la comida para comedores en el Presupuesto",
+      "url": "https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
+      "detectado": "2026-09-18T10:08:06.496Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/desempleo-empleo-informal-necesidad-trabajo-20269180540",
+      "sitio": "El Destape",
+      "titulo": "Más desempleo, más empleo informal y más necesidad de trabajo",
+      "url": "https://www.eldestapeweb.com/economia/desempleo-empleo-informal-necesidad-trabajo-20269180540",
+      "detectado": "2026-09-18T10:08:06.496Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-reflotaron-provincias-unidas-hicieron-guino-fin-paso-20269180540",
+      "sitio": "El Destape",
+      "titulo": "Los gobernadores reflotaron Provincias Unidas e hicieron un guiño al fin de las PASO",
+      "url": "https://www.eldestapeweb.com/politica/gobernadores-reflotaron-provincias-unidas-hicieron-guino-fin-paso-20269180540",
+      "detectado": "2026-09-18T10:08:06.496Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-18T10:08:06.496Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/rosca-electoral-detras-visita-milei-bahia-blanca-20269180540",
+      "sitio": "El Destape",
+      "titulo": "La rosca electoral detrás de la visita de Milei a Bahía Blanca",
+      "url": "https://www.eldestapeweb.com/politica/rosca-electoral-detras-visita-milei-bahia-blanca-20269180540",
+      "detectado": "2026-09-18T10:08:06.496Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-llegara-elecciones-recesion-descontento-social-calles-2026917185529",
       "sitio": "El Destape",
@@ -174,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "Los gobernadores dialoguistas llevaron a Santilli sus quejas por la falta de reciprocidad",
       "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
-      "detectado": "2026-09-17T10:31:39.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-09-17T10:31:39.541Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Vivo | Boca vence a San Pablo de visitante y sigue creciendo",
       "url": "https://www.eldestapeweb.com/deportes/boca-enfrenta-sao-paulo-lugar-semis-copa-sudamericana-formaciones-ver-vivo-hora-juega-202691519221",
       "detectado": "2026-09-16T01:54:33.299Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Ronda de Consultas Tributarias de ARBA llega a San Isidro",
-      "url": "https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro",
-      "detectado": "2026-09-15T20:31:03.904Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15972-se-realizo-la-primera-ronda-de-consultas-tributarias-de-arba",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se realizó la primera Ronda de Consultas Tributarias de ARBA",
-      "url": "https://www.cpba.com.ar/noticias/item/15972-se-realizo-la-primera-ronda-de-consultas-tributarias-de-arba",
-      "detectado": "2026-09-15T20:31:03.904Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-gobierno-proyecta-4-crecimiento-dolar-1-700-21-1-inflacion-2026915163129",
-      "sitio": "El Destape",
-      "titulo": "Presupuesto 2027: el Gobierno proyecta 4% de crecimiento y 18% de inflación",
-      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-gobierno-proyecta-4-crecimiento-dolar-1-700-21-1-inflacion-2026915163129",
-      "detectado": "2026-09-15T20:31:05.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-no-puede-negar-aumento-pobreza-busca-defensa-2026915151825",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno ya no puede negar el aumento de pobreza y busca una defensa",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-no-puede-negar-aumento-pobreza-busca-defensa-2026915151825",
-      "detectado": "2026-09-15T20:31:05.666Z"
     }
   ]
 }
