@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-19T14:54:28.990Z",
+  "actualizado": "2026-09-19T19:39:57.712Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-cerro-acto-anual-mdf-hoy-vinimos-construir-cada-lugar-argentina-2026919163314",
+      "sitio": "El Destape",
+      "titulo": "Kicillof cerró el acto del MDF: \"Hoy vinimos a construir desde cada lugar de Argentina\"",
+      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-cerro-acto-anual-mdf-hoy-vinimos-construir-cada-lugar-argentina-2026919163314",
+      "detectado": "2026-09-19T19:39:57.197Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/modelo-changa-milei-numeros-exponen-impacto-plan-economico-milei-trabajo-2026919142649",
+      "sitio": "El Destape",
+      "titulo": "El modelo changa de Milei: más de 800 mil personas sumadas a la precariedad",
+      "url": "https://www.eldestapeweb.com/economia/modelo-changa-milei-numeros-exponen-impacto-plan-economico-milei-trabajo-2026919142649",
+      "detectado": "2026-09-19T19:39:57.197Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "sitio": "El Destape",
+      "titulo": "Provincia de Buenos Aires",
+      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "detectado": "2026-09-19T19:39:57.197Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-cerrara-acto-nacional-movimiento-derecho-futuro-avellaneda-2026919122557",
+      "sitio": "El Destape",
+      "titulo": "Axel Kicillof: \"Las nuevas canciones se componen de abajo hacia arriba\"",
+      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-cerrara-acto-nacional-movimiento-derecho-futuro-avellaneda-2026919122557",
+      "detectado": "2026-09-19T19:39:57.197Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-09-19T19:39:57.197Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "sitio": "El Destape",
@@ -212,13 +247,6 @@
       "detectado": "2026-09-18T15:16:49.100Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "sitio": "El Destape",
-      "titulo": "Provincia de Buenos Aires",
-      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "detectado": "2026-09-18T15:16:49.100Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
       "sitio": "El Destape",
       "titulo": "Pese al aumento de la pobreza, Milei recorta la comida para comedores en el Presupuesto",
@@ -392,34 +420,6 @@
       "titulo": "La letra chica del FAL: cuentas sin consentimiento, fondos al Tesoro y riesgos para pymes",
       "url": "https://www.eldestapeweb.com/economia/gobierno-reglamento-fal-cuentas-consentimiento-fondos-tesoro-riesgo-pymes-202691783530",
       "detectado": "2026-09-17T15:44:27.050Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/morosidad-agrava-trabajadoras-jovenes-jubiladas-golpeadas-20269170528",
-      "sitio": "El Destape",
-      "titulo": "La morosidad se agrava entre las trabajadoras: jóvenes y jubiladas, las más golpeadas",
-      "url": "https://www.eldestapeweb.com/economia/morosidad-agrava-trabajadoras-jovenes-jubiladas-golpeadas-20269170528",
-      "detectado": "2026-09-17T10:31:39.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
-      "sitio": "El Destape",
-      "titulo": "Los gobernadores dialoguistas llevaron a Santilli sus quejas por la falta de reciprocidad",
-      "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
-      "detectado": "2026-09-17T10:31:39.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/inteligencia-artificial",
-      "sitio": "El Destape",
-      "titulo": "Inteligencia artificial",
-      "url": "https://www.eldestapeweb.com/tag/inteligencia-artificial",
-      "detectado": "2026-09-17T10:31:39.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
-      "sitio": "El Destape",
-      "titulo": "Milei y Caputo se quedan sin empuje y corre riesgo el flujo de dólares",
-      "url": "https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
-      "detectado": "2026-09-17T01:58:33.171Z"
     }
   ]
 }
