@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-19T09:48:59.054Z",
+  "actualizado": "2026-09-19T14:54:28.990Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-09-19T14:54:26.988Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
+      "sitio": "El Destape",
+      "titulo": "Brotes verde oliva: Milei empodera a Fuerzas Armadas minadas por escándalos",
+      "url": "https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
+      "detectado": "2026-09-19T14:54:26.988Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-ajuste-duro-vivienda-asistencia-social-servicios-basicos-20269190530",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "Milei y Caputo se quedan sin empuje y corre riesgo el flujo de dólares",
       "url": "https://www.eldestapeweb.com/politica/milei-caputo-quedan-empuje-corre-riesgo-flujo-dolares-2026916213439",
       "detectado": "2026-09-17T01:58:33.171Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-17T01:58:33.172Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/discapacidad-side-provincias-primeras-criticas-oposicion-diputados-presupuesto-2027-2026916195459",
-      "sitio": "El Destape",
-      "titulo": "Discapacidad, SIDE y provincias: las primeras críticas de la oposición al presupuesto 2027",
-      "url": "https://www.eldestapeweb.com/politica/discapacidad-side-provincias-primeras-criticas-oposicion-diputados-presupuesto-2027-2026916195459",
-      "detectado": "2026-09-17T01:58:33.172Z"
     }
   ]
 }
