@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-19T01:50:31.133Z",
+  "actualizado": "2026-09-19T09:48:59.054Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-ajuste-duro-vivienda-asistencia-social-servicios-basicos-20269190530",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto 2027: el ajuste más duro en vivienda, asistencia social y servicios básicos",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-ajuste-duro-vivienda-asistencia-social-servicios-basicos-20269190530",
+      "detectado": "2026-09-19T09:48:58.597Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-19T09:48:58.597Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cortocircuito-milei-karina-negocio-bullrich-cruces-toto-caputo-20269190530",
+      "sitio": "El Destape",
+      "titulo": "Cortocircuito entre Milei y Karina, el negocio de Bullrich y los cruces con \"Toto\" Caputo",
+      "url": "https://www.eldestapeweb.com/politica/cortocircuito-milei-karina-negocio-bullrich-cruces-toto-caputo-20269190530",
+      "detectado": "2026-09-19T09:48:58.597Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-19T09:48:58.597Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/no-solo-promesa-ee-uu-profundiza-huella-militar-america-latina-20269190530",
+      "sitio": "El Destape",
+      "titulo": "Doctrina Monroe recargada",
+      "url": "https://www.eldestapeweb.com/internacionales/no-solo-promesa-ee-uu-profundiza-huella-militar-america-latina-20269190530",
+      "detectado": "2026-09-19T09:48:58.597Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-uoyep-escala-salarial-septiembre-2026-a-febrero-2027/",
       "sitio": "Ignacio Online",
@@ -254,13 +289,6 @@
       "detectado": "2026-09-17T20:37:38.345Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-17T20:37:38.345Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "sitio": "El Destape",
       "titulo": "Seguimiento Minuto A Minuto",
@@ -359,13 +387,6 @@
       "detectado": "2026-09-17T10:31:39.541Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-17T10:31:39.541Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-llevaron-santilli-quejas-falta-reciprocidad-20269170528",
       "sitio": "El Destape",
       "titulo": "Los gobernadores dialoguistas llevaron a Santilli sus quejas por la falta de reciprocidad",
@@ -399,27 +420,6 @@
       "titulo": "Discapacidad, SIDE y provincias: las primeras críticas de la oposición al presupuesto 2027",
       "url": "https://www.eldestapeweb.com/politica/discapacidad-side-provincias-primeras-criticas-oposicion-diputados-presupuesto-2027-2026916195459",
       "detectado": "2026-09-17T01:58:33.172Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-mintio-presupuesto-dijo-empleo-registrado-subio-desmiente-datos-gobierno-2026916183740",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno mintió en el Presupuesto y dijo que el empleo registrado subió",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-mintio-presupuesto-dijo-empleo-registrado-subio-desmiente-datos-gobierno-2026916183740",
-      "detectado": "2026-09-17T01:58:33.172Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-le-resto-importancia-suba-interes-ee-uu-nego-oportunismo-electoral-malvinas-2026916192052",
-      "sitio": "El Destape",
-      "titulo": "Milei relativizó la suba de interés en EE.UU y negó oportunismo electoral con Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/milei-le-resto-importancia-suba-interes-ee-uu-nego-oportunismo-electoral-malvinas-2026916192052",
-      "detectado": "2026-09-17T01:58:33.172Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se lleva adelante la XIII Jornada Nacional de los Tribunales Fiscales en nuestro Consejo",
-      "url": "https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo",
-      "detectado": "2026-09-16T20:30:48.479Z"
     }
   ]
 }
