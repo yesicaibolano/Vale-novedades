@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-20T01:53:09.448Z",
+  "actualizado": "2026-09-20T10:10:46.510Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-atrapado-loop-recesion-unico-culpable-20269200556",
+      "sitio": "El Destape",
+      "titulo": "Milei atrapado: el loop de la recesión con un único culpable",
+      "url": "https://www.eldestapeweb.com/politica/milei-atrapado-loop-recesion-unico-culpable-20269200556",
+      "detectado": "2026-09-20T10:10:46.101Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-mostro-candidato-encuentro-masivo-militantes-todo-pais-20269200557",
+      "sitio": "El Destape",
+      "titulo": "Kicillof se mostró como candidato en un encuentro masivo con militantes de todo el país",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-mostro-candidato-encuentro-masivo-militantes-todo-pais-20269200557",
+      "detectado": "2026-09-20T10:10:46.101Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-20T10:10:46.101Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-realidad-arruina-pronosticos-city-20269200556",
+      "sitio": "El Destape",
+      "titulo": "Los maestros del error",
+      "url": "https://www.eldestapeweb.com/economia/milei-realidad-arruina-pronosticos-city-20269200556",
+      "detectado": "2026-09-20T10:10:46.101Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trama-detras-impunidad-comodoro-caputo-2026919203056",
+      "sitio": "El Destape",
+      "titulo": "La trama detrás de la impunidad en Comodoro Caputo",
+      "url": "https://www.eldestapeweb.com/politica/trama-detras-impunidad-comodoro-caputo-2026919203056",
+      "detectado": "2026-09-20T10:10:46.101Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
       "sitio": "El Destape",
@@ -303,13 +338,6 @@
       "detectado": "2026-09-18T10:08:06.496Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-18T10:08:06.496Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/rosca-electoral-detras-visita-milei-bahia-blanca-20269180540",
       "sitio": "El Destape",
       "titulo": "La rosca electoral detrás de la visita de Milei a Bahía Blanca",
@@ -392,34 +420,6 @@
       "titulo": "CNV reglamenta el FAL. ¿Qué deben tener en cuenta los empleadores?",
       "url": "https://contadoresenred.com/cnv-reglamenta-el-fal-que-deben-tener-en-cuenta-los-empleadores/",
       "detectado": "2026-09-17T15:44:20.913Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2628-cnv-res-gral-1167-26-fondo-de-asistencia-laboral-fal-de-la-ley-de-modernizacion-laboral.html",
-      "sitio": "Jorge Vega",
-      "titulo": "CNV - Res. Gral. 1167/26 - Fondo de Asistencia Laboral (FAL) de la Ley de Modernización Laboral",
-      "url": "https://jorgevega.com.ar/laboral/2628-cnv-res-gral-1167-26-fondo-de-asistencia-laboral-fal-de-la-ley-de-modernizacion-laboral.html",
-      "detectado": "2026-09-17T15:44:21.493Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/cnv-rg-1167-2026-fondos-asistencia-laboral-pic-fal-reglamentacion/",
-      "sitio": "Ignacio Online",
-      "titulo": "CNV reglamenta los Fondos de Asistencia Laboral: claves de la RG 1167/2026",
-      "url": "https://www.ignacioonline.com.ar/cnv-rg-1167-2026-fondos-asistencia-laboral-pic-fal-reglamentacion/",
-      "detectado": "2026-09-17T15:44:22.265Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/webinar-la-nueva-evolucion-de-balances-para-automatizar-la-gestion-contable/",
-      "sitio": "Ignacio Online",
-      "titulo": "Webinar: la nueva evolución de Balances para automatizar la gestión contable",
-      "url": "https://www.ignacioonline.com.ar/webinar-la-nueva-evolucion-de-balances-para-automatizar-la-gestion-contable/",
-      "detectado": "2026-09-17T15:44:22.265Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/auh-amplian-la-acreditacion-automatica-de-controles-de-salud-y-escolaridad/",
-      "sitio": "Ignacio Online",
-      "titulo": "AUH: amplían la acreditación automática de controles de salud y escolaridad",
-      "url": "https://www.ignacioonline.com.ar/auh-amplian-la-acreditacion-automatica-de-controles-de-salud-y-escolaridad/",
-      "detectado": "2026-09-17T15:44:22.265Z"
     }
   ]
 }
