@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-20T14:58:25.041Z",
+  "actualizado": "2026-09-20T19:52:43.517Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-09-20T19:52:43.150Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
+      "sitio": "El Destape",
+      "titulo": "El continente y el mundo alertas por las elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
+      "detectado": "2026-09-20T19:52:43.150Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/san-lorenzo-vs-boca-vivo-hora-tv-streaming-online-ver-partido-2026920102421",
+      "sitio": "El Destape",
+      "titulo": "Boca le ganó a San Lorenzo en el Nuevo Gasómetro bajo un diluvio",
+      "url": "https://www.eldestapeweb.com/deportes/san-lorenzo-vs-boca-vivo-hora-tv-streaming-online-ver-partido-2026920102421",
+      "detectado": "2026-09-20T19:52:43.150Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mancha-venenosa-argumento-quirno-justifico-darle-poderes-especiales-estado-2026920161541",
+      "sitio": "El Destape",
+      "titulo": "\"Mancha venenosa\": el argumento con el que Quirno justificó darle más poderes al Estado",
+      "url": "https://www.eldestapeweb.com/politica/mancha-venenosa-argumento-quirno-justifico-darle-poderes-especiales-estado-2026920161541",
+      "detectado": "2026-09-20T19:52:43.150Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
       "sitio": "El Destape",
@@ -55,20 +83,6 @@
       "sitio": "El Destape",
       "titulo": "Kicillof aludió a una virtual candidatura en un masivo acto federal: \"Cuenten conmigo”",
       "url": "https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
-      "detectado": "2026-09-20T01:53:08.900Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-09-20T01:53:08.900Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
-      "sitio": "El Destape",
-      "titulo": "El continente y el mundo alertas por las elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
       "detectado": "2026-09-20T01:53:08.900Z"
     },
     {
@@ -405,20 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "Locación de Inmuebles CABA. ABL e Inmobiliario boleta desdoblada.",
       "url": "https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
-      "detectado": "2026-09-17T15:44:20.913Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/amplian-la-verificacion-automatica-de-la-auh/",
-      "sitio": "Contadores en Red",
-      "titulo": "Amplían la verificación automática de la AUH.",
-      "url": "https://contadoresenred.com/amplian-la-verificacion-automatica-de-la-auh/",
-      "detectado": "2026-09-17T15:44:20.913Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/cnv-reglamenta-el-fal-que-deben-tener-en-cuenta-los-empleadores/",
-      "sitio": "Contadores en Red",
-      "titulo": "CNV reglamenta el FAL. ¿Qué deben tener en cuenta los empleadores?",
-      "url": "https://contadoresenred.com/cnv-reglamenta-el-fal-que-deben-tener-en-cuenta-los-empleadores/",
       "detectado": "2026-09-17T15:44:20.913Z"
     }
   ]
