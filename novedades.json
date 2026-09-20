@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-19T19:39:57.712Z",
+  "actualizado": "2026-09-20T01:53:09.448Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
+      "sitio": "El Destape",
+      "titulo": "Kicillof aludió a una virtual candidatura en un masivo acto federal: \"Cuenten conmigo”",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
+      "detectado": "2026-09-20T01:53:08.900Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-09-20T01:53:08.900Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
+      "sitio": "El Destape",
+      "titulo": "El continente y el mundo alertas por las elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/internacionales/continente-mundo-alertas-elecciones-brasil-2026919181429",
+      "detectado": "2026-09-20T01:53:08.900Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
+      "sitio": "El Destape",
+      "titulo": "Patear el tablero sin romper: enojo de Bullrich, reaparición de Macri y rosca bonaerense",
+      "url": "https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
+      "detectado": "2026-09-20T01:53:08.900Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/masivo-apagon-ciudad-conurbano-miles-vecinos-luz-2026919213837",
+      "sitio": "El Destape",
+      "titulo": "Masivo apagón en la Ciudad y el Conurbano: miles de vecinos sin luz",
+      "url": "https://www.eldestapeweb.com/sociedad/masivo-apagon-ciudad-conurbano-miles-vecinos-luz-2026919213837",
+      "detectado": "2026-09-20T01:53:08.900Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-cerro-acto-anual-mdf-hoy-vinimos-construir-cada-lugar-argentina-2026919163314",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "AUH: amplían la acreditación automática de controles de salud y escolaridad",
       "url": "https://www.ignacioonline.com.ar/auh-amplian-la-acreditacion-automatica-de-controles-de-salud-y-escolaridad/",
       "detectado": "2026-09-17T15:44:22.265Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/control-social-espionaje-politico-oculta-ley-soberania-nacional-milei-2026917115815",
-      "sitio": "El Destape",
-      "titulo": "Control social y espionaje político: qué oculta la Ley de Soberanía Nacional de Milei",
-      "url": "https://www.eldestapeweb.com/politica/control-social-espionaje-politico-oculta-ley-soberania-nacional-milei-2026917115815",
-      "detectado": "2026-09-17T15:44:27.050Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-desentiende-cambios-discapacidad-escala-interna-quedas-tonto-202691710621",
-      "sitio": "El Destape",
-      "titulo": "Ajuste en discapacidad: Bullrich se desmarca del Gobierno y escala la interna",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-desentiende-cambios-discapacidad-escala-interna-quedas-tonto-202691710621",
-      "detectado": "2026-09-17T15:44:27.050Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/reserva-federal-ee-uu-subio-tasa-mete-presion-dolar-20269179243",
-      "sitio": "El Destape",
-      "titulo": "La Reserva Federal de EE.UU. subió la tasa y mete más presión al dólar",
-      "url": "https://www.eldestapeweb.com/economia/reserva-federal-ee-uu-subio-tasa-mete-presion-dolar-20269179243",
-      "detectado": "2026-09-17T15:44:27.050Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/fondo-de-cese-laboral",
-      "sitio": "El Destape",
-      "titulo": "Fondo de Cese Laboral",
-      "url": "https://www.eldestapeweb.com/tag/fondo-de-cese-laboral",
-      "detectado": "2026-09-17T15:44:27.050Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-reglamento-fal-cuentas-consentimiento-fondos-tesoro-riesgo-pymes-202691783530",
-      "sitio": "El Destape",
-      "titulo": "La letra chica del FAL: cuentas sin consentimiento, fondos al Tesoro y riesgos para pymes",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-reglamento-fal-cuentas-consentimiento-fondos-tesoro-riesgo-pymes-202691783530",
-      "detectado": "2026-09-17T15:44:27.050Z"
     }
   ]
 }
