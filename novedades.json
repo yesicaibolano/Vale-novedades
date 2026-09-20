@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-20T10:10:46.510Z",
+  "actualizado": "2026-09-20T14:58:25.041Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
+      "sitio": "El Destape",
+      "titulo": "Patear el tablero sin romper: enojo de Bullrich, reaparición de Macri y rosca bonaerense",
+      "url": "https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
+      "detectado": "2026-09-20T14:58:24.442Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
+      "sitio": "El Destape",
+      "titulo": "Brotes verde oliva: Milei empodera a Fuerzas Armadas minadas por escándalos",
+      "url": "https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
+      "detectado": "2026-09-20T14:58:24.443Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-atrapado-loop-recesion-unico-culpable-20269200556",
       "sitio": "El Destape",
@@ -58,13 +72,6 @@
       "detectado": "2026-09-20T01:53:08.900Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
-      "sitio": "El Destape",
-      "titulo": "Patear el tablero sin romper: enojo de Bullrich, reaparición de Macri y rosca bonaerense",
-      "url": "https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
-      "detectado": "2026-09-20T01:53:08.900Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/masivo-apagon-ciudad-conurbano-miles-vecinos-luz-2026919213837",
       "sitio": "El Destape",
       "titulo": "Masivo apagón en la Ciudad y el Conurbano: miles de vecinos sin luz",
@@ -111,13 +118,6 @@
       "sitio": "El Destape",
       "titulo": "Javier Milei presidente",
       "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-09-19T14:54:26.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
-      "sitio": "El Destape",
-      "titulo": "Brotes verde oliva: Milei empodera a Fuerzas Armadas minadas por escándalos",
-      "url": "https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
       "detectado": "2026-09-19T14:54:26.988Z"
     },
     {
