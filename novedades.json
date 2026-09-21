@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-09-21T11:13:05.363Z",
+  "actualizado": "2026-09-21T17:15:33.599Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-2025-arca-prorroga-presentacion-13-octubre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Ganancias 2025: ARCA prorroga la presentación hasta el 13 de octubre",
+      "url": "https://www.ignacioonline.com.ar/ganancias-2025-arca-prorroga-presentacion-13-octubre-2026/",
+      "detectado": "2026-09-21T17:15:28.565Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15980-ganancias-2025-arca-prorrogo-hasta-el-13-de-octubre-la-presentacion-de-la-declaracion-jurada",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ganancias 2025: ARCA prorrogó hasta el 13 de octubre la presentación de la declaración jurada",
+      "url": "https://www.cpba.com.ar/noticias/item/15980-ganancias-2025-arca-prorrogo-hasta-el-13-de-octubre-la-presentacion-de-la-declaracion-jurada",
+      "detectado": "2026-09-21T17:15:31.719Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
+      "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
+      "detectado": "2026-09-21T17:15:31.719Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15981-se-actualiza-el-valor-del-modulo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se actualiza el valor del Módulo",
+      "url": "https://www.cpba.com.ar/noticias/item/15981-se-actualiza-el-valor-del-modulo",
+      "detectado": "2026-09-21T17:15:31.719Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/desindustrializacion",
+      "sitio": "El Destape",
+      "titulo": "Desindustrialización",
+      "url": "https://www.eldestapeweb.com/tag/desindustrializacion",
+      "detectado": "2026-09-21T17:15:33.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/tres-provincias-record-exportable-soja-lideran-perdida-empresas-empleos-202692113237",
+      "sitio": "El Destape",
+      "titulo": "Las tres provincias con récord exportable de soja lideran la pérdida de empresas y empleos",
+      "url": "https://www.eldestapeweb.com/economia/tres-provincias-record-exportable-soja-lideran-perdida-empresas-empleos-202692113237",
+      "detectado": "2026-09-21T17:15:33.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-09-21T17:15:33.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/cambiar-empleo-formal-informalidad-cuesta-tercio-salario-real-202692110461",
+      "sitio": "El Destape",
+      "titulo": "Cambiar un empleo formal por uno informal cuesta hasta un tercio del salario real",
+      "url": "https://www.eldestapeweb.com/economia/cambiar-empleo-formal-informalidad-cuesta-tercio-salario-real-202692110461",
+      "detectado": "2026-09-21T17:15:33.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-estamos-trabajando-ganarle-milei-tener-propuesta-mucho-amplia-20269219541",
+      "sitio": "El Destape",
+      "titulo": "Kicillof: \"Estamos trabajando para ganarle a Milei\"",
+      "url": "https://www.eldestapeweb.com/politica/axel-estamos-trabajando-ganarle-milei-tener-propuesta-mucho-amplia-20269219541",
+      "detectado": "2026-09-21T17:15:33.082Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ganancias-nueva-prorroga-para-presentar-la-ddjj-2025-que-pasa-con-los-anticipos/",
       "sitio": "Contadores en Red",
@@ -357,69 +420,6 @@
       "titulo": "Ahora en RePro | El Método Dado: El juego que acerca a los más chicos…",
       "url": "https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas",
       "detectado": "2026-09-18T15:16:47.824Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/discapacidad-aumento-inflacion-no-alcanza-mientras-crece-interna-bullrich-caputo-202691894417",
-      "sitio": "El Destape",
-      "titulo": "Más motosierra a los vulnerables",
-      "url": "https://www.eldestapeweb.com/politica/discapacidad-aumento-inflacion-no-alcanza-mientras-crece-interna-bullrich-caputo-202691894417",
-      "detectado": "2026-09-18T15:16:49.100Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/negocio-despido-exceptuan-dinero-fal-normas-antilavado-202691884711",
-      "sitio": "El Destape",
-      "titulo": "Negocio con tu despido: exceptúan al dinero del FAL de normas antilavado",
-      "url": "https://www.eldestapeweb.com/economia/negocio-despido-exceptuan-dinero-fal-normas-antilavado-202691884711",
-      "detectado": "2026-09-18T15:16:49.100Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
-      "sitio": "El Destape",
-      "titulo": "Pese al aumento de la pobreza, Milei recorta la comida para comedores en el Presupuesto",
-      "url": "https://www.eldestapeweb.com/politica/pese-aumento-pobreza-milei-recorta-comida-comedores-presupuesto-20269180540",
-      "detectado": "2026-09-18T10:08:06.496Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/desempleo-empleo-informal-necesidad-trabajo-20269180540",
-      "sitio": "El Destape",
-      "titulo": "Más desempleo, más empleo informal y más necesidad de trabajo",
-      "url": "https://www.eldestapeweb.com/economia/desempleo-empleo-informal-necesidad-trabajo-20269180540",
-      "detectado": "2026-09-18T10:08:06.496Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-reflotaron-provincias-unidas-hicieron-guino-fin-paso-20269180540",
-      "sitio": "El Destape",
-      "titulo": "Los gobernadores reflotaron Provincias Unidas e hicieron un guiño al fin de las PASO",
-      "url": "https://www.eldestapeweb.com/politica/gobernadores-reflotaron-provincias-unidas-hicieron-guino-fin-paso-20269180540",
-      "detectado": "2026-09-18T10:08:06.496Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/rosca-electoral-detras-visita-milei-bahia-blanca-20269180540",
-      "sitio": "El Destape",
-      "titulo": "La rosca electoral detrás de la visita de Milei a Bahía Blanca",
-      "url": "https://www.eldestapeweb.com/politica/rosca-electoral-detras-visita-milei-bahia-blanca-20269180540",
-      "detectado": "2026-09-18T10:08:06.496Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-llegara-elecciones-recesion-descontento-social-calles-2026917185529",
-      "sitio": "El Destape",
-      "titulo": "Milei llegará a las elecciones con recesión y descontento social en las calles",
-      "url": "https://www.eldestapeweb.com/economia/milei-llegara-elecciones-recesion-descontento-social-calles-2026917185529",
-      "detectado": "2026-09-18T01:45:56.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-avivo-fuego-interna-apunto-directamente-caputo-bomba-atomica-discapacidad-202691722310",
-      "sitio": "El Destape",
-      "titulo": "Bullrich avivó la interna: apuntó contra Caputo por la \"bomba atómica\" en discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-avivo-fuego-interna-apunto-directamente-caputo-bomba-atomica-discapacidad-202691722310",
-      "detectado": "2026-09-18T01:45:56.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oficialismo-logro-sancionar-inocencia-fiscal-ii-dejo-afuera-dirigentes-funcionarios-2026917185054",
-      "sitio": "El Destape",
-      "titulo": "El oficialismo logró sancionar Inocencia Fiscal II y dejó afuera dirigentes y funcionarios",
-      "url": "https://www.eldestapeweb.com/politica/oficialismo-logro-sancionar-inocencia-fiscal-ii-dejo-afuera-dirigentes-funcionarios-2026917185054",
-      "detectado": "2026-09-18T01:45:56.244Z"
     }
   ]
 }
