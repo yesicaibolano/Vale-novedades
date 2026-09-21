@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-09-20T19:52:43.517Z",
+  "actualizado": "2026-09-21T01:54:13.742Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-profundizo-criticas-gobierno-tren-viene-frente-chocarnos-202692021856",
+      "sitio": "El Destape",
+      "titulo": "Interna oficialista",
+      "url": "https://www.eldestapeweb.com/politica/patricia-bullrich-profundizo-criticas-gobierno-tren-viene-frente-chocarnos-202692021856",
+      "detectado": "2026-09-21T01:54:13.233Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
       "sitio": "El Destape",
@@ -413,13 +420,6 @@
       "titulo": "Seguimiento Minuto A Minuto",
       "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "detectado": "2026-09-17T20:37:38.345Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
-      "sitio": "Contadores en Red",
-      "titulo": "Locación de Inmuebles CABA. ABL e Inmobiliario boleta desdoblada.",
-      "url": "https://contadoresenred.com/locacion-de-inmuebles-caba-abl-e-inmobiliario-boleta-desdoblada/",
-      "detectado": "2026-09-17T15:44:20.913Z"
     }
   ]
 }
