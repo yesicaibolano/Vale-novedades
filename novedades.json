@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-21T01:54:13.742Z",
+  "actualizado": "2026-09-21T11:13:05.363Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-nueva-prorroga-para-presentar-la-ddjj-2025-que-pasa-con-los-anticipos/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias nueva prórroga para presentar la DDJJ 2025 ¿Qué pasa con los anticipos?",
+      "url": "https://contadoresenred.com/ganancias-nueva-prorroga-para-presentar-la-ddjj-2025-que-pasa-con-los-anticipos/",
+      "detectado": "2026-09-21T11:12:59.566Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2629-arca-rg-5898-ganancias-nueva-prorroga-ahora-hasta-el-13-de-octubre-solo-presentacion.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ARCA RG 5898 - Ganancias: nueva prórroga, ahora hasta el 13 de octubre (SOLO PRESENTACIÓN)",
+      "url": "https://jorgevega.com.ar/impuestos/2629-arca-rg-5898-ganancias-nueva-prorroga-ahora-hasta-el-13-de-octubre-solo-presentacion.html",
+      "detectado": "2026-09-21T11:13:00.336Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/congreso-hace-sufrir-lla-internas-oposicion-unida-aliados-alejados-20269210519",
+      "sitio": "El Destape",
+      "titulo": "El Congreso que hace sufrir a LLA: internas, oposición unida y aliados alejados",
+      "url": "https://www.eldestapeweb.com/politica/congreso-hace-sufrir-lla-internas-oposicion-unida-aliados-alejados-20269210519",
+      "detectado": "2026-09-21T11:13:04.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-21T11:13:04.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-milei-rescindio-70-obras-profundiza-ajuste-vialidad-20269210519",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto 2027: Milei rescindió el 70% de las obras y profundiza el ajuste en Vialidad",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-milei-rescindio-70-obras-profundiza-ajuste-vialidad-20269210519",
+      "detectado": "2026-09-21T11:13:04.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-21T11:13:04.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-21T11:13:04.810Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-profundizo-criticas-gobierno-tren-viene-frente-chocarnos-202692021856",
       "sitio": "El Destape",
@@ -149,13 +198,6 @@
       "detectado": "2026-09-19T09:48:58.597Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-19T09:48:58.597Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/cortocircuito-milei-karina-negocio-bullrich-cruces-toto-caputo-20269190530",
       "sitio": "El Destape",
       "titulo": "Cortocircuito entre Milei y Karina, el negocio de Bullrich y los cruces con \"Toto\" Caputo",
@@ -202,13 +244,6 @@
       "sitio": "El Destape",
       "titulo": "La oposición se planta ante el \"Caballo de Troya\" del proyecto de Malvinas de Milei",
       "url": "https://www.eldestapeweb.com/politica/oposicion-planta-caballo-troya-proyecto-malvinas-milei-diputados-2026918195935",
-      "detectado": "2026-09-19T01:50:30.624Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-09-19T01:50:30.624Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "El oficialismo logró sancionar Inocencia Fiscal II y dejó afuera dirigentes y funcionarios",
       "url": "https://www.eldestapeweb.com/politica/oficialismo-logro-sancionar-inocencia-fiscal-ii-dejo-afuera-dirigentes-funcionarios-2026917185054",
       "detectado": "2026-09-18T01:45:56.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fabiana-solano",
-      "sitio": "El Destape",
-      "titulo": "Por Fabiana Solano",
-      "url": "https://www.eldestapeweb.com/perfil/fabiana-solano",
-      "detectado": "2026-09-18T01:45:56.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-09-17T20:37:38.344Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/frenazo-economico-costo-atraso-cambiario-empieza-verse-actividad-2026917162136",
-      "sitio": "El Destape",
-      "titulo": "Frenazo económico: el costo del atraso cambiario empieza a verse en la actividad",
-      "url": "https://www.eldestapeweb.com/economia/frenazo-economico-costo-atraso-cambiario-empieza-verse-actividad-2026917162136",
-      "detectado": "2026-09-17T20:37:38.345Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/escandalo-quinta-olivos-milei-denuncio-espiaban-despidio-trabajadores-residencia-2026917152036",
-      "sitio": "El Destape",
-      "titulo": "Quinta de Olivos: Milei denunció espionaje y puso a cargo a la Casa Militar",
-      "url": "https://www.eldestapeweb.com/politica/escandalo-quinta-olivos-milei-denuncio-espiaban-despidio-trabajadores-residencia-2026917152036",
-      "detectado": "2026-09-17T20:37:38.345Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-17T20:37:38.345Z"
     }
   ]
 }
