@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-21T17:15:33.599Z",
+  "actualizado": "2026-09-21T21:17:08.500Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevos valores de derechos y tasas a partir de octubre de 2026",
+      "url": "https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026",
+      "detectado": "2026-09-21T21:17:06.205Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/supermercados-industria-anticipan-freno-demanda-interna-seguira-reaccionar-202692116361",
+      "sitio": "El Destape",
+      "titulo": "Supers e industria anticipan más recesión: la demanda interna seguirá sin reaccionar",
+      "url": "https://www.eldestapeweb.com/economia/supermercados-industria-anticipan-freno-demanda-interna-seguira-reaccionar-202692116361",
+      "detectado": "2026-09-21T21:17:07.929Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
+      "sitio": "El Destape",
+      "titulo": "Tensión en el Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
+      "detectado": "2026-09-21T21:17:07.929Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-21T21:17:07.929Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/energia/gobierno-apuesta-apruebe-jueves-eliminacion-zona-fria-senado-2026921165556",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno apuesta a que se apruebe el jueves la eliminación de la zona fría en el Senado",
+      "url": "https://www.eldestapeweb.com/energia/gobierno-apuesta-apruebe-jueves-eliminacion-zona-fria-senado-2026921165556",
+      "detectado": "2026-09-21T21:17:07.929Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-bellato",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Bellato",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-bellato",
+      "detectado": "2026-09-21T21:17:07.929Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-2025-arca-prorroga-presentacion-13-octubre-2026/",
       "sitio": "Ignacio Online",
@@ -268,13 +310,6 @@
       "detectado": "2026-09-19T09:48:58.597Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-19T09:48:58.597Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/no-solo-promesa-ee-uu-profundiza-huella-militar-america-latina-20269190530",
       "sitio": "El Destape",
       "titulo": "Doctrina Monroe recargada",
@@ -385,41 +420,6 @@
       "titulo": "Servicio Doméstico: Escalas Salariales Agosto a Diciembre 2026 - Resoluciones 6 y 7",
       "url": "https://jorgevega.com.ar/laboral/2437-servicio-domestico-escalas-2026-agosto-diciembre.html",
       "detectado": "2026-09-18T15:16:43.947Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/inocencia-fiscal-ii-el-senado-convirtio-en-ley-el-nuevo-regimen/",
-      "sitio": "Ignacio Online",
-      "titulo": "Inocencia Fiscal II: el Senado convirtió en ley el nuevo régimen",
-      "url": "https://www.ignacioonline.com.ar/inocencia-fiscal-ii-el-senado-convirtio-en-ley-el-nuevo-regimen/",
-      "detectado": "2026-09-18T15:16:44.688Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-rectifican-las-escalas-de-noviembre-y-diciembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: rectifican las escalas de noviembre y diciembre 2026",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-rectifican-las-escalas-de-noviembre-y-diciembre-2026/",
-      "detectado": "2026-09-18T15:16:44.688Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "ARCA informó tareas de mantenimiento en sus sistemas de facturación",
-      "url": "https://www.cpba.com.ar/noticias/item/15898-arca-informo-tareas-de-mantenimiento-en-sus-sistemas-de-facturacion",
-      "detectado": "2026-09-18T15:16:47.824Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15976-nueva-sesion-de-consejo-directivo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nueva Sesión de Consejo Directivo",
-      "url": "https://www.cpba.com.ar/noticias/item/15976-nueva-sesion-de-consejo-directivo",
-      "detectado": "2026-09-18T15:16:47.824Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | El Método Dado: El juego que acerca a los más chicos…",
-      "url": "https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas",
-      "detectado": "2026-09-18T15:16:47.824Z"
     }
   ]
 }
