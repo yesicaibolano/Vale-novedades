@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-22T15:48:53.123Z",
+  "actualizado": "2026-09-22T20:32:58.602Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15984-san-isidro-recibio-la-segunda-ronda-de-consultas-tributarias-de-arba",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "San Isidro recibió la segunda Ronda de Consultas Tributarias de ARBA",
+      "url": "https://www.cpba.com.ar/noticias/item/15984-san-isidro-recibio-la-segunda-ronda-de-consultas-tributarias-de-arba",
+      "detectado": "2026-09-22T20:32:56.608Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bilateral-trump-milei-aislado-onu-hace-foco-agenda-estados-unidos-israel-202692214402",
+      "sitio": "El Destape",
+      "titulo": "Cita global en la ONU",
+      "url": "https://www.eldestapeweb.com/politica/bilateral-trump-milei-aislado-onu-hace-foco-agenda-estados-unidos-israel-202692214402",
+      "detectado": "2026-09-22T20:32:58.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-22T20:32:58.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/crecen-concursos-preventivos-crisis-encaminan-superar-record-2025-20269221330",
+      "sitio": "El Destape",
+      "titulo": "Crecen los concursos preventivos de crisis y se encaminan a superar el récord de 2025",
+      "url": "https://www.eldestapeweb.com/sociedad/crecen-concursos-preventivos-crisis-encaminan-superar-record-2025-20269221330",
+      "detectado": "2026-09-22T20:32:58.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/salarios-crecieron-julio-no-reparan-derrumbe-acumulan-milei-2026922165731",
+      "sitio": "El Destape",
+      "titulo": "Los salarios crecieron en julio, pero no reparan el derrumbe que acumulan con Milei",
+      "url": "https://www.eldestapeweb.com/economia/salarios-crecieron-julio-no-reparan-derrumbe-acumulan-milei-2026922165731",
+      "detectado": "2026-09-22T20:32:58.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/despues-salida-vilches-gobierno-anuncio-pablo-di-liscia-nuevo-secretario-discapacidad-202692216259",
+      "sitio": "El Destape",
+      "titulo": "Pablo Di Liscia es el nuevo secretario de Discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/despues-salida-vilches-gobierno-anuncio-pablo-di-liscia-nuevo-secretario-discapacidad-202692216259",
+      "detectado": "2026-09-22T20:32:58.232Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/igj-flexibiliza-la-constitucion-de-sociedades-y-reduce-exigencias-que-cambia/",
       "sitio": "Contadores en Red",
@@ -132,13 +174,6 @@
       "sitio": "El Destape",
       "titulo": "Tensión en el Gobierno",
       "url": "https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
-      "detectado": "2026-09-21T21:17:07.929Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-09-21T21:17:07.929Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Axel Kicillof: \"Las nuevas canciones se componen de abajo hacia arriba\"",
       "url": "https://www.eldestapeweb.com/politica/axel-kicillof-cerrara-acto-nacional-movimiento-derecho-futuro-avellaneda-2026919122557",
       "detectado": "2026-09-19T19:39:57.197Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-09-19T19:39:57.197Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-09-19T14:54:26.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-ajuste-duro-vivienda-asistencia-social-servicios-basicos-20269190530",
-      "sitio": "El Destape",
-      "titulo": "Presupuesto 2027: el ajuste más duro en vivienda, asistencia social y servicios básicos",
-      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-ajuste-duro-vivienda-asistencia-social-servicios-basicos-20269190530",
-      "detectado": "2026-09-19T09:48:58.597Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cortocircuito-milei-karina-negocio-bullrich-cruces-toto-caputo-20269190530",
-      "sitio": "El Destape",
-      "titulo": "Cortocircuito entre Milei y Karina, el negocio de Bullrich y los cruces con \"Toto\" Caputo",
-      "url": "https://www.eldestapeweb.com/politica/cortocircuito-milei-karina-negocio-bullrich-cruces-toto-caputo-20269190530",
-      "detectado": "2026-09-19T09:48:58.597Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/no-solo-promesa-ee-uu-profundiza-huella-militar-america-latina-20269190530",
-      "sitio": "El Destape",
-      "titulo": "Doctrina Monroe recargada",
-      "url": "https://www.eldestapeweb.com/internacionales/no-solo-promesa-ee-uu-profundiza-huella-militar-america-latina-20269190530",
-      "detectado": "2026-09-19T09:48:58.597Z"
     }
   ]
 }
