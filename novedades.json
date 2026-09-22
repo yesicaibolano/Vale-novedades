@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-09-22T02:02:11.001Z",
+  "actualizado": "2026-09-22T10:25:49.637Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/insolitas-explicaciones-dio-adorni-justificar-patrimonio-20269220521",
+      "sitio": "El Destape",
+      "titulo": "Las insólitas explicaciones que dio Adorni para justificar su patrimonio",
+      "url": "https://www.eldestapeweb.com/politica/insolitas-explicaciones-dio-adorni-justificar-patrimonio-20269220521",
+      "detectado": "2026-09-22T10:25:49.198Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-empezo-presionar-subir-precio-dolar-202692120107",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El comercio exterior da cuenta del freno económico: caen las importaciones productivas",
       "url": "https://www.eldestapeweb.com/economia/comercio-exterior-da-cuenta-freno-economico-caen-importaciones-productivas-2026918163249",
-      "detectado": "2026-09-18T20:03:16.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/presupuesto-2027-ajuste-fin-ciencia-ambiente-2026918123854",
-      "sitio": "El Destape",
-      "titulo": "Presupuesto 2027: ajuste sin fin para ciencia y ambiente",
-      "url": "https://www.eldestapeweb.com/sociedad/presupuesto-2027-ajuste-fin-ciencia-ambiente-2026918123854",
       "detectado": "2026-09-18T20:03:16.666Z"
     }
   ]
