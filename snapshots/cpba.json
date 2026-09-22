@@ -1,9 +1,5 @@
 [
   {
-    "titulo": "La Ronda de Consultas Tributarias de ARBA llega a San Isidro",
-    "url": "https://www.cpba.com.ar/noticias/item/15973-la-ronda-de-consultas-tributarias-de-arba-llega-a-san-isidro"
-  },
-  {
     "titulo": "Nuevos valores de derechos y tasas a partir de octubre de 2026",
     "url": "https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026"
   },
@@ -18,6 +14,18 @@
   {
     "titulo": "Inscripción de Profesionales Auxiliares de Justicia para el 2027",
     "url": "https://www.cpba.com.ar/noticias/item/15947-inscripcion-de-profesionales-auxiliares-de-justicia-para-el-2027"
+  },
+  {
+    "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
+    "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional"
+  },
+  {
+    "titulo": "Vence el 4to anticipo del DEP",
+    "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026"
+  },
+  {
+    "titulo": "Ahora en RePro | Análisis fundamental: ¿Cómo analizar una empresa que cotiza en bolsa?",
+    "url": "https://www.cpba.com.ar/noticias/item/15983-ahora-en-repro-analisis-fundamental-como-analizar-una-empresa-que-cotiza-en-bolsa"
   },
   {
     "titulo": "Se actualiza el valor del Módulo",
@@ -38,13 +46,5 @@
   {
     "titulo": "Nueva Sesión de Consejo Directivo",
     "url": "https://www.cpba.com.ar/noticias/item/15976-nueva-sesion-de-consejo-directivo"
-  },
-  {
-    "titulo": "Ahora en RePro | El Método Dado: El juego que acerca a los más chicos…",
-    "url": "https://www.cpba.com.ar/noticias/item/15977-ahora-en-repro-el-metodo-dado-el-juego-que-acerca-a-los-mas-chicos-a-las-ciencias-economicas"
-  },
-  {
-    "titulo": "Se lleva adelante la XIII Jornada Nacional de los Tribunales Fiscales en nuestro Consejo",
-    "url": "https://www.cpba.com.ar/noticias/item/15974-se-lleva-adelante-la-xiii-jornada-nacional-de-los-tribunales-fiscales-en-nuestro-consejo"
   }
 ]
