@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-21T21:17:08.500Z",
+  "actualizado": "2026-09-22T02:02:11.001Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-empezo-presionar-subir-precio-dolar-202692120107",
+      "sitio": "El Destape",
+      "titulo": "El mercado empezó a presionar para subir el precio del dólar",
+      "url": "https://www.eldestapeweb.com/economia/mercado-empezo-presionar-subir-precio-dolar-202692120107",
+      "detectado": "2026-09-22T02:02:10.480Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-22T02:02:10.480Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-abroquela-discapacidad-mientras-lla-acelera-propio-proyecto-2026921192719",
+      "sitio": "El Destape",
+      "titulo": "La oposición se abroquela por discapacidad mientras LLA acelera su propio proyecto",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-abroquela-discapacidad-mientras-lla-acelera-propio-proyecto-2026921192719",
+      "detectado": "2026-09-22T02:02:10.480Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/conflicto-universitario-gremios-paran-preparan-medidas-mes-palpitan-nueva-marcha-federal-2026921193242",
+      "sitio": "El Destape",
+      "titulo": "Universidades: los gremios paran, preparan medidas por un mes y ya palpitan otra marcha",
+      "url": "https://www.eldestapeweb.com/politica/conflicto-universitario-gremios-paran-preparan-medidas-mes-palpitan-nueva-marcha-federal-2026921193242",
+      "detectado": "2026-09-22T02:02:10.480Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "sitio": "El Destape",
+      "titulo": "Por Santiago Ballatore Nisenbaum",
+      "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "detectado": "2026-09-22T02:02:10.480Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Presupuesto 2027: ajuste sin fin para ciencia y ambiente",
       "url": "https://www.eldestapeweb.com/sociedad/presupuesto-2027-ajuste-fin-ciencia-ambiente-2026918123854",
       "detectado": "2026-09-18T20:03:16.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/movimiento-derecho-al-futuro",
-      "sitio": "El Destape",
-      "titulo": "Movimiento Derecho al Futuro",
-      "url": "https://www.eldestapeweb.com/tag/movimiento-derecho-al-futuro",
-      "detectado": "2026-09-18T20:03:16.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-encabezara-acto-nacional-movimiento-derecho-futuro-cara-2027-20269181499",
-      "sitio": "El Destape",
-      "titulo": "Axel Kicillof encabezará el acto nacional de su espacio político de cara al 2027",
-      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-encabezara-acto-nacional-movimiento-derecho-futuro-cara-2027-20269181499",
-      "detectado": "2026-09-18T20:03:16.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/autodromo-buenos-aires-sueno-peron-le-cumplio-fangio-hoy-catedral-automovilismo-argentino-20269189351",
-      "sitio": "El Destape",
-      "titulo": "El autódromo de Buenos Aires, el sueño que Perón le cumplió a Fangio y hoy es mítico",
-      "url": "https://www.eldestapeweb.com/deportes/autodromo-buenos-aires-sueno-peron-le-cumplio-fangio-hoy-catedral-automovilismo-argentino-20269189351",
-      "detectado": "2026-09-18T20:03:16.666Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-se-corrigen-escalas-salariales-de-noviembre-y-diciembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Personal de Casas Particulares se corrigen escalas salariales de noviembre y diciembre 2026",
-      "url": "https://contadoresenred.com/personal-de-casas-particulares-se-corrigen-escalas-salariales-de-noviembre-y-diciembre-2026/",
-      "detectado": "2026-09-18T15:16:43.505Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2437-servicio-domestico-escalas-2026-agosto-diciembre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Servicio Doméstico: Escalas Salariales Agosto a Diciembre 2026 - Resoluciones 6 y 7",
-      "url": "https://jorgevega.com.ar/laboral/2437-servicio-domestico-escalas-2026-agosto-diciembre.html",
-      "detectado": "2026-09-18T15:16:43.947Z"
     }
   ]
 }
