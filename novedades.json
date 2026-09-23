@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-23T01:59:59.233Z",
+  "actualizado": "2026-09-23T10:21:05.890Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/montos-asignaciones-familiares-octubre-2026-anses/",
+      "sitio": "Ignacio Online",
+      "titulo": "Montos Asignaciones Familiares Octubre 2026 ANSeS",
+      "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-octubre-2026-anses/",
+      "detectado": "2026-09-23T10:21:00.138Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-jubilacion-minima-y-maxima-desde-octubre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "ANSES: jubilación mínima y máxima desde octubre 2026",
+      "url": "https://www.ignacioonline.com.ar/anses-jubilacion-minima-y-maxima-desde-octubre-2026/",
+      "detectado": "2026-09-23T10:21:00.138Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "SRT: la suma fija del FFEP será de $1.935 para septiembre 2026",
+      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026/",
+      "detectado": "2026-09-23T10:21:00.138Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/quienes-culpables-fracaso-economico-20269230526",
+      "sitio": "El Destape",
+      "titulo": "Más de 50 años de estancamiento",
+      "url": "https://www.eldestapeweb.com/economia/quienes-culpables-fracaso-economico-20269230526",
+      "detectado": "2026-09-23T10:21:05.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-canibal-progresismo-extrema-derecha-20269230527",
+      "sitio": "El Destape",
+      "titulo": "La sociedad caníbal, entre el progresismo y la extrema derecha",
+      "url": "https://www.eldestapeweb.com/politica/sociedad-canibal-progresismo-extrema-derecha-20269230527",
+      "detectado": "2026-09-23T10:21:05.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-empresarios-criticas-milei-senales-confiabilidad-inversores-20269230527",
+      "sitio": "El Destape",
+      "titulo": "Viaje a Nueva York",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-empresarios-criticas-milei-senales-confiabilidad-inversores-20269230527",
+      "detectado": "2026-09-23T10:21:05.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-23T10:21:05.391Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-escala-salarial-septiembre-octubre-noviembre-2026/",
       "sitio": "Ignacio Online",
@@ -371,55 +420,6 @@
       "titulo": "\"Mancha venenosa\": el argumento con el que Quirno justificó darle más poderes al Estado",
       "url": "https://www.eldestapeweb.com/politica/mancha-venenosa-argumento-quirno-justifico-darle-poderes-especiales-estado-2026920161541",
       "detectado": "2026-09-20T19:52:43.150Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
-      "sitio": "El Destape",
-      "titulo": "Patear el tablero sin romper: enojo de Bullrich, reaparición de Macri y rosca bonaerense",
-      "url": "https://www.eldestapeweb.com/politica/patear-tablero-romper-enojo-bullrich-reaparicion-macri-rosca-bonaerense-2026919193410",
-      "detectado": "2026-09-20T14:58:24.442Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
-      "sitio": "El Destape",
-      "titulo": "Brotes verde oliva: Milei empodera a Fuerzas Armadas minadas por escándalos",
-      "url": "https://www.eldestapeweb.com/politica/brotes-verde-oliva-milei-empodera-fuerzas-armadas-minadas-escandalos-corrupcion-2026919104547",
-      "detectado": "2026-09-20T14:58:24.443Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-atrapado-loop-recesion-unico-culpable-20269200556",
-      "sitio": "El Destape",
-      "titulo": "Milei atrapado: el loop de la recesión con un único culpable",
-      "url": "https://www.eldestapeweb.com/politica/milei-atrapado-loop-recesion-unico-culpable-20269200556",
-      "detectado": "2026-09-20T10:10:46.101Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-mostro-candidato-encuentro-masivo-militantes-todo-pais-20269200557",
-      "sitio": "El Destape",
-      "titulo": "Kicillof se mostró como candidato en un encuentro masivo con militantes de todo el país",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-mostro-candidato-encuentro-masivo-militantes-todo-pais-20269200557",
-      "detectado": "2026-09-20T10:10:46.101Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-20T10:10:46.101Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-realidad-arruina-pronosticos-city-20269200556",
-      "sitio": "El Destape",
-      "titulo": "Los maestros del error",
-      "url": "https://www.eldestapeweb.com/economia/milei-realidad-arruina-pronosticos-city-20269200556",
-      "detectado": "2026-09-20T10:10:46.101Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trama-detras-impunidad-comodoro-caputo-2026919203056",
-      "sitio": "El Destape",
-      "titulo": "La trama detrás de la impunidad en Comodoro Caputo",
-      "url": "https://www.eldestapeweb.com/politica/trama-detras-impunidad-comodoro-caputo-2026919203056",
-      "detectado": "2026-09-20T10:10:46.101Z"
     }
   ]
 }
