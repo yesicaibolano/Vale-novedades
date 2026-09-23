@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-23T15:38:41.938Z",
+  "actualizado": "2026-09-23T20:44:55.528Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15985-celebramos-un-nuevo-acto-de-juramento",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Celebramos un nuevo acto de juramento",
+      "url": "https://www.cpba.com.ar/noticias/item/15985-celebramos-un-nuevo-acto-de-juramento",
+      "detectado": "2026-09-23T20:44:52.429Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-tuvo-ceder-emergencia-discapacidad-tiene-dictamen-2026923152851",
+      "sitio": "El Destape",
+      "titulo": "LLA tuvo que ceder y la emergencia en Discapacidad tiene dictamen",
+      "url": "https://www.eldestapeweb.com/politica/lla-tuvo-ceder-emergencia-discapacidad-tiene-dictamen-2026923152851",
+      "detectado": "2026-09-23T20:44:53.806Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-23T20:44:53.806Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-uso-causa-malvinas-criticar-onu-prometio-no-regular-ia-2026923124148",
+      "sitio": "El Destape",
+      "titulo": "Milei usó la causa Malvinas para criticar a la ONU y prometió no regular la IA",
+      "url": "https://www.eldestapeweb.com/politica/milei-uso-causa-malvinas-criticar-onu-prometio-no-regular-ia-2026923124148",
+      "detectado": "2026-09-23T20:44:53.806Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/subordinarse-intereses-extranjeros-no-soberania-kicillof-apunto-milei-discurso-onu-2026923134159",
+      "sitio": "El Destape",
+      "titulo": "Kicillof criticó el discurso de Milei en la ONU: \"Subordinarse a extranjeros\"",
+      "url": "https://www.eldestapeweb.com/politica/subordinarse-intereses-extranjeros-no-soberania-kicillof-apunto-milei-discurso-onu-2026923134159",
+      "detectado": "2026-09-23T20:44:53.806Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/rebelion-bullrich-no-termino-espera-oportunidad-gobierno-incredulo-2026923163415",
+      "sitio": "El Destape",
+      "titulo": "Interna oficialista",
+      "url": "https://www.eldestapeweb.com/politica/rebelion-bullrich-no-termino-espera-oportunidad-gobierno-incredulo-2026923163415",
+      "detectado": "2026-09-23T20:44:53.806Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/uocra-escala-salarial-de-septiembre-a-noviembre-2026/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "Ganancias 2025: ARCA prorrogó hasta el 13 de octubre la presentación de la declaración jurada",
       "url": "https://www.cpba.com.ar/noticias/item/15980-ganancias-2025-arca-prorrogo-hasta-el-13-de-octubre-la-presentacion-de-la-declaracion-jurada",
       "detectado": "2026-09-21T17:15:31.719Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15981-se-actualiza-el-valor-del-modulo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se actualiza el valor del Módulo",
-      "url": "https://www.cpba.com.ar/noticias/item/15981-se-actualiza-el-valor-del-modulo",
-      "detectado": "2026-09-21T17:15:31.719Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/desindustrializacion",
-      "sitio": "El Destape",
-      "titulo": "Desindustrialización",
-      "url": "https://www.eldestapeweb.com/tag/desindustrializacion",
-      "detectado": "2026-09-21T17:15:33.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/tres-provincias-record-exportable-soja-lideran-perdida-empresas-empleos-202692113237",
-      "sitio": "El Destape",
-      "titulo": "Las tres provincias con récord exportable de soja lideran la pérdida de empresas y empleos",
-      "url": "https://www.eldestapeweb.com/economia/tres-provincias-record-exportable-soja-lideran-perdida-empresas-empleos-202692113237",
-      "detectado": "2026-09-21T17:15:33.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-21T17:15:33.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cambiar-empleo-formal-informalidad-cuesta-tercio-salario-real-202692110461",
-      "sitio": "El Destape",
-      "titulo": "Cambiar un empleo formal por uno informal cuesta hasta un tercio del salario real",
-      "url": "https://www.eldestapeweb.com/economia/cambiar-empleo-formal-informalidad-cuesta-tercio-salario-real-202692110461",
-      "detectado": "2026-09-21T17:15:33.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-estamos-trabajando-ganarle-milei-tener-propuesta-mucho-amplia-20269219541",
-      "sitio": "El Destape",
-      "titulo": "Kicillof: \"Estamos trabajando para ganarle a Milei\"",
-      "url": "https://www.eldestapeweb.com/politica/axel-estamos-trabajando-ganarle-milei-tener-propuesta-mucho-amplia-20269219541",
-      "detectado": "2026-09-21T17:15:33.082Z"
     }
   ]
 }
