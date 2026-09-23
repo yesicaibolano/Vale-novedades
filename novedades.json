@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-22T20:32:58.602Z",
+  "actualizado": "2026-09-23T01:59:59.233Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-escala-salarial-septiembre-octubre-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOCRA: nuevo acuerdo salarial septiembre, octubre y noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/uocra-escala-salarial-septiembre-octubre-noviembre-2026/",
+      "detectado": "2026-09-23T01:59:53.282Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-masivo-volvio-caer-agosto-octavo-mes-consecutivo-2026922204054",
+      "sitio": "El Destape",
+      "titulo": "El consumo masivo volvió a caer en agosto, por octavo mes consecutivo",
+      "url": "https://www.eldestapeweb.com/economia/consumo-masivo-volvio-caer-agosto-octavo-mes-consecutivo-2026922204054",
+      "detectado": "2026-09-23T01:59:58.864Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-anuncio-dia-llegue-papa-argentina-sera-feriado-nacional-20269221979",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno decretará feriado nacional el día que el Papa llegue al país",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-anuncio-dia-llegue-papa-argentina-sera-feriado-nacional-20269221979",
+      "detectado": "2026-09-23T01:59:58.864Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/onu-primer-ministro-reino-unido-hablo-malvinas-vamos-estar-firmes-cualquier-amenaza-2026922213640",
+      "sitio": "El Destape",
+      "titulo": "Asamblea de la ONU",
+      "url": "https://www.eldestapeweb.com/politica/onu-primer-ministro-reino-unido-hablo-malvinas-vamos-estar-firmes-cualquier-amenaza-2026922213640",
+      "detectado": "2026-09-23T01:59:58.864Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-le-pidio-bullrich-diferencias-plantee-puertas-adentro-2026922193532",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno le pidió a Bullrich que sus diferencias las plantee \"puertas adentro\"",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-le-pidio-bullrich-diferencias-plantee-puertas-adentro-2026922193532",
+      "detectado": "2026-09-23T01:59:58.864Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-entro-crisis-discapacidad-dio-marcha-atras-le-propone-dictamen-propio-aliados-diputados-202692219056",
+      "sitio": "El Destape",
+      "titulo": "LLA entró en crisis con Discapacidad, dio marcha atrás y le propuso un dictamen a aliados",
+      "url": "https://www.eldestapeweb.com/politica/lla-entro-crisis-discapacidad-dio-marcha-atras-le-propone-dictamen-propio-aliados-diputados-202692219056",
+      "detectado": "2026-09-23T01:59:58.864Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15984-san-isidro-recibio-la-segunda-ronda-de-consultas-tributarias-de-arba",
       "sitio": "CPBA (Buenos Aires)",
@@ -378,48 +420,6 @@
       "titulo": "La trama detrás de la impunidad en Comodoro Caputo",
       "url": "https://www.eldestapeweb.com/politica/trama-detras-impunidad-comodoro-caputo-2026919203056",
       "detectado": "2026-09-20T10:10:46.101Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
-      "sitio": "El Destape",
-      "titulo": "Kicillof aludió a una virtual candidatura en un masivo acto federal: \"Cuenten conmigo”",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-aludio-virtual-candidatura-masivo-acto-federal-cuenten-conmigo-2026919193816",
-      "detectado": "2026-09-20T01:53:08.900Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/masivo-apagon-ciudad-conurbano-miles-vecinos-luz-2026919213837",
-      "sitio": "El Destape",
-      "titulo": "Masivo apagón en la Ciudad y el Conurbano: miles de vecinos sin luz",
-      "url": "https://www.eldestapeweb.com/sociedad/masivo-apagon-ciudad-conurbano-miles-vecinos-luz-2026919213837",
-      "detectado": "2026-09-20T01:53:08.900Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-cerro-acto-anual-mdf-hoy-vinimos-construir-cada-lugar-argentina-2026919163314",
-      "sitio": "El Destape",
-      "titulo": "Kicillof cerró el acto del MDF: \"Hoy vinimos a construir desde cada lugar de Argentina\"",
-      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-cerro-acto-anual-mdf-hoy-vinimos-construir-cada-lugar-argentina-2026919163314",
-      "detectado": "2026-09-19T19:39:57.197Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/modelo-changa-milei-numeros-exponen-impacto-plan-economico-milei-trabajo-2026919142649",
-      "sitio": "El Destape",
-      "titulo": "El modelo changa de Milei: más de 800 mil personas sumadas a la precariedad",
-      "url": "https://www.eldestapeweb.com/economia/modelo-changa-milei-numeros-exponen-impacto-plan-economico-milei-trabajo-2026919142649",
-      "detectado": "2026-09-19T19:39:57.197Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "sitio": "El Destape",
-      "titulo": "Provincia de Buenos Aires",
-      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "detectado": "2026-09-19T19:39:57.197Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-kicillof-cerrara-acto-nacional-movimiento-derecho-futuro-avellaneda-2026919122557",
-      "sitio": "El Destape",
-      "titulo": "Axel Kicillof: \"Las nuevas canciones se componen de abajo hacia arriba\"",
-      "url": "https://www.eldestapeweb.com/politica/axel-kicillof-cerrara-acto-nacional-movimiento-derecho-futuro-avellaneda-2026919122557",
-      "detectado": "2026-09-19T19:39:57.197Z"
     }
   ]
 }
