@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-24T15:59:14.306Z",
+  "actualizado": "2026-09-24T20:50:45.612Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/384-uocra-escalas-2026-septiembre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "UOCRA - ESCALAS SALARIALES CCT 76/75 y 577/10 (+ ACUERDO SEPTIEMBRE 2026)",
+      "url": "https://jorgevega.com.ar/laboral/384-uocra-escalas-2026-septiembre.html",
+      "detectado": "2026-09-24T20:50:38.207Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-cayo-2-9-julio-descarta-meta-crecimiento-milei-202692417357",
+      "sitio": "El Destape",
+      "titulo": "La actividad cayó 2,9% en julio y se descarta la meta de crecimiento de Milei",
+      "url": "https://www.eldestapeweb.com/economia/actividad-cayo-2-9-julio-descarta-meta-crecimiento-milei-202692417357",
+      "detectado": "2026-09-24T20:50:45.200Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/datos-ciudad-buenos-aires-desmienten-milei-salario-informal-derrumbo-casi-30-puntos-2026924135410",
+      "sitio": "El Destape",
+      "titulo": "A contramano del discurso oficial, el salario informal se derrumbó casi 30 puntos en CABA",
+      "url": "https://www.eldestapeweb.com/economia/datos-ciudad-buenos-aires-desmienten-milei-salario-informal-derrumbo-casi-30-puntos-2026924135410",
+      "detectado": "2026-09-24T20:50:45.200Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-24T20:50:45.200Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-reune-netanyahu-diserta-club-economico-new-york-202692465448",
+      "sitio": "El Destape",
+      "titulo": "El Senado aprobó en general la reforma a la peruana del BCRA",
+      "url": "https://www.eldestapeweb.com/politica/milei-reune-netanyahu-diserta-club-economico-new-york-202692465448",
+      "detectado": "2026-09-24T20:50:45.200Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-milei-arma-mesa-politica-vip-incluira-bullrich-2026924152541",
+      "sitio": "El Destape",
+      "titulo": "Interna oficialista",
+      "url": "https://www.eldestapeweb.com/politica/karina-milei-arma-mesa-politica-vip-incluira-bullrich-2026924152541",
+      "detectado": "2026-09-24T20:50:45.200Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-actualizo-el-manual-de-la-declaracion-jurada-simplificada-f-2711-que-cambia-en-la-version-2/",
       "sitio": "Contadores en Red",
@@ -226,13 +268,6 @@
       "detectado": "2026-09-23T15:38:35.669Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-23T15:38:41.443Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-dara-tercer-discurso-onu-medio-tensiones-internacionales-202692364714",
       "sitio": "El Destape",
       "titulo": "El discurso de Milei: ataques a la ONU, cuestión Malvinas y desregulación de la IA",
@@ -385,41 +420,6 @@
       "titulo": "Los salarios crecieron en julio, pero no reparan el derrumbe que acumulan con Milei",
       "url": "https://www.eldestapeweb.com/economia/salarios-crecieron-julio-no-reparan-derrumbe-acumulan-milei-2026922165731",
       "detectado": "2026-09-22T20:32:58.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/despues-salida-vilches-gobierno-anuncio-pablo-di-liscia-nuevo-secretario-discapacidad-202692216259",
-      "sitio": "El Destape",
-      "titulo": "Pablo Di Liscia es el nuevo secretario de Discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/despues-salida-vilches-gobierno-anuncio-pablo-di-liscia-nuevo-secretario-discapacidad-202692216259",
-      "detectado": "2026-09-22T20:32:58.232Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/igj-flexibiliza-la-constitucion-de-sociedades-y-reduce-exigencias-que-cambia/",
-      "sitio": "Contadores en Red",
-      "titulo": "IGJ flexibiliza la constitución de sociedades y reduce exigencias. ¿Qué cambia?",
-      "url": "https://contadoresenred.com/igj-flexibiliza-la-constitucion-de-sociedades-y-reduce-exigencias-que-cambia/",
-      "detectado": "2026-09-22T15:48:46.562Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/paritaria-camioneros-septiembre-2026-nuevas-escalas-salariales/",
-      "sitio": "Ignacio Online",
-      "titulo": "Paritaria Camioneros Septiembre 2026: nuevas escalas salariales",
-      "url": "https://www.ignacioonline.com.ar/paritaria-camioneros-septiembre-2026-nuevas-escalas-salariales/",
-      "detectado": "2026-09-22T15:48:47.917Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¡Salta te espera! Inscribite en el XX Encuentro Deportivo Nacional",
-      "url": "https://www.cpba.com.ar/noticias/item/15899-salta-te-espera-inscribite-en-el-xx-encuentro-deportivo-nacional",
-      "detectado": "2026-09-22T15:48:51.306Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Vence el 4to anticipo del DEP",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-4-anticipo-de-2026",
-      "detectado": "2026-09-22T15:48:51.306Z"
     }
   ]
 }
