@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-24T01:49:04.337Z",
+  "actualizado": "2026-09-24T10:35:56.539Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uecara-nuevo-acuerdo-salarial-septiembre-octubre-y-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "UECARA: nuevo acuerdo salarial septiembre, octubre y noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/uecara-nuevo-acuerdo-salarial-septiembre-octubre-y-noviembre-2026/",
+      "detectado": "2026-09-24T10:35:50.565Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/primer-empleo-rebusque-jovenes-enfrentan-mayor-informalidad-peores-ingresos-2026923234317",
+      "sitio": "El Destape",
+      "titulo": "Del primer empleo al rebusque: los jóvenes enfrentan más informalidad y peores ingresos",
+      "url": "https://www.eldestapeweb.com/economia/primer-empleo-rebusque-jovenes-enfrentan-mayor-informalidad-peores-ingresos-2026923234317",
+      "detectado": "2026-09-24T10:35:55.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-24T10:35:55.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobernar-crear-trabajo-2026923234211",
+      "sitio": "El Destape",
+      "titulo": "Gobernar es crear trabajo",
+      "url": "https://www.eldestapeweb.com/economia/gobernar-crear-trabajo-2026923234211",
+      "detectado": "2026-09-24T10:35:55.919Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-09-24T10:35:55.919Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "La oposición se abroquela por discapacidad mientras LLA acelera su propio proyecto",
       "url": "https://www.eldestapeweb.com/politica/oposicion-abroquela-discapacidad-mientras-lla-acelera-propio-proyecto-2026921192719",
       "detectado": "2026-09-22T02:02:10.480Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/conflicto-universitario-gremios-paran-preparan-medidas-mes-palpitan-nueva-marcha-federal-2026921193242",
-      "sitio": "El Destape",
-      "titulo": "Universidades: los gremios paran, preparan medidas por un mes y ya palpitan otra marcha",
-      "url": "https://www.eldestapeweb.com/politica/conflicto-universitario-gremios-paran-preparan-medidas-mes-palpitan-nueva-marcha-federal-2026921193242",
-      "detectado": "2026-09-22T02:02:10.480Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
-      "sitio": "El Destape",
-      "titulo": "Por Santiago Ballatore Nisenbaum",
-      "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
-      "detectado": "2026-09-22T02:02:10.480Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuevos valores de derechos y tasas a partir de octubre de 2026",
-      "url": "https://www.cpba.com.ar/noticias/item/15982-nuevos-valores-de-derechos-y-tasas-a-partir-de-octubre-de-2026",
-      "detectado": "2026-09-21T21:17:06.205Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/supermercados-industria-anticipan-freno-demanda-interna-seguira-reaccionar-202692116361",
-      "sitio": "El Destape",
-      "titulo": "Supers e industria anticipan más recesión: la demanda interna seguirá sin reaccionar",
-      "url": "https://www.eldestapeweb.com/economia/supermercados-industria-anticipan-freno-demanda-interna-seguira-reaccionar-202692116361",
-      "detectado": "2026-09-21T21:17:07.929Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
-      "sitio": "El Destape",
-      "titulo": "Tensión en el Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
-      "detectado": "2026-09-21T21:17:07.929Z"
     }
   ]
 }
