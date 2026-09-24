@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-23T20:44:55.528Z",
+  "actualizado": "2026-09-24T01:49:04.337Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
+      "sitio": "El Destape",
+      "titulo": "Milei y Caputo no convencen, se dispara el Riesgo País y se desploman las acciones",
+      "url": "https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
+      "detectado": "2026-09-24T01:49:03.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-24T01:49:03.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-supermercados-volvio-caer-septimo-mes-consecutivo-2026923185450",
+      "sitio": "El Destape",
+      "titulo": "El consumo en los supermercados volvió a caer por séptimo mes consecutivo",
+      "url": "https://www.eldestapeweb.com/economia/consumo-supermercados-volvio-caer-septimo-mes-consecutivo-2026923185450",
+      "detectado": "2026-09-24T01:49:03.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-24T01:49:03.738Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-acepta-cambios-reforma-carta-organica-bcra-espera-sacar-zona-fria-202692318459",
+      "sitio": "El Destape",
+      "titulo": "LLA acepta cambios en la reforma a la Carta Orgánica del BCRA y espera sacar Zona Fría",
+      "url": "https://www.eldestapeweb.com/politica/lla-acepta-cambios-reforma-carta-organica-bcra-espera-sacar-zona-fria-202692318459",
+      "detectado": "2026-09-24T01:49:03.738Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15985-celebramos-un-nuevo-acto-de-juramento",
       "sitio": "CPBA (Buenos Aires)",
@@ -345,13 +380,6 @@
       "detectado": "2026-09-22T02:02:10.480Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-22T02:02:10.480Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-abroquela-discapacidad-mientras-lla-acelera-propio-proyecto-2026921192719",
       "sitio": "El Destape",
       "titulo": "La oposición se abroquela por discapacidad mientras LLA acelera su propio proyecto",
@@ -392,34 +420,6 @@
       "titulo": "Tensión en el Gobierno",
       "url": "https://www.eldestapeweb.com/politica/karina-no-viaja-estados-unidos-queda-rearmar-mesa-politica-vinculo-bullrich-2026921174029",
       "detectado": "2026-09-21T21:17:07.929Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/energia/gobierno-apuesta-apruebe-jueves-eliminacion-zona-fria-senado-2026921165556",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno apuesta a que se apruebe el jueves la eliminación de la zona fría en el Senado",
-      "url": "https://www.eldestapeweb.com/energia/gobierno-apuesta-apruebe-jueves-eliminacion-zona-fria-senado-2026921165556",
-      "detectado": "2026-09-21T21:17:07.929Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Bellato",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "detectado": "2026-09-21T21:17:07.929Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-2025-arca-prorroga-presentacion-13-octubre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Ganancias 2025: ARCA prorroga la presentación hasta el 13 de octubre",
-      "url": "https://www.ignacioonline.com.ar/ganancias-2025-arca-prorroga-presentacion-13-octubre-2026/",
-      "detectado": "2026-09-21T17:15:28.565Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15980-ganancias-2025-arca-prorrogo-hasta-el-13-de-octubre-la-presentacion-de-la-declaracion-jurada",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ganancias 2025: ARCA prorrogó hasta el 13 de octubre la presentación de la declaración jurada",
-      "url": "https://www.cpba.com.ar/noticias/item/15980-ganancias-2025-arca-prorrogo-hasta-el-13-de-octubre-la-presentacion-de-la-declaracion-jurada",
-      "detectado": "2026-09-21T17:15:31.719Z"
     }
   ]
 }
