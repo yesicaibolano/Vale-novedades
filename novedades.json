@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-09-25T10:39:24.027Z",
+  "actualizado": "2026-09-25T15:59:45.752Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/regimen-de-promocion-de-empleo-registrado-per-precisiones-y-aspectos-claves/",
+      "sitio": "Contadores en Red",
+      "titulo": "Régimen de Promoción de Empleo Registrado (PER): precisiones y aspectos claves",
+      "url": "https://contadoresenred.com/regimen-de-promocion-de-empleo-registrado-per-precisiones-y-aspectos-claves/",
+      "detectado": "2026-09-25T15:59:37.848Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/programa-kit-4-0-suma-comercio-digital-crm-ia-y-normas-iso-a-quienes-alcanza/",
+      "sitio": "Contadores en Red",
+      "titulo": "Programa Kit 4.0 suma comercio digital, CRM, IA y normas ISO. ¿A quiénes alcanza?",
+      "url": "https://contadoresenred.com/programa-kit-4-0-suma-comercio-digital-crm-ia-y-normas-iso-a-quienes-alcanza/",
+      "detectado": "2026-09-25T15:59:37.848Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-como-liquidar-el-dia-del-empleado-de-comercio-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: cómo liquidar el Día del Empleado de Comercio 2026",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-como-liquidar-el-dia-del-empleado-de-comercio-2026/",
+      "detectado": "2026-09-25T15:59:39.776Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15987-ahora-en-repro-cuando-el-control-cruza-la-frontera-que-aporta-la-tria-al-comercio-exterior",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Cuando el control cruza la frontera: ¿Qué aporta la TRIA al…",
+      "url": "https://www.cpba.com.ar/noticias/item/15987-ahora-en-repro-cuando-el-control-cruza-la-frontera-que-aporta-la-tria-al-comercio-exterior",
+      "detectado": "2026-09-25T15:59:43.616Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15986-moron-celebro-a-quienes-alcanzaron-la-jubilacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Morón celebró a quienes alcanzaron la jubilación",
+      "url": "https://www.cpba.com.ar/noticias/item/15986-moron-celebro-a-quienes-alcanzaron-la-jubilacion",
+      "detectado": "2026-09-25T15:59:43.616Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-impulsa-ia-investigacion-penal-ciberdelincuencia-algoritmos-vigilancia-controles-202692592035",
+      "sitio": "El Destape",
+      "titulo": "Milei impulsa IA en la investigación penal de ciberdelincuencia: algoritmos y vigilancia",
+      "url": "https://www.eldestapeweb.com/politica/milei-impulsa-ia-investigacion-penal-ciberdelincuencia-algoritmos-vigilancia-controles-202692592035",
+      "detectado": "2026-09-25T15:59:45.187Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/zona-fria-quedo-nuevo-mapa-beneficiarios-impacto-tarifas-gas-3-millones-personas-2026925121052",
+      "sitio": "El Destape",
+      "titulo": "Zona Fría: el nuevo mapa de beneficiarios y el impacto en las tarifas de gas",
+      "url": "https://www.eldestapeweb.com/politica/zona-fria-quedo-nuevo-mapa-beneficiarios-impacto-tarifas-gas-3-millones-personas-2026925121052",
+      "detectado": "2026-09-25T15:59:45.187Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gigante-firma-electrodomesticos-cierra-planta-pasa-vender-productos-importados-202692511480",
+      "sitio": "El Destape",
+      "titulo": "Electrolux cierra su planta y pasa a vender productos importados",
+      "url": "https://www.eldestapeweb.com/economia/gigante-firma-electrodomesticos-cierra-planta-pasa-vender-productos-importados-202692511480",
+      "detectado": "2026-09-25T15:59:45.187Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-09-25T15:59:45.187Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-vuelve-ee-uu-bilateral-trump-promesas-inversion-20269258058",
+      "sitio": "El Destape",
+      "titulo": "Milei vuelve de EE.UU. sin bilateral con Trump y con promesas de inversión",
+      "url": "https://www.eldestapeweb.com/politica/milei-vuelve-ee-uu-bilateral-trump-promesas-inversion-20269258058",
+      "detectado": "2026-09-25T15:59:45.187Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/socamglyp-nuevas-escalas-salariales-septiembre-octubre-y-noviembre-2026/",
       "sitio": "Ignacio Online",
@@ -90,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "A contramano del discurso oficial, el salario informal se derrumbó casi 30 puntos en CABA",
       "url": "https://www.eldestapeweb.com/economia/datos-ciudad-buenos-aires-desmienten-milei-salario-informal-derrumbo-casi-30-puntos-2026924135410",
-      "detectado": "2026-09-24T20:50:45.200Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "detectado": "2026-09-24T20:50:45.200Z"
     },
     {
@@ -357,69 +420,6 @@
       "titulo": "Montos Asignaciones Familiares Octubre 2026 ANSeS",
       "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-octubre-2026-anses/",
       "detectado": "2026-09-23T10:21:00.138Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-jubilacion-minima-y-maxima-desde-octubre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "ANSES: jubilación mínima y máxima desde octubre 2026",
-      "url": "https://www.ignacioonline.com.ar/anses-jubilacion-minima-y-maxima-desde-octubre-2026/",
-      "detectado": "2026-09-23T10:21:00.138Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "SRT: la suma fija del FFEP será de $1.935 para septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026/",
-      "detectado": "2026-09-23T10:21:00.138Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/quienes-culpables-fracaso-economico-20269230526",
-      "sitio": "El Destape",
-      "titulo": "Más de 50 años de estancamiento",
-      "url": "https://www.eldestapeweb.com/economia/quienes-culpables-fracaso-economico-20269230526",
-      "detectado": "2026-09-23T10:21:05.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-canibal-progresismo-extrema-derecha-20269230527",
-      "sitio": "El Destape",
-      "titulo": "La sociedad caníbal, entre el progresismo y la extrema derecha",
-      "url": "https://www.eldestapeweb.com/politica/sociedad-canibal-progresismo-extrema-derecha-20269230527",
-      "detectado": "2026-09-23T10:21:05.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-empresarios-criticas-milei-senales-confiabilidad-inversores-20269230527",
-      "sitio": "El Destape",
-      "titulo": "Viaje a Nueva York",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-empresarios-criticas-milei-senales-confiabilidad-inversores-20269230527",
-      "detectado": "2026-09-23T10:21:05.391Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-escala-salarial-septiembre-octubre-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOCRA: nuevo acuerdo salarial septiembre, octubre y noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/uocra-escala-salarial-septiembre-octubre-noviembre-2026/",
-      "detectado": "2026-09-23T01:59:53.282Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-masivo-volvio-caer-agosto-octavo-mes-consecutivo-2026922204054",
-      "sitio": "El Destape",
-      "titulo": "El consumo masivo volvió a caer en agosto, por octavo mes consecutivo",
-      "url": "https://www.eldestapeweb.com/economia/consumo-masivo-volvio-caer-agosto-octavo-mes-consecutivo-2026922204054",
-      "detectado": "2026-09-23T01:59:58.864Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-anuncio-dia-llegue-papa-argentina-sera-feriado-nacional-20269221979",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno decretará feriado nacional el día que el Papa llegue al país",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-anuncio-dia-llegue-papa-argentina-sera-feriado-nacional-20269221979",
-      "detectado": "2026-09-23T01:59:58.864Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/onu-primer-ministro-reino-unido-hablo-malvinas-vamos-estar-firmes-cualquier-amenaza-2026922213640",
-      "sitio": "El Destape",
-      "titulo": "Asamblea de la ONU",
-      "url": "https://www.eldestapeweb.com/politica/onu-primer-ministro-reino-unido-hablo-malvinas-vamos-estar-firmes-cualquier-amenaza-2026922213640",
-      "detectado": "2026-09-23T01:59:58.864Z"
     }
   ]
 }
