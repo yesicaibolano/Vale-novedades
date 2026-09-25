@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-24T20:50:45.612Z",
+  "actualizado": "2026-09-25T02:05:32.777Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/indec-confirmo-recesion-potencio-corrida-financiera-2026924193117",
+      "sitio": "El Destape",
+      "titulo": "El Indec confirmó la recesión y potenció la corrida financiera",
+      "url": "https://www.eldestapeweb.com/economia/indec-confirmo-recesion-potencio-corrida-financiera-2026924193117",
+      "detectado": "2026-09-25T02:05:32.290Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-25T02:05:32.290Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oficialismo-debate-zonas-frias-peronismo-fue-recinto-no-acompanamos-2026924184824",
+      "sitio": "El Destape",
+      "titulo": "El Senado aprobó la eliminación del régimen de Zona Fría",
+      "url": "https://www.eldestapeweb.com/politica/oficialismo-debate-zonas-frias-peronismo-fue-recinto-no-acompanamos-2026924184824",
+      "detectado": "2026-09-25T02:05:32.290Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/macri-reaparece-contexto-renovada-tension-lla-demora-discusion-electoral-2026924203519",
+      "sitio": "El Destape",
+      "titulo": "Macri reaparece en un contexto de renovada tensión con LLA",
+      "url": "https://www.eldestapeweb.com/politica/macri-reaparece-contexto-renovada-tension-lla-demora-discusion-electoral-2026924203519",
+      "detectado": "2026-09-25T02:05:32.290Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/384-uocra-escalas-2026-septiembre.html",
       "sitio": "Jorge Vega",
@@ -146,13 +174,6 @@
       "sitio": "El Destape",
       "titulo": "Milei y Caputo no convencen, se dispara el Riesgo País y se desploman las acciones",
       "url": "https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
-      "detectado": "2026-09-24T01:49:03.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-09-24T01:49:03.738Z"
     },
     {
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Cita global en la ONU",
       "url": "https://www.eldestapeweb.com/politica/bilateral-trump-milei-aislado-onu-hace-foco-agenda-estados-unidos-israel-202692214402",
-      "detectado": "2026-09-22T20:32:58.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-22T20:32:58.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/crecen-concursos-preventivos-crisis-encaminan-superar-record-2025-20269221330",
-      "sitio": "El Destape",
-      "titulo": "Crecen los concursos preventivos de crisis y se encaminan a superar el récord de 2025",
-      "url": "https://www.eldestapeweb.com/sociedad/crecen-concursos-preventivos-crisis-encaminan-superar-record-2025-20269221330",
-      "detectado": "2026-09-22T20:32:58.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/salarios-crecieron-julio-no-reparan-derrumbe-acumulan-milei-2026922165731",
-      "sitio": "El Destape",
-      "titulo": "Los salarios crecieron en julio, pero no reparan el derrumbe que acumulan con Milei",
-      "url": "https://www.eldestapeweb.com/economia/salarios-crecieron-julio-no-reparan-derrumbe-acumulan-milei-2026922165731",
       "detectado": "2026-09-22T20:32:58.232Z"
     }
   ]
