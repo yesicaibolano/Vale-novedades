@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-26T10:23:00.540Z",
+  "actualizado": "2026-09-26T15:11:52.312Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
+      "sitio": "El Destape",
+      "titulo": "Con la economía estallada, el gobierno acelera el ciberespionaje para el control social",
+      "url": "https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
+      "detectado": "2026-09-26T15:11:51.766Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
+      "sitio": "El Destape",
+      "titulo": "Colapinto cometió su peor error en la F1, chocó a Gasly y abandonó",
+      "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
+      "detectado": "2026-09-26T15:11:51.766Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prepara-viaje-francia-junto-12-gobernadores-donde-reunira-macron-202692695226",
+      "sitio": "El Destape",
+      "titulo": "Milei prepara su viaje a Francia junto a 12 gobernadores",
+      "url": "https://www.eldestapeweb.com/politica/milei-prepara-viaje-francia-junto-12-gobernadores-donde-reunira-macron-202692695226",
+      "detectado": "2026-09-26T15:11:51.766Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-riesgo-pais-supera-600-puntos-202692514507",
+      "sitio": "El Destape",
+      "titulo": "Crisis financiera: caída de bonos y acciones, mientras riesgo país superó los 600 puntos",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-riesgo-pais-supera-600-puntos-202692514507",
+      "detectado": "2026-09-26T15:11:51.766Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cree-habra-crisis-elecciones-busca-culpables-pj-20269260529",
       "sitio": "El Destape",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "LLA tuvo que ceder y la emergencia en Discapacidad tiene dictamen",
       "url": "https://www.eldestapeweb.com/politica/lla-tuvo-ceder-emergencia-discapacidad-tiene-dictamen-2026923152851",
-      "detectado": "2026-09-23T20:44:53.806Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-23T20:44:53.806Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-uso-causa-malvinas-criticar-onu-prometio-no-regular-ia-2026923124148",
-      "sitio": "El Destape",
-      "titulo": "Milei usó la causa Malvinas para criticar a la ONU y prometió no regular la IA",
-      "url": "https://www.eldestapeweb.com/politica/milei-uso-causa-malvinas-criticar-onu-prometio-no-regular-ia-2026923124148",
-      "detectado": "2026-09-23T20:44:53.806Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/subordinarse-intereses-extranjeros-no-soberania-kicillof-apunto-milei-discurso-onu-2026923134159",
-      "sitio": "El Destape",
-      "titulo": "Kicillof criticó el discurso de Milei en la ONU: \"Subordinarse a extranjeros\"",
-      "url": "https://www.eldestapeweb.com/politica/subordinarse-intereses-extranjeros-no-soberania-kicillof-apunto-milei-discurso-onu-2026923134159",
-      "detectado": "2026-09-23T20:44:53.806Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/rebelion-bullrich-no-termino-espera-oportunidad-gobierno-incredulo-2026923163415",
-      "sitio": "El Destape",
-      "titulo": "Interna oficialista",
-      "url": "https://www.eldestapeweb.com/politica/rebelion-bullrich-no-termino-espera-oportunidad-gobierno-incredulo-2026923163415",
       "detectado": "2026-09-23T20:44:53.806Z"
     }
   ]
