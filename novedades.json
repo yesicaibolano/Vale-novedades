@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-26T15:11:52.312Z",
+  "actualizado": "2026-09-26T20:15:31.449Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
+      "sitio": "El Destape",
+      "titulo": "Las 4 firmas de Milei para la entrega integral de los recursos argentinos",
+      "url": "https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
+      "detectado": "2026-09-26T20:15:30.935Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fenomeno-barrial-milei-sectores-crecen-expulsan-trabajadores-2026926135856",
+      "sitio": "El Destape",
+      "titulo": "El fenómeno barrial de Milei: los sectores que crecen expulsan trabajadores",
+      "url": "https://www.eldestapeweb.com/economia/fenomeno-barrial-milei-sectores-crecen-expulsan-trabajadores-2026926135856",
+      "detectado": "2026-09-26T20:15:30.936Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/apoyo-limite-milei-rol-mentor-macri-quiere-candidato-pro-cada-intendencia-202692616193",
+      "sitio": "El Destape",
+      "titulo": "Macri busca candidato propio en cada intendencia y le marca la cancha a Milei",
+      "url": "https://www.eldestapeweb.com/politica/apoyo-limite-milei-rol-mentor-macri-quiere-candidato-pro-cada-intendencia-202692616193",
+      "detectado": "2026-09-26T20:15:30.936Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/jerarquia-franco-colapinto-vera-ahora-errores-cometemos-todos-solo-grandes-reponen-rapido-202692614848",
+      "sitio": "El Destape",
+      "titulo": "La jerarquía de Colapinto se verá ahora: charlas con Alpine, mentalidad y paños fríos",
+      "url": "https://www.eldestapeweb.com/deportes/jerarquia-franco-colapinto-vera-ahora-errores-cometemos-todos-solo-grandes-reponen-rapido-202692614848",
+      "detectado": "2026-09-26T20:15:30.936Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/matias-fernandez",
+      "sitio": "El Destape",
+      "titulo": "Por Matías Fernández",
+      "url": "https://www.eldestapeweb.com/perfil/matias-fernandez",
+      "detectado": "2026-09-26T20:15:30.936Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Por Claudio Scaletta",
       "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
       "detectado": "2026-09-24T10:35:55.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
-      "sitio": "El Destape",
-      "titulo": "Milei y Caputo no convencen, se dispara el Riesgo País y se desploman las acciones",
-      "url": "https://www.eldestapeweb.com/economia/milei-caputo-no-convencen-dispara-riesgo-pais-desploman-acciones-2026923193530",
-      "detectado": "2026-09-24T01:49:03.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-supermercados-volvio-caer-septimo-mes-consecutivo-2026923185450",
-      "sitio": "El Destape",
-      "titulo": "El consumo en los supermercados volvió a caer por séptimo mes consecutivo",
-      "url": "https://www.eldestapeweb.com/economia/consumo-supermercados-volvio-caer-septimo-mes-consecutivo-2026923185450",
-      "detectado": "2026-09-24T01:49:03.738Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-acepta-cambios-reforma-carta-organica-bcra-espera-sacar-zona-fria-202692318459",
-      "sitio": "El Destape",
-      "titulo": "LLA acepta cambios en la reforma a la Carta Orgánica del BCRA y espera sacar Zona Fría",
-      "url": "https://www.eldestapeweb.com/politica/lla-acepta-cambios-reforma-carta-organica-bcra-espera-sacar-zona-fria-202692318459",
-      "detectado": "2026-09-24T01:49:03.738Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15985-celebramos-un-nuevo-acto-de-juramento",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Celebramos un nuevo acto de juramento",
-      "url": "https://www.cpba.com.ar/noticias/item/15985-celebramos-un-nuevo-acto-de-juramento",
-      "detectado": "2026-09-23T20:44:52.429Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-tuvo-ceder-emergencia-discapacidad-tiene-dictamen-2026923152851",
-      "sitio": "El Destape",
-      "titulo": "LLA tuvo que ceder y la emergencia en Discapacidad tiene dictamen",
-      "url": "https://www.eldestapeweb.com/politica/lla-tuvo-ceder-emergencia-discapacidad-tiene-dictamen-2026923152851",
-      "detectado": "2026-09-23T20:44:53.806Z"
     }
   ]
 }
