@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-26T02:11:16.662Z",
+  "actualizado": "2026-09-26T10:23:00.540Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cree-habra-crisis-elecciones-busca-culpables-pj-20269260529",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno cree que habrá crisis hasta las elecciones y busca culpables en el PJ",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-cree-habra-crisis-elecciones-busca-culpables-pj-20269260529",
+      "detectado": "2026-09-26T10:23:00.072Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-09-26T10:23:00.072Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alquiler-desalojo-mecanismo-expres-milei-busca-acelerar-aplica-20269260529",
+      "sitio": "El Destape",
+      "titulo": "Del alquiler al desalojo: el mecanismo exprés que Milei busca acelerar ya se aplica",
+      "url": "https://www.eldestapeweb.com/economia/alquiler-desalojo-mecanismo-expres-milei-busca-acelerar-aplica-20269260529",
+      "detectado": "2026-09-26T10:23:00.072Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-26T10:23:00.072Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-09-26T10:23:00.072Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/programa-financiero-caputo-no-cierra-riesgo-pais-sabe-202692519446",
       "sitio": "El Destape",
@@ -310,13 +345,6 @@
       "detectado": "2026-09-24T10:35:55.919Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-24T10:35:55.919Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/gobernar-crear-trabajo-2026923234211",
       "sitio": "El Destape",
       "titulo": "Gobernar es crear trabajo",
@@ -392,34 +420,6 @@
       "titulo": "Interna oficialista",
       "url": "https://www.eldestapeweb.com/politica/rebelion-bullrich-no-termino-espera-oportunidad-gobierno-incredulo-2026923163415",
       "detectado": "2026-09-23T20:44:53.806Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/uocra-escala-salarial-de-septiembre-a-noviembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "UOCRA Escala salarial de septiembre a noviembre 2026.",
-      "url": "https://contadoresenred.com/uocra-escala-salarial-de-septiembre-a-noviembre-2026/",
-      "detectado": "2026-09-23T15:38:33.733Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-octubre-2026-minima-y-maxima/",
-      "sitio": "Contadores en Red",
-      "titulo": "Base Imponible SIPA Octubre 2026. Mínima y máxima",
-      "url": "https://contadoresenred.com/base-imponible-sipa-octubre-2026-minima-y-maxima/",
-      "detectado": "2026-09-23T15:38:33.733Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-septiembre-2026-disposicion-9-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Valor Suma Fija ART Septiembre 2026. Disposición 9/2026",
-      "url": "https://contadoresenred.com/valor-suma-fija-art-septiembre-2026-disposicion-9-2026/",
-      "detectado": "2026-09-23T15:38:33.733Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-octubre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Jubilaciones y bases imponibles: actualización - Octubre 2026",
-      "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-octubre-2026.html",
-      "detectado": "2026-09-23T15:38:34.646Z"
     }
   ]
 }
