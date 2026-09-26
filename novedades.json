@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-09-25T20:47:56.381Z",
+  "actualizado": "2026-09-26T02:11:16.662Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/programa-financiero-caputo-no-cierra-riesgo-pais-sabe-202692519446",
+      "sitio": "El Destape",
+      "titulo": "El programa financiero de Caputo no cierra y el Riesgo País lo sabe",
+      "url": "https://www.eldestapeweb.com/economia/programa-financiero-caputo-no-cierra-riesgo-pais-sabe-202692519446",
+      "detectado": "2026-09-26T02:11:16.148Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-09-26T02:11:16.148Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/preocupacion-salud-daniel-osvaldo-sufrio-derrame-pleural-permanece-terapia-intensiva-2026925225554",
+      "sitio": "El Destape",
+      "titulo": "Preocupación por Daniel Osvaldo: sufrió un derrame pleural y está en terapia intensiva",
+      "url": "https://www.eldestapeweb.com/deportes/preocupacion-salud-daniel-osvaldo-sufrio-derrame-pleural-permanece-terapia-intensiva-2026925225554",
+      "detectado": "2026-09-26T02:11:16.148Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15990-nuestro-consejo-presente-en-la-junta-de-gobierno-de-la-facpce",
       "sitio": "CPBA (Buenos Aires)",
@@ -139,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "El modelo Milei: destrucción del entramado productivo, crisis de ingresos y pobreza",
       "url": "https://www.eldestapeweb.com/economia/modelo-milei-destruccion-entramado-productivo-crisis-ingresos-pobreza-20269250544",
-      "detectado": "2026-09-25T10:39:23.661Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
       "detectado": "2026-09-25T10:39:23.661Z"
     },
     {
@@ -405,20 +419,6 @@
       "sitio": "Jorge Vega",
       "titulo": "Jubilaciones y bases imponibles: actualización - Octubre 2026",
       "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-octubre-2026.html",
-      "detectado": "2026-09-23T15:38:34.646Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-octubre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ANSeS: Montos Asignaciones familiares - OCTUBRE 2026",
-      "url": "https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-octubre.html",
-      "detectado": "2026-09-23T15:38:34.646Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2630-riesgos-trabajo-cuota-septiembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Riesgos del Trabajo - La Cuota Fija aumenta a $ 1.935 en Septiembre 2026 (vencimiento Octubre)",
-      "url": "https://jorgevega.com.ar/laboral/2630-riesgos-trabajo-cuota-septiembre-2026.html",
       "detectado": "2026-09-23T15:38:34.646Z"
     }
   ]
