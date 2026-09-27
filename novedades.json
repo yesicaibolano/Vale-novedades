@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-09-27T10:54:26.656Z",
+  "actualizado": "2026-09-27T15:52:45.899Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
+      "sitio": "El Destape",
+      "titulo": "Con la economía estallada, el gobierno acelera la cibervigilancia para el control social",
+      "url": "https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
+      "detectado": "2026-09-27T15:52:45.277Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/pobreza-milei-manipulacion-macrista-ser-pobre-20269270540",
       "sitio": "El Destape",
@@ -98,13 +105,6 @@
       "titulo": "Por Matías Fernández",
       "url": "https://www.eldestapeweb.com/perfil/matias-fernandez",
       "detectado": "2026-09-26T20:15:30.936Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
-      "sitio": "El Destape",
-      "titulo": "Con la economía estallada, el gobierno acelera el ciberespionaje para el control social",
-      "url": "https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
-      "detectado": "2026-09-26T15:11:51.766Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
