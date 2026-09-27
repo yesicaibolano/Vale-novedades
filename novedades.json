@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-26T20:15:31.449Z",
+  "actualizado": "2026-09-27T02:04:16.661Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
+      "sitio": "El Destape",
+      "titulo": "Gobierno en problemas",
+      "url": "https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
+      "detectado": "2026-09-27T02:04:16.152Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Navarro",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "detectado": "2026-09-27T02:04:16.153Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/adentro-afuera-micro-macro-2026926181416",
+      "sitio": "El Destape",
+      "titulo": "Ni adentro, ni afuera, ni la micro, ni la macro",
+      "url": "https://www.eldestapeweb.com/politica/adentro-afuera-micro-macro-2026926181416",
+      "detectado": "2026-09-27T02:04:16.153Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-09-27T02:04:16.153Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/game-over-cada-vez-cerca-2026926192424",
+      "sitio": "El Destape",
+      "titulo": "El “game over” cada vez más cerca",
+      "url": "https://www.eldestapeweb.com/opinion/game-over-cada-vez-cerca-2026926192424",
+      "detectado": "2026-09-27T02:04:16.153Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Marcha del Orgullo",
       "url": "https://www.eldestapeweb.com/tag/marcha-del-orgullo",
       "detectado": "2026-09-24T15:59:13.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/marcha-orgullo-organizaciones-ratifican-7-hoy-habra-reunion-clave-ciudad-2026924112326",
-      "sitio": "El Destape",
-      "titulo": "Marcha del orgullo: organizaciones ratifican el 7 y hoy habrá una reunión clave con CABA",
-      "url": "https://www.eldestapeweb.com/sociedad/marcha-orgullo-organizaciones-ratifican-7-hoy-habra-reunion-clave-ciudad-2026924112326",
-      "detectado": "2026-09-24T15:59:13.759Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uecara-nuevo-acuerdo-salarial-septiembre-octubre-y-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "UECARA: nuevo acuerdo salarial septiembre, octubre y noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/uecara-nuevo-acuerdo-salarial-septiembre-octubre-y-noviembre-2026/",
-      "detectado": "2026-09-24T10:35:50.565Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/primer-empleo-rebusque-jovenes-enfrentan-mayor-informalidad-peores-ingresos-2026923234317",
-      "sitio": "El Destape",
-      "titulo": "Del primer empleo al rebusque: los jóvenes enfrentan más informalidad y peores ingresos",
-      "url": "https://www.eldestapeweb.com/economia/primer-empleo-rebusque-jovenes-enfrentan-mayor-informalidad-peores-ingresos-2026923234317",
-      "detectado": "2026-09-24T10:35:55.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobernar-crear-trabajo-2026923234211",
-      "sitio": "El Destape",
-      "titulo": "Gobernar es crear trabajo",
-      "url": "https://www.eldestapeweb.com/economia/gobernar-crear-trabajo-2026923234211",
-      "detectado": "2026-09-24T10:35:55.919Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-09-24T10:35:55.919Z"
     }
   ]
 }
