@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-27T15:52:45.899Z",
+  "actualizado": "2026-09-27T20:30:31.683Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-vs-racing-cuartos-final-copa-argentina-hora-tv-ver-partido-online-2026927115022",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Con gol de Lodico, Racing vence a Boca en Rosario",
+      "url": "https://www.eldestapeweb.com/deportes/boca-vs-racing-cuartos-final-copa-argentina-hora-tv-ver-partido-online-2026927115022",
+      "detectado": "2026-09-27T20:30:31.171Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/duro-golpe-gobierno-jp-morgan-preve-recesion-caida-actividad-economica-202692717835",
+      "sitio": "El Destape",
+      "titulo": "Duro informe: JP Morgan prevé una recesión tras la caída de la actividad económica",
+      "url": "https://www.eldestapeweb.com/economia/duro-golpe-gobierno-jp-morgan-preve-recesion-caida-actividad-economica-202692717835",
+      "detectado": "2026-09-27T20:30:31.171Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "ARCA simplifica la guarda de documentación aduanera.",
       "url": "https://contadoresenred.com/arca-simplifica-la-guarda-de-documentacion-aduanera/",
       "detectado": "2026-09-24T15:59:07.491Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/669-acuerdo-escalas-uecara-septiembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "UECARA: nuevos básicos para Septiembre, Octubre y Noviembre de 2026 (ACUERDO + ESCALAS)",
-      "url": "https://jorgevega.com.ar/laboral/669-acuerdo-escalas-uecara-septiembre-2026.html",
-      "detectado": "2026-09-24T15:59:08.159Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/1282-recibo-uecara-660-acuerdo-septiembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Recibo de sueldo UECARA - CCT 660 - ACUERDO SEPTIEMBRE 2026",
-      "url": "https://jorgevega.com.ar/laboral/1282-recibo-uecara-660-acuerdo-septiembre-2026.html",
-      "detectado": "2026-09-24T15:59:08.159Z"
     }
   ]
 }
