@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-27T02:04:16.661Z",
+  "actualizado": "2026-09-27T10:54:26.656Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pobreza-milei-manipulacion-macrista-ser-pobre-20269270540",
+      "sitio": "El Destape",
+      "titulo": "La crisis social y el ajuste",
+      "url": "https://www.eldestapeweb.com/economia/pobreza-milei-manipulacion-macrista-ser-pobre-20269270540",
+      "detectado": "2026-09-27T10:54:26.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/vida-util-milei-campo-minado-lleva-nuevo-salvataje-20269270540",
+      "sitio": "El Destape",
+      "titulo": "La vida útil de Milei y el campo minado que lleva a un nuevo salvataje",
+      "url": "https://www.eldestapeweb.com/politica/vida-util-milei-campo-minado-lleva-nuevo-salvataje-20269270540",
+      "detectado": "2026-09-27T10:54:26.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-vs-kicillof-mayoria-quiere-cambio-gobierno-balotaje-esta-parejo-202692704716",
+      "sitio": "El Destape",
+      "titulo": "Milei vs. Kicillof: la mayoría quiere un cambio de gobierno, pero el balotaje está parejo",
+      "url": "https://www.eldestapeweb.com/politica/milei-vs-kicillof-mayoria-quiere-cambio-gobierno-balotaje-esta-parejo-202692704716",
+      "detectado": "2026-09-27T10:54:26.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-27T10:54:26.133Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
       "sitio": "El Destape",
@@ -282,13 +310,6 @@
       "detectado": "2026-09-25T10:39:23.661Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-25T10:39:23.661Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/modelo-milei-destruccion-entramado-productivo-crisis-ingresos-pobreza-20269250544",
       "sitio": "El Destape",
       "titulo": "El modelo Milei: destrucción del entramado productivo, crisis de ingresos y pobreza",
@@ -399,27 +420,6 @@
       "titulo": "Recibo de sueldo UECARA - CCT 660 - ACUERDO SEPTIEMBRE 2026",
       "url": "https://jorgevega.com.ar/laboral/1282-recibo-uecara-660-acuerdo-septiembre-2026.html",
       "detectado": "2026-09-24T15:59:08.159Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-prepara-suba-pobreza-alcanzaria-15-millones-personas-2026924105041",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno se prepara para la suba de pobreza: alcanzaría a 15 millones de personas",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-prepara-suba-pobreza-alcanzaria-15-millones-personas-2026924105041",
-      "detectado": "2026-09-24T15:59:13.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/jueces-ciudad-rechazan-pedido-juicio-politico-laura-marinis-202692410110",
-      "sitio": "El Destape",
-      "titulo": "Jueces de la Ciudad rechazan el pedido de juicio político a Laura De Marinis",
-      "url": "https://www.eldestapeweb.com/politica/jueces-ciudad-rechazan-pedido-juicio-politico-laura-marinis-202692410110",
-      "detectado": "2026-09-24T15:59:13.759Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-del-orgullo",
-      "sitio": "El Destape",
-      "titulo": "Marcha del Orgullo",
-      "url": "https://www.eldestapeweb.com/tag/marcha-del-orgullo",
-      "detectado": "2026-09-24T15:59:13.759Z"
     }
   ]
 }
