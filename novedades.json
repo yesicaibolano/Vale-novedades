@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-28T02:08:58.818Z",
+  "actualizado": "2026-09-28T12:07:30.613Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-2026-se-pueden-compensar-anticipos-si-todavia-no-se-presento-la-ddjj-2025/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias 2026: ¿Se pueden compensar anticipos si todavía no se presentó la DDJJ 2025?",
+      "url": "https://contadoresenred.com/ganancias-2026-se-pueden-compensar-anticipos-si-todavia-no-se-presento-la-ddjj-2025/",
+      "detectado": "2026-09-28T12:07:22.487Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/feriados-por-la-visita-del-papa-leon-xiv-que-dias-caen-y-donde-aplican/",
+      "sitio": "Contadores en Red",
+      "titulo": "Feriados por la visita del Papa León XIV. ¿Qué días caen y dónde aplican?",
+      "url": "https://contadoresenred.com/feriados-por-la-visita-del-papa-leon-xiv-que-dias-caen-y-donde-aplican/",
+      "detectado": "2026-09-28T12:07:22.487Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2631-decreto-1103-2026-el-lunes-9-de-noviembre-sera-feriado-nacional-por-la-visita-del-papa.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Decreto 1103/2026: El lunes 9 de noviembre será feriado nacional por la visita del Papa",
+      "url": "https://jorgevega.com.ar/laboral/2631-decreto-1103-2026-el-lunes-9-de-noviembre-sera-feriado-nacional-por-la-visita-del-papa.html",
+      "detectado": "2026-09-28T12:07:23.478Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/radiografia-ahogo-familias-endeudan-comer-dejan-pagar-celular-servicios-alquiler-202692620420",
+      "sitio": "El Destape",
+      "titulo": "Qué dejan de pagar las familias para poder comer: celular, servicios y alquiler",
+      "url": "https://www.eldestapeweb.com/economia/radiografia-ahogo-familias-endeudan-comer-dejan-pagar-celular-servicios-alquiler-202692620420",
+      "detectado": "2026-09-28T12:07:30.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-09-28T12:07:30.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/endeudamiento-malvinas-temas-libertad-avanza-buscara-retomar-control-congreso-20269261530",
+      "sitio": "El Destape",
+      "titulo": "Con endeudamiento y Malvinas, LLA buscará retomar el control del Congreso",
+      "url": "https://www.eldestapeweb.com/politica/endeudamiento-malvinas-temas-libertad-avanza-buscara-retomar-control-congreso-20269261530",
+      "detectado": "2026-09-28T12:07:30.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-28T12:07:30.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/controversia-venta-agua-pesada-rumbo-estados-unidos-202692721440",
+      "sitio": "El Destape",
+      "titulo": "Tecnología nuclear",
+      "url": "https://www.eldestapeweb.com/sociedad/controversia-venta-agua-pesada-rumbo-estados-unidos-202692721440",
+      "detectado": "2026-09-28T12:07:30.023Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/recesion-crisis-milei-hay-consumo-record-no-hay-desempleo-masivo-2026927214826",
       "sitio": "El Destape",
@@ -191,13 +247,6 @@
       "detectado": "2026-09-26T10:23:00.072Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-26T10:23:00.072Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "sitio": "El Destape",
       "titulo": "Javier Milei presidente",
@@ -371,55 +420,6 @@
       "titulo": "El Indec confirmó la recesión y potenció la corrida financiera",
       "url": "https://www.eldestapeweb.com/economia/indec-confirmo-recesion-potencio-corrida-financiera-2026924193117",
       "detectado": "2026-09-25T02:05:32.290Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-25T02:05:32.290Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oficialismo-debate-zonas-frias-peronismo-fue-recinto-no-acompanamos-2026924184824",
-      "sitio": "El Destape",
-      "titulo": "El Senado aprobó la eliminación del régimen de Zona Fría",
-      "url": "https://www.eldestapeweb.com/politica/oficialismo-debate-zonas-frias-peronismo-fue-recinto-no-acompanamos-2026924184824",
-      "detectado": "2026-09-25T02:05:32.290Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/macri-reaparece-contexto-renovada-tension-lla-demora-discusion-electoral-2026924203519",
-      "sitio": "El Destape",
-      "titulo": "Macri reaparece en un contexto de renovada tensión con LLA",
-      "url": "https://www.eldestapeweb.com/politica/macri-reaparece-contexto-renovada-tension-lla-demora-discusion-electoral-2026924203519",
-      "detectado": "2026-09-25T02:05:32.290Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/384-uocra-escalas-2026-septiembre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "UOCRA - ESCALAS SALARIALES CCT 76/75 y 577/10 (+ ACUERDO SEPTIEMBRE 2026)",
-      "url": "https://jorgevega.com.ar/laboral/384-uocra-escalas-2026-septiembre.html",
-      "detectado": "2026-09-24T20:50:38.207Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-cayo-2-9-julio-descarta-meta-crecimiento-milei-202692417357",
-      "sitio": "El Destape",
-      "titulo": "La actividad cayó 2,9% en julio y se descarta la meta de crecimiento de Milei",
-      "url": "https://www.eldestapeweb.com/economia/actividad-cayo-2-9-julio-descarta-meta-crecimiento-milei-202692417357",
-      "detectado": "2026-09-24T20:50:45.200Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/datos-ciudad-buenos-aires-desmienten-milei-salario-informal-derrumbo-casi-30-puntos-2026924135410",
-      "sitio": "El Destape",
-      "titulo": "A contramano del discurso oficial, el salario informal se derrumbó casi 30 puntos en CABA",
-      "url": "https://www.eldestapeweb.com/economia/datos-ciudad-buenos-aires-desmienten-milei-salario-informal-derrumbo-casi-30-puntos-2026924135410",
-      "detectado": "2026-09-24T20:50:45.200Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-reune-netanyahu-diserta-club-economico-new-york-202692465448",
-      "sitio": "El Destape",
-      "titulo": "El Senado aprobó en general la reforma a la peruana del BCRA",
-      "url": "https://www.eldestapeweb.com/politica/milei-reune-netanyahu-diserta-club-economico-new-york-202692465448",
-      "detectado": "2026-09-24T20:50:45.200Z"
     }
   ]
 }
