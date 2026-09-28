@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-09-28T12:07:30.613Z",
+  "actualizado": "2026-09-28T22:40:37.935Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/agip-elimina-la-opcion-de-pago-en-efectivo-de-iibb-a-contribuyentes-con-baja-facturacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "AGIP elimina la opción de pago en efectivo de IIBB a contribuyentes con baja facturación",
+      "url": "https://contadoresenred.com/agip-elimina-la-opcion-de-pago-en-efectivo-de-iibb-a-contribuyentes-con-baja-facturacion/",
+      "detectado": "2026-09-28T22:40:31.790Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-aclaro-como-emitir-los-recibos-de-casas-particulares-y-el-certificado-del-articulo-80/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA aclaró cómo emitir los recibos de Casas Particulares y el Certificado del artículo 80",
+      "url": "https://www.ignacioonline.com.ar/arca-aclaro-como-emitir-los-recibos-de-casas-particulares-y-el-certificado-del-articulo-80/",
+      "detectado": "2026-09-28T22:40:33.080Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-9-10-11-noviembre-2026-visita-papa-leon-xiv/",
+      "sitio": "Ignacio Online",
+      "titulo": "Oficializan los feriados del 9, 10 y 11 de noviembre de 2026 por la visita del Papa",
+      "url": "https://www.ignacioonline.com.ar/feriados-9-10-11-noviembre-2026-visita-papa-leon-xiv/",
+      "detectado": "2026-09-28T22:40:33.080Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15905-llega-conecta-cpba-la-nueva-red-de-oportunidades-laborales-del-consejo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Llega Conecta CPBA, la nueva red de oportunidades laborales del Consejo",
+      "url": "https://www.cpba.com.ar/noticias/item/15905-llega-conecta-cpba-la-nueva-red-de-oportunidades-laborales-del-consejo",
+      "detectado": "2026-09-28T22:40:36.128Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-efecto-puerta12-dolarizacion-parte-personas-empresas-202692816112",
+      "sitio": "El Destape",
+      "titulo": "Crisis financiera: el efecto Puerta 12 en la dolarización por parte de personas y empresas",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-efecto-puerta12-dolarizacion-parte-personas-empresas-202692816112",
+      "detectado": "2026-09-28T22:40:37.433Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-09-28T22:40:37.433Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-atraviesa-reaccion-peor-semana-financiera-ano-2026928191523",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno atraviesa sin reacción la peor semana financiera del año",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-atraviesa-reaccion-peor-semana-financiera-ano-2026928191523",
+      "detectado": "2026-09-28T22:40:37.433Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-09-28T22:40:37.433Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/invento-terroristas-deportados-otra-cuenta-milei-no-cierra-2026928154426",
+      "sitio": "El Destape",
+      "titulo": "El invento de los \"terroristas\" deportados: otra cuenta de Milei que no cierra",
+      "url": "https://www.eldestapeweb.com/politica/invento-terroristas-deportados-otra-cuenta-milei-no-cierra-2026928154426",
+      "detectado": "2026-09-28T22:40:37.433Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ganancias-2026-se-pueden-compensar-anticipos-si-todavia-no-se-presento-la-ddjj-2025/",
       "sitio": "Contadores en Red",
@@ -303,13 +366,6 @@
       "detectado": "2026-09-25T20:47:55.980Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-09-25T20:47:55.980Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/espectaculos/murio-negro-oscar-gonzalez-oro-conmocion-medios-partida-historico-conductor-20269251346",
       "sitio": "El Destape",
       "titulo": "Murió \"El Negro\" Oscar González Oro",
@@ -364,62 +420,6 @@
       "titulo": "Zona Fría: el nuevo mapa de beneficiarios y el impacto en las tarifas de gas",
       "url": "https://www.eldestapeweb.com/politica/zona-fria-quedo-nuevo-mapa-beneficiarios-impacto-tarifas-gas-3-millones-personas-2026925121052",
       "detectado": "2026-09-25T15:59:45.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gigante-firma-electrodomesticos-cierra-planta-pasa-vender-productos-importados-202692511480",
-      "sitio": "El Destape",
-      "titulo": "Electrolux cierra su planta y pasa a vender productos importados",
-      "url": "https://www.eldestapeweb.com/economia/gigante-firma-electrodomesticos-cierra-planta-pasa-vender-productos-importados-202692511480",
-      "detectado": "2026-09-25T15:59:45.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-09-25T15:59:45.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-vuelve-ee-uu-bilateral-trump-promesas-inversion-20269258058",
-      "sitio": "El Destape",
-      "titulo": "Milei vuelve de EE.UU. sin bilateral con Trump y con promesas de inversión",
-      "url": "https://www.eldestapeweb.com/politica/milei-vuelve-ee-uu-bilateral-trump-promesas-inversion-20269258058",
-      "detectado": "2026-09-25T15:59:45.187Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/socamglyp-nuevas-escalas-salariales-septiembre-octubre-y-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "SOCAMGLYP: nuevas escalas salariales septiembre, octubre y noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/socamglyp-nuevas-escalas-salariales-septiembre-octubre-y-noviembre-2026/",
-      "detectado": "2026-09-25T10:39:17.177Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/juegos-hambre-gobernadores-zonas-calidas-avalaron-cambios-zonas-frias-20269250544",
-      "sitio": "El Destape",
-      "titulo": "Los juegos del hambre: gobernadores de zonas cálidas avalaron los cambios en zonas frías",
-      "url": "https://www.eldestapeweb.com/politica/juegos-hambre-gobernadores-zonas-calidas-avalaron-cambios-zonas-frias-20269250544",
-      "detectado": "2026-09-25T10:39:23.661Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/modelo-milei-destruccion-entramado-productivo-crisis-ingresos-pobreza-20269250544",
-      "sitio": "El Destape",
-      "titulo": "El modelo Milei: destrucción del entramado productivo, crisis de ingresos y pobreza",
-      "url": "https://www.eldestapeweb.com/economia/modelo-milei-destruccion-entramado-productivo-crisis-ingresos-pobreza-20269250544",
-      "detectado": "2026-09-25T10:39:23.661Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/consecuencias-ajuste-pobreza-abandono-ninos-caida-jubilaciones-20269250544",
-      "sitio": "El Destape",
-      "titulo": "Las consecuencias del ajuste: pobreza, abandono de los niños y caída en jubilaciones",
-      "url": "https://www.eldestapeweb.com/politica/consecuencias-ajuste-pobreza-abandono-ninos-caida-jubilaciones-20269250544",
-      "detectado": "2026-09-25T10:39:23.661Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/indec-confirmo-recesion-potencio-corrida-financiera-2026924193117",
-      "sitio": "El Destape",
-      "titulo": "El Indec confirmó la recesión y potenció la corrida financiera",
-      "url": "https://www.eldestapeweb.com/economia/indec-confirmo-recesion-potencio-corrida-financiera-2026924193117",
-      "detectado": "2026-09-25T02:05:32.290Z"
     }
   ]
 }
