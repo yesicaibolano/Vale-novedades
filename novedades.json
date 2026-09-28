@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-09-27T20:30:31.683Z",
+  "actualizado": "2026-09-28T02:08:58.818Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/recesion-crisis-milei-hay-consumo-record-no-hay-desempleo-masivo-2026927214826",
+      "sitio": "El Destape",
+      "titulo": "Ni recesión ni crisis: para Milei hay consumo récord y no hay desempleo masivo",
+      "url": "https://www.eldestapeweb.com/politica/recesion-crisis-milei-hay-consumo-record-no-hay-desempleo-masivo-2026927214826",
+      "detectado": "2026-09-28T02:08:58.269Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-agonico-triunfo-racing-copa-argentina-202692719945",
+      "sitio": "El Destape",
+      "titulo": "Con Valencia figura, los puntajes de Boca en la victoria ante Racing por Copa Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-agonico-triunfo-racing-copa-argentina-202692719945",
+      "detectado": "2026-09-28T02:08:58.269Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/paris-week-milei-intentara-otra-vez-vender-plan-economico-exterior-202692719560",
+      "sitio": "El Destape",
+      "titulo": "Argentina Week: Milei intentará otra vez vender su plan económico en el exterior",
+      "url": "https://www.eldestapeweb.com/politica/paris-week-milei-intentara-otra-vez-vender-plan-economico-exterior-202692719560",
+      "detectado": "2026-09-28T02:08:58.269Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/tres-goles-enner-valencia-vs-racing-copa-argentina-todos-videos-202692719855",
+      "sitio": "El Destape",
+      "titulo": "Los tres goles de Enner Valencia vs Racing en la Copa Argentina: todos los videos",
+      "url": "https://www.eldestapeweb.com/deportes/tres-goles-enner-valencia-vs-racing-copa-argentina-todos-videos-202692719855",
+      "detectado": "2026-09-28T02:08:58.269Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-vs-racing-cuartos-final-copa-argentina-hora-tv-ver-partido-online-2026927115022",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "El Senado aprobó en general la reforma a la peruana del BCRA",
       "url": "https://www.eldestapeweb.com/politica/milei-reune-netanyahu-diserta-club-economico-new-york-202692465448",
       "detectado": "2026-09-24T20:50:45.200Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-milei-arma-mesa-politica-vip-incluira-bullrich-2026924152541",
-      "sitio": "El Destape",
-      "titulo": "Interna oficialista",
-      "url": "https://www.eldestapeweb.com/politica/karina-milei-arma-mesa-politica-vip-incluira-bullrich-2026924152541",
-      "detectado": "2026-09-24T20:50:45.200Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-actualizo-el-manual-de-la-declaracion-jurada-simplificada-f-2711-que-cambia-en-la-version-2/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA actualizó el Manual de la Declaración Jurada Simplificada F. 2711. ¿Qué cambia en la versión 2?",
-      "url": "https://contadoresenred.com/arca-actualizo-el-manual-de-la-declaracion-jurada-simplificada-f-2711-que-cambia-en-la-version-2/",
-      "detectado": "2026-09-24T15:59:07.491Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/uecara-escala-salarial-de-septiembre-a-noviembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "UECARA Escala Salarial de Septiembre a Noviembre 2026",
-      "url": "https://contadoresenred.com/uecara-escala-salarial-de-septiembre-a-noviembre-2026/",
-      "detectado": "2026-09-24T15:59:07.491Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-simplifica-la-guarda-de-documentacion-aduanera/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA simplifica la guarda de documentación aduanera.",
-      "url": "https://contadoresenred.com/arca-simplifica-la-guarda-de-documentacion-aduanera/",
-      "detectado": "2026-09-24T15:59:07.491Z"
     }
   ]
 }
