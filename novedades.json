@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-29T17:06:35.571Z",
+  "actualizado": "2026-09-29T21:34:13.490Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15991-jubilaciones-y-pensiones-se-distribuiran-las-contribuciones-del-5-en-dos-pagos-adicionales",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Jubilaciones y pensiones: Se distribuirán las contribuciones del 5% en dos pagos adicionales",
+      "url": "https://www.cpba.com.ar/noticias/item/15991-jubilaciones-y-pensiones-se-distribuiran-las-contribuciones-del-5-en-dos-pagos-adicionales",
+      "detectado": "2026-09-29T21:34:11.717Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-aliados-aprobaron-dictamen-morosidad-proponen-educacion-financiera-solucion-2026929171622",
+      "sitio": "El Destape",
+      "titulo": "Con dictamen propio, LLA y aliados diluyeron el planteo de la morosidad de la oposición",
+      "url": "https://www.eldestapeweb.com/politica/lla-aliados-aprobaron-dictamen-morosidad-proponen-educacion-financiera-solucion-2026929171622",
+      "detectado": "2026-09-29T21:34:13.116Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-09-29T21:34:13.116Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
+      "sitio": "El Destape",
+      "titulo": "La deuda externa subió y llegó a casi U$S 330.000 millones",
+      "url": "https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
+      "detectado": "2026-09-29T21:34:13.116Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-09-29T21:34:13.116Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-scaloni-tengo-ganas-renovar-seleccion-argentina-2026929141932",
+      "sitio": "El Destape",
+      "titulo": "Scaloni: \"Tengo ganas de renovar en la Selección Argentina\"",
+      "url": "https://www.eldestapeweb.com/deportes/lionel-scaloni-tengo-ganas-renovar-seleccion-argentina-2026929141932",
+      "detectado": "2026-09-29T21:34:13.116Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/que-puedo-hacer-si-la-obra-social-se-niega-a-afiliarme/",
       "sitio": "Contadores en Red",
@@ -226,13 +268,6 @@
       "detectado": "2026-09-28T12:07:30.023Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-28T12:07:30.023Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/controversia-venta-agua-pesada-rumbo-estados-unidos-202692721440",
       "sitio": "El Destape",
       "titulo": "Tecnología nuclear",
@@ -385,41 +420,6 @@
       "titulo": "Colapinto cometió su peor error en la F1, chocó a Gasly y abandonó",
       "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
       "detectado": "2026-09-26T15:11:51.766Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-prepara-viaje-francia-junto-12-gobernadores-donde-reunira-macron-202692695226",
-      "sitio": "El Destape",
-      "titulo": "Milei prepara su viaje a Francia junto a 12 gobernadores",
-      "url": "https://www.eldestapeweb.com/politica/milei-prepara-viaje-francia-junto-12-gobernadores-donde-reunira-macron-202692695226",
-      "detectado": "2026-09-26T15:11:51.766Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-riesgo-pais-supera-600-puntos-202692514507",
-      "sitio": "El Destape",
-      "titulo": "Crisis financiera: caída de bonos y acciones, mientras riesgo país superó los 600 puntos",
-      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-riesgo-pais-supera-600-puntos-202692514507",
-      "detectado": "2026-09-26T15:11:51.766Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cree-habra-crisis-elecciones-busca-culpables-pj-20269260529",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno cree que habrá crisis hasta las elecciones y busca culpables en el PJ",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-cree-habra-crisis-elecciones-busca-culpables-pj-20269260529",
-      "detectado": "2026-09-26T10:23:00.072Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-09-26T10:23:00.072Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alquiler-desalojo-mecanismo-expres-milei-busca-acelerar-aplica-20269260529",
-      "sitio": "El Destape",
-      "titulo": "Del alquiler al desalojo: el mecanismo exprés que Milei busca acelerar ya se aplica",
-      "url": "https://www.eldestapeweb.com/economia/alquiler-desalojo-mecanismo-expres-milei-busca-acelerar-aplica-20269260529",
-      "detectado": "2026-09-26T10:23:00.072Z"
     }
   ]
 }
