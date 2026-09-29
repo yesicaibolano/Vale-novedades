@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-09-28T22:40:37.935Z",
+  "actualizado": "2026-09-29T02:55:09.942Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/licencia-por-enfermedad-lct-plazos-sueldo-certificado-guia/",
+      "sitio": "Ignacio Online",
+      "titulo": "Licencia por enfermedad: cuánto corresponde, cómo se paga y qué exige la Ley de Contrato de Trabajo",
+      "url": "https://www.ignacioonline.com.ar/licencia-por-enfermedad-lct-plazos-sueldo-certificado-guia/",
+      "detectado": "2026-09-29T02:55:03.099Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/regimen-penal-juvenil-protocolo-directivos-escuelas-caba-denuncien-alumnos-2026928222510",
+      "sitio": "El Destape",
+      "titulo": "Régimen Penal Juvenil: el protocolo para que directivos de escuela denuncien a alumnos",
+      "url": "https://www.eldestapeweb.com/sociedad/regimen-penal-juvenil-protocolo-directivos-escuelas-caba-denuncien-alumnos-2026928222510",
+      "detectado": "2026-09-29T02:55:08.671Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/agip-elimina-la-opcion-de-pago-en-efectivo-de-iibb-a-contribuyentes-con-baja-facturacion/",
       "sitio": "Contadores en Red",
@@ -406,20 +420,6 @@
       "titulo": "Morón celebró a quienes alcanzaron la jubilación",
       "url": "https://www.cpba.com.ar/noticias/item/15986-moron-celebro-a-quienes-alcanzaron-la-jubilacion",
       "detectado": "2026-09-25T15:59:43.616Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-impulsa-ia-investigacion-penal-ciberdelincuencia-algoritmos-vigilancia-controles-202692592035",
-      "sitio": "El Destape",
-      "titulo": "Milei impulsa IA en la investigación penal de ciberdelincuencia: algoritmos y vigilancia",
-      "url": "https://www.eldestapeweb.com/politica/milei-impulsa-ia-investigacion-penal-ciberdelincuencia-algoritmos-vigilancia-controles-202692592035",
-      "detectado": "2026-09-25T15:59:45.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/zona-fria-quedo-nuevo-mapa-beneficiarios-impacto-tarifas-gas-3-millones-personas-2026925121052",
-      "sitio": "El Destape",
-      "titulo": "Zona Fría: el nuevo mapa de beneficiarios y el impacto en las tarifas de gas",
-      "url": "https://www.eldestapeweb.com/politica/zona-fria-quedo-nuevo-mapa-beneficiarios-impacto-tarifas-gas-3-millones-personas-2026925121052",
-      "detectado": "2026-09-25T15:59:45.187Z"
     }
   ]
 }
