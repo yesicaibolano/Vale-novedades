@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-09-29T02:55:09.942Z",
+  "actualizado": "2026-09-29T11:39:56.375Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-posterga-la-caracterizacion-como-pequeno-contribuyente/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA posterga la caracterización como “Pequeño Contribuyente”",
+      "url": "https://contadoresenred.com/arca-posterga-la-caracterizacion-como-pequeno-contribuyente/",
+      "detectado": "2026-09-29T11:39:41.039Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/balances-presento-su-nueva-version-de-los-estados-contables-a-la-automatizacion-del-estudio/",
+      "sitio": "Ignacio Online",
+      "titulo": "Balances presentó su nueva versión: de los estados contables a la automatización del estudio",
+      "url": "https://www.ignacioonline.com.ar/balances-presento-su-nueva-version-de-los-estados-contables-a-la-automatizacion-del-estudio/",
+      "detectado": "2026-09-29T11:39:42.782Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-nuevo-acuerdo-salarial-para-trabajadores-de-gimnasios-cct-738-16/",
+      "sitio": "Ignacio Online",
+      "titulo": "UTEDyC: nuevo acuerdo salarial para trabajadores de gimnasios CCT 738/16",
+      "url": "https://www.ignacioonline.com.ar/utedyc-nuevo-acuerdo-salarial-para-trabajadores-de-gimnasios-cct-738-16/",
+      "detectado": "2026-09-29T11:39:42.782Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-milei-crisis-financiera-golpea-gobierno-previa-viaje-paris-20269290547",
+      "sitio": "El Destape",
+      "titulo": "Riesgo Milei: la crisis financiera golpea al Gobierno en la previa del viaje a París",
+      "url": "https://www.eldestapeweb.com/politica/riesgo-milei-crisis-financiera-golpea-gobierno-previa-viaje-paris-20269290547",
+      "detectado": "2026-09-29T11:39:55.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/si-sale-mal-creian-milei-perdieron-fe-20269290547",
+      "sitio": "El Destape",
+      "titulo": "¿Y si sale mal? Por qué los que creían en Milei perdieron la fe",
+      "url": "https://www.eldestapeweb.com/politica/si-sale-mal-creian-milei-perdieron-fe-20269290547",
+      "detectado": "2026-09-29T11:39:55.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-09-29T11:39:55.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-hunde-gobierno-volvio-echar-mano-reclamo-malvinas-20269290547",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/politica/economia-hunde-gobierno-volvio-echar-mano-reclamo-malvinas-20269290547",
+      "detectado": "2026-09-29T11:39:55.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-09-29T11:39:55.945Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/licencia-por-enfermedad-lct-plazos-sueldo-certificado-guia/",
       "sitio": "Ignacio Online",
@@ -205,13 +261,6 @@
       "detectado": "2026-09-27T10:54:26.133Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-27T10:54:26.133Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
       "sitio": "El Destape",
       "titulo": "Gobierno en problemas",
@@ -371,55 +420,6 @@
       "titulo": "Mercado financiero",
       "url": "https://www.eldestapeweb.com/tag/mercado-financiero",
       "detectado": "2026-09-25T20:47:55.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-mirar-600-puntos-mercado-discute-hacer-dolar-20269251358",
-      "sitio": "El Destape",
-      "titulo": "Crisis financiera: Riesgo país superó los 600 puntos y se debate el futuro del dólar",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-mirar-600-puntos-mercado-discute-hacer-dolar-20269251358",
-      "detectado": "2026-09-25T20:47:55.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/espectaculos/murio-negro-oscar-gonzalez-oro-conmocion-medios-partida-historico-conductor-20269251346",
-      "sitio": "El Destape",
-      "titulo": "Murió \"El Negro\" Oscar González Oro",
-      "url": "https://www.eldestapeweb.com/espectaculos/murio-negro-oscar-gonzalez-oro-conmocion-medios-partida-historico-conductor-20269251346",
-      "detectado": "2026-09-25T20:47:55.980Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/regimen-de-promocion-de-empleo-registrado-per-precisiones-y-aspectos-claves/",
-      "sitio": "Contadores en Red",
-      "titulo": "Régimen de Promoción de Empleo Registrado (PER): precisiones y aspectos claves",
-      "url": "https://contadoresenred.com/regimen-de-promocion-de-empleo-registrado-per-precisiones-y-aspectos-claves/",
-      "detectado": "2026-09-25T15:59:37.848Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/programa-kit-4-0-suma-comercio-digital-crm-ia-y-normas-iso-a-quienes-alcanza/",
-      "sitio": "Contadores en Red",
-      "titulo": "Programa Kit 4.0 suma comercio digital, CRM, IA y normas ISO. ¿A quiénes alcanza?",
-      "url": "https://contadoresenred.com/programa-kit-4-0-suma-comercio-digital-crm-ia-y-normas-iso-a-quienes-alcanza/",
-      "detectado": "2026-09-25T15:59:37.848Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-como-liquidar-el-dia-del-empleado-de-comercio-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: cómo liquidar el Día del Empleado de Comercio 2026",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-como-liquidar-el-dia-del-empleado-de-comercio-2026/",
-      "detectado": "2026-09-25T15:59:39.776Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15987-ahora-en-repro-cuando-el-control-cruza-la-frontera-que-aporta-la-tria-al-comercio-exterior",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Cuando el control cruza la frontera: ¿Qué aporta la TRIA al…",
-      "url": "https://www.cpba.com.ar/noticias/item/15987-ahora-en-repro-cuando-el-control-cruza-la-frontera-que-aporta-la-tria-al-comercio-exterior",
-      "detectado": "2026-09-25T15:59:43.616Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15986-moron-celebro-a-quienes-alcanzaron-la-jubilacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Morón celebró a quienes alcanzaron la jubilación",
-      "url": "https://www.cpba.com.ar/noticias/item/15986-moron-celebro-a-quienes-alcanzaron-la-jubilacion",
-      "detectado": "2026-09-25T15:59:43.616Z"
     }
   ]
 }
