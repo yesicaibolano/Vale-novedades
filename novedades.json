@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-29T11:39:56.375Z",
+  "actualizado": "2026-09-29T17:06:35.571Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/que-puedo-hacer-si-la-obra-social-se-niega-a-afiliarme/",
+      "sitio": "Contadores en Red",
+      "titulo": "¿Qué podés hacer si la Obra Social o Prepaga se niega a afiliarte?",
+      "url": "https://contadoresenred.com/que-puedo-hacer-si-la-obra-social-se-niega-a-afiliarme/",
+      "detectado": "2026-09-29T17:06:19.530Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-postergo-hasta-el-23-de-octubre-la-caracterizacion-como-pequeno-contribuyente/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA postergó hasta el 23 de octubre la caracterización como Pequeño Contribuyente",
+      "url": "https://www.ignacioonline.com.ar/arca-postergo-hasta-el-23-de-octubre-la-caracterizacion-como-pequeno-contribuyente/",
+      "detectado": "2026-09-29T17:06:21.073Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alarmante-vuelven-aumentar-cheques-fondos-agrava-crisis-empresas-20269299380",
+      "sitio": "El Destape",
+      "titulo": "Alarmante: vuelven a aumentar los cheques sin fondos y se agrava la crisis de empresas",
+      "url": "https://www.eldestapeweb.com/economia/alarmante-vuelven-aumentar-cheques-fondos-agrava-crisis-empresas-20269299380",
+      "detectado": "2026-09-29T17:06:35.040Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ahora-gobierno-culpo-ee-uu-guerra-medio-oriente-suba-riesgo-pais-2026929125227",
+      "sitio": "El Destape",
+      "titulo": "Ahora el Gobierno culpó a EE.UU. y la guerra en Medio Oriente por la suba del Riesgo País",
+      "url": "https://www.eldestapeweb.com/politica/ahora-gobierno-culpo-ee-uu-guerra-medio-oriente-suba-riesgo-pais-2026929125227",
+      "detectado": "2026-09-29T17:06:35.040Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-cuanto-suben-servicios-2026929112745",
+      "sitio": "El Destape",
+      "titulo": "Economía doméstica",
+      "url": "https://www.eldestapeweb.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-cuanto-suben-servicios-2026929112745",
+      "detectado": "2026-09-29T17:06:35.040Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilados-alquilan-necesitan-2-5-millones-cubrir-gastos-basicos-20269299591",
+      "sitio": "El Destape",
+      "titulo": "Los jubilados que alquilan necesitan $2,5 millones para cubrir los gastos básicos",
+      "url": "https://www.eldestapeweb.com/economia/jubilados-alquilan-necesitan-2-5-millones-cubrir-gastos-basicos-20269299591",
+      "detectado": "2026-09-29T17:06:35.040Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/plenario-clave-diputados-proyectos-oposicion-endeudados-jugada-gobierno-2026929104314",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento en Diputados: los proyectos de la oposición y la jugada del Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/plenario-clave-diputados-proyectos-oposicion-endeudados-jugada-gobierno-2026929104314",
+      "detectado": "2026-09-29T17:06:35.040Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-posterga-la-caracterizacion-como-pequeno-contribuyente/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Del alquiler al desalojo: el mecanismo exprés que Milei busca acelerar ya se aplica",
       "url": "https://www.eldestapeweb.com/economia/alquiler-desalojo-mecanismo-expres-milei-busca-acelerar-aplica-20269260529",
       "detectado": "2026-09-26T10:23:00.072Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-09-26T10:23:00.072Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/programa-financiero-caputo-no-cierra-riesgo-pais-sabe-202692519446",
-      "sitio": "El Destape",
-      "titulo": "El programa financiero de Caputo no cierra y el Riesgo País lo sabe",
-      "url": "https://www.eldestapeweb.com/economia/programa-financiero-caputo-no-cierra-riesgo-pais-sabe-202692519446",
-      "detectado": "2026-09-26T02:11:16.148Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-09-26T02:11:16.148Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/preocupacion-salud-daniel-osvaldo-sufrio-derrame-pleural-permanece-terapia-intensiva-2026925225554",
-      "sitio": "El Destape",
-      "titulo": "Preocupación por Daniel Osvaldo: sufrió un derrame pleural y está en terapia intensiva",
-      "url": "https://www.eldestapeweb.com/deportes/preocupacion-salud-daniel-osvaldo-sufrio-derrame-pleural-permanece-terapia-intensiva-2026925225554",
-      "detectado": "2026-09-26T02:11:16.148Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15990-nuestro-consejo-presente-en-la-junta-de-gobierno-de-la-facpce",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuestro Consejo, presente en la Junta de Gobierno de la FACPCE",
-      "url": "https://www.cpba.com.ar/noticias/item/15990-nuestro-consejo-presente-en-la-junta-de-gobierno-de-la-facpce",
-      "detectado": "2026-09-25T20:47:54.395Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-ahorristas-llevaron-s-3-000-millones-agosto-segunda-cifra-alta-ano-2026925171354",
-      "sitio": "El Destape",
-      "titulo": "Crisis financiera: los ahorristas se llevaron más de U$S 3.000 millones en agosto",
-      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-ahorristas-llevaron-s-3-000-millones-agosto-segunda-cifra-alta-ano-2026925171354",
-      "detectado": "2026-09-25T20:47:55.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/mercado-financiero",
-      "sitio": "El Destape",
-      "titulo": "Mercado financiero",
-      "url": "https://www.eldestapeweb.com/tag/mercado-financiero",
-      "detectado": "2026-09-25T20:47:55.980Z"
     }
   ]
 }
