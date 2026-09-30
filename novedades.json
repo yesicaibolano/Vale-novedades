@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-09-30T11:27:08.526Z",
+  "actualizado": "2026-09-30T17:04:29.680Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
+      "sitio": "Contadores en Red",
+      "titulo": "Régimen de precios de transferencia. Su reemplazo.",
+      "url": "https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
+      "detectado": "2026-09-30T17:04:20.797Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-cct-804-23-nueva-escala-salarial-septiembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "UTEDYC CCT 804/23: nueva escala salarial septiembre 2026",
+      "url": "https://www.ignacioonline.com.ar/utedyc-cct-804-23-nueva-escala-salarial-septiembre-2026/",
+      "detectado": "2026-09-30T17:04:22.768Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/saeoep-escala-salarial-septiembre-y-octubre-2026-cct-88-90-colegios/",
+      "sitio": "Ignacio Online",
+      "titulo": "SAEOEP: Escala Salarial septiembre y octubre 2026 CCT 88/90 Colegios",
+      "url": "https://www.ignacioonline.com.ar/saeoep-escala-salarial-septiembre-y-octubre-2026-cct-88-90-colegios/",
+      "detectado": "2026-09-30T17:04:22.768Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-cambia-el-regimen-de-precios-de-transferencia-y-operaciones-internacionales/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA cambia el régimen de Precios de Transferencia y Operaciones Internacionales",
+      "url": "https://www.ignacioonline.com.ar/arca-cambia-el-regimen-de-precios-de-transferencia-y-operaciones-internacionales/",
+      "detectado": "2026-09-30T17:04:22.768Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/auh-anses-automatiza-la-acreditacion-escolar-para-cobrar-el-20-retenido/",
+      "sitio": "Ignacio Online",
+      "titulo": "AUH: ANSES automatiza la acreditación escolar para cobrar el 20% retenido",
+      "url": "https://www.ignacioonline.com.ar/auh-anses-automatiza-la-acreditacion-escolar-para-cobrar-el-20-retenido/",
+      "detectado": "2026-09-30T17:04:22.768Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-noviembre-la-vigencia-de-garantias-para-operadores-de-comercio-exterior/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA prorrogó hasta el 30 de noviembre la vigencia de garantías para operadores de comercio exterior",
+      "url": "https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-noviembre-la-vigencia-de-garantias-para-operadores-de-comercio-exterior/",
+      "detectado": "2026-09-30T17:04:22.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/movilizacion-sesion-especial-juicio-politico-corte-discusion-oposicion-ley-tierras-202693012627",
+      "sitio": "El Destape",
+      "titulo": "Movilización, sesión especial y juicio político a la Corte: la reacción opositora",
+      "url": "https://www.eldestapeweb.com/politica/movilizacion-sesion-especial-juicio-politico-corte-discusion-oposicion-ley-tierras-202693012627",
+      "detectado": "2026-09-30T17:04:29.221Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/universidades-vence-plazo-cumplir-ley-justicia-intimo-gobierno-2026930121836",
+      "sitio": "El Destape",
+      "titulo": "Universidades: vence el plazo para cumplir la Ley y la Justicia intimó al Gobierno",
+      "url": "https://www.eldestapeweb.com/economia/universidades-vence-plazo-cumplir-ley-justicia-intimo-gobierno-2026930121836",
+      "detectado": "2026-09-30T17:04:29.221Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
+      "sitio": "El Destape",
+      "titulo": "Poder desatado: Milei de fiesta en París, Bullrich de campaña en IDEA y la Corte de remate",
+      "url": "https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
+      "detectado": "2026-09-30T17:04:29.221Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
+      "sitio": "El Destape",
+      "titulo": "Cayó el consumo de lácteos en agosto y las ventas ni se acercan a las de 2023",
+      "url": "https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
+      "detectado": "2026-09-30T17:04:29.221Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-pullaro-milei-ahoga-ciudad-santa-fe-7-cada-10-vecinos-no-llegan-fin-mes-202693011360",
+      "sitio": "El Destape",
+      "titulo": "La crisis de Pullaro y Milei ahoga a Santa Fe: 7 de cada 10 vecinos no llegan a fin de mes",
+      "url": "https://www.eldestapeweb.com/economia/crisis-pullaro-milei-ahoga-ciudad-santa-fe-7-cada-10-vecinos-no-llegan-fin-mes-202693011360",
+      "detectado": "2026-09-30T17:04:29.221Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-reglamenta-cuando-no-corresponde-la-denuncia-penal-tributaria/",
       "sitio": "Contadores en Red",
@@ -343,83 +420,6 @@
       "titulo": "Con Valencia figura, los puntajes de Boca en la victoria ante Racing por Copa Argentina",
       "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-agonico-triunfo-racing-copa-argentina-202692719945",
       "detectado": "2026-09-28T02:08:58.269Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/paris-week-milei-intentara-otra-vez-vender-plan-economico-exterior-202692719560",
-      "sitio": "El Destape",
-      "titulo": "Argentina Week: Milei intentará otra vez vender su plan económico en el exterior",
-      "url": "https://www.eldestapeweb.com/politica/paris-week-milei-intentara-otra-vez-vender-plan-economico-exterior-202692719560",
-      "detectado": "2026-09-28T02:08:58.269Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/tres-goles-enner-valencia-vs-racing-copa-argentina-todos-videos-202692719855",
-      "sitio": "El Destape",
-      "titulo": "Los tres goles de Enner Valencia vs Racing en la Copa Argentina: todos los videos",
-      "url": "https://www.eldestapeweb.com/deportes/tres-goles-enner-valencia-vs-racing-copa-argentina-todos-videos-202692719855",
-      "detectado": "2026-09-28T02:08:58.269Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-vs-racing-cuartos-final-copa-argentina-hora-tv-ver-partido-online-2026927115022",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Con gol de Lodico, Racing vence a Boca en Rosario",
-      "url": "https://www.eldestapeweb.com/deportes/boca-vs-racing-cuartos-final-copa-argentina-hora-tv-ver-partido-online-2026927115022",
-      "detectado": "2026-09-27T20:30:31.171Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/duro-golpe-gobierno-jp-morgan-preve-recesion-caida-actividad-economica-202692717835",
-      "sitio": "El Destape",
-      "titulo": "Duro informe: JP Morgan prevé una recesión tras la caída de la actividad económica",
-      "url": "https://www.eldestapeweb.com/economia/duro-golpe-gobierno-jp-morgan-preve-recesion-caida-actividad-economica-202692717835",
-      "detectado": "2026-09-27T20:30:31.171Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
-      "sitio": "El Destape",
-      "titulo": "Con la economía estallada, el gobierno acelera la cibervigilancia para el control social",
-      "url": "https://www.eldestapeweb.com/politica/economia-estallada-gobierno-acelera-ciberespionaje-control-social-2026926101619",
-      "detectado": "2026-09-27T15:52:45.277Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/pobreza-milei-manipulacion-macrista-ser-pobre-20269270540",
-      "sitio": "El Destape",
-      "titulo": "La crisis social y el ajuste",
-      "url": "https://www.eldestapeweb.com/economia/pobreza-milei-manipulacion-macrista-ser-pobre-20269270540",
-      "detectado": "2026-09-27T10:54:26.133Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/vida-util-milei-campo-minado-lleva-nuevo-salvataje-20269270540",
-      "sitio": "El Destape",
-      "titulo": "La vida útil de Milei y el campo minado que lleva a un nuevo salvataje",
-      "url": "https://www.eldestapeweb.com/politica/vida-util-milei-campo-minado-lleva-nuevo-salvataje-20269270540",
-      "detectado": "2026-09-27T10:54:26.133Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-vs-kicillof-mayoria-quiere-cambio-gobierno-balotaje-esta-parejo-202692704716",
-      "sitio": "El Destape",
-      "titulo": "Milei vs. Kicillof: la mayoría quiere un cambio de gobierno, pero el balotaje está parejo",
-      "url": "https://www.eldestapeweb.com/politica/milei-vs-kicillof-mayoria-quiere-cambio-gobierno-balotaje-esta-parejo-202692704716",
-      "detectado": "2026-09-27T10:54:26.133Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
-      "sitio": "El Destape",
-      "titulo": "Gobierno en problemas",
-      "url": "https://www.eldestapeweb.com/politica/crisis-financiera-amenaza-llevar-derrota-milei-2027-pobreza-real-supera-alberto-2026926191431",
-      "detectado": "2026-09-27T02:04:16.152Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Navarro",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "detectado": "2026-09-27T02:04:16.153Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/adentro-afuera-micro-macro-2026926181416",
-      "sitio": "El Destape",
-      "titulo": "Ni adentro, ni afuera, ni la micro, ni la macro",
-      "url": "https://www.eldestapeweb.com/politica/adentro-afuera-micro-macro-2026926181416",
-      "detectado": "2026-09-27T02:04:16.153Z"
     }
   ]
 }
