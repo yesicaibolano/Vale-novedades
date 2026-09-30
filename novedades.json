@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-09-30T02:36:40.202Z",
+  "actualizado": "2026-09-30T11:27:08.526Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-reglamenta-cuando-no-corresponde-la-denuncia-penal-tributaria/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA actualiza el procedimiento para evitar la denuncia penal tributaria.",
+      "url": "https://contadoresenred.com/arca-reglamenta-cuando-no-corresponde-la-denuncia-penal-tributaria/",
+      "detectado": "2026-09-30T11:26:53.027Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/manual-politica-argentina-gobierne-tecnologia-no-reves-2026930053",
+      "sitio": "El Destape",
+      "titulo": "Manual para que la política argentina gobierne a la tecnología (y no al revés)",
+      "url": "https://www.eldestapeweb.com/politica/manual-politica-argentina-gobierne-tecnologia-no-reves-2026930053",
+      "detectado": "2026-09-30T11:27:08.104Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/banca-jp-morgan-dio-otra-vez-senal-largada-2026929195749",
+      "sitio": "El Destape",
+      "titulo": "Riesgo país y corrida",
+      "url": "https://www.eldestapeweb.com/economia/banca-jp-morgan-dio-otra-vez-senal-largada-2026929195749",
+      "detectado": "2026-09-30T11:27:08.104Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "Ni adentro, ni afuera, ni la micro, ni la macro",
       "url": "https://www.eldestapeweb.com/politica/adentro-afuera-micro-macro-2026926181416",
       "detectado": "2026-09-27T02:04:16.153Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-09-27T02:04:16.153Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/game-over-cada-vez-cerca-2026926192424",
-      "sitio": "El Destape",
-      "titulo": "El “game over” cada vez más cerca",
-      "url": "https://www.eldestapeweb.com/opinion/game-over-cada-vez-cerca-2026926192424",
-      "detectado": "2026-09-27T02:04:16.153Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
-      "sitio": "El Destape",
-      "titulo": "Las 4 firmas de Milei para la entrega integral de los recursos argentinos",
-      "url": "https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
-      "detectado": "2026-09-26T20:15:30.935Z"
     }
   ]
 }
