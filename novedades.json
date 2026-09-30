@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-09-30T17:04:29.680Z",
+  "actualizado": "2026-09-30T21:34:35.650Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15993-la-mesa-directiva-del-consejo-presente-en-san-martin",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Mesa Directiva del Consejo, presente en San Martín",
+      "url": "https://www.cpba.com.ar/noticias/item/15993-la-mesa-directiva-del-consejo-presente-en-san-martin",
+      "detectado": "2026-09-30T21:34:33.749Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15992-la-caja-tuvo-su-reunion-semanal-en-el-gran-buenos-aires",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Caja tuvo su reunión semanal en el Gran Buenos Aires",
+      "url": "https://www.cpba.com.ar/noticias/item/15992-la-caja-tuvo-su-reunion-semanal-en-el-gran-buenos-aires",
+      "detectado": "2026-09-30T21:34:33.749Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-peronismo-senado-presento-proyecto-derogar-dnu-70-2023-2026930152833",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: el peronismo del Senado presentó un proyecto para derogar el DNU 70/2023",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-peronismo-senado-presento-proyecto-derogar-dnu-70-2023-2026930152833",
+      "detectado": "2026-09-30T21:34:35.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dnu-milei-corte-suprema-paso-ley-tierras-2026930155034",
+      "sitio": "El Destape",
+      "titulo": "Del DNU de Milei a la Corte Suprema: qué pasó con la Ley de Tierras",
+      "url": "https://www.eldestapeweb.com/politica/dnu-milei-corte-suprema-paso-ley-tierras-2026930155034",
+      "detectado": "2026-09-30T21:34:35.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/grabois-cruzo-diputados-lla-tienen-corte-comprada-202693017841",
+      "sitio": "El Destape",
+      "titulo": "Grabois cruzó a los diputados de LLA: “¡Tienen a la Corte comprada!”",
+      "url": "https://www.eldestapeweb.com/politica/grabois-cruzo-diputados-lla-tienen-corte-comprada-202693017841",
+      "detectado": "2026-09-30T21:34:35.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-encuesta-javier-milei-angustia-bronca-dato-electoral-inesperado-inquieta-casa-rosada-202693015240",
+      "sitio": "El Destape",
+      "titulo": "Encuesta: el sacrificio del ajuste no valió la pena y la desaprobación es récord",
+      "url": "https://www.eldestapeweb.com/politica/nueva-encuesta-javier-milei-angustia-bronca-dato-electoral-inesperado-inquieta-casa-rosada-202693015240",
+      "detectado": "2026-09-30T21:34:35.133Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-09-30T21:34:35.133Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
       "sitio": "Contadores en Red",
@@ -160,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "La deuda externa subió y llegó a casi U$S 330.000 millones",
       "url": "https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
-      "detectado": "2026-09-29T21:34:13.116Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
       "detectado": "2026-09-29T21:34:13.116Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "Decreto 1103/2026: El lunes 9 de noviembre será feriado nacional por la visita del Papa",
       "url": "https://jorgevega.com.ar/laboral/2631-decreto-1103-2026-el-lunes-9-de-noviembre-sera-feriado-nacional-por-la-visita-del-papa.html",
       "detectado": "2026-09-28T12:07:23.478Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/radiografia-ahogo-familias-endeudan-comer-dejan-pagar-celular-servicios-alquiler-202692620420",
-      "sitio": "El Destape",
-      "titulo": "Qué dejan de pagar las familias para poder comer: celular, servicios y alquiler",
-      "url": "https://www.eldestapeweb.com/economia/radiografia-ahogo-familias-endeudan-comer-dejan-pagar-celular-servicios-alquiler-202692620420",
-      "detectado": "2026-09-28T12:07:30.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-09-28T12:07:30.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/endeudamiento-malvinas-temas-libertad-avanza-buscara-retomar-control-congreso-20269261530",
-      "sitio": "El Destape",
-      "titulo": "Con endeudamiento y Malvinas, LLA buscará retomar el control del Congreso",
-      "url": "https://www.eldestapeweb.com/politica/endeudamiento-malvinas-temas-libertad-avanza-buscara-retomar-control-congreso-20269261530",
-      "detectado": "2026-09-28T12:07:30.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/controversia-venta-agua-pesada-rumbo-estados-unidos-202692721440",
-      "sitio": "El Destape",
-      "titulo": "Tecnología nuclear",
-      "url": "https://www.eldestapeweb.com/sociedad/controversia-venta-agua-pesada-rumbo-estados-unidos-202692721440",
-      "detectado": "2026-09-28T12:07:30.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/recesion-crisis-milei-hay-consumo-record-no-hay-desempleo-masivo-2026927214826",
-      "sitio": "El Destape",
-      "titulo": "Ni recesión ni crisis: para Milei hay consumo récord y no hay desempleo masivo",
-      "url": "https://www.eldestapeweb.com/politica/recesion-crisis-milei-hay-consumo-record-no-hay-desempleo-masivo-2026927214826",
-      "detectado": "2026-09-28T02:08:58.269Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-agonico-triunfo-racing-copa-argentina-202692719945",
-      "sitio": "El Destape",
-      "titulo": "Con Valencia figura, los puntajes de Boca en la victoria ante Racing por Copa Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-agonico-triunfo-racing-copa-argentina-202692719945",
-      "detectado": "2026-09-28T02:08:58.269Z"
     }
   ]
 }
