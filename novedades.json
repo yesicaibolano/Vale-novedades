@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-09-29T21:34:13.490Z",
+  "actualizado": "2026-09-30T02:36:40.202Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-09-30T02:36:39.578Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/amenazados-violentados-desamparados-historias-familias-endeudadas-prestamistas-2026929223719",
+      "sitio": "El Destape",
+      "titulo": "Amenazados, violentados y desamparados: historias de familias endeudadas con prestamistas",
+      "url": "https://www.eldestapeweb.com/sociedad/amenazados-violentados-desamparados-historias-familias-endeudadas-prestamistas-2026929223719",
+      "detectado": "2026-09-30T02:36:39.578Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "sitio": "El Destape",
+      "titulo": "Por Santiago Ballatore Nisenbaum",
+      "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "detectado": "2026-09-30T02:36:39.578Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/boom-apps-prestamos-millones-descargas-acoso-morosidad-denuncias-estafas-2026929223727",
+      "sitio": "El Destape",
+      "titulo": "Crisis de endeudamiento",
+      "url": "https://www.eldestapeweb.com/economia/boom-apps-prestamos-millones-descargas-acoso-morosidad-denuncias-estafas-2026929223727",
+      "detectado": "2026-09-30T02:36:39.578Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-insiste-problema-economia-real-castiga-acciones-2026929192745",
+      "sitio": "El Destape",
+      "titulo": "El mercado insiste en que el problema es la economía real y castiga a las acciones",
+      "url": "https://www.eldestapeweb.com/economia/mercado-insiste-problema-economia-real-castiga-acciones-2026929192745",
+      "detectado": "2026-09-30T02:36:39.578Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15991-jubilaciones-y-pensiones-se-distribuiran-las-contribuciones-del-5-en-dos-pagos-adicionales",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Las 4 firmas de Milei para la entrega integral de los recursos argentinos",
       "url": "https://www.eldestapeweb.com/politica/4-firmas-milei-entrega-integral-recursos-argentinos-202692614328",
       "detectado": "2026-09-26T20:15:30.935Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fenomeno-barrial-milei-sectores-crecen-expulsan-trabajadores-2026926135856",
-      "sitio": "El Destape",
-      "titulo": "El fenómeno barrial de Milei: los sectores que crecen expulsan trabajadores",
-      "url": "https://www.eldestapeweb.com/economia/fenomeno-barrial-milei-sectores-crecen-expulsan-trabajadores-2026926135856",
-      "detectado": "2026-09-26T20:15:30.936Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/apoyo-limite-milei-rol-mentor-macri-quiere-candidato-pro-cada-intendencia-202692616193",
-      "sitio": "El Destape",
-      "titulo": "Macri busca candidato propio en cada intendencia y le marca la cancha a Milei",
-      "url": "https://www.eldestapeweb.com/politica/apoyo-limite-milei-rol-mentor-macri-quiere-candidato-pro-cada-intendencia-202692616193",
-      "detectado": "2026-09-26T20:15:30.936Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/jerarquia-franco-colapinto-vera-ahora-errores-cometemos-todos-solo-grandes-reponen-rapido-202692614848",
-      "sitio": "El Destape",
-      "titulo": "La jerarquía de Colapinto se verá ahora: charlas con Alpine, mentalidad y paños fríos",
-      "url": "https://www.eldestapeweb.com/deportes/jerarquia-franco-colapinto-vera-ahora-errores-cometemos-todos-solo-grandes-reponen-rapido-202692614848",
-      "detectado": "2026-09-26T20:15:30.936Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/matias-fernandez",
-      "sitio": "El Destape",
-      "titulo": "Por Matías Fernández",
-      "url": "https://www.eldestapeweb.com/perfil/matias-fernandez",
-      "detectado": "2026-09-26T20:15:30.936Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
-      "sitio": "El Destape",
-      "titulo": "Colapinto cometió su peor error en la F1, chocó a Gasly y abandonó",
-      "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-cometio-peor-error-f1-choco-gasly-abandono-azerbaiyan-20269261026",
-      "detectado": "2026-09-26T15:11:51.766Z"
     }
   ]
 }
