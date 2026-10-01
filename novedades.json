@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-01T11:54:51.504Z",
+  "actualizado": "2026-10-01T17:34:46.159Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2632-arca-res-gral-5907-26-reglamentacion-del-fondo-de-asistencia-laboral-fal.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ARCA - Res. Gral. 5907/26 - Reglamentación del Fondo de Asistencia Laboral (FAL)",
+      "url": "https://jorgevega.com.ar/laboral/2632-arca-res-gral-5907-26-reglamentacion-del-fondo-de-asistencia-laboral-fal.html",
+      "detectado": "2026-10-01T17:34:36.474Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15983-ahora-en-repro-analisis-fundamental-como-analizar-una-empresa-que-cotiza-en-bolsa",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Análisis fundamental: ¿Cómo analizar una empresa que cotiza en bolsa?",
+      "url": "https://www.cpba.com.ar/noticias/item/15983-ahora-en-repro-analisis-fundamental-como-analizar-una-empresa-que-cotiza-en-bolsa",
+      "detectado": "2026-10-01T17:34:43.910Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-respaldo-gobierno-le-advirtio-debe-generar-empleo-2026101124811",
+      "sitio": "El Destape",
+      "titulo": "El FMI respaldó al Gobierno pero le advirtió que debe generar empleo",
+      "url": "https://www.eldestapeweb.com/economia/fmi-respaldo-gobierno-le-advirtio-debe-generar-empleo-2026101124811",
+      "detectado": "2026-10-01T17:34:45.534Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-pidio-sesion-especial-jueves-15-ley-tierras-discapacidad-endeudamiento-2026101134934",
+      "sitio": "El Destape",
+      "titulo": "La oposición pidió una sesión especial por Ley de Tierras, discapacidad y endeudamiento",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-pidio-sesion-especial-jueves-15-ley-tierras-discapacidad-endeudamiento-2026101134934",
+      "detectado": "2026-10-01T17:34:45.534Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/rechazo-masivo-corte-intenta-despegarse-venta-tierras-extranjeros-no-ha-sido-resuelta-este-caso-20261019407",
+      "sitio": "El Destape",
+      "titulo": "Tras el rechazo masivo, la Corte se despega de la venta de Tierras: \"No ha sido resuelta\"",
+      "url": "https://www.eldestapeweb.com/politica/rechazo-masivo-corte-intenta-despegarse-venta-tierras-extranjeros-no-ha-sido-resuelta-este-caso-20261019407",
+      "detectado": "2026-10-01T17:34:45.534Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/confirmado-messi-adquirio-primer-equipo-futbol-profesional-espana-2026101142741",
+      "sitio": "El Destape",
+      "titulo": "Confirmado: Messi adquirió su primer club de fútbol profesional en España",
+      "url": "https://www.eldestapeweb.com/deportes/confirmado-messi-adquirio-primer-equipo-futbol-profesional-espana-2026101142741",
+      "detectado": "2026-10-01T17:34:45.534Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
+      "sitio": "El Destape",
+      "titulo": "Poder desatado: Milei de fiesta en París, Bullrich de campaña en IDEA y la Corte de remate",
+      "url": "https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
+      "detectado": "2026-10-01T17:34:45.534Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-reglamenta-el-fondo-de-asistencia-laboral-fal-puntos-a-tener-en-cuenta/",
       "sitio": "Contadores en Red",
@@ -198,13 +247,6 @@
       "detectado": "2026-09-30T17:04:29.221Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
-      "sitio": "El Destape",
-      "titulo": "Poder desatado: Milei de fiesta en París, Bullrich de campaña en IDEA y la Corte de remate",
-      "url": "https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
-      "detectado": "2026-09-30T17:04:29.221Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
       "sitio": "El Destape",
       "titulo": "Cayó el consumo de lácteos en agosto y las ventas ni se acercan a las de 2023",
@@ -378,48 +420,6 @@
       "titulo": "UTEDyC: nuevo acuerdo salarial para trabajadores de gimnasios CCT 738/16",
       "url": "https://www.ignacioonline.com.ar/utedyc-nuevo-acuerdo-salarial-para-trabajadores-de-gimnasios-cct-738-16/",
       "detectado": "2026-09-29T11:39:42.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-milei-crisis-financiera-golpea-gobierno-previa-viaje-paris-20269290547",
-      "sitio": "El Destape",
-      "titulo": "Riesgo Milei: la crisis financiera golpea al Gobierno en la previa del viaje a París",
-      "url": "https://www.eldestapeweb.com/politica/riesgo-milei-crisis-financiera-golpea-gobierno-previa-viaje-paris-20269290547",
-      "detectado": "2026-09-29T11:39:55.945Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/si-sale-mal-creian-milei-perdieron-fe-20269290547",
-      "sitio": "El Destape",
-      "titulo": "¿Y si sale mal? Por qué los que creían en Milei perdieron la fe",
-      "url": "https://www.eldestapeweb.com/politica/si-sale-mal-creian-milei-perdieron-fe-20269290547",
-      "detectado": "2026-09-29T11:39:55.945Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-09-29T11:39:55.945Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-hunde-gobierno-volvio-echar-mano-reclamo-malvinas-20269290547",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/politica/economia-hunde-gobierno-volvio-echar-mano-reclamo-malvinas-20269290547",
-      "detectado": "2026-09-29T11:39:55.945Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-09-29T11:39:55.945Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/licencia-por-enfermedad-lct-plazos-sueldo-certificado-guia/",
-      "sitio": "Ignacio Online",
-      "titulo": "Licencia por enfermedad: cuánto corresponde, cómo se paga y qué exige la Ley de Contrato de Trabajo",
-      "url": "https://www.ignacioonline.com.ar/licencia-por-enfermedad-lct-plazos-sueldo-certificado-guia/",
-      "detectado": "2026-09-29T02:55:03.099Z"
     }
   ]
 }
