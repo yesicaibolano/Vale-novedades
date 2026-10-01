@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-09-30T21:34:35.650Z",
+  "actualizado": "2026-10-01T02:42:17.601Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-homologaron-el-acuerdo-salarial-para-los-cct-76-75-y-577-10/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOCRA: homologaron el acuerdo salarial para los CCT 76/75 y 577/10",
+      "url": "https://www.ignacioonline.com.ar/uocra-homologaron-el-acuerdo-salarial-para-los-cct-76-75-y-577-10/",
+      "detectado": "2026-10-01T02:42:05.530Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trampa-corte-dejar-vigente-entrega-tierras-extranjeros-2026930212750",
+      "sitio": "El Destape",
+      "titulo": "La trampa de la Corte para dejar vigente la entrega de tierras a extranjeros",
+      "url": "https://www.eldestapeweb.com/politica/trampa-corte-dejar-vigente-entrega-tierras-extranjeros-2026930212750",
+      "detectado": "2026-10-01T02:42:16.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-01T02:42:16.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-seleccion-argentina-triunfo-bolivia-2026930225542",
+      "sitio": "El Destape",
+      "titulo": "Uno por uno: los puntajes de la Selección Argentina en el triunfo ante Bolivia",
+      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-seleccion-argentina-triunfo-bolivia-2026930225542",
+      "detectado": "2026-10-01T02:42:16.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Lamas",
+      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
+      "detectado": "2026-10-01T02:42:16.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-gobierno-planifica-maniobra-emergencia-amenaza-oposicion-diputados-202693021015",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: LLA apela a una maniobra de emergencia para enfrentar opositores",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-gobierno-planifica-maniobra-emergencia-amenaza-oposicion-diputados-202693021015",
+      "detectado": "2026-10-01T02:42:16.637Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15993-la-mesa-directiva-del-consejo-presente-en-san-martin",
       "sitio": "CPBA (Buenos Aires)",
@@ -378,48 +420,6 @@
       "titulo": "Por Cristian Carrillo",
       "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
       "detectado": "2026-09-28T22:40:37.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-atraviesa-reaccion-peor-semana-financiera-ano-2026928191523",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno atraviesa sin reacción la peor semana financiera del año",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-atraviesa-reaccion-peor-semana-financiera-ano-2026928191523",
-      "detectado": "2026-09-28T22:40:37.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-09-28T22:40:37.433Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/invento-terroristas-deportados-otra-cuenta-milei-no-cierra-2026928154426",
-      "sitio": "El Destape",
-      "titulo": "El invento de los \"terroristas\" deportados: otra cuenta de Milei que no cierra",
-      "url": "https://www.eldestapeweb.com/politica/invento-terroristas-deportados-otra-cuenta-milei-no-cierra-2026928154426",
-      "detectado": "2026-09-28T22:40:37.433Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ganancias-2026-se-pueden-compensar-anticipos-si-todavia-no-se-presento-la-ddjj-2025/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ganancias 2026: ¿Se pueden compensar anticipos si todavía no se presentó la DDJJ 2025?",
-      "url": "https://contadoresenred.com/ganancias-2026-se-pueden-compensar-anticipos-si-todavia-no-se-presento-la-ddjj-2025/",
-      "detectado": "2026-09-28T12:07:22.487Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/feriados-por-la-visita-del-papa-leon-xiv-que-dias-caen-y-donde-aplican/",
-      "sitio": "Contadores en Red",
-      "titulo": "Feriados por la visita del Papa León XIV. ¿Qué días caen y dónde aplican?",
-      "url": "https://contadoresenred.com/feriados-por-la-visita-del-papa-leon-xiv-que-dias-caen-y-donde-aplican/",
-      "detectado": "2026-09-28T12:07:22.487Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2631-decreto-1103-2026-el-lunes-9-de-noviembre-sera-feriado-nacional-por-la-visita-del-papa.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Decreto 1103/2026: El lunes 9 de noviembre será feriado nacional por la visita del Papa",
-      "url": "https://jorgevega.com.ar/laboral/2631-decreto-1103-2026-el-lunes-9-de-noviembre-sera-feriado-nacional-por-la-visita-del-papa.html",
-      "detectado": "2026-09-28T12:07:23.478Z"
     }
   ]
 }
