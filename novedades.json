@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-01T17:34:46.159Z",
+  "actualizado": "2026-10-01T22:03:30.394Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/el-10-de-noviembre-de-2026-sera-feriado-bancario-en-todo-el-pais-por-la-visita-del-papa-leon-xiv/",
+      "sitio": "Ignacio Online",
+      "titulo": "El 10 de noviembre de 2026 será feriado bancario en todo el país por la visita del Papa León XIV",
+      "url": "https://www.ignacioonline.com.ar/el-10-de-noviembre-de-2026-sera-feriado-bancario-en-todo-el-pais-por-la-visita-del-papa-leon-xiv/",
+      "detectado": "2026-10-01T22:03:16.398Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/distribucion-del-ingreso",
+      "sitio": "El Destape",
+      "titulo": "distribución del ingreso",
+      "url": "https://www.eldestapeweb.com/tag/distribucion-del-ingreso",
+      "detectado": "2026-10-01T22:03:29.988Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/torta-reparte-cada-vez-peor-ingresos-sectores-bajos-siguen-perdiendo-terreno-2026101164634",
+      "sitio": "El Destape",
+      "titulo": "La torta se reparte cada vez peor: los ingresos de sectores bajos siguen perdiendo terreno",
+      "url": "https://www.eldestapeweb.com/economia/torta-reparte-cada-vez-peor-ingresos-sectores-bajos-siguen-perdiendo-terreno-2026101164634",
+      "detectado": "2026-10-01T22:03:29.988Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-10-01T22:03:29.988Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-alimentos-lacteos-carnes-explican-mayor-parte-suba-semana-202610117120",
+      "sitio": "El Destape",
+      "titulo": "Inflación de alimentos: lácteos y carnes explican la mayor parte de la suba de la semana",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-alimentos-lacteos-carnes-explican-mayor-parte-suba-semana-202610117120",
+      "detectado": "2026-10-01T22:03:29.988Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/espana-villarruel-contradijo-milei-pidio-intervencion-estado-ia-202610116423",
+      "sitio": "El Destape",
+      "titulo": "En España, Villarruel contradijo a Milei y pidió \"intervención del Estado\" ante la IA",
+      "url": "https://www.eldestapeweb.com/politica/espana-villarruel-contradijo-milei-pidio-intervencion-estado-ia-202610116423",
+      "detectado": "2026-10-01T22:03:29.988Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/2632-arca-res-gral-5907-26-reglamentacion-del-fondo-de-asistencia-laboral-fal.html",
       "sitio": "Jorge Vega",
@@ -378,48 +420,6 @@
       "titulo": "Ahora el Gobierno culpó a EE.UU. y la guerra en Medio Oriente por la suba del Riesgo País",
       "url": "https://www.eldestapeweb.com/politica/ahora-gobierno-culpo-ee-uu-guerra-medio-oriente-suba-riesgo-pais-2026929125227",
       "detectado": "2026-09-29T17:06:35.040Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-cuanto-suben-servicios-2026929112745",
-      "sitio": "El Destape",
-      "titulo": "Economía doméstica",
-      "url": "https://www.eldestapeweb.com/economia/octubre-llega-aumentos-transporte-alquileres-prepagas-cuanto-suben-servicios-2026929112745",
-      "detectado": "2026-09-29T17:06:35.040Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilados-alquilan-necesitan-2-5-millones-cubrir-gastos-basicos-20269299591",
-      "sitio": "El Destape",
-      "titulo": "Los jubilados que alquilan necesitan $2,5 millones para cubrir los gastos básicos",
-      "url": "https://www.eldestapeweb.com/economia/jubilados-alquilan-necesitan-2-5-millones-cubrir-gastos-basicos-20269299591",
-      "detectado": "2026-09-29T17:06:35.040Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/plenario-clave-diputados-proyectos-oposicion-endeudados-jugada-gobierno-2026929104314",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento en Diputados: los proyectos de la oposición y la jugada del Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/plenario-clave-diputados-proyectos-oposicion-endeudados-jugada-gobierno-2026929104314",
-      "detectado": "2026-09-29T17:06:35.040Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-posterga-la-caracterizacion-como-pequeno-contribuyente/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA posterga la caracterización como “Pequeño Contribuyente”",
-      "url": "https://contadoresenred.com/arca-posterga-la-caracterizacion-como-pequeno-contribuyente/",
-      "detectado": "2026-09-29T11:39:41.039Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/balances-presento-su-nueva-version-de-los-estados-contables-a-la-automatizacion-del-estudio/",
-      "sitio": "Ignacio Online",
-      "titulo": "Balances presentó su nueva versión: de los estados contables a la automatización del estudio",
-      "url": "https://www.ignacioonline.com.ar/balances-presento-su-nueva-version-de-los-estados-contables-a-la-automatizacion-del-estudio/",
-      "detectado": "2026-09-29T11:39:42.782Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-nuevo-acuerdo-salarial-para-trabajadores-de-gimnasios-cct-738-16/",
-      "sitio": "Ignacio Online",
-      "titulo": "UTEDyC: nuevo acuerdo salarial para trabajadores de gimnasios CCT 738/16",
-      "url": "https://www.ignacioonline.com.ar/utedyc-nuevo-acuerdo-salarial-para-trabajadores-de-gimnasios-cct-738-16/",
-      "detectado": "2026-09-29T11:39:42.782Z"
     }
   ]
 }
