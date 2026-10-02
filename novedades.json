@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-02T16:53:57.363Z",
+  "actualizado": "2026-10-02T21:28:55.811Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-la-suma-no-remunerativa-de-80-000-continua-vigente/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad: la suma no remunerativa de $80.000 continúa vigente",
+      "url": "https://www.ignacioonline.com.ar/sanidad-la-suma-no-remunerativa-de-80-000-continua-vigente/",
+      "detectado": "2026-10-02T21:28:50.497Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Derecho de Ejercicio Profesional: 5º anticipo de 2026",
+      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
+      "detectado": "2026-10-02T21:28:53.831Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuestro Consejo participó de la III Convención Panhispánica de Lenguaje Claro y Accesible",
+      "url": "https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
+      "detectado": "2026-10-02T21:28:53.831Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-le-rogo-confianza-empresarios-confirmo-gobierno-hara-reforma-previsional-despues-elecciones-2026102152422",
+      "sitio": "El Destape",
+      "titulo": "Caputo confirmó que habrá una reforma previsional, pero después de las elecciones",
+      "url": "https://www.eldestapeweb.com/economia/caputo-le-rogo-confianza-empresarios-confirmo-gobierno-hara-reforma-previsional-despues-elecciones-2026102152422",
+      "detectado": "2026-10-02T21:28:55.181Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "sitio": "El Destape",
+      "titulo": "Luiz Inácio Lula da Silva",
+      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "detectado": "2026-10-02T21:28:55.181Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fuerte-gesto-lula-cierra-campana-bandera-malvinas-argentinas-2026102142358",
+      "sitio": "El Destape",
+      "titulo": "Fuerte gesto: Lula cierra su campaña con la bandera de \"Las Malvinas son argentinas\"",
+      "url": "https://www.eldestapeweb.com/politica/fuerte-gesto-lula-cierra-campana-bandera-malvinas-argentinas-2026102142358",
+      "detectado": "2026-10-02T21:28:55.181Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-venta-caputo-impulso-pasaporte-oro-millonarios-paris-2026102121814",
+      "sitio": "El Destape",
+      "titulo": "Argentina en venta: Caputo impulsó el “pasaporte de oro” para millonarios en París",
+      "url": "https://www.eldestapeweb.com/economia/argentina-venta-caputo-impulso-pasaporte-oro-millonarios-paris-2026102121814",
+      "detectado": "2026-10-02T21:28:55.181Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-10-02T21:28:55.181Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/casas-particulares-se-sigue-pagando-la-suma-no-remunerativa/",
       "sitio": "Ignacio Online",
@@ -352,13 +408,6 @@
       "detectado": "2026-09-30T21:34:35.133Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-09-30T21:34:35.133Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
       "sitio": "Contadores en Red",
       "titulo": "Régimen de precios de transferencia. Su reemplazo.",
@@ -371,55 +420,6 @@
       "titulo": "UTEDYC CCT 804/23: nueva escala salarial septiembre 2026",
       "url": "https://www.ignacioonline.com.ar/utedyc-cct-804-23-nueva-escala-salarial-septiembre-2026/",
       "detectado": "2026-09-30T17:04:22.768Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/saeoep-escala-salarial-septiembre-y-octubre-2026-cct-88-90-colegios/",
-      "sitio": "Ignacio Online",
-      "titulo": "SAEOEP: Escala Salarial septiembre y octubre 2026 CCT 88/90 Colegios",
-      "url": "https://www.ignacioonline.com.ar/saeoep-escala-salarial-septiembre-y-octubre-2026-cct-88-90-colegios/",
-      "detectado": "2026-09-30T17:04:22.768Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-cambia-el-regimen-de-precios-de-transferencia-y-operaciones-internacionales/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA cambia el régimen de Precios de Transferencia y Operaciones Internacionales",
-      "url": "https://www.ignacioonline.com.ar/arca-cambia-el-regimen-de-precios-de-transferencia-y-operaciones-internacionales/",
-      "detectado": "2026-09-30T17:04:22.768Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/auh-anses-automatiza-la-acreditacion-escolar-para-cobrar-el-20-retenido/",
-      "sitio": "Ignacio Online",
-      "titulo": "AUH: ANSES automatiza la acreditación escolar para cobrar el 20% retenido",
-      "url": "https://www.ignacioonline.com.ar/auh-anses-automatiza-la-acreditacion-escolar-para-cobrar-el-20-retenido/",
-      "detectado": "2026-09-30T17:04:22.768Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-noviembre-la-vigencia-de-garantias-para-operadores-de-comercio-exterior/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA prorrogó hasta el 30 de noviembre la vigencia de garantías para operadores de comercio exterior",
-      "url": "https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-noviembre-la-vigencia-de-garantias-para-operadores-de-comercio-exterior/",
-      "detectado": "2026-09-30T17:04:22.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/movilizacion-sesion-especial-juicio-politico-corte-discusion-oposicion-ley-tierras-202693012627",
-      "sitio": "El Destape",
-      "titulo": "Movilización, sesión especial y juicio político a la Corte: la reacción opositora",
-      "url": "https://www.eldestapeweb.com/politica/movilizacion-sesion-especial-juicio-politico-corte-discusion-oposicion-ley-tierras-202693012627",
-      "detectado": "2026-09-30T17:04:29.221Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/universidades-vence-plazo-cumplir-ley-justicia-intimo-gobierno-2026930121836",
-      "sitio": "El Destape",
-      "titulo": "Universidades: vence el plazo para cumplir la Ley y la Justicia intimó al Gobierno",
-      "url": "https://www.eldestapeweb.com/economia/universidades-vence-plazo-cumplir-ley-justicia-intimo-gobierno-2026930121836",
-      "detectado": "2026-09-30T17:04:29.221Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
-      "sitio": "El Destape",
-      "titulo": "Cayó el consumo de lácteos en agosto y las ventas ni se acercan a las de 2023",
-      "url": "https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
-      "detectado": "2026-09-30T17:04:29.221Z"
     }
   ]
 }
