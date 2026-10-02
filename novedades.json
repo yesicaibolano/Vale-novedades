@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-02T11:26:43.958Z",
+  "actualizado": "2026-10-02T16:53:57.363Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/casas-particulares-se-sigue-pagando-la-suma-no-remunerativa/",
+      "sitio": "Ignacio Online",
+      "titulo": "Casas Particulares: ¿se sigue pagando la suma no remunerativa?",
+      "url": "https://www.ignacioonline.com.ar/casas-particulares-se-sigue-pagando-la-suma-no-remunerativa/",
+      "detectado": "2026-10-02T16:53:46.520Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15994-ahora-en-repro-delegar-sin-abdicar-el-criterio-profesional-en-tiempos-de-ia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Delegar sin abdicar: El criterio profesional en tiempos de IA",
+      "url": "https://www.cpba.com.ar/noticias/item/15994-ahora-en-repro-delegar-sin-abdicar-el-criterio-profesional-en-tiempos-de-ia",
+      "detectado": "2026-10-02T16:53:55.462Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-02T16:53:56.813Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/despues-discurso-milei-riesgo-pais-llega-maximo-ano-2026102125317",
+      "sitio": "El Destape",
+      "titulo": "Después del discurso de Milei, el riesgo país llega a su máximo en el año",
+      "url": "https://www.eldestapeweb.com/economia/despues-discurso-milei-riesgo-pais-llega-maximo-ano-2026102125317",
+      "detectado": "2026-10-02T16:53:56.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/iglesia-advirtio-papa-va-encontrar-argentina-cascoteada-pobreza-202610291938",
+      "sitio": "El Destape",
+      "titulo": "Antes de la visita de León XIV",
+      "url": "https://www.eldestapeweb.com/politica/iglesia-advirtio-papa-va-encontrar-argentina-cascoteada-pobreza-202610291938",
+      "detectado": "2026-10-02T16:53:56.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/presentan-cautelar-suspender-venta-tierras-irrestricta-extranjeros-2026102111619",
+      "sitio": "El Destape",
+      "titulo": "Presentan una cautelar para suspender la venta de tierras a extranjeros",
+      "url": "https://www.eldestapeweb.com/politica/presentan-cautelar-suspender-venta-tierras-irrestricta-extranjeros-2026102111619",
+      "detectado": "2026-10-02T16:53:56.814Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/cultura/murio-ricardo-soule-cantante-vox-dei-76-anos-202610213646",
+      "sitio": "El Destape",
+      "titulo": "Murió Ricardo Soulé, cantante de Vox Dei, a los 76 años",
+      "url": "https://www.eldestapeweb.com/cultura/murio-ricardo-soule-cantante-vox-dei-76-anos-202610213646",
+      "detectado": "2026-10-02T16:53:56.814Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/entidades-financieras-no-grandes-quedan-fuera-de-la-factura-de-credito-electronica-mipyme/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Cayó el consumo de lácteos en agosto y las ventas ni se acercan a las de 2023",
       "url": "https://www.eldestapeweb.com/economia/cayo-consumo-lacteos-agosto-ventas-acercan-2023-2026930113630",
       "detectado": "2026-09-30T17:04:29.221Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-pullaro-milei-ahoga-ciudad-santa-fe-7-cada-10-vecinos-no-llegan-fin-mes-202693011360",
-      "sitio": "El Destape",
-      "titulo": "La crisis de Pullaro y Milei ahoga a Santa Fe: 7 de cada 10 vecinos no llegan a fin de mes",
-      "url": "https://www.eldestapeweb.com/economia/crisis-pullaro-milei-ahoga-ciudad-santa-fe-7-cada-10-vecinos-no-llegan-fin-mes-202693011360",
-      "detectado": "2026-09-30T17:04:29.221Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-reglamenta-cuando-no-corresponde-la-denuncia-penal-tributaria/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA actualiza el procedimiento para evitar la denuncia penal tributaria.",
-      "url": "https://contadoresenred.com/arca-reglamenta-cuando-no-corresponde-la-denuncia-penal-tributaria/",
-      "detectado": "2026-09-30T11:26:53.027Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/manual-politica-argentina-gobierne-tecnologia-no-reves-2026930053",
-      "sitio": "El Destape",
-      "titulo": "Manual para que la política argentina gobierne a la tecnología (y no al revés)",
-      "url": "https://www.eldestapeweb.com/politica/manual-politica-argentina-gobierne-tecnologia-no-reves-2026930053",
-      "detectado": "2026-09-30T11:27:08.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/banca-jp-morgan-dio-otra-vez-senal-largada-2026929195749",
-      "sitio": "El Destape",
-      "titulo": "Riesgo país y corrida",
-      "url": "https://www.eldestapeweb.com/economia/banca-jp-morgan-dio-otra-vez-senal-largada-2026929195749",
-      "detectado": "2026-09-30T11:27:08.104Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento Familiar",
-      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "detectado": "2026-09-30T02:36:39.578Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/amenazados-violentados-desamparados-historias-familias-endeudadas-prestamistas-2026929223719",
-      "sitio": "El Destape",
-      "titulo": "Amenazados, violentados y desamparados: historias de familias endeudadas con prestamistas",
-      "url": "https://www.eldestapeweb.com/sociedad/amenazados-violentados-desamparados-historias-familias-endeudadas-prestamistas-2026929223719",
-      "detectado": "2026-09-30T02:36:39.578Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
-      "sitio": "El Destape",
-      "titulo": "Por Santiago Ballatore Nisenbaum",
-      "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
-      "detectado": "2026-09-30T02:36:39.578Z"
     }
   ]
 }
