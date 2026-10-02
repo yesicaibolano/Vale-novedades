@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-02T02:44:35.496Z",
+  "actualizado": "2026-10-02T11:26:43.958Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/entidades-financieras-no-grandes-quedan-fuera-de-la-factura-de-credito-electronica-mipyme/",
+      "sitio": "Contadores en Red",
+      "titulo": "Entidades financieras no grandes quedan fuera de la Factura de Crédito Electrónica MiPyME.",
+      "url": "https://contadoresenred.com/entidades-financieras-no-grandes-quedan-fuera-de-la-factura-de-credito-electronica-mipyme/",
+      "detectado": "2026-10-02T11:26:31.587Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dnu-70-23-oposicion-aun-le-faltan-14-diputados-quorum-202610203147",
+      "sitio": "El Destape",
+      "titulo": "DNU 70/23: a la oposición aún le faltan 14 diputados para el quórum",
+      "url": "https://www.eldestapeweb.com/politica/dnu-70-23-oposicion-aun-le-faltan-14-diputados-quorum-202610203147",
+      "detectado": "2026-10-02T11:26:43.375Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-10-02T11:26:43.375Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/torturas-malvinas-causa-corte-cajonea-hace-4-anos-20261020534",
+      "sitio": "El Destape",
+      "titulo": "Torturas en Malvinas: la causa que la Corte cajonea hace 4 años",
+      "url": "https://www.eldestapeweb.com/politica/torturas-malvinas-causa-corte-cajonea-hace-4-anos-20261020534",
+      "detectado": "2026-10-02T11:26:43.375Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-corrio-derecha-valora-rol-estado-justicia-social-20261020534",
+      "sitio": "El Destape",
+      "titulo": "La sociedad se corrió a la derecha, pero valora el rol del Estado y la justicia social",
+      "url": "https://www.eldestapeweb.com/politica/sociedad-corrio-derecha-valora-rol-estado-justicia-social-20261020534",
+      "detectado": "2026-10-02T11:26:43.375Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-02T11:26:43.375Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
       "sitio": "El Destape",
@@ -378,48 +420,6 @@
       "titulo": "Por Santiago Ballatore Nisenbaum",
       "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
       "detectado": "2026-09-30T02:36:39.578Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/boom-apps-prestamos-millones-descargas-acoso-morosidad-denuncias-estafas-2026929223727",
-      "sitio": "El Destape",
-      "titulo": "Crisis de endeudamiento",
-      "url": "https://www.eldestapeweb.com/economia/boom-apps-prestamos-millones-descargas-acoso-morosidad-denuncias-estafas-2026929223727",
-      "detectado": "2026-09-30T02:36:39.578Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-insiste-problema-economia-real-castiga-acciones-2026929192745",
-      "sitio": "El Destape",
-      "titulo": "El mercado insiste en que el problema es la economía real y castiga a las acciones",
-      "url": "https://www.eldestapeweb.com/economia/mercado-insiste-problema-economia-real-castiga-acciones-2026929192745",
-      "detectado": "2026-09-30T02:36:39.578Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15991-jubilaciones-y-pensiones-se-distribuiran-las-contribuciones-del-5-en-dos-pagos-adicionales",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Jubilaciones y pensiones: Se distribuirán las contribuciones del 5% en dos pagos adicionales",
-      "url": "https://www.cpba.com.ar/noticias/item/15991-jubilaciones-y-pensiones-se-distribuiran-las-contribuciones-del-5-en-dos-pagos-adicionales",
-      "detectado": "2026-09-29T21:34:11.717Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-aliados-aprobaron-dictamen-morosidad-proponen-educacion-financiera-solucion-2026929171622",
-      "sitio": "El Destape",
-      "titulo": "Con dictamen propio, LLA y aliados diluyeron el planteo de la morosidad de la oposición",
-      "url": "https://www.eldestapeweb.com/politica/lla-aliados-aprobaron-dictamen-morosidad-proponen-educacion-financiera-solucion-2026929171622",
-      "detectado": "2026-09-29T21:34:13.116Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
-      "sitio": "El Destape",
-      "titulo": "La deuda externa subió y llegó a casi U$S 330.000 millones",
-      "url": "https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
-      "detectado": "2026-09-29T21:34:13.116Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-scaloni-tengo-ganas-renovar-seleccion-argentina-2026929141932",
-      "sitio": "El Destape",
-      "titulo": "Scaloni: \"Tengo ganas de renovar en la Selección Argentina\"",
-      "url": "https://www.eldestapeweb.com/deportes/lionel-scaloni-tengo-ganas-renovar-seleccion-argentina-2026929141932",
-      "detectado": "2026-09-29T21:34:13.116Z"
     }
   ]
 }
