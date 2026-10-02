@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-01T22:03:30.394Z",
+  "actualizado": "2026-10-02T02:44:35.496Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
+      "sitio": "El Destape",
+      "titulo": "A la oposición no le dan los números y el tiro de gracia al mega DNU de Milei corre riesgo",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
+      "detectado": "2026-10-02T02:44:35.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-02T02:44:35.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
+      "sitio": "El Destape",
+      "titulo": "EE.UU. dejó solo a Milei por Malvinas: quieren \"desescalar\" el conflicto con Reino Unido",
+      "url": "https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
+      "detectado": "2026-10-02T02:44:35.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-02T02:44:35.023Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/campana-brasil-legado-papa-francisco-da-pelea-avanzada-evangelica-pro-trump-2026101194858",
+      "sitio": "El Destape",
+      "titulo": "En Brasil, el legado del papa Francisco da pelea a la avanzada evangélica pro Trump",
+      "url": "https://www.eldestapeweb.com/internacionales/campana-brasil-legado-papa-francisco-da-pelea-avanzada-evangelica-pro-trump-2026101194858",
+      "detectado": "2026-10-02T02:44:35.023Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/el-10-de-noviembre-de-2026-sera-feriado-bancario-en-todo-el-pais-por-la-visita-del-papa-leon-xiv/",
       "sitio": "Ignacio Online",
@@ -373,13 +408,6 @@
       "detectado": "2026-09-29T21:34:13.116Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-09-29T21:34:13.116Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/deuda-externa-subio-llego-casi-s-330-000-millones-202692916397",
       "sitio": "El Destape",
       "titulo": "La deuda externa subió y llegó a casi U$S 330.000 millones",
@@ -392,34 +420,6 @@
       "titulo": "Scaloni: \"Tengo ganas de renovar en la Selección Argentina\"",
       "url": "https://www.eldestapeweb.com/deportes/lionel-scaloni-tengo-ganas-renovar-seleccion-argentina-2026929141932",
       "detectado": "2026-09-29T21:34:13.116Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/que-puedo-hacer-si-la-obra-social-se-niega-a-afiliarme/",
-      "sitio": "Contadores en Red",
-      "titulo": "¿Qué podés hacer si la Obra Social o Prepaga se niega a afiliarte?",
-      "url": "https://contadoresenred.com/que-puedo-hacer-si-la-obra-social-se-niega-a-afiliarme/",
-      "detectado": "2026-09-29T17:06:19.530Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-postergo-hasta-el-23-de-octubre-la-caracterizacion-como-pequeno-contribuyente/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA postergó hasta el 23 de octubre la caracterización como Pequeño Contribuyente",
-      "url": "https://www.ignacioonline.com.ar/arca-postergo-hasta-el-23-de-octubre-la-caracterizacion-como-pequeno-contribuyente/",
-      "detectado": "2026-09-29T17:06:21.073Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alarmante-vuelven-aumentar-cheques-fondos-agrava-crisis-empresas-20269299380",
-      "sitio": "El Destape",
-      "titulo": "Alarmante: vuelven a aumentar los cheques sin fondos y se agrava la crisis de empresas",
-      "url": "https://www.eldestapeweb.com/economia/alarmante-vuelven-aumentar-cheques-fondos-agrava-crisis-empresas-20269299380",
-      "detectado": "2026-09-29T17:06:35.040Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ahora-gobierno-culpo-ee-uu-guerra-medio-oriente-suba-riesgo-pais-2026929125227",
-      "sitio": "El Destape",
-      "titulo": "Ahora el Gobierno culpó a EE.UU. y la guerra en Medio Oriente por la suba del Riesgo País",
-      "url": "https://www.eldestapeweb.com/politica/ahora-gobierno-culpo-ee-uu-guerra-medio-oriente-suba-riesgo-pais-2026929125227",
-      "detectado": "2026-09-29T17:06:35.040Z"
     }
   ]
 }
