@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-10-03T10:43:44.498Z",
+  "actualizado": "2026-10-03T15:17:44.421Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/regreso-paris-milei-pone-foco-agenda-libertaria-congreso-202610310319",
+      "sitio": "El Destape",
+      "titulo": "Milei aterrizó en Aeroparque luego de su participación en el Argentina Week de París",
+      "url": "https://www.eldestapeweb.com/politica/regreso-paris-milei-pone-foco-agenda-libertaria-congreso-202610310319",
+      "detectado": "2026-10-03T15:17:43.980Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-10-03T15:17:43.980Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/suspende-amistoso-seleccion-argentina-burkina-faso-no-pudo-viajar-dia-partido-2026102151751",
+      "sitio": "El Destape",
+      "titulo": "Burkina Faso confirmó vuelo a Buenos Aires y llegará al país horas antes del partido",
+      "url": "https://www.eldestapeweb.com/deportes/suspende-amistoso-seleccion-argentina-burkina-faso-no-pudo-viajar-dia-partido-2026102151751",
+      "detectado": "2026-10-03T15:17:43.980Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-no-ve-radiografia-empresas-sobreviven-costa-achicarse-2026103054",
       "sitio": "El Destape",
@@ -111,13 +132,6 @@
       "sitio": "El Destape",
       "titulo": "Argentina en venta: Caputo impulsó el “pasaporte de oro” para millonarios en París",
       "url": "https://www.eldestapeweb.com/economia/argentina-venta-caputo-impulso-pasaporte-oro-millonarios-paris-2026102121814",
-      "detectado": "2026-10-02T21:28:55.181Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
       "detectado": "2026-10-02T21:28:55.181Z"
     },
     {
@@ -406,20 +420,6 @@
       "titulo": "Ley de Tierras: LLA apela a una maniobra de emergencia para enfrentar opositores",
       "url": "https://www.eldestapeweb.com/politica/ley-tierras-gobierno-planifica-maniobra-emergencia-amenaza-oposicion-diputados-202693021015",
       "detectado": "2026-10-01T02:42:16.637Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15993-la-mesa-directiva-del-consejo-presente-en-san-martin",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Mesa Directiva del Consejo, presente en San Martín",
-      "url": "https://www.cpba.com.ar/noticias/item/15993-la-mesa-directiva-del-consejo-presente-en-san-martin",
-      "detectado": "2026-09-30T21:34:33.749Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15992-la-caja-tuvo-su-reunion-semanal-en-el-gran-buenos-aires",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Caja tuvo su reunión semanal en el Gran Buenos Aires",
-      "url": "https://www.cpba.com.ar/noticias/item/15992-la-caja-tuvo-su-reunion-semanal-en-el-gran-buenos-aires",
-      "detectado": "2026-09-30T21:34:33.749Z"
     }
   ]
 }
