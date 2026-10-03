@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-02T21:28:55.811Z",
+  "actualizado": "2026-10-03T02:30:45.810Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-03T02:30:45.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/samba-trabajador-barrios-populares-brasil-juegan-todo-eleccion-2026102191223",
+      "sitio": "El Destape",
+      "titulo": "El samba del trabajador: los barrios populares de Brasil se juegan todo en la elección",
+      "url": "https://www.eldestapeweb.com/internacionales/samba-trabajador-barrios-populares-brasil-juegan-todo-eleccion-2026102191223",
+      "detectado": "2026-10-03T02:30:45.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "sitio": "El Destape",
+      "titulo": "Por Pablo Giuliano (desde Brasil)",
+      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "detectado": "2026-10-03T02:30:45.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
+      "sitio": "El Destape",
+      "titulo": "Lo que se cocina en París: Milei y los gobernadores negocian la agenda del Congreso",
+      "url": "https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
+      "detectado": "2026-10-03T02:30:45.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-03T02:30:45.560Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-la-suma-no-remunerativa-de-80-000-continua-vigente/",
       "sitio": "Ignacio Online",
@@ -156,24 +191,10 @@
       "detectado": "2026-10-02T02:44:35.023Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-02T02:44:35.023Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
       "sitio": "El Destape",
       "titulo": "EE.UU. dejó solo a Milei por Malvinas: quieren \"desescalar\" el conflicto con Reino Unido",
       "url": "https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
-      "detectado": "2026-10-02T02:44:35.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
       "detectado": "2026-10-02T02:44:35.023Z"
     },
     {
@@ -399,27 +420,6 @@
       "titulo": "Grabois cruzó a los diputados de LLA: “¡Tienen a la Corte comprada!”",
       "url": "https://www.eldestapeweb.com/politica/grabois-cruzo-diputados-lla-tienen-corte-comprada-202693017841",
       "detectado": "2026-09-30T21:34:35.133Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-encuesta-javier-milei-angustia-bronca-dato-electoral-inesperado-inquieta-casa-rosada-202693015240",
-      "sitio": "El Destape",
-      "titulo": "Encuesta: el sacrificio del ajuste no valió la pena y la desaprobación es récord",
-      "url": "https://www.eldestapeweb.com/politica/nueva-encuesta-javier-milei-angustia-bronca-dato-electoral-inesperado-inquieta-casa-rosada-202693015240",
-      "detectado": "2026-09-30T21:34:35.133Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
-      "sitio": "Contadores en Red",
-      "titulo": "Régimen de precios de transferencia. Su reemplazo.",
-      "url": "https://contadoresenred.com/regimen-de-precios-de-transferencia-su-reemplazo/",
-      "detectado": "2026-09-30T17:04:20.797Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/utedyc-cct-804-23-nueva-escala-salarial-septiembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "UTEDYC CCT 804/23: nueva escala salarial septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/utedyc-cct-804-23-nueva-escala-salarial-septiembre-2026/",
-      "detectado": "2026-09-30T17:04:22.768Z"
     }
   ]
 }
