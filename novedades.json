@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-10-04T16:02:28.726Z",
+  "actualizado": "2026-10-04T20:32:44.122Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/cerro-votacion-brasil-crece-expectativa-espera-resultados-2026104165052",
+      "sitio": "El Destape",
+      "titulo": "Se cerró la votación en Brasil y crece la expectativa a la espera de los resultados",
+      "url": "https://www.eldestapeweb.com/internacionales/cerro-votacion-brasil-crece-expectativa-espera-resultados-2026104165052",
+      "detectado": "2026-10-04T20:32:43.579Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/suprema-fragilidad-esquema-sostiene-milei-20261040552",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "La oposición pidió una sesión especial por Ley de Tierras, discapacidad y endeudamiento",
       "url": "https://www.eldestapeweb.com/politica/oposicion-pidio-sesion-especial-jueves-15-ley-tierras-discapacidad-endeudamiento-2026101134934",
-      "detectado": "2026-10-01T17:34:45.534Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/rechazo-masivo-corte-intenta-despegarse-venta-tierras-extranjeros-no-ha-sido-resuelta-este-caso-20261019407",
-      "sitio": "El Destape",
-      "titulo": "Tras el rechazo masivo, la Corte se despega de la venta de Tierras: \"No ha sido resuelta\"",
-      "url": "https://www.eldestapeweb.com/politica/rechazo-masivo-corte-intenta-despegarse-venta-tierras-extranjeros-no-ha-sido-resuelta-este-caso-20261019407",
       "detectado": "2026-10-01T17:34:45.534Z"
     }
   ]
