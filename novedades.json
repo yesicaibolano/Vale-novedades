@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-04T03:01:45.758Z",
+  "actualizado": "2026-10-04T11:24:10.954Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/suprema-fragilidad-esquema-sostiene-milei-20261040552",
+      "sitio": "El Destape",
+      "titulo": "La suprema fragilidad del esquema que sostiene a Milei",
+      "url": "https://www.eldestapeweb.com/politica/suprema-fragilidad-esquema-sostiene-milei-20261040552",
+      "detectado": "2026-10-04T11:24:10.377Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/brasil-escenario-gran-batalla-geopolitica-global-20261040552",
+      "sitio": "El Destape",
+      "titulo": "Brasil es el escenario de “una gran batalla geopolítica global”",
+      "url": "https://www.eldestapeweb.com/internacionales/brasil-escenario-gran-batalla-geopolitica-global-20261040552",
+      "detectado": "2026-10-04T11:24:10.377Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/no-hay-dos-velocidades-serrucho-hay-recesion-economica-20261040552",
+      "sitio": "El Destape",
+      "titulo": "La crisis económica de Milei",
+      "url": "https://www.eldestapeweb.com/economia/no-hay-dos-velocidades-serrucho-hay-recesion-economica-20261040552",
+      "detectado": "2026-10-04T11:24:10.377Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/masterclass-mayoria-cree-hay-crisis-economica-peor-esta-venir-20261040552",
+      "sitio": "El Destape",
+      "titulo": "Masterclass: la mayoría cree que hay una crisis económica y que lo peor está por venir",
+      "url": "https://www.eldestapeweb.com/politica/masterclass-mayoria-cree-hay-crisis-economica-peor-esta-venir-20261040552",
+      "detectado": "2026-10-04T11:24:10.377Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-04T11:24:10.377Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/mira-trump-brasil-enfrenta-eleccion-importante-historia-2026103201133",
       "sitio": "El Destape",
@@ -289,13 +324,6 @@
       "detectado": "2026-10-02T11:26:43.375Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-02T11:26:43.375Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
       "sitio": "El Destape",
       "titulo": "A la oposición no le dan los números y el tiro de gracia al mega DNU de Milei corre riesgo",
@@ -392,34 +420,6 @@
       "titulo": "Tras el rechazo masivo, la Corte se despega de la venta de Tierras: \"No ha sido resuelta\"",
       "url": "https://www.eldestapeweb.com/politica/rechazo-masivo-corte-intenta-despegarse-venta-tierras-extranjeros-no-ha-sido-resuelta-este-caso-20261019407",
       "detectado": "2026-10-01T17:34:45.534Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/confirmado-messi-adquirio-primer-equipo-futbol-profesional-espana-2026101142741",
-      "sitio": "El Destape",
-      "titulo": "Confirmado: Messi adquirió su primer club de fútbol profesional en España",
-      "url": "https://www.eldestapeweb.com/deportes/confirmado-messi-adquirio-primer-equipo-futbol-profesional-espana-2026101142741",
-      "detectado": "2026-10-01T17:34:45.534Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
-      "sitio": "El Destape",
-      "titulo": "Poder desatado: Milei de fiesta en París, Bullrich de campaña en IDEA y la Corte de remate",
-      "url": "https://www.eldestapeweb.com/politica/poder-desatado-milei-fiesta-paris-bullrich-campana-idea-corte-remate-2026930101830",
-      "detectado": "2026-10-01T17:34:45.534Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-reglamenta-el-fondo-de-asistencia-laboral-fal-puntos-a-tener-en-cuenta/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA reglamenta el Fondo de Asistencia Laboral FAL. Puntos a tener en cuenta.",
-      "url": "https://contadoresenred.com/arca-reglamenta-el-fondo-de-asistencia-laboral-fal-puntos-a-tener-en-cuenta/",
-      "detectado": "2026-10-01T11:54:43.793Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-arca-reglamento-como-se-pagara-el-fondo-de-asistencia-laboral-desde-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "FAL: ARCA reglamentó cómo se pagará el Fondo de Asistencia Laboral desde noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/fal-arca-reglamento-como-se-pagara-el-fondo-de-asistencia-laboral-desde-noviembre-2026/",
-      "detectado": "2026-10-01T11:54:45.763Z"
     }
   ]
 }
