@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-04T20:32:44.122Z",
+  "actualizado": "2026-10-05T02:35:21.658Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-octubre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Servicio Doméstico: escala salarial octubre 2026",
+      "url": "https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-octubre-2026/",
+      "detectado": "2026-10-05T02:35:09.112Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/bolsonaro-celebro-adelanto-cambio-lula-promete-derrotarlo-balotaje-2026104215854",
+      "sitio": "El Destape",
+      "titulo": "Bolsonaro celebró y adelantó \"un cambio\", pero Lula promete \"derrotarlo\" en el balotaje",
+      "url": "https://www.eldestapeweb.com/internacionales/bolsonaro-celebro-adelanto-cambio-lula-promete-derrotarlo-balotaje-2026104215854",
+      "detectado": "2026-10-05T02:35:21.117Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-celebra-resultado-brasil-2026104225210",
+      "sitio": "El Destape",
+      "titulo": "El mercado ya celebra el resultado de Brasil",
+      "url": "https://www.eldestapeweb.com/economia/mercado-celebra-resultado-brasil-2026104225210",
+      "detectado": "2026-10-05T02:35:21.117Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/partido-liberal-avanzo-ambas-camaras-bolsonarismo-fortalece-congreso-2026104205916",
+      "sitio": "El Destape",
+      "titulo": "El Partido Liberal avanzó en ambas cámaras y bolsonarismo se fortalece en el Congreso",
+      "url": "https://www.eldestapeweb.com/internacionales/partido-liberal-avanzo-ambas-camaras-bolsonarismo-fortalece-congreso-2026104205916",
+      "detectado": "2026-10-05T02:35:21.117Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/michelle-bolsonaro-fue-electa-senadora-distrito-federal-brasil-2026104192548",
+      "sitio": "El Destape",
+      "titulo": "Michelle Bolsonaro fue electa senadora por el Distrito Federal de Brasil",
+      "url": "https://www.eldestapeweb.com/internacionales/michelle-bolsonaro-fue-electa-senadora-distrito-federal-brasil-2026104192548",
+      "detectado": "2026-10-05T02:35:21.117Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/cerro-votacion-brasil-crece-expectativa-espera-resultados-2026104165052",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Inflación de alimentos: lácteos y carnes explican la mayor parte de la suba de la semana",
       "url": "https://www.eldestapeweb.com/economia/inflacion-alimentos-lacteos-carnes-explican-mayor-parte-suba-semana-202610117120",
       "detectado": "2026-10-01T22:03:29.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/espana-villarruel-contradijo-milei-pidio-intervencion-estado-ia-202610116423",
-      "sitio": "El Destape",
-      "titulo": "En España, Villarruel contradijo a Milei y pidió \"intervención del Estado\" ante la IA",
-      "url": "https://www.eldestapeweb.com/politica/espana-villarruel-contradijo-milei-pidio-intervencion-estado-ia-202610116423",
-      "detectado": "2026-10-01T22:03:29.988Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2632-arca-res-gral-5907-26-reglamentacion-del-fondo-de-asistencia-laboral-fal.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ARCA - Res. Gral. 5907/26 - Reglamentación del Fondo de Asistencia Laboral (FAL)",
-      "url": "https://jorgevega.com.ar/laboral/2632-arca-res-gral-5907-26-reglamentacion-del-fondo-de-asistencia-laboral-fal.html",
-      "detectado": "2026-10-01T17:34:36.474Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15983-ahora-en-repro-analisis-fundamental-como-analizar-una-empresa-que-cotiza-en-bolsa",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Análisis fundamental: ¿Cómo analizar una empresa que cotiza en bolsa?",
-      "url": "https://www.cpba.com.ar/noticias/item/15983-ahora-en-repro-analisis-fundamental-como-analizar-una-empresa-que-cotiza-en-bolsa",
-      "detectado": "2026-10-01T17:34:43.910Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-respaldo-gobierno-le-advirtio-debe-generar-empleo-2026101124811",
-      "sitio": "El Destape",
-      "titulo": "El FMI respaldó al Gobierno pero le advirtió que debe generar empleo",
-      "url": "https://www.eldestapeweb.com/economia/fmi-respaldo-gobierno-le-advirtio-debe-generar-empleo-2026101124811",
-      "detectado": "2026-10-01T17:34:45.534Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-pidio-sesion-especial-jueves-15-ley-tierras-discapacidad-endeudamiento-2026101134934",
-      "sitio": "El Destape",
-      "titulo": "La oposición pidió una sesión especial por Ley de Tierras, discapacidad y endeudamiento",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-pidio-sesion-especial-jueves-15-ley-tierras-discapacidad-endeudamiento-2026101134934",
-      "detectado": "2026-10-01T17:34:45.534Z"
     }
   ]
 }
