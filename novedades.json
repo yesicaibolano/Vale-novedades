@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-05T02:35:21.658Z",
+  "actualizado": "2026-10-05T12:48:20.308Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-actualiza-la-tabla-de-reintegro-de-iva-a-turistas/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA actualiza la tabla de reintegro de IVA a turistas.",
+      "url": "https://contadoresenred.com/arca-actualiza-la-tabla-de-reintegro-de-iva-a-turistas/",
+      "detectado": "2026-10-05T12:48:04.205Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-personas-juridicas-a-partir-de-cuando-debe-usarse-el-servicio-web/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias Personas Jurídicas ¿A partir de cuándo debe usarse el servicio web?",
+      "url": "https://contadoresenred.com/ganancias-personas-juridicas-a-partir-de-cuando-debe-usarse-el-servicio-web/",
+      "detectado": "2026-10-05T12:48:04.205Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/factura-electronica-obligatoria-para-monotributo-social-desde-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Factura electrónica obligatoria para Monotributo Social desde noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/factura-electronica-obligatoria-para-monotributo-social-desde-noviembre-2026/",
+      "detectado": "2026-10-05T12:48:05.999Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-que-es-el-fondo-de-asistencia-laboral-y-como-funciona/",
+      "sitio": "Ignacio Online",
+      "titulo": "FAL: qué es el Fondo de Asistencia Laboral y cómo funciona",
+      "url": "https://www.ignacioonline.com.ar/fal-que-es-el-fondo-de-asistencia-laboral-y-como-funciona/",
+      "detectado": "2026-10-05T12:48:05.999Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-implementa-un-nuevo-servicio-web-para-presentar-las-declaraciones-juradas/",
+      "sitio": "Ignacio Online",
+      "titulo": "Ganancias Personas Jurídicas: ARCA implementa un nuevo servicio web para presentar las declaraciones juradas",
+      "url": "https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-implementa-un-nuevo-servicio-web-para-presentar-las-declaraciones-juradas/",
+      "detectado": "2026-10-05T12:48:05.999Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/viajantes-escala-salarial-septiembre-2026-cct-308-75/",
+      "sitio": "Ignacio Online",
+      "titulo": "Viajantes CCT 308/75: nueva escala salarial desde septiembre 2026",
+      "url": "https://www.ignacioonline.com.ar/viajantes-escala-salarial-septiembre-2026-cct-308-75/",
+      "detectado": "2026-10-05T12:48:05.999Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/bolsonaro-dio-batacazo-vencio-lula-brasil-va-dramatica-segunda-vuelta-2026104235940",
+      "sitio": "El Destape",
+      "titulo": "Bolsonaro dio el batacazo, venció a Lula y Brasil va a una dramática segunda vuelta",
+      "url": "https://www.eldestapeweb.com/internacionales/bolsonaro-dio-batacazo-vencio-lula-brasil-va-dramatica-segunda-vuelta-2026104235940",
+      "detectado": "2026-10-05T12:48:19.691Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "sitio": "El Destape",
+      "titulo": "Por Pablo Giuliano (desde Brasil)",
+      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "detectado": "2026-10-05T12:48:19.691Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/premio-nobel-medicina-tres-cientificos-reconocidos-uso-luz-estudiar-celulas-neuronas-202610572614",
+      "sitio": "El Destape",
+      "titulo": "El premio Nobel de Medicina: tres científicos galardonados por un llamativo descubrimiento",
+      "url": "https://www.eldestapeweb.com/internacionales/premio-nobel-medicina-tres-cientificos-reconocidos-uso-luz-estudiar-celulas-neuronas-202610572614",
+      "detectado": "2026-10-05T12:48:19.691Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/gana-derecha-oposicion-america-latina-casos-ultimas-elecciones-202610502948",
+      "sitio": "El Destape",
+      "titulo": "El avance de la derecha en América Latina coincide con las victorias de las oposiciones",
+      "url": "https://www.eldestapeweb.com/internacionales/gana-derecha-oposicion-america-latina-casos-ultimas-elecciones-202610502948",
+      "detectado": "2026-10-05T12:48:19.691Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/congreso-dnu-70-23-reeleccion-milei-manos-gobernadores-20261050519",
+      "sitio": "El Destape",
+      "titulo": "El Congreso, el DNU 70/23 y la reelección de Milei, en manos de los gobernadores",
+      "url": "https://www.eldestapeweb.com/politica/congreso-dnu-70-23-reeleccion-milei-manos-gobernadores-20261050519",
+      "detectado": "2026-10-05T12:48:19.691Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-escala-salarial-octubre-2026/",
       "sitio": "Ignacio Online",
@@ -212,13 +289,6 @@
       "detectado": "2026-10-03T02:30:45.560Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "sitio": "El Destape",
-      "titulo": "Por Pablo Giuliano (desde Brasil)",
-      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "detectado": "2026-10-03T02:30:45.560Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
       "sitio": "El Destape",
       "titulo": "Lo que se cocina en París: Milei y los gobernadores negocian la agenda del Congreso",
@@ -350,76 +420,6 @@
       "titulo": "Por Noelia Barral Grigera",
       "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
       "detectado": "2026-10-02T11:26:43.375Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/torturas-malvinas-causa-corte-cajonea-hace-4-anos-20261020534",
-      "sitio": "El Destape",
-      "titulo": "Torturas en Malvinas: la causa que la Corte cajonea hace 4 años",
-      "url": "https://www.eldestapeweb.com/politica/torturas-malvinas-causa-corte-cajonea-hace-4-anos-20261020534",
-      "detectado": "2026-10-02T11:26:43.375Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sociedad-corrio-derecha-valora-rol-estado-justicia-social-20261020534",
-      "sitio": "El Destape",
-      "titulo": "La sociedad se corrió a la derecha, pero valora el rol del Estado y la justicia social",
-      "url": "https://www.eldestapeweb.com/politica/sociedad-corrio-derecha-valora-rol-estado-justicia-social-20261020534",
-      "detectado": "2026-10-02T11:26:43.375Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
-      "sitio": "El Destape",
-      "titulo": "A la oposición no le dan los números y el tiro de gracia al mega DNU de Milei corre riesgo",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-no-le-dan-numeros-tiro-gracia-mega-dnu-milei-corre-riesgo-diputados-20261012207",
-      "detectado": "2026-10-02T02:44:35.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
-      "sitio": "El Destape",
-      "titulo": "EE.UU. dejó solo a Milei por Malvinas: quieren \"desescalar\" el conflicto con Reino Unido",
-      "url": "https://www.eldestapeweb.com/politica/ee-uu-dejo-solo-milei-malvinas-quieren-desescalar-conlifcto-reino-unido-202610119515",
-      "detectado": "2026-10-02T02:44:35.023Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/campana-brasil-legado-papa-francisco-da-pelea-avanzada-evangelica-pro-trump-2026101194858",
-      "sitio": "El Destape",
-      "titulo": "En Brasil, el legado del papa Francisco da pelea a la avanzada evangélica pro Trump",
-      "url": "https://www.eldestapeweb.com/internacionales/campana-brasil-legado-papa-francisco-da-pelea-avanzada-evangelica-pro-trump-2026101194858",
-      "detectado": "2026-10-02T02:44:35.023Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/el-10-de-noviembre-de-2026-sera-feriado-bancario-en-todo-el-pais-por-la-visita-del-papa-leon-xiv/",
-      "sitio": "Ignacio Online",
-      "titulo": "El 10 de noviembre de 2026 será feriado bancario en todo el país por la visita del Papa León XIV",
-      "url": "https://www.ignacioonline.com.ar/el-10-de-noviembre-de-2026-sera-feriado-bancario-en-todo-el-pais-por-la-visita-del-papa-leon-xiv/",
-      "detectado": "2026-10-01T22:03:16.398Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/distribucion-del-ingreso",
-      "sitio": "El Destape",
-      "titulo": "distribución del ingreso",
-      "url": "https://www.eldestapeweb.com/tag/distribucion-del-ingreso",
-      "detectado": "2026-10-01T22:03:29.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/torta-reparte-cada-vez-peor-ingresos-sectores-bajos-siguen-perdiendo-terreno-2026101164634",
-      "sitio": "El Destape",
-      "titulo": "La torta se reparte cada vez peor: los ingresos de sectores bajos siguen perdiendo terreno",
-      "url": "https://www.eldestapeweb.com/economia/torta-reparte-cada-vez-peor-ingresos-sectores-bajos-siguen-perdiendo-terreno-2026101164634",
-      "detectado": "2026-10-01T22:03:29.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-10-01T22:03:29.988Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-alimentos-lacteos-carnes-explican-mayor-parte-suba-semana-202610117120",
-      "sitio": "El Destape",
-      "titulo": "Inflación de alimentos: lácteos y carnes explican la mayor parte de la suba de la semana",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-alimentos-lacteos-carnes-explican-mayor-parte-suba-semana-202610117120",
-      "detectado": "2026-10-01T22:03:29.988Z"
     }
   ]
 }
