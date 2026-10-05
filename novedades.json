@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-05T12:48:20.308Z",
+  "actualizado": "2026-10-05T23:24:08.800Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15997-la-comision-de-ambito-municipal-llevo-su-agenda-a-general-pueyrredon",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Comisión de Ámbito Municipal llevó su agenda a General Pueyrredon",
+      "url": "https://www.cpba.com.ar/noticias/item/15997-la-comision-de-ambito-municipal-llevo-su-agenda-a-general-pueyrredon",
+      "detectado": "2026-10-05T23:24:07.001Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15995-el-consejo-presente-en-las-jornadas-de-sostenibilidad-etica-y-compliance-en-san-juan",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo, presente en las jornadas de Sostenibilidad, Ética y Compliance en San Juan",
+      "url": "https://www.cpba.com.ar/noticias/item/15995-el-consejo-presente-en-las-jornadas-de-sostenibilidad-etica-y-compliance-en-san-juan",
+      "detectado": "2026-10-05T23:24:07.002Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cree-bolsonaro-gana-balotaje-confia-triunfo-no-modificara-relacion-trump-2026105184513",
+      "sitio": "El Destape",
+      "titulo": "Milei cree que Bolsonaro gana el balotaje y que no modificará su relación con Trump",
+      "url": "https://www.eldestapeweb.com/politica/milei-cree-bolsonaro-gana-balotaje-confia-triunfo-no-modificara-relacion-trump-2026105184513",
+      "detectado": "2026-10-05T23:24:08.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-05T23:24:08.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-2027-marca-propia-deseo-presidencia-formula-milei-2026105191157",
+      "sitio": "El Destape",
+      "titulo": "Bullrich 2027, con marca propia: entre el deseo de la Presidencia y la fórmula con Milei",
+      "url": "https://www.eldestapeweb.com/politica/bullrich-2027-marca-propia-deseo-presidencia-formula-milei-2026105191157",
+      "detectado": "2026-10-05T23:24:08.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-consumo-rubro-alimentos-cayo-1-7-mensual-septiembre-3-interanual-2026105115939",
+      "sitio": "El Destape",
+      "titulo": "Crisis de consumo: el rubro alimentos cayó 1,7% mensual en septiembre y 3% interanual",
+      "url": "https://www.eldestapeweb.com/economia/crisis-consumo-rubro-alimentos-cayo-1-7-mensual-septiembre-3-interanual-2026105115939",
+      "detectado": "2026-10-05T23:24:08.244Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-10-05T23:24:08.244Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-actualiza-la-tabla-de-reintegro-de-iva-a-turistas/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Javier Milei presidente",
       "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-10-02T16:53:56.813Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/despues-discurso-milei-riesgo-pais-llega-maximo-ano-2026102125317",
-      "sitio": "El Destape",
-      "titulo": "Después del discurso de Milei, el riesgo país llega a su máximo en el año",
-      "url": "https://www.eldestapeweb.com/economia/despues-discurso-milei-riesgo-pais-llega-maximo-ano-2026102125317",
-      "detectado": "2026-10-02T16:53:56.814Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/iglesia-advirtio-papa-va-encontrar-argentina-cascoteada-pobreza-202610291938",
-      "sitio": "El Destape",
-      "titulo": "Antes de la visita de León XIV",
-      "url": "https://www.eldestapeweb.com/politica/iglesia-advirtio-papa-va-encontrar-argentina-cascoteada-pobreza-202610291938",
-      "detectado": "2026-10-02T16:53:56.814Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/presentan-cautelar-suspender-venta-tierras-irrestricta-extranjeros-2026102111619",
-      "sitio": "El Destape",
-      "titulo": "Presentan una cautelar para suspender la venta de tierras a extranjeros",
-      "url": "https://www.eldestapeweb.com/politica/presentan-cautelar-suspender-venta-tierras-irrestricta-extranjeros-2026102111619",
-      "detectado": "2026-10-02T16:53:56.814Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/cultura/murio-ricardo-soule-cantante-vox-dei-76-anos-202610213646",
-      "sitio": "El Destape",
-      "titulo": "Murió Ricardo Soulé, cantante de Vox Dei, a los 76 años",
-      "url": "https://www.eldestapeweb.com/cultura/murio-ricardo-soule-cantante-vox-dei-76-anos-202610213646",
-      "detectado": "2026-10-02T16:53:56.814Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/entidades-financieras-no-grandes-quedan-fuera-de-la-factura-de-credito-electronica-mipyme/",
-      "sitio": "Contadores en Red",
-      "titulo": "Entidades financieras no grandes quedan fuera de la Factura de Crédito Electrónica MiPyME.",
-      "url": "https://contadoresenred.com/entidades-financieras-no-grandes-quedan-fuera-de-la-factura-de-credito-electronica-mipyme/",
-      "detectado": "2026-10-02T11:26:31.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dnu-70-23-oposicion-aun-le-faltan-14-diputados-quorum-202610203147",
-      "sitio": "El Destape",
-      "titulo": "DNU 70/23: a la oposición aún le faltan 14 diputados para el quórum",
-      "url": "https://www.eldestapeweb.com/politica/dnu-70-23-oposicion-aun-le-faltan-14-diputados-quorum-202610203147",
-      "detectado": "2026-10-02T11:26:43.375Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-10-02T11:26:43.375Z"
     }
   ]
 }
