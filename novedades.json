@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-05T23:24:08.800Z",
+  "actualizado": "2026-10-06T03:29:22.562Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-acelera-negociaciones-fija-fin-mes-limite-suspender-paso-20261060518",
+      "sitio": "El Destape",
+      "titulo": "Santilli acelera las negociaciones y fija fin de mes como límite para suspender las PASO",
+      "url": "https://www.eldestapeweb.com/politica/santilli-acelera-negociaciones-fija-fin-mes-limite-suspender-paso-20261060518",
+      "detectado": "2026-10-06T03:29:19.489Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-06T03:29:19.489Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-quienes-29-diputados-dudan-votar-2026105212938",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: quiénes son los 29 diputados que dudan cómo votar",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-quienes-29-diputados-dudan-votar-2026105212938",
+      "detectado": "2026-10-06T03:29:19.489Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-10-06T03:29:19.489Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-despide-seleccion-argentina-ultimo-tango-buenos-aires-2026105211815",
+      "sitio": "El Destape",
+      "titulo": "Messi se despide de la Selección Argentina con su \"último tango\" en Buenos Aires",
+      "url": "https://www.eldestapeweb.com/deportes/messi-despide-seleccion-argentina-ultimo-tango-buenos-aires-2026105211815",
+      "detectado": "2026-10-06T03:29:19.489Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15997-la-comision-de-ambito-municipal-llevo-su-agenda-a-general-pueyrredon",
       "sitio": "CPBA (Buenos Aires)",
@@ -198,13 +233,6 @@
       "detectado": "2026-10-04T11:24:10.377Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-04T11:24:10.377Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/mira-trump-brasil-enfrenta-eleccion-importante-historia-2026103201133",
       "sitio": "El Destape",
       "titulo": "En la mira de Trump, Brasil se enfrenta a la elección más importante de la historia",
@@ -392,34 +420,6 @@
       "titulo": "Fuerte gesto: Lula cierra su campaña con la bandera de \"Las Malvinas son argentinas\"",
       "url": "https://www.eldestapeweb.com/politica/fuerte-gesto-lula-cierra-campana-bandera-malvinas-argentinas-2026102142358",
       "detectado": "2026-10-02T21:28:55.181Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-venta-caputo-impulso-pasaporte-oro-millonarios-paris-2026102121814",
-      "sitio": "El Destape",
-      "titulo": "Argentina en venta: Caputo impulsó el “pasaporte de oro” para millonarios en París",
-      "url": "https://www.eldestapeweb.com/economia/argentina-venta-caputo-impulso-pasaporte-oro-millonarios-paris-2026102121814",
-      "detectado": "2026-10-02T21:28:55.181Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/casas-particulares-se-sigue-pagando-la-suma-no-remunerativa/",
-      "sitio": "Ignacio Online",
-      "titulo": "Casas Particulares: ¿se sigue pagando la suma no remunerativa?",
-      "url": "https://www.ignacioonline.com.ar/casas-particulares-se-sigue-pagando-la-suma-no-remunerativa/",
-      "detectado": "2026-10-02T16:53:46.520Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15994-ahora-en-repro-delegar-sin-abdicar-el-criterio-profesional-en-tiempos-de-ia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Delegar sin abdicar: El criterio profesional en tiempos de IA",
-      "url": "https://www.cpba.com.ar/noticias/item/15994-ahora-en-repro-delegar-sin-abdicar-el-criterio-profesional-en-tiempos-de-ia",
-      "detectado": "2026-10-02T16:53:55.462Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-10-02T16:53:56.813Z"
     }
   ]
 }
