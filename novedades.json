@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-06T12:17:36.300Z",
+  "actualizado": "2026-10-06T21:56:23.445Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-corte-analiza-otro-caso-similar-cecim-convoca-conjueces-falta-acuerdo-202610616335",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: la Corte analiza otro caso y convoca conjueces por falta de acuerdo",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-corte-analiza-otro-caso-similar-cecim-convoca-conjueces-falta-acuerdo-202610616335",
+      "detectado": "2026-10-06T21:56:22.803Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-06T21:56:22.803Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/contrabando-promueve-ola-importadora-destruyo-12-mil-empleos-estado-perdio-s-3-000-millones-2026106155517",
+      "sitio": "El Destape",
+      "titulo": "El contrabando destruyó 12 mil empleos y el Estado perdió U$S 3.000 millones",
+      "url": "https://www.eldestapeweb.com/economia/contrabando-promueve-ola-importadora-destruyo-12-mil-empleos-estado-perdio-s-3-000-millones-2026106155517",
+      "detectado": "2026-10-06T21:56:22.803Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/despedida-messi-seleccion-argentina-juega-benin-fiesta-10-monumental-2026106163611",
+      "sitio": "El Destape",
+      "titulo": "Messi se despide de la Selección: tiene su último partido en el estadio Monumental",
+      "url": "https://www.eldestapeweb.com/deportes/despedida-messi-seleccion-argentina-juega-benin-fiesta-10-monumental-2026106163611",
+      "detectado": "2026-10-06T21:56:22.803Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/apurados-caputo-gobierno-arranca-sprint-final-intentar-suspender-paso-antes-noviembre-2026106144625",
+      "sitio": "El Destape",
+      "titulo": "Apurado por Caputo, el Gobierno arranca el sprint final para suspender las PASO en octubre",
+      "url": "https://www.eldestapeweb.com/politica/apurados-caputo-gobierno-arranca-sprint-final-intentar-suspender-paso-antes-noviembre-2026106144625",
+      "detectado": "2026-10-06T21:56:22.803Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/curso-honorarios-directores-socios-administradores/",
       "sitio": "Contadores en Red",
@@ -331,13 +366,6 @@
       "detectado": "2026-10-03T20:16:15.320Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-03T20:16:15.320Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/burkina-faso-enfrentara-seleccion-argentina-varias-figuras-motivo-ausencias-202610314651",
       "sitio": "El Destape",
       "titulo": "Burkina Faso enfrentará a la Selección Argentina sin varias figuras: el motivo",
@@ -392,34 +420,6 @@
       "titulo": "Resaca de la fiesta en París, se activó la campaña del miedo y una jugada de billar",
       "url": "https://www.eldestapeweb.com/politica/resaca-fiesta-paris-activo-campana-miedo-jugada-billar-2026103054",
       "detectado": "2026-10-03T10:43:43.903Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fingir-demencia-acampe-crisis-vivienda-frena-jovenes-madrid-2026103054",
-      "sitio": "El Destape",
-      "titulo": "De \"fingir demencia\" al acampe: la crisis de vivienda que frena a los jóvenes en Madrid",
-      "url": "https://www.eldestapeweb.com/internacionales/fingir-demencia-acampe-crisis-vivienda-frena-jovenes-madrid-2026103054",
-      "detectado": "2026-10-03T10:43:43.903Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-10-03T02:30:45.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/samba-trabajador-barrios-populares-brasil-juegan-todo-eleccion-2026102191223",
-      "sitio": "El Destape",
-      "titulo": "El samba del trabajador: los barrios populares de Brasil se juegan todo en la elección",
-      "url": "https://www.eldestapeweb.com/internacionales/samba-trabajador-barrios-populares-brasil-juegan-todo-eleccion-2026102191223",
-      "detectado": "2026-10-03T02:30:45.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
-      "sitio": "El Destape",
-      "titulo": "Lo que se cocina en París: Milei y los gobernadores negocian la agenda del Congreso",
-      "url": "https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
-      "detectado": "2026-10-03T02:30:45.560Z"
     }
   ]
 }
