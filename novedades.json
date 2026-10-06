@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-06T03:29:22.562Z",
+  "actualizado": "2026-10-06T12:17:36.300Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/curso-honorarios-directores-socios-administradores/",
+      "sitio": "Contadores en Red",
+      "titulo": "Curso Online | Honorarios de directores y socios administradores en los distintos impuestos",
+      "url": "https://contadoresenred.com/curso-honorarios-directores-socios-administradores/",
+      "detectado": "2026-10-06T12:17:26.582Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/curso-ganancias-retenciones-4ta-categoria/",
+      "sitio": "Contadores en Red",
+      "titulo": "Curso Online | Ganancias: Retenciones de 4ta Categoría – Trabajadores y otros beneficiarios",
+      "url": "https://contadoresenred.com/curso-ganancias-retenciones-4ta-categoria/",
+      "detectado": "2026-10-06T12:17:26.582Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/vacaciones-2026-que-cambio-con-la-reforma-laboral-y-como-se-calculan/",
+      "sitio": "Ignacio Online",
+      "titulo": "Vacaciones 2026: qué cambió con la reforma laboral y cómo se calculan",
+      "url": "https://www.ignacioonline.com.ar/vacaciones-2026-que-cambio-con-la-reforma-laboral-y-como-se-calculan/",
+      "detectado": "2026-10-06T12:17:28.551Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/despedida-messi-excombatiente-malvinas-cantara-himno-adios-capitan-seleccion-argentina-2026105213047",
+      "sitio": "El Destape",
+      "titulo": "Despedida de Messi: un excombatiente de Malvinas cantará el himno en el adiós al capitán",
+      "url": "https://www.eldestapeweb.com/deportes/despedida-messi-excombatiente-malvinas-cantara-himno-adios-capitan-seleccion-argentina-2026105213047",
+      "detectado": "2026-10-06T12:17:35.920Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-10-06T12:17:35.920Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-organizaciones-movilizaran-fallo-corte-202610672920",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras: organizaciones movilizarán en contra del fallo de la Corte",
+      "url": "https://www.eldestapeweb.com/politica/ley-tierras-organizaciones-movilizaran-fallo-corte-202610672920",
+      "detectado": "2026-10-06T12:17:35.920Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/ciencia--video-fancis-halzen-premio-nobel-de-fisica-2026-por-sus-descubrimientos-sobre-los-neutrinos-202610682639",
+      "sitio": "El Destape",
+      "titulo": "Fancis Halzen, Premio Nobel de Física 2026 por sus descubrimientos sobre los neutrinos",
+      "url": "https://www.eldestapeweb.com/internacionales/ciencia--video-fancis-halzen-premio-nobel-de-fisica-2026-por-sus-descubrimientos-sobre-los-neutrinos-202610682639",
+      "detectado": "2026-10-06T12:17:35.920Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-acelera-negociaciones-fija-fin-mes-limite-suspender-paso-20261060518",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Lo que se cocina en París: Milei y los gobernadores negocian la agenda del Congreso",
       "url": "https://www.eldestapeweb.com/politica/cocina-paris-milei-gobernadores-negocian-agenda-congreso-202610220836",
       "detectado": "2026-10-03T02:30:45.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-03T02:30:45.560Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-la-suma-no-remunerativa-de-80-000-continua-vigente/",
-      "sitio": "Ignacio Online",
-      "titulo": "Sanidad: la suma no remunerativa de $80.000 continúa vigente",
-      "url": "https://www.ignacioonline.com.ar/sanidad-la-suma-no-remunerativa-de-80-000-continua-vigente/",
-      "detectado": "2026-10-02T21:28:50.497Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Derecho de Ejercicio Profesional: 5º anticipo de 2026",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "detectado": "2026-10-02T21:28:53.831Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuestro Consejo participó de la III Convención Panhispánica de Lenguaje Claro y Accesible",
-      "url": "https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
-      "detectado": "2026-10-02T21:28:53.831Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-le-rogo-confianza-empresarios-confirmo-gobierno-hara-reforma-previsional-despues-elecciones-2026102152422",
-      "sitio": "El Destape",
-      "titulo": "Caputo confirmó que habrá una reforma previsional, pero después de las elecciones",
-      "url": "https://www.eldestapeweb.com/economia/caputo-le-rogo-confianza-empresarios-confirmo-gobierno-hara-reforma-previsional-despues-elecciones-2026102152422",
-      "detectado": "2026-10-02T21:28:55.181Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "sitio": "El Destape",
-      "titulo": "Luiz Inácio Lula da Silva",
-      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "detectado": "2026-10-02T21:28:55.181Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fuerte-gesto-lula-cierra-campana-bandera-malvinas-argentinas-2026102142358",
-      "sitio": "El Destape",
-      "titulo": "Fuerte gesto: Lula cierra su campaña con la bandera de \"Las Malvinas son argentinas\"",
-      "url": "https://www.eldestapeweb.com/politica/fuerte-gesto-lula-cierra-campana-bandera-malvinas-argentinas-2026102142358",
-      "detectado": "2026-10-02T21:28:55.181Z"
     }
   ]
 }
