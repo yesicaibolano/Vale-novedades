@@ -1,6 +1,90 @@
 {
-  "actualizado": "2026-10-07T12:08:59.516Z",
+  "actualizado": "2026-10-07T22:20:11.820Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/curso-modernizacion-laboral-casas-particulares-trabajo-agrario/",
+      "sitio": "Contadores en Red",
+      "titulo": "Curso Online | Modernización Laboral: cambios en los regímenes de Casas Particulares y Trabajo Agrario",
+      "url": "https://contadoresenred.com/curso-modernizacion-laboral-casas-particulares-trabajo-agrario/",
+      "detectado": "2026-10-07T22:20:05.085Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/curso-extincion-contrato-trabajo-ley-2780/",
+      "sitio": "Contadores en Red",
+      "titulo": "Curso Online | Extinción del Contrato de Trabajo: Ley 27.802 – Técnica y práctica.",
+      "url": "https://contadoresenred.com/curso-extincion-contrato-trabajo-ley-2780/",
+      "detectado": "2026-10-07T22:20:05.085Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/caba-elimina-la-declaracion-jurada-anual-del-registro-de-empleadores-online/",
+      "sitio": "Ignacio Online",
+      "titulo": "CABA elimina la declaración jurada anual del Registro de Empleadores Online",
+      "url": "https://www.ignacioonline.com.ar/caba-elimina-la-declaracion-jurada-anual-del-registro-de-empleadores-online/",
+      "detectado": "2026-10-07T22:20:06.475Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16000-nuestro-consejo-recibe-a-los-nuevos-matriculados-que-prestaron-juramento",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuestro Consejo recibió a los nuevos matriculados que prestaron juramento",
+      "url": "https://www.cpba.com.ar/noticias/item/16000-nuestro-consejo-recibe-a-los-nuevos-matriculados-que-prestaron-juramento",
+      "detectado": "2026-10-07T22:20:09.717Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Encuentro Anual de Profesionales en Ciencias Económicas del Ámbito Municipal celebra su 41° edición",
+      "url": "https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
+      "detectado": "2026-10-07T22:20:09.717Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15999-tandil-reconocio-a-profesionales-y-nuevos-jubilados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Tandil reconoció a profesionales y nuevos jubilados",
+      "url": "https://www.cpba.com.ar/noticias/item/15999-tandil-reconocio-a-profesionales-y-nuevos-jubilados",
+      "detectado": "2026-10-07T22:20:09.717Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16001-ahora-en-repro-si-el-monotributo-crece-el-trabajo-del-profesional-tambien",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Si el monotributo crece, ¿el trabajo del profesional también?",
+      "url": "https://www.cpba.com.ar/noticias/item/16001-ahora-en-repro-si-el-monotributo-crece-el-trabajo-del-profesional-tambien",
+      "detectado": "2026-10-07T22:20:09.717Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/indec-derrumbaron-industria-construccion-agosto-2026107165150",
+      "sitio": "El Destape",
+      "titulo": "Indec: se derrumbaron la industria y la construcción en agosto",
+      "url": "https://www.eldestapeweb.com/economia/indec-derrumbaron-industria-construccion-agosto-2026107165150",
+      "detectado": "2026-10-07T22:20:10.960Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/comunicado-lionel-messi-retiro-seleccion-argentina-guino-maradona-voy-extranar-20261071567",
+      "sitio": "El Destape",
+      "titulo": "El comunicado de Messi tras su retiro de la Selección: \"Los voy a extrañar\"",
+      "url": "https://www.eldestapeweb.com/deportes/comunicado-lionel-messi-retiro-seleccion-argentina-guino-maradona-voy-extranar-20261071567",
+      "detectado": "2026-10-07T22:20:10.960Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/noviembre-pondra-cuerdas-luis-caputo-gobierno-2026107153739",
+      "sitio": "El Destape",
+      "titulo": "Noviembre pondrá contra las cuerdas a Luis Caputo en el Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/noviembre-pondra-cuerdas-luis-caputo-gobierno-2026107153739",
+      "detectado": "2026-10-07T22:20:10.960Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-07T22:20:10.960Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nuevo-desplante-bullrich-milei-le-pulgar-fiscal-caso-chocobar-2026107173813",
+      "sitio": "El Destape",
+      "titulo": "Nuevo desplante de Bullrich a Milei: le bajó el pulgar a la fiscal del caso Chocobar",
+      "url": "https://www.eldestapeweb.com/politica/nuevo-desplante-bullrich-milei-le-pulgar-fiscal-caso-chocobar-2026107173813",
+      "detectado": "2026-10-07T22:20:10.960Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-despidio-seleccion-fiesta-dejo-legado-lleno-recuerdos-2026106233714",
       "sitio": "El Destape",
@@ -177,13 +261,6 @@
       "detectado": "2026-10-05T23:24:08.244Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-05T23:24:08.244Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-2027-marca-propia-deseo-presidencia-formula-milei-2026105191157",
       "sitio": "El Destape",
       "titulo": "Bullrich 2027, con marca propia: entre el deseo de la Presidencia y la fórmula con Milei",
@@ -343,83 +420,6 @@
       "titulo": "La crisis económica de Milei",
       "url": "https://www.eldestapeweb.com/economia/no-hay-dos-velocidades-serrucho-hay-recesion-economica-20261040552",
       "detectado": "2026-10-04T11:24:10.377Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/masterclass-mayoria-cree-hay-crisis-economica-peor-esta-venir-20261040552",
-      "sitio": "El Destape",
-      "titulo": "Masterclass: la mayoría cree que hay una crisis económica y que lo peor está por venir",
-      "url": "https://www.eldestapeweb.com/politica/masterclass-mayoria-cree-hay-crisis-economica-peor-esta-venir-20261040552",
-      "detectado": "2026-10-04T11:24:10.377Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/mira-trump-brasil-enfrenta-eleccion-importante-historia-2026103201133",
-      "sitio": "El Destape",
-      "titulo": "En la mira de Trump, Brasil se enfrenta a la elección más importante de la historia",
-      "url": "https://www.eldestapeweb.com/internacionales/mira-trump-brasil-enfrenta-eleccion-importante-historia-2026103201133",
-      "detectado": "2026-10-04T03:01:45.145Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/paradoja-brasilena-202610319508",
-      "sitio": "El Destape",
-      "titulo": "La paradoja brasileña",
-      "url": "https://www.eldestapeweb.com/economia/paradoja-brasilena-202610319508",
-      "detectado": "2026-10-04T03:01:45.145Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-04T03:01:45.145Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-seleccion-argentina-goleada-burkina-faso-202610323649",
-      "sitio": "El Destape",
-      "titulo": "Uno por uno: los puntajes de la Selección Argentina en la goleada ante Burkina Faso",
-      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-seleccion-argentina-goleada-burkina-faso-202610323649",
-      "detectado": "2026-10-04T03:01:45.145Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-galluzzo",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Galluzzo",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-galluzzo",
-      "detectado": "2026-10-04T03:01:45.145Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/luis-caputo-nego-recesion-culpo-kirchnerismo-escalada-riesgo-pais-no-razonable-202610314258",
-      "sitio": "El Destape",
-      "titulo": "Caputo negó una recesión y culpó al kirchnerismo por la escalada del Riesgo País",
-      "url": "https://www.eldestapeweb.com/economia/luis-caputo-nego-recesion-culpo-kirchnerismo-escalada-riesgo-pais-no-razonable-202610314258",
-      "detectado": "2026-10-03T20:16:15.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/finde-venta-tierras-extranjeros-salidas-posibles-revertir-escandaloso-fallo-corte-2026103125813",
-      "sitio": "El Destape",
-      "titulo": "Venta de tierras a extranjeros: las salidas para revertir el escandaloso fallo de la Corte",
-      "url": "https://www.eldestapeweb.com/politica/finde-venta-tierras-extranjeros-salidas-posibles-revertir-escandaloso-fallo-corte-2026103125813",
-      "detectado": "2026-10-03T20:16:15.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/burkina-faso-enfrentara-seleccion-argentina-varias-figuras-motivo-ausencias-202610314651",
-      "sitio": "El Destape",
-      "titulo": "Burkina Faso enfrentará a la Selección Argentina sin varias figuras: el motivo",
-      "url": "https://www.eldestapeweb.com/deportes/burkina-faso-enfrentara-seleccion-argentina-varias-figuras-motivo-ausencias-202610314651",
-      "detectado": "2026-10-03T20:16:15.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/imposible-solo-tarda-poco-2026103154335",
-      "sitio": "El Destape",
-      "titulo": "Lo imposible sólo tarda un poco más",
-      "url": "https://www.eldestapeweb.com/sociedad/imposible-solo-tarda-poco-2026103154335",
-      "detectado": "2026-10-03T20:16:15.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/regreso-paris-milei-pone-foco-agenda-libertaria-congreso-202610310319",
-      "sitio": "El Destape",
-      "titulo": "Milei aterrizó en Aeroparque luego de su participación en el Argentina Week de París",
-      "url": "https://www.eldestapeweb.com/politica/regreso-paris-milei-pone-foco-agenda-libertaria-congreso-202610310319",
-      "detectado": "2026-10-03T15:17:43.980Z"
     }
   ]
 }
