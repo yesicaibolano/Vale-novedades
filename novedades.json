@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-06T21:56:23.445Z",
+  "actualizado": "2026-10-07T02:53:21.108Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-despidio-seleccion-fiesta-dejo-legado-lleno-recuerdos-2026106233714",
+      "sitio": "El Destape",
+      "titulo": "Messi se despidió de la Selección con una fiesta y dejó un legado lleno de recuerdos",
+      "url": "https://www.eldestapeweb.com/deportes/messi-despidio-seleccion-fiesta-dejo-legado-lleno-recuerdos-2026106233714",
+      "detectado": "2026-10-07T02:53:20.600Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/lionel-messi-lagrimas-despedida-seleccion-argentina-primero-pienso-viejo-2026106225349",
+      "sitio": "El Destape",
+      "titulo": "Lionel Messi, hasta las lágrimas en su despedida de la Selección: \"Pienso en mi viejo\"",
+      "url": "https://www.eldestapeweb.com/deportes/lionel-messi-lagrimas-despedida-seleccion-argentina-primero-pienso-viejo-2026106225349",
+      "detectado": "2026-10-07T02:53:20.600Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/tentacion-regalarle-derecha-electorado-decisivo-202610623446",
+      "sitio": "El Destape",
+      "titulo": "La tentación de regalarle a la derecha el electorado decisivo",
+      "url": "https://www.eldestapeweb.com/politica/tentacion-regalarle-derecha-electorado-decisivo-202610623446",
+      "detectado": "2026-10-07T02:53:20.600Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-oculta-gasto-crece-pregunta-hay-detras-superavit-fiscal-2026106192215",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno oculta gasto y crece una pregunta: ¿qué hay detrás del superávit fiscal?",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-oculta-gasto-crece-pregunta-hay-detras-superavit-fiscal-2026106192215",
+      "detectado": "2026-10-07T02:53:20.600Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-07T02:53:20.600Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-corte-analiza-otro-caso-similar-cecim-convoca-conjueces-falta-acuerdo-202610616335",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Milei aterrizó en Aeroparque luego de su participación en el Argentina Week de París",
       "url": "https://www.eldestapeweb.com/politica/regreso-paris-milei-pone-foco-agenda-libertaria-congreso-202610310319",
       "detectado": "2026-10-03T15:17:43.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-10-03T15:17:43.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/suspende-amistoso-seleccion-argentina-burkina-faso-no-pudo-viajar-dia-partido-2026102151751",
-      "sitio": "El Destape",
-      "titulo": "Burkina Faso confirmó vuelo a Buenos Aires y llegará al país horas antes del partido",
-      "url": "https://www.eldestapeweb.com/deportes/suspende-amistoso-seleccion-argentina-burkina-faso-no-pudo-viajar-dia-partido-2026102151751",
-      "detectado": "2026-10-03T15:17:43.980Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-no-ve-radiografia-empresas-sobreviven-costa-achicarse-2026103054",
-      "sitio": "El Destape",
-      "titulo": "El ajuste que no se ve: radiografía de las empresas que sobreviven a costa de achicarse",
-      "url": "https://www.eldestapeweb.com/economia/ajuste-no-ve-radiografia-empresas-sobreviven-costa-achicarse-2026103054",
-      "detectado": "2026-10-03T10:43:43.903Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-03T10:43:43.903Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/resaca-fiesta-paris-activo-campana-miedo-jugada-billar-2026103054",
-      "sitio": "El Destape",
-      "titulo": "Resaca de la fiesta en París, se activó la campaña del miedo y una jugada de billar",
-      "url": "https://www.eldestapeweb.com/politica/resaca-fiesta-paris-activo-campana-miedo-jugada-billar-2026103054",
-      "detectado": "2026-10-03T10:43:43.903Z"
     }
   ]
 }
