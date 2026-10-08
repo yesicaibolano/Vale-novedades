@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-08T12:19:32.054Z",
+  "actualizado": "2026-10-08T22:32:48.825Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-que-pasa-si-el-unico-empleado-es-un-director/",
+      "sitio": "Ignacio Online",
+      "titulo": "FAL: qué pasa si el único empleado es un director",
+      "url": "https://www.ignacioonline.com.ar/fal-que-pasa-si-el-unico-empleado-es-un-director/",
+      "detectado": "2026-10-08T22:32:34.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-caputo-bausili-perdieron-mil-millones-dolares-timba-oro-202610817285",
+      "sitio": "El Destape",
+      "titulo": "Escándalo libertario",
+      "url": "https://www.eldestapeweb.com/economia/milei-caputo-bausili-perdieron-mil-millones-dolares-timba-oro-202610817285",
+      "detectado": "2026-10-08T22:32:48.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dice-denuncia-agn-perdida-millones-usd-vinculados-oro-bcra-2026108183027",
+      "sitio": "El Destape",
+      "titulo": "Qué dice la denuncia de la AGN sobre los millones de USD que perdió el BCRA",
+      "url": "https://www.eldestapeweb.com/economia/dice-denuncia-agn-perdida-millones-usd-vinculados-oro-bcra-2026108183027",
+      "detectado": "2026-10-08T22:32:48.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/corte-suprema-apura-abordaje-segundo-caso-ley-tierras-litigantes-piden-intervencion-amigos-tribunal-202610814546",
+      "sitio": "El Destape",
+      "titulo": "La Corte Suprema apura el abordaje del segundo caso sobre Ley de Tierras",
+      "url": "https://www.eldestapeweb.com/politica/corte-suprema-apura-abordaje-segundo-caso-ley-tierras-litigantes-piden-intervencion-amigos-tribunal-202610814546",
+      "detectado": "2026-10-08T22:32:48.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-08T22:32:48.432Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-convoco-comisiones-diputados-planifica-rescate-dnu-70-2023-202610816517",
+      "sitio": "El Destape",
+      "titulo": "LLA convocó a las comisiones de Diputados y planifica el rescate del DNU 70/2023",
+      "url": "https://www.eldestapeweb.com/politica/lla-convoco-comisiones-diputados-planifica-rescate-dnu-70-2023-202610816517",
+      "detectado": "2026-10-08T22:32:48.432Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/el-fin-del-registro-de-empleadores-on-line-caba/",
       "sitio": "Contadores en Red",
@@ -212,13 +254,6 @@
       "detectado": "2026-10-06T21:56:22.803Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-06T21:56:22.803Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/contrabando-promueve-ola-importadora-destruyo-12-mil-empleos-estado-perdio-s-3-000-millones-2026106155517",
       "sitio": "El Destape",
       "titulo": "El contrabando destruyó 12 mil empleos y el Estado perdió U$S 3.000 millones",
@@ -385,41 +420,6 @@
       "titulo": "Factura electrónica obligatoria para Monotributo Social desde noviembre 2026",
       "url": "https://www.ignacioonline.com.ar/factura-electronica-obligatoria-para-monotributo-social-desde-noviembre-2026/",
       "detectado": "2026-10-05T12:48:05.999Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-que-es-el-fondo-de-asistencia-laboral-y-como-funciona/",
-      "sitio": "Ignacio Online",
-      "titulo": "FAL: qué es el Fondo de Asistencia Laboral y cómo funciona",
-      "url": "https://www.ignacioonline.com.ar/fal-que-es-el-fondo-de-asistencia-laboral-y-como-funciona/",
-      "detectado": "2026-10-05T12:48:05.999Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-implementa-un-nuevo-servicio-web-para-presentar-las-declaraciones-juradas/",
-      "sitio": "Ignacio Online",
-      "titulo": "Ganancias Personas Jurídicas: ARCA implementa un nuevo servicio web para presentar las declaraciones juradas",
-      "url": "https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-implementa-un-nuevo-servicio-web-para-presentar-las-declaraciones-juradas/",
-      "detectado": "2026-10-05T12:48:05.999Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/viajantes-escala-salarial-septiembre-2026-cct-308-75/",
-      "sitio": "Ignacio Online",
-      "titulo": "Viajantes CCT 308/75: nueva escala salarial desde septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/viajantes-escala-salarial-septiembre-2026-cct-308-75/",
-      "detectado": "2026-10-05T12:48:05.999Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/bolsonaro-dio-batacazo-vencio-lula-brasil-va-dramatica-segunda-vuelta-2026104235940",
-      "sitio": "El Destape",
-      "titulo": "Bolsonaro dio el batacazo, venció a Lula y Brasil va a una dramática segunda vuelta",
-      "url": "https://www.eldestapeweb.com/internacionales/bolsonaro-dio-batacazo-vencio-lula-brasil-va-dramatica-segunda-vuelta-2026104235940",
-      "detectado": "2026-10-05T12:48:19.691Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "sitio": "El Destape",
-      "titulo": "Por Pablo Giuliano (desde Brasil)",
-      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "detectado": "2026-10-05T12:48:19.691Z"
     }
   ]
 }
