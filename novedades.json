@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-08T22:32:48.825Z",
+  "actualizado": "2026-10-09T03:16:46.972Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ganancias 2025: ARCA prorrogó hasta el 30 de octubre la presentación de la DDJJ",
+      "url": "https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
+      "detectado": "2026-10-09T03:16:44.944Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16004-cpba-on-line-fuera-de-servicio-por-mantenimiento-programado",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "CPBA On-Line fuera de servicio por mantenimiento programado",
+      "url": "https://www.cpba.com.ar/noticias/item/16004-cpba-on-line-fuera-de-servicio-por-mantenimiento-programado",
+      "detectado": "2026-10-09T03:16:44.944Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
+      "sitio": "El Destape",
+      "titulo": "Actividad económica",
+      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
+      "detectado": "2026-10-09T03:16:46.395Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-advierte-argentina-entro-oficialmente-recesion-202610822386",
+      "sitio": "El Destape",
+      "titulo": "El mercado advierte que Argentina ya entró oficialmente en recesión",
+      "url": "https://www.eldestapeweb.com/economia/mercado-advierte-argentina-entro-oficialmente-recesion-202610822386",
+      "detectado": "2026-10-09T03:16:46.395Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/rompe-pasa-peronismo-si-derogan-paso-2026108234516",
+      "sitio": "El Destape",
+      "titulo": "¿Se rompe? Qué pasa en el peronismo si se derogan las PASO",
+      "url": "https://www.eldestapeweb.com/politica/rompe-pasa-peronismo-si-derogan-paso-2026108234516",
+      "detectado": "2026-10-09T03:16:46.395Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/apuro-embajada-ee-uu-lla-abre-comisiones-senado-tratado-patentes-2026108212439",
+      "sitio": "El Destape",
+      "titulo": "Con el apuro de la Embajada EE.UU, LLA abre las comisiones para el tratado de Patentes",
+      "url": "https://www.eldestapeweb.com/politica/apuro-embajada-ee-uu-lla-abre-comisiones-senado-tratado-patentes-2026108212439",
+      "detectado": "2026-10-09T03:16:46.395Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-piden-brasil-chile-uruguay-paraguay-no-facilitar-explotacion-petrolera-20261090530",
+      "sitio": "El Destape",
+      "titulo": "Carta de diputados y senadores de UP",
+      "url": "https://www.eldestapeweb.com/politica/malvinas-piden-brasil-chile-uruguay-paraguay-no-facilitar-explotacion-petrolera-20261090530",
+      "detectado": "2026-10-09T03:16:46.395Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-que-pasa-si-el-unico-empleado-es-un-director/",
       "sitio": "Ignacio Online",
@@ -371,55 +420,6 @@
       "titulo": "El Consejo, presente en las jornadas de Sostenibilidad, Ética y Compliance en San Juan",
       "url": "https://www.cpba.com.ar/noticias/item/15995-el-consejo-presente-en-las-jornadas-de-sostenibilidad-etica-y-compliance-en-san-juan",
       "detectado": "2026-10-05T23:24:07.002Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-cree-bolsonaro-gana-balotaje-confia-triunfo-no-modificara-relacion-trump-2026105184513",
-      "sitio": "El Destape",
-      "titulo": "Milei cree que Bolsonaro gana el balotaje y que no modificará su relación con Trump",
-      "url": "https://www.eldestapeweb.com/politica/milei-cree-bolsonaro-gana-balotaje-confia-triunfo-no-modificara-relacion-trump-2026105184513",
-      "detectado": "2026-10-05T23:24:08.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-2027-marca-propia-deseo-presidencia-formula-milei-2026105191157",
-      "sitio": "El Destape",
-      "titulo": "Bullrich 2027, con marca propia: entre el deseo de la Presidencia y la fórmula con Milei",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-2027-marca-propia-deseo-presidencia-formula-milei-2026105191157",
-      "detectado": "2026-10-05T23:24:08.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-consumo-rubro-alimentos-cayo-1-7-mensual-septiembre-3-interanual-2026105115939",
-      "sitio": "El Destape",
-      "titulo": "Crisis de consumo: el rubro alimentos cayó 1,7% mensual en septiembre y 3% interanual",
-      "url": "https://www.eldestapeweb.com/economia/crisis-consumo-rubro-alimentos-cayo-1-7-mensual-septiembre-3-interanual-2026105115939",
-      "detectado": "2026-10-05T23:24:08.244Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "sitio": "El Destape",
-      "titulo": "Por Cristian Carrillo",
-      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
-      "detectado": "2026-10-05T23:24:08.244Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-actualiza-la-tabla-de-reintegro-de-iva-a-turistas/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA actualiza la tabla de reintegro de IVA a turistas.",
-      "url": "https://contadoresenred.com/arca-actualiza-la-tabla-de-reintegro-de-iva-a-turistas/",
-      "detectado": "2026-10-05T12:48:04.205Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ganancias-personas-juridicas-a-partir-de-cuando-debe-usarse-el-servicio-web/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ganancias Personas Jurídicas ¿A partir de cuándo debe usarse el servicio web?",
-      "url": "https://contadoresenred.com/ganancias-personas-juridicas-a-partir-de-cuando-debe-usarse-el-servicio-web/",
-      "detectado": "2026-10-05T12:48:04.205Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/factura-electronica-obligatoria-para-monotributo-social-desde-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Factura electrónica obligatoria para Monotributo Social desde noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/factura-electronica-obligatoria-para-monotributo-social-desde-noviembre-2026/",
-      "detectado": "2026-10-05T12:48:05.999Z"
     }
   ]
 }
