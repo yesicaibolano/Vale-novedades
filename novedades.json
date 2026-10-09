@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-09T12:09:53.120Z",
+  "actualizado": "2026-10-09T21:55:18.430Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2634-ley-27-826-regimen-penal-y-procedimiento-tributario-inocencia-fiscal-ii.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Ley 27.826 - Régimen Penal y Procedimiento Tributario ( Inocencia Fiscal II )",
+      "url": "https://jorgevega.com.ar/impuestos/2634-ley-27-826-regimen-penal-y-procedimiento-tributario-inocencia-fiscal-ii.html",
+      "detectado": "2026-10-09T21:55:04.619Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16005-3-ronda-de-consultas-tributarias-de-arba-en-moron",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "3ª Ronda de Consultas Tributarias de ARBA en Morón",
+      "url": "https://www.cpba.com.ar/noticias/item/16005-3-ronda-de-consultas-tributarias-de-arba-en-moron",
+      "detectado": "2026-10-09T21:55:09.108Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16007-ahora-en-repro-ganancias-2025-despues-de-las-prorrogas-beneficios-del-regimen-simplificado",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Ganancias 2025, después de las prórrogas: Beneficios del Régimen Simplificado",
+      "url": "https://www.cpba.com.ar/noticias/item/16007-ahora-en-repro-ganancias-2025-despues-de-las-prorrogas-beneficios-del-regimen-simplificado",
+      "detectado": "2026-10-09T21:55:09.108Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/extranjerizacion-tierra-corte-alegal-salvar-milei-2026109172225",
+      "sitio": "El Destape",
+      "titulo": "Extranjerización de la tierra: una Corte alegal para salvar a Milei",
+      "url": "https://www.eldestapeweb.com/politica/extranjerizacion-tierra-corte-alegal-salvar-milei-2026109172225",
+      "detectado": "2026-10-09T21:55:17.891Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/denunciaron-penalmente-caputo-bausili-timba-oro-revelo-agn-2026109135419",
+      "sitio": "El Destape",
+      "titulo": "Denunciaron penalmente a Caputo y Bausili por la timba con el oro que reveló la AGN",
+      "url": "https://www.eldestapeweb.com/economia/denunciaron-penalmente-caputo-bausili-timba-oro-revelo-agn-2026109135419",
+      "detectado": "2026-10-09T21:55:17.891Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-09T21:55:17.891Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bcra-perdio-vez-timba-financiera-respaldada-oro-2026109114439",
+      "sitio": "El Destape",
+      "titulo": "El BCRA perdió más de una vez en la timba financiera respaldada por el oro",
+      "url": "https://www.eldestapeweb.com/economia/bcra-perdio-vez-timba-financiera-respaldada-oro-2026109114439",
+      "detectado": "2026-10-09T21:55:17.891Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-09T21:55:17.891Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arca-fija-tope-diario-y-suma-prohibiciones-al-trafico-fronterizo/",
       "sitio": "Contadores en Red",
@@ -317,13 +373,6 @@
       "detectado": "2026-10-07T02:53:20.600Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-10-07T02:53:20.600Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-corte-analiza-otro-caso-similar-cecim-convoca-conjueces-falta-acuerdo-202610616335",
       "sitio": "El Destape",
       "titulo": "Ley de Tierras: la Corte analiza otro caso y convoca conjueces por falta de acuerdo",
@@ -371,55 +420,6 @@
       "titulo": "Vacaciones 2026: qué cambió con la reforma laboral y cómo se calculan",
       "url": "https://www.ignacioonline.com.ar/vacaciones-2026-que-cambio-con-la-reforma-laboral-y-como-se-calculan/",
       "detectado": "2026-10-06T12:17:28.551Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/despedida-messi-excombatiente-malvinas-cantara-himno-adios-capitan-seleccion-argentina-2026105213047",
-      "sitio": "El Destape",
-      "titulo": "Despedida de Messi: un excombatiente de Malvinas cantará el himno en el adiós al capitán",
-      "url": "https://www.eldestapeweb.com/deportes/despedida-messi-excombatiente-malvinas-cantara-himno-adios-capitan-seleccion-argentina-2026105213047",
-      "detectado": "2026-10-06T12:17:35.920Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-10-06T12:17:35.920Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-organizaciones-movilizaran-fallo-corte-202610672920",
-      "sitio": "El Destape",
-      "titulo": "Ley de Tierras: organizaciones movilizarán en contra del fallo de la Corte",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-organizaciones-movilizaran-fallo-corte-202610672920",
-      "detectado": "2026-10-06T12:17:35.920Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/ciencia--video-fancis-halzen-premio-nobel-de-fisica-2026-por-sus-descubrimientos-sobre-los-neutrinos-202610682639",
-      "sitio": "El Destape",
-      "titulo": "Fancis Halzen, Premio Nobel de Física 2026 por sus descubrimientos sobre los neutrinos",
-      "url": "https://www.eldestapeweb.com/internacionales/ciencia--video-fancis-halzen-premio-nobel-de-fisica-2026-por-sus-descubrimientos-sobre-los-neutrinos-202610682639",
-      "detectado": "2026-10-06T12:17:35.920Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-acelera-negociaciones-fija-fin-mes-limite-suspender-paso-20261060518",
-      "sitio": "El Destape",
-      "titulo": "Santilli acelera las negociaciones y fija fin de mes como límite para suspender las PASO",
-      "url": "https://www.eldestapeweb.com/politica/santilli-acelera-negociaciones-fija-fin-mes-limite-suspender-paso-20261060518",
-      "detectado": "2026-10-06T03:29:19.489Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-06T03:29:19.489Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-quienes-29-diputados-dudan-votar-2026105212938",
-      "sitio": "El Destape",
-      "titulo": "Ley de Tierras: quiénes son los 29 diputados que dudan cómo votar",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-quienes-29-diputados-dudan-votar-2026105212938",
-      "detectado": "2026-10-06T03:29:19.489Z"
     }
   ]
 }
