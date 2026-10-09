@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-10-09T03:16:46.972Z",
+  "actualizado": "2026-10-09T12:09:53.120Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-fija-tope-diario-y-suma-prohibiciones-al-trafico-fronterizo/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA fija tope diario y suma prohibiciones al tráfico fronterizo.",
+      "url": "https://contadoresenred.com/arca-fija-tope-diario-y-suma-prohibiciones-al-trafico-fronterizo/",
+      "detectado": "2026-10-09T12:09:37.442Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ley-27-826-inocencia-fiscal-ii-amplia-ganancias-simplificada-y-baja-multas/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ley 27.826 Inocencia Fiscal II. Puntos a tener en cuenta",
+      "url": "https://contadoresenred.com/ley-27-826-inocencia-fiscal-ii-amplia-ganancias-simplificada-y-baja-multas/",
+      "detectado": "2026-10-09T12:09:37.442Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/premio-nobel-de-la-paz",
+      "sitio": "El Destape",
+      "titulo": "Premio Nobel de la Paz",
+      "url": "https://www.eldestapeweb.com/tag/premio-nobel-de-la-paz",
+      "detectado": "2026-10-09T12:09:52.548Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/entregaron-nobel-paz-jueza-sudafricana-202610974047",
+      "sitio": "El Destape",
+      "titulo": "Entregan el Nobel de la Paz a una jueza que acusó a Israel de cometer un genocidio en Gaza",
+      "url": "https://www.eldestapeweb.com/internacionales/entregaron-nobel-paz-jueza-sudafricana-202610974047",
+      "detectado": "2026-10-09T12:09:52.548Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
       "sitio": "CPBA (Buenos Aires)",
@@ -392,34 +420,6 @@
       "titulo": "Ley de Tierras: quiénes son los 29 diputados que dudan cómo votar",
       "url": "https://www.eldestapeweb.com/politica/ley-tierras-quienes-29-diputados-dudan-votar-2026105212938",
       "detectado": "2026-10-06T03:29:19.489Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-10-06T03:29:19.489Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/messi-despide-seleccion-argentina-ultimo-tango-buenos-aires-2026105211815",
-      "sitio": "El Destape",
-      "titulo": "Messi se despide de la Selección Argentina con su \"último tango\" en Buenos Aires",
-      "url": "https://www.eldestapeweb.com/deportes/messi-despide-seleccion-argentina-ultimo-tango-buenos-aires-2026105211815",
-      "detectado": "2026-10-06T03:29:19.489Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15997-la-comision-de-ambito-municipal-llevo-su-agenda-a-general-pueyrredon",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Comisión de Ámbito Municipal llevó su agenda a General Pueyrredon",
-      "url": "https://www.cpba.com.ar/noticias/item/15997-la-comision-de-ambito-municipal-llevo-su-agenda-a-general-pueyrredon",
-      "detectado": "2026-10-05T23:24:07.001Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15995-el-consejo-presente-en-las-jornadas-de-sostenibilidad-etica-y-compliance-en-san-juan",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo, presente en las jornadas de Sostenibilidad, Ética y Compliance en San Juan",
-      "url": "https://www.cpba.com.ar/noticias/item/15995-el-consejo-presente-en-las-jornadas-de-sostenibilidad-etica-y-compliance-en-san-juan",
-      "detectado": "2026-10-05T23:24:07.002Z"
     }
   ]
 }
