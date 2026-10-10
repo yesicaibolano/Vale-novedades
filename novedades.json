@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-10-09T21:55:18.430Z",
+  "actualizado": "2026-10-10T02:56:30.213Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-quiere-patear-deuda-proximo-gobierno-2026109205056",
+      "sitio": "El Destape",
+      "titulo": "Caputo quiere patear deuda para el próximo Gobierno",
+      "url": "https://www.eldestapeweb.com/economia/caputo-quiere-patear-deuda-proximo-gobierno-2026109205056",
+      "detectado": "2026-10-10T02:56:29.906Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/energia/vaca-muerta-techint-logro-adhesion-rigi-mayor-inversion-historia-2026109195310",
+      "sitio": "El Destape",
+      "titulo": "Vaca Muerta: Techint logró la adhesión al RIGI de la mayor inversión de su historia",
+      "url": "https://www.eldestapeweb.com/energia/vaca-muerta-techint-logro-adhesion-rigi-mayor-inversion-historia-2026109195310",
+      "detectado": "2026-10-10T02:56:29.906Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-bellato",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Bellato",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-bellato",
+      "detectado": "2026-10-10T02:56:29.906Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/impuestos/2634-ley-27-826-regimen-penal-y-procedimiento-tributario-inocencia-fiscal-ii.html",
       "sitio": "Jorge Vega",
@@ -399,27 +420,6 @@
       "titulo": "Apurado por Caputo, el Gobierno arranca el sprint final para suspender las PASO en octubre",
       "url": "https://www.eldestapeweb.com/politica/apurados-caputo-gobierno-arranca-sprint-final-intentar-suspender-paso-antes-noviembre-2026106144625",
       "detectado": "2026-10-06T21:56:22.803Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/curso-honorarios-directores-socios-administradores/",
-      "sitio": "Contadores en Red",
-      "titulo": "Curso Online | Honorarios de directores y socios administradores en los distintos impuestos",
-      "url": "https://contadoresenred.com/curso-honorarios-directores-socios-administradores/",
-      "detectado": "2026-10-06T12:17:26.582Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/curso-ganancias-retenciones-4ta-categoria/",
-      "sitio": "Contadores en Red",
-      "titulo": "Curso Online | Ganancias: Retenciones de 4ta Categoría – Trabajadores y otros beneficiarios",
-      "url": "https://contadoresenred.com/curso-ganancias-retenciones-4ta-categoria/",
-      "detectado": "2026-10-06T12:17:26.582Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/vacaciones-2026-que-cambio-con-la-reforma-laboral-y-como-se-calculan/",
-      "sitio": "Ignacio Online",
-      "titulo": "Vacaciones 2026: qué cambió con la reforma laboral y cómo se calculan",
-      "url": "https://www.ignacioonline.com.ar/vacaciones-2026-que-cambio-con-la-reforma-laboral-y-como-se-calculan/",
-      "detectado": "2026-10-06T12:17:28.551Z"
     }
   ]
 }
