@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-10T02:56:30.213Z",
+  "actualizado": "2026-10-10T11:27:25.860Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/trabajar-cobrar-menos-brecha-ingresos-disparo-trabajadores-202610100536",
+      "sitio": "El Destape",
+      "titulo": "Trabajar más y cobrar menos: la brecha de ingresos se disparó entre trabajadores",
+      "url": "https://www.eldestapeweb.com/economia/trabajar-cobrar-menos-brecha-ingresos-disparo-trabajadores-202610100536",
+      "detectado": "2026-10-10T11:27:25.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-10T11:27:25.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gesto-nuevo-fallo-corte-suprema-ley-tierras-salvo-milei-202610100536",
+      "sitio": "El Destape",
+      "titulo": "Cómo se gestó el nuevo fallo de la Corte Suprema sobre Ley de Tierras que salvó a Milei",
+      "url": "https://www.eldestapeweb.com/politica/gesto-nuevo-fallo-corte-suprema-ley-tierras-salvo-milei-202610100536",
+      "detectado": "2026-10-10T11:27:25.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-10T11:27:25.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-espana",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en España",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-espana",
+      "detectado": "2026-10-10T11:27:25.294Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-quiere-patear-deuda-proximo-gobierno-2026109205056",
       "sitio": "El Destape",
@@ -254,13 +289,6 @@
       "detectado": "2026-10-08T03:10:47.531Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-08T03:10:47.531Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/opinion/frustracion-democratica-20261080523",
       "sitio": "El Destape",
       "titulo": "La frustración democrática",
@@ -352,13 +380,6 @@
       "detectado": "2026-10-07T22:20:10.960Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-07T22:20:10.960Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/nuevo-desplante-bullrich-milei-le-pulgar-fiscal-caso-chocobar-2026107173813",
       "sitio": "El Destape",
       "titulo": "Nuevo desplante de Bullrich a Milei: le bajó el pulgar a la fiscal del caso Chocobar",
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Ley de Tierras: la Corte analiza otro caso y convoca conjueces por falta de acuerdo",
       "url": "https://www.eldestapeweb.com/politica/ley-tierras-corte-analiza-otro-caso-similar-cecim-convoca-conjueces-falta-acuerdo-202610616335",
-      "detectado": "2026-10-06T21:56:22.803Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/contrabando-promueve-ola-importadora-destruyo-12-mil-empleos-estado-perdio-s-3-000-millones-2026106155517",
-      "sitio": "El Destape",
-      "titulo": "El contrabando destruyó 12 mil empleos y el Estado perdió U$S 3.000 millones",
-      "url": "https://www.eldestapeweb.com/economia/contrabando-promueve-ola-importadora-destruyo-12-mil-empleos-estado-perdio-s-3-000-millones-2026106155517",
-      "detectado": "2026-10-06T21:56:22.803Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/despedida-messi-seleccion-argentina-juega-benin-fiesta-10-monumental-2026106163611",
-      "sitio": "El Destape",
-      "titulo": "Messi se despide de la Selección: tiene su último partido en el estadio Monumental",
-      "url": "https://www.eldestapeweb.com/deportes/despedida-messi-seleccion-argentina-juega-benin-fiesta-10-monumental-2026106163611",
-      "detectado": "2026-10-06T21:56:22.803Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/apurados-caputo-gobierno-arranca-sprint-final-intentar-suspender-paso-antes-noviembre-2026106144625",
-      "sitio": "El Destape",
-      "titulo": "Apurado por Caputo, el Gobierno arranca el sprint final para suspender las PASO en octubre",
-      "url": "https://www.eldestapeweb.com/politica/apurados-caputo-gobierno-arranca-sprint-final-intentar-suspender-paso-antes-noviembre-2026106144625",
       "detectado": "2026-10-06T21:56:22.803Z"
     }
   ]
