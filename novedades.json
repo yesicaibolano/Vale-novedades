@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-11T02:25:57.185Z",
+  "actualizado": "2026-10-11T11:41:02.219Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/agua-turbia-gran-remate-beneficia-amigos-milei-afecta-millones-202610110519",
+      "sitio": "El Destape",
+      "titulo": "Agua turbia: el gran remate que beneficia a los amigos de Milei y afecta a millones",
+      "url": "https://www.eldestapeweb.com/politica/agua-turbia-gran-remate-beneficia-amigos-milei-afecta-millones-202610110519",
+      "detectado": "2026-10-11T11:41:01.740Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/insoportable-continuidad-fracaso-202610110519",
+      "sitio": "El Destape",
+      "titulo": "La insoportable continuidad del fracaso",
+      "url": "https://www.eldestapeweb.com/economia/insoportable-continuidad-fracaso-202610110519",
+      "detectado": "2026-10-11T11:41:01.740Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-10-11T11:41:01.740Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
+      "sitio": "El Destape",
+      "titulo": "Movimientos de Axel y Cristina aceleran las definiciones en el peronismo",
+      "url": "https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
+      "detectado": "2026-10-11T11:41:01.740Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-11T11:41:01.740Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-ultra-ricos-democracia-20261010213019",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Sin salida: cada vez más argentinos creen que la mejora económica no llega al bolsillo",
       "url": "https://www.eldestapeweb.com/economia/salida-cada-vez-argentinos-creen-mejora-economica-no-llega-bolsillo-20261080523",
       "detectado": "2026-10-08T03:10:47.531Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/frustracion-democratica-20261080523",
-      "sitio": "El Destape",
-      "titulo": "La frustración democrática",
-      "url": "https://www.eldestapeweb.com/opinion/frustracion-democratica-20261080523",
-      "detectado": "2026-10-08T03:10:47.531Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-08T03:10:47.531Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/horas-apertura-sobres-aysa-up-denuncio-irregularidades-privatizacion-20261080523",
-      "sitio": "El Destape",
-      "titulo": "A horas de la apertura de sobres por AySA, UP denunció irregularidades en la privatización",
-      "url": "https://www.eldestapeweb.com/politica/horas-apertura-sobres-aysa-up-denuncio-irregularidades-privatizacion-20261080523",
-      "detectado": "2026-10-08T03:10:47.531Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/curso-modernizacion-laboral-casas-particulares-trabajo-agrario/",
-      "sitio": "Contadores en Red",
-      "titulo": "Curso Online | Modernización Laboral: cambios en los regímenes de Casas Particulares y Trabajo Agrario",
-      "url": "https://contadoresenred.com/curso-modernizacion-laboral-casas-particulares-trabajo-agrario/",
-      "detectado": "2026-10-07T22:20:05.085Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/curso-extincion-contrato-trabajo-ley-2780/",
-      "sitio": "Contadores en Red",
-      "titulo": "Curso Online | Extinción del Contrato de Trabajo: Ley 27.802 – Técnica y práctica.",
-      "url": "https://contadoresenred.com/curso-extincion-contrato-trabajo-ley-2780/",
-      "detectado": "2026-10-07T22:20:05.085Z"
     }
   ]
 }
