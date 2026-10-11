@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-10-11T11:41:02.219Z",
+  "actualizado": "2026-10-11T16:51:19.649Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-papa-leon-xiv-sera-operado-previo-visita-argentina-2026101110913",
+      "sitio": "El Destape",
+      "titulo": "Alerta: el papa León XIV será operado previo a su visita a la Argentina",
+      "url": "https://www.eldestapeweb.com/politica/alerta-papa-leon-xiv-sera-operado-previo-visita-argentina-2026101110913",
+      "detectado": "2026-10-11T16:51:19.109Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/encuentro-plurinacional",
+      "sitio": "El Destape",
+      "titulo": "Encuentro Plurinacional",
+      "url": "https://www.eldestapeweb.com/tag/encuentro-plurinacional",
+      "detectado": "2026-10-11T16:51:19.110Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuentro-plurinacional-cordoba-feminismo-recupera-potencia-tsunami-20261010214536",
+      "sitio": "El Destape",
+      "titulo": "Encuentro Plurinacional en Córdoba: el feminismo recupera su potencia de tsunami",
+      "url": "https://www.eldestapeweb.com/politica/encuentro-plurinacional-cordoba-feminismo-recupera-potencia-tsunami-20261010214536",
+      "detectado": "2026-10-11T16:51:19.110Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/agua-turbia-gran-remate-beneficia-amigos-milei-afecta-millones-202610110519",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "Premio Nobel De Literatura",
       "url": "https://www.eldestapeweb.com/tag/premio-nobel-de-literatura",
       "detectado": "2026-10-08T12:19:31.606Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/la-escritora-canadiense-anne-carson-gana-el-premio-nobel-de-literatura-2026",
-      "sitio": "El Destape",
-      "titulo": "Otorgan el Nobel de Literatura a la poeta canadiense Anne Carson",
-      "url": "https://www.eldestapeweb.com/internacionales/la-escritora-canadiense-anne-carson-gana-el-premio-nobel-de-literatura-2026",
-      "detectado": "2026-10-08T12:19:31.606Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-2026-la-guia-rapida-de-lo-que-todo-liquidador-de-la-construccion-necesita-tener-presente/",
-      "sitio": "Ignacio Online",
-      "titulo": "UOCRA 2026: la guía rápida de lo que todo liquidador de la construcción necesita tener presente",
-      "url": "https://www.ignacioonline.com.ar/uocra-2026-la-guia-rapida-de-lo-que-todo-liquidador-de-la-construccion-necesita-tener-presente/",
-      "detectado": "2026-10-08T03:10:43.241Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/salida-cada-vez-argentinos-creen-mejora-economica-no-llega-bolsillo-20261080523",
-      "sitio": "El Destape",
-      "titulo": "Sin salida: cada vez más argentinos creen que la mejora económica no llega al bolsillo",
-      "url": "https://www.eldestapeweb.com/economia/salida-cada-vez-argentinos-creen-mejora-economica-no-llega-bolsillo-20261080523",
-      "detectado": "2026-10-08T03:10:47.531Z"
     }
   ]
 }
