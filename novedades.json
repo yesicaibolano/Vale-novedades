@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-10T20:46:27.297Z",
+  "actualizado": "2026-10-11T02:25:57.185Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-ultra-ricos-democracia-20261010213019",
+      "sitio": "El Destape",
+      "titulo": "La guerra de los ultra ricos contra la democracia",
+      "url": "https://www.eldestapeweb.com/politica/guerra-ultra-ricos-democracia-20261010213019",
+      "detectado": "2026-10-11T02:25:56.779Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-10-11T02:25:56.779Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/privatizacion-aysa-piden-frenar-entrega-empresa-manos-privadas-20261010213019",
+      "sitio": "El Destape",
+      "titulo": "Privatización de Aysa: piden frenar la entrega de la empresa a manos privadas",
+      "url": "https://www.eldestapeweb.com/economia/privatizacion-aysa-piden-frenar-entrega-empresa-manos-privadas-20261010213019",
+      "detectado": "2026-10-11T02:25:56.779Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-10-11T02:25:56.779Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/lula-busca-remontada-abstencionistas-redes-nueva-agenda-derecha-20261010145336",
+      "sitio": "El Destape",
+      "titulo": "Lula busca la remontada: abstencionistas, redes y una nueva agenda contra la derecha",
+      "url": "https://www.eldestapeweb.com/internacionales/lula-busca-remontada-abstencionistas-redes-nueva-agenda-derecha-20261010145336",
+      "detectado": "2026-10-11T02:25:56.779Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/neutralizada-cgt-ilusiona-ser-celestina-pj-2026101015241",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Curso Online | Extinción del Contrato de Trabajo: Ley 27.802 – Técnica y práctica.",
       "url": "https://contadoresenred.com/curso-extincion-contrato-trabajo-ley-2780/",
       "detectado": "2026-10-07T22:20:05.085Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/caba-elimina-la-declaracion-jurada-anual-del-registro-de-empleadores-online/",
-      "sitio": "Ignacio Online",
-      "titulo": "CABA elimina la declaración jurada anual del Registro de Empleadores Online",
-      "url": "https://www.ignacioonline.com.ar/caba-elimina-la-declaracion-jurada-anual-del-registro-de-empleadores-online/",
-      "detectado": "2026-10-07T22:20:06.475Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16000-nuestro-consejo-recibe-a-los-nuevos-matriculados-que-prestaron-juramento",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuestro Consejo recibió a los nuevos matriculados que prestaron juramento",
-      "url": "https://www.cpba.com.ar/noticias/item/16000-nuestro-consejo-recibe-a-los-nuevos-matriculados-que-prestaron-juramento",
-      "detectado": "2026-10-07T22:20:09.717Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Encuentro Anual de Profesionales en Ciencias Económicas del Ámbito Municipal celebra su 41° edición",
-      "url": "https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
-      "detectado": "2026-10-07T22:20:09.717Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15999-tandil-reconocio-a-profesionales-y-nuevos-jubilados",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Tandil reconoció a profesionales y nuevos jubilados",
-      "url": "https://www.cpba.com.ar/noticias/item/15999-tandil-reconocio-a-profesionales-y-nuevos-jubilados",
-      "detectado": "2026-10-07T22:20:09.717Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16001-ahora-en-repro-si-el-monotributo-crece-el-trabajo-del-profesional-tambien",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Si el monotributo crece, ¿el trabajo del profesional también?",
-      "url": "https://www.cpba.com.ar/noticias/item/16001-ahora-en-repro-si-el-monotributo-crece-el-trabajo-del-profesional-tambien",
-      "detectado": "2026-10-07T22:20:09.717Z"
     }
   ]
 }
