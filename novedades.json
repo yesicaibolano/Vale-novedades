@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-10-11T21:07:31.292Z",
+  "actualizado": "2026-10-12T02:50:17.821Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/ministerio-de-economia",
+      "sitio": "El Destape",
+      "titulo": "Ministerio de Economía",
+      "url": "https://www.eldestapeweb.com/tag/ministerio-de-economia",
+      "detectado": "2026-10-12T02:50:17.166Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/menem-descarto-salida-caputo-no-hay-dudas-continuidad-20261011212248",
+      "sitio": "El Destape",
+      "titulo": "Menem descartó una salida de Caputo: “No hay dudas sobre su continuidad\"",
+      "url": "https://www.eldestapeweb.com/politica/menem-descarto-salida-caputo-no-hay-dudas-continuidad-20261011212248",
+      "detectado": "2026-10-12T02:50:17.166Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-racing-vs-belgrano-forma-legal-riesgos-2026101113023",
+      "sitio": "El Destape",
+      "titulo": "Racing perdió con Belgrano y el Cilindro se convirtió en un \"polvorín\" contra Milito",
+      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-racing-vs-belgrano-forma-legal-riesgos-2026101113023",
+      "detectado": "2026-10-12T02:50:17.166Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/no-fue-solo-2025-bcra-cambio-estrategia-inversiones-oro-volvio-perder-2026-2026101116236",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "Qué dice la denuncia de la AGN sobre los millones de USD que perdió el BCRA",
       "url": "https://www.eldestapeweb.com/economia/dice-denuncia-agn-perdida-millones-usd-vinculados-oro-bcra-2026108183027",
       "detectado": "2026-10-08T22:32:48.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/corte-suprema-apura-abordaje-segundo-caso-ley-tierras-litigantes-piden-intervencion-amigos-tribunal-202610814546",
-      "sitio": "El Destape",
-      "titulo": "La Corte Suprema apura el abordaje del segundo caso sobre Ley de Tierras",
-      "url": "https://www.eldestapeweb.com/politica/corte-suprema-apura-abordaje-segundo-caso-ley-tierras-litigantes-piden-intervencion-amigos-tribunal-202610814546",
-      "detectado": "2026-10-08T22:32:48.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-convoco-comisiones-diputados-planifica-rescate-dnu-70-2023-202610816517",
-      "sitio": "El Destape",
-      "titulo": "LLA convocó a las comisiones de Diputados y planifica el rescate del DNU 70/2023",
-      "url": "https://www.eldestapeweb.com/politica/lla-convoco-comisiones-diputados-planifica-rescate-dnu-70-2023-202610816517",
-      "detectado": "2026-10-08T22:32:48.432Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/el-fin-del-registro-de-empleadores-on-line-caba/",
-      "sitio": "Contadores en Red",
-      "titulo": "El fin del Registro de Empleadores On Line CABA",
-      "url": "https://contadoresenred.com/el-fin-del-registro-de-empleadores-on-line-caba/",
-      "detectado": "2026-10-08T12:19:24.762Z"
     }
   ]
 }
