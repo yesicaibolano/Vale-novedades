@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-12T13:39:07.109Z",
+  "actualizado": "2026-10-12T23:52:04.517Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/razones-condenan-milei-derrota-peligro-trump-intento-salvarse-via-batalla-cultural-20261012181019",
+      "sitio": "El Destape",
+      "titulo": "Las razones que condenan a Milei a la derrota, el peligro Trump y la batalla cultural",
+      "url": "https://www.eldestapeweb.com/politica/razones-condenan-milei-derrota-peligro-trump-intento-salvarse-via-batalla-cultural-20261012181019",
+      "detectado": "2026-10-12T23:52:03.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "sitio": "El Destape",
+      "titulo": "Por Roberto Navarro",
+      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
+      "detectado": "2026-10-12T23:52:03.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/antes-marcha-federal-universitaria-rectores-van-congreso-lla-les-bloqueara-comision-20261012191247",
+      "sitio": "El Destape",
+      "titulo": "Marcha Federal Universitaria",
+      "url": "https://www.eldestapeweb.com/politica/antes-marcha-federal-universitaria-rectores-van-congreso-lla-les-bloqueara-comision-20261012191247",
+      "detectado": "2026-10-12T23:52:03.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/piden-detencion-caputo-bausili-causa-oro-bcra-20261012162341",
+      "sitio": "El Destape",
+      "titulo": "Escándalo en el BCRA",
+      "url": "https://www.eldestapeweb.com/politica/piden-detencion-caputo-bausili-causa-oro-bcra-20261012162341",
+      "detectado": "2026-10-12T23:52:03.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fin-semana-largo-hubo-turistas-gasto-retrocedio-2-2-20261012115345",
+      "sitio": "El Destape",
+      "titulo": "Fin de semana largo: hubo más turistas pero el gasto retrocedió 2,2%",
+      "url": "https://www.eldestapeweb.com/economia/fin-semana-largo-hubo-turistas-gasto-retrocedio-2-2-20261012115345",
+      "detectado": "2026-10-12T23:52:03.971Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-consumo-cayo-incluso-donde-subio-salario-real-202610120523",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Ganancias 2025: ARCA prorrogó hasta el 30 de octubre la presentación de la DDJJ",
       "url": "https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
       "detectado": "2026-10-09T03:16:44.944Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16004-cpba-on-line-fuera-de-servicio-por-mantenimiento-programado",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "CPBA On-Line fuera de servicio por mantenimiento programado",
-      "url": "https://www.cpba.com.ar/noticias/item/16004-cpba-on-line-fuera-de-servicio-por-mantenimiento-programado",
-      "detectado": "2026-10-09T03:16:44.944Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-10-09T03:16:46.395Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-advierte-argentina-entro-oficialmente-recesion-202610822386",
-      "sitio": "El Destape",
-      "titulo": "El mercado advierte que Argentina ya entró oficialmente en recesión",
-      "url": "https://www.eldestapeweb.com/economia/mercado-advierte-argentina-entro-oficialmente-recesion-202610822386",
-      "detectado": "2026-10-09T03:16:46.395Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/rompe-pasa-peronismo-si-derogan-paso-2026108234516",
-      "sitio": "El Destape",
-      "titulo": "¿Se rompe? Qué pasa en el peronismo si se derogan las PASO",
-      "url": "https://www.eldestapeweb.com/politica/rompe-pasa-peronismo-si-derogan-paso-2026108234516",
-      "detectado": "2026-10-09T03:16:46.395Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/apuro-embajada-ee-uu-lla-abre-comisiones-senado-tratado-patentes-2026108212439",
-      "sitio": "El Destape",
-      "titulo": "Con el apuro de la Embajada EE.UU, LLA abre las comisiones para el tratado de Patentes",
-      "url": "https://www.eldestapeweb.com/politica/apuro-embajada-ee-uu-lla-abre-comisiones-senado-tratado-patentes-2026108212439",
-      "detectado": "2026-10-09T03:16:46.395Z"
     }
   ]
 }
