@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-12T02:50:17.821Z",
+  "actualizado": "2026-10-12T13:39:07.109Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-consumo-cayo-incluso-donde-subio-salario-real-202610120523",
+      "sitio": "El Destape",
+      "titulo": "Advierten que el consumo cayó incluso donde subió el salario real",
+      "url": "https://www.eldestapeweb.com/economia/advierten-consumo-cayo-incluso-donde-subio-salario-real-202610120523",
+      "detectado": "2026-10-12T13:39:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/crisis-habitacional",
+      "sitio": "El Destape",
+      "titulo": "Crisis habitacional",
+      "url": "https://www.eldestapeweb.com/tag/crisis-habitacional",
+      "detectado": "2026-10-12T13:39:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
+      "sitio": "El Destape",
+      "titulo": "Argentina, campeona de la crisis habitacional: alquilar cuesta comida, ahorros y trabajo",
+      "url": "https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
+      "detectado": "2026-10-12T13:39:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-12T13:39:06.571Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
+      "sitio": "El Destape",
+      "titulo": "El Vaticano confirmó cuándo será operado el papa León XIV",
+      "url": "https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
+      "detectado": "2026-10-12T13:39:06.571Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/ministerio-de-economia",
       "sitio": "El Destape",
@@ -226,13 +261,6 @@
       "detectado": "2026-10-10T11:27:25.294Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-10T11:27:25.294Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gesto-nuevo-fallo-corte-suprema-ley-tierras-salvo-milei-202610100536",
       "sitio": "El Destape",
       "titulo": "Cómo se gestó el nuevo fallo de la Corte Suprema sobre Ley de Tierras que salvó a Milei",
@@ -392,34 +420,6 @@
       "titulo": "Con el apuro de la Embajada EE.UU, LLA abre las comisiones para el tratado de Patentes",
       "url": "https://www.eldestapeweb.com/politica/apuro-embajada-ee-uu-lla-abre-comisiones-senado-tratado-patentes-2026108212439",
       "detectado": "2026-10-09T03:16:46.395Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-piden-brasil-chile-uruguay-paraguay-no-facilitar-explotacion-petrolera-20261090530",
-      "sitio": "El Destape",
-      "titulo": "Carta de diputados y senadores de UP",
-      "url": "https://www.eldestapeweb.com/politica/malvinas-piden-brasil-chile-uruguay-paraguay-no-facilitar-explotacion-petrolera-20261090530",
-      "detectado": "2026-10-09T03:16:46.395Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-que-pasa-si-el-unico-empleado-es-un-director/",
-      "sitio": "Ignacio Online",
-      "titulo": "FAL: qué pasa si el único empleado es un director",
-      "url": "https://www.ignacioonline.com.ar/fal-que-pasa-si-el-unico-empleado-es-un-director/",
-      "detectado": "2026-10-08T22:32:34.945Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-caputo-bausili-perdieron-mil-millones-dolares-timba-oro-202610817285",
-      "sitio": "El Destape",
-      "titulo": "Escándalo libertario",
-      "url": "https://www.eldestapeweb.com/economia/milei-caputo-bausili-perdieron-mil-millones-dolares-timba-oro-202610817285",
-      "detectado": "2026-10-08T22:32:48.432Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dice-denuncia-agn-perdida-millones-usd-vinculados-oro-bcra-2026108183027",
-      "sitio": "El Destape",
-      "titulo": "Qué dice la denuncia de la AGN sobre los millones de USD que perdió el BCRA",
-      "url": "https://www.eldestapeweb.com/economia/dice-denuncia-agn-perdida-millones-usd-vinculados-oro-bcra-2026108183027",
-      "detectado": "2026-10-08T22:32:48.432Z"
     }
   ]
 }
