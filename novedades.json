@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-13T13:01:36.778Z",
+  "actualizado": "2026-10-13T22:00:58.359Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16009-te-gustan-los-libros-disfruta-un-20-de-descuento-en-editorial-lid",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "¿Te gustan los libros? Disfrutá un 20% de descuento en Editorial LID",
+      "url": "https://www.cpba.com.ar/noticias/item/16009-te-gustan-los-libros-disfruta-un-20-de-descuento-en-editorial-lid",
+      "detectado": "2026-10-13T22:00:55.839Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "No te pierdas las 17as Jornadas Provinciales de Cooperativismo",
+      "url": "https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
+      "detectado": "2026-10-13T22:00:55.839Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16010-ahora-en-repro-finanzas-para-la-vida-real-como-ordenar-el-presupuesto-familiar-y-manejar-las-deudas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Finanzas para la vida real: Cómo ordenar el presupuesto familiar y…",
+      "url": "https://www.cpba.com.ar/noticias/item/16010-ahora-en-repro-finanzas-para-la-vida-real-como-ordenar-el-presupuesto-familiar-y-manejar-las-deudas",
+      "detectado": "2026-10-13T22:00:55.839Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-fue-operado-adenocarcinoma-pulmonar-esta-salud-20261013171747",
+      "sitio": "El Destape",
+      "titulo": "El Papa fue operado de un tumor maligno y se espera más información sobre su tratamiento",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-fue-operado-adenocarcinoma-pulmonar-esta-salud-20261013171747",
+      "detectado": "2026-10-13T22:00:57.896Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-septiembre-acelero-fue-1-9-2026101316433",
+      "sitio": "El Destape",
+      "titulo": "La inflación de septiembre se aceleró y fue de 1,9%",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-septiembre-acelero-fue-1-9-2026101316433",
+      "detectado": "2026-10-13T22:00:57.896Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilacion-hambre-aumento-noviembre-minima-no-compra-medio-kilo-asado-20261013182316",
+      "sitio": "El Destape",
+      "titulo": "El aumento de noviembre para la jubilación mínima no compra ni medio kilo de asado",
+      "url": "https://www.eldestapeweb.com/economia/jubilacion-hambre-aumento-noviembre-minima-no-compra-medio-kilo-asado-20261013182316",
+      "detectado": "2026-10-13T22:00:57.896Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-viaje-milei-cuida-sesion-15-crecen-criticas-luis-caputo-20261013135941",
+      "sitio": "El Destape",
+      "titulo": "Karina se bajó del viaje de Milei, cuida la sesión del 15 y crecen las críticas a \"Toto\"",
+      "url": "https://www.eldestapeweb.com/politica/karina-viaje-milei-cuida-sesion-15-crecen-criticas-luis-caputo-20261013135941",
+      "detectado": "2026-10-13T22:00:57.896Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-13T22:00:57.896Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/visual-sueldos-iva-y-conta-web-las-novedades-de-los-tres-sistemas-de-logosoft/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "Trabajar más y cobrar menos: la brecha de ingresos se disparó entre trabajadores",
       "url": "https://www.eldestapeweb.com/economia/trabajar-cobrar-menos-brecha-ingresos-disparo-trabajadores-202610100536",
       "detectado": "2026-10-10T11:27:25.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gesto-nuevo-fallo-corte-suprema-ley-tierras-salvo-milei-202610100536",
-      "sitio": "El Destape",
-      "titulo": "Cómo se gestó el nuevo fallo de la Corte Suprema sobre Ley de Tierras que salvó a Milei",
-      "url": "https://www.eldestapeweb.com/politica/gesto-nuevo-fallo-corte-suprema-ley-tierras-salvo-milei-202610100536",
-      "detectado": "2026-10-10T11:27:25.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-10T11:27:25.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-espana",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en España",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-espana",
-      "detectado": "2026-10-10T11:27:25.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-quiere-patear-deuda-proximo-gobierno-2026109205056",
-      "sitio": "El Destape",
-      "titulo": "Caputo quiere patear deuda para el próximo Gobierno",
-      "url": "https://www.eldestapeweb.com/economia/caputo-quiere-patear-deuda-proximo-gobierno-2026109205056",
-      "detectado": "2026-10-10T02:56:29.906Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/energia/vaca-muerta-techint-logro-adhesion-rigi-mayor-inversion-historia-2026109195310",
-      "sitio": "El Destape",
-      "titulo": "Vaca Muerta: Techint logró la adhesión al RIGI de la mayor inversión de su historia",
-      "url": "https://www.eldestapeweb.com/energia/vaca-muerta-techint-logro-adhesion-rigi-mayor-inversion-historia-2026109195310",
-      "detectado": "2026-10-10T02:56:29.906Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Bellato",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "detectado": "2026-10-10T02:56:29.906Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2634-ley-27-826-regimen-penal-y-procedimiento-tributario-inocencia-fiscal-ii.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Ley 27.826 - Régimen Penal y Procedimiento Tributario ( Inocencia Fiscal II )",
-      "url": "https://jorgevega.com.ar/impuestos/2634-ley-27-826-regimen-penal-y-procedimiento-tributario-inocencia-fiscal-ii.html",
-      "detectado": "2026-10-09T21:55:04.619Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16005-3-ronda-de-consultas-tributarias-de-arba-en-moron",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "3ª Ronda de Consultas Tributarias de ARBA en Morón",
-      "url": "https://www.cpba.com.ar/noticias/item/16005-3-ronda-de-consultas-tributarias-de-arba-en-moron",
-      "detectado": "2026-10-09T21:55:09.108Z"
     }
   ]
 }
