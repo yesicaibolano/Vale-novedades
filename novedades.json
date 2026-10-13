@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-10-12T23:52:04.517Z",
+  "actualizado": "2026-10-13T04:06:20.137Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-insiste-sesion-derogacion-dnu-70-faltan-votos-202610130547",
+      "sitio": "El Destape",
+      "titulo": "Cámara de Diputados",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-insiste-sesion-derogacion-dnu-70-faltan-votos-202610130547",
+      "detectado": "2026-10-13T04:06:18.917Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-13T04:06:18.918Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
+      "sitio": "El Destape",
+      "titulo": "Argentina, campeona de la crisis habitacional: alquilar cuesta comida, ahorros y trabajo",
+      "url": "https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
+      "detectado": "2026-10-13T04:06:18.918Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/razones-condenan-milei-derrota-peligro-trump-intento-salvarse-via-batalla-cultural-20261012181019",
       "sitio": "El Destape",
@@ -48,13 +69,6 @@
       "sitio": "El Destape",
       "titulo": "Crisis habitacional",
       "url": "https://www.eldestapeweb.com/tag/crisis-habitacional",
-      "detectado": "2026-10-12T13:39:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
-      "sitio": "El Destape",
-      "titulo": "Argentina, campeona de la crisis habitacional: alquilar cuesta comida, ahorros y trabajo",
-      "url": "https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
       "detectado": "2026-10-12T13:39:06.571Z"
     },
     {
@@ -174,13 +188,6 @@
       "sitio": "El Destape",
       "titulo": "Movimientos de Axel y Cristina aceleran las definiciones en el peronismo",
       "url": "https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
-      "detectado": "2026-10-11T11:41:01.740Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-10-11T11:41:01.740Z"
     },
     {
@@ -413,13 +420,6 @@
       "titulo": "Entregan el Nobel de la Paz a una jueza que acusó a Israel de cometer un genocidio en Gaza",
       "url": "https://www.eldestapeweb.com/internacionales/entregaron-nobel-paz-jueza-sudafricana-202610974047",
       "detectado": "2026-10-09T12:09:52.548Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ganancias 2025: ARCA prorrogó hasta el 30 de octubre la presentación de la DDJJ",
-      "url": "https://www.cpba.com.ar/noticias/item/16003-ganancias-2025-arca-prorrogo-hasta-el-30-de-octubre-la-presentacion-de-la-ddjj",
-      "detectado": "2026-10-09T03:16:44.944Z"
     }
   ]
 }
