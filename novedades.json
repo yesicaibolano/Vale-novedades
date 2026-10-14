@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-10-14T10:42:57.345Z",
+  "actualizado": "2026-10-14T16:02:16.635Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-traves-mensaje-clave-protegidos-juicios-202610141280",
+      "sitio": "El Destape",
+      "titulo": "León XIV reapareció tras la operación a través de un mensaje: “Protegidos de los juicios”",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-traves-mensaje-clave-protegidos-juicios-202610141280",
+      "detectado": "2026-10-14T16:02:04.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alimentos-subieron-casi-3-conurbano-bonaerense-arriba-inflacion-indec-20261014105139",
+      "sitio": "El Destape",
+      "titulo": "Los alimentos subieron casi 3% en el conurbano bonaerense, muy por arriba de la inflación",
+      "url": "https://www.eldestapeweb.com/economia/alimentos-subieron-casi-3-conurbano-bonaerense-arriba-inflacion-indec-20261014105139",
+      "detectado": "2026-10-14T16:02:04.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/arruabarrena-fallo-todo-boca-vs-vasco-da-gama-2-cambios-tiene-hacer-vuelta-2026101410421",
+      "sitio": "El Destape",
+      "titulo": "Arruabarrena falló en todo: los dos cambios que necesita Boca para la vuelta",
+      "url": "https://www.eldestapeweb.com/deportes/arruabarrena-fallo-todo-boca-vs-vasco-da-gama-2-cambios-tiene-hacer-vuelta-2026101410421",
+      "detectado": "2026-10-14T16:02:04.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/agustina-arredondo",
+      "sitio": "El Destape",
+      "titulo": "Por Agustina Arredondo",
+      "url": "https://www.eldestapeweb.com/perfil/agustina-arredondo",
+      "detectado": "2026-10-14T16:02:04.637Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-nuevo-recibo-asistido/",
       "sitio": "Contadores en Red",
@@ -392,34 +420,6 @@
       "titulo": "Movimientos de Axel y Cristina aceleran las definiciones en el peronismo",
       "url": "https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
       "detectado": "2026-10-11T11:41:01.740Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-ultra-ricos-democracia-20261010213019",
-      "sitio": "El Destape",
-      "titulo": "La guerra de los ultra ricos contra la democracia",
-      "url": "https://www.eldestapeweb.com/politica/guerra-ultra-ricos-democracia-20261010213019",
-      "detectado": "2026-10-11T02:25:56.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-10-11T02:25:56.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/privatizacion-aysa-piden-frenar-entrega-empresa-manos-privadas-20261010213019",
-      "sitio": "El Destape",
-      "titulo": "Privatización de Aysa: piden frenar la entrega de la empresa a manos privadas",
-      "url": "https://www.eldestapeweb.com/economia/privatizacion-aysa-piden-frenar-entrega-empresa-manos-privadas-20261010213019",
-      "detectado": "2026-10-11T02:25:56.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-10-11T02:25:56.779Z"
     }
   ]
 }
