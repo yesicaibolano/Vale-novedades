@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-13T22:00:58.359Z",
+  "actualizado": "2026-10-14T02:20:19.123Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/salud-papa-leon-xiv-sabe-operacion-pasara-viaje-argentina-20261013172819",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno sigue con los preparativos de la visita del Papa y espera el parte médico",
+      "url": "https://www.eldestapeweb.com/sociedad/salud-papa-leon-xiv-sabe-operacion-pasara-viaje-argentina-20261013172819",
+      "detectado": "2026-10-14T02:20:18.587Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-comienza-blindaje-dnu-70-23-oposicion-empuja-juntar-quorum-jueves-20261013215854",
+      "sitio": "El Destape",
+      "titulo": "LLA comienza el blindaje al DNU 70/23 y la oposición empuja para juntar quórum el jueves",
+      "url": "https://www.eldestapeweb.com/politica/lla-comienza-blindaje-dnu-70-23-oposicion-empuja-juntar-quorum-jueves-20261013215854",
+      "detectado": "2026-10-14T02:20:18.587Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/julio-volvio-caer-empleo-van-14-meses-seguidos-destruccion-2026101322331",
+      "sitio": "El Destape",
+      "titulo": "En julio volvió a caer el empleo y van 14 meses seguidos de destrucción",
+      "url": "https://www.eldestapeweb.com/economia/julio-volvio-caer-empleo-van-14-meses-seguidos-destruccion-2026101322331",
+      "detectado": "2026-10-14T02:20:18.587Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-abre-semifinal-copa-sudamericana-vasco-da-gama-bombonera-2026101310414",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Boca pierde ante Vasco de local en La Bombonera",
+      "url": "https://www.eldestapeweb.com/deportes/boca-abre-semifinal-copa-sudamericana-vasco-da-gama-bombonera-2026101310414",
+      "detectado": "2026-10-14T02:20:18.587Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/alertan-sifilis-argentina-casos-mujeres-aumentaron-26-va-ano-superan-record-2025-toda-poblacion-20261013213043",
+      "sitio": "El Destape",
+      "titulo": "Alerta por sífilis: los casos en mujeres aumentaron 26% en 2025 y 2026 anticipa récords",
+      "url": "https://www.eldestapeweb.com/sociedad/alertan-sifilis-argentina-casos-mujeres-aumentaron-26-va-ano-superan-record-2025-toda-poblacion-20261013213043",
+      "detectado": "2026-10-14T02:20:18.587Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16009-te-gustan-los-libros-disfruta-un-20-de-descuento-en-editorial-lid",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Caputo fusible y gobernadores agrandados: la decisión de Karina para salvar la campaña",
       "url": "https://www.eldestapeweb.com/politica/caputo-fusible-gobernadores-agrandados-decision-karina-salvar-campana-20261010111659",
       "detectado": "2026-10-10T16:26:50.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/economista-cercano-milei-recomendo-devaluar-tipo-cambio-real-alto-202610101370",
-      "sitio": "El Destape",
-      "titulo": "Un economista cercano a Milei pidió devaluar: \"Tipo de cambio real más alto\"",
-      "url": "https://www.eldestapeweb.com/economia/economista-cercano-milei-recomendo-devaluar-tipo-cambio-real-alto-202610101370",
-      "detectado": "2026-10-10T16:26:50.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/plan-leandro-paredes-boca-lesion-adios-ida-vasco-da-gama-sueno-vuelta-mira-river-2026101010711",
-      "sitio": "El Destape",
-      "titulo": "El plan de Paredes tras la lesión: adiós serie ante Vasco y la mira en River",
-      "url": "https://www.eldestapeweb.com/deportes/plan-leandro-paredes-boca-lesion-adios-ida-vasco-da-gama-sueno-vuelta-mira-river-2026101010711",
-      "detectado": "2026-10-10T16:26:50.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-convoco-mega-sesion-21-octubre-busca-bloquear-caida-dnu-70-2026101010214",
-      "sitio": "El Destape",
-      "titulo": "LLA convocó a una sesión para el 21 de octubre en busca de bloquear la caída del DNU 70",
-      "url": "https://www.eldestapeweb.com/politica/lla-convoco-mega-sesion-21-octubre-busca-bloquear-caida-dnu-70-2026101010214",
-      "detectado": "2026-10-10T16:26:50.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/dia-salud-mental-unicef-alerto-suicidio-adolescente-revelo-dato-alarmante-norte-argentino-20261010104331",
-      "sitio": "El Destape",
-      "titulo": "UNICEF alertó sobre el suicidio adolescente y reveló un dato alarmante en el Norte",
-      "url": "https://www.eldestapeweb.com/sociedad/dia-salud-mental-unicef-alerto-suicidio-adolescente-revelo-dato-alarmante-norte-argentino-20261010104331",
-      "detectado": "2026-10-10T16:26:50.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/trabajar-cobrar-menos-brecha-ingresos-disparo-trabajadores-202610100536",
-      "sitio": "El Destape",
-      "titulo": "Trabajar más y cobrar menos: la brecha de ingresos se disparó entre trabajadores",
-      "url": "https://www.eldestapeweb.com/economia/trabajar-cobrar-menos-brecha-ingresos-disparo-trabajadores-202610100536",
-      "detectado": "2026-10-10T11:27:25.294Z"
     }
   ]
 }
