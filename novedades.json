@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-14T16:02:16.635Z",
+  "actualizado": "2026-10-14T21:01:37.540Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uocra-cct-545-08-aumentos-retroactivos-y-escalas-hasta-marzo-de-2027/",
+      "sitio": "Ignacio Online",
+      "titulo": "UOCRA CCT 545/08: aumentos, retroactivos y escalas hasta marzo de 2027",
+      "url": "https://www.ignacioonline.com.ar/uocra-cct-545-08-aumentos-retroactivos-y-escalas-hasta-marzo-de-2027/",
+      "detectado": "2026-10-14T21:01:31.074Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/smata-faatra-basicos-de-octubre-a-diciembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "SMATA-FAATRA: Básicos de octubre a diciembre 2026",
+      "url": "https://www.ignacioonline.com.ar/smata-faatra-basicos-de-octubre-a-diciembre-2026/",
+      "detectado": "2026-10-14T21:01:31.074Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alarma-casa-rosada-oposicion-acelera-voltear-dnu-70-javier-milei-diputados-20261014152059",
+      "sitio": "El Destape",
+      "titulo": "Sesión del 15: Gobierno advierte que a la oposición \"le faltan 2 diputados para el quórum\"",
+      "url": "https://www.eldestapeweb.com/politica/alarma-casa-rosada-oposicion-acelera-voltear-dnu-70-javier-milei-diputados-20261014152059",
+      "detectado": "2026-10-14T21:01:37.262Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-14T21:01:37.262Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-10-14T21:01:37.262Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-llega-ee-uu-busca-foto-bolsonaro-mientras-afianza-alineamiento-trump-202610148624",
+      "sitio": "El Destape",
+      "titulo": "Diputados: LLA sostiene la ley de Tierras y protege el DNU 70/23",
+      "url": "https://www.eldestapeweb.com/politica/milei-llega-ee-uu-busca-foto-bolsonaro-mientras-afianza-alineamiento-trump-202610148624",
+      "detectado": "2026-10-14T21:01:37.262Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/mantiene-viaje-papa-argentina-respuesta-oficial-vaticano-20261014174736",
+      "sitio": "El Destape",
+      "titulo": "El Vaticano ratificó la intención del papa León XIV de viajar a Argentina y la región",
+      "url": "https://www.eldestapeweb.com/internacionales/mantiene-viaje-papa-argentina-respuesta-oficial-vaticano-20261014174736",
+      "detectado": "2026-10-14T21:01:37.262Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-traves-mensaje-clave-protegidos-juicios-202610141280",
       "sitio": "El Destape",
@@ -160,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "Karina se bajó del viaje de Milei, cuida la sesión del 15 y crecen las críticas a \"Toto\"",
       "url": "https://www.eldestapeweb.com/politica/karina-viaje-milei-cuida-sesion-15-crecen-criticas-luis-caputo-20261013135941",
-      "detectado": "2026-10-13T22:00:57.896Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-13T22:00:57.896Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "Alerta: el papa León XIV será operado previo a su visita a la Argentina",
       "url": "https://www.eldestapeweb.com/politica/alerta-papa-leon-xiv-sera-operado-previo-visita-argentina-2026101110913",
       "detectado": "2026-10-11T16:51:19.109Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/encuentro-plurinacional",
-      "sitio": "El Destape",
-      "titulo": "Encuentro Plurinacional",
-      "url": "https://www.eldestapeweb.com/tag/encuentro-plurinacional",
-      "detectado": "2026-10-11T16:51:19.110Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuentro-plurinacional-cordoba-feminismo-recupera-potencia-tsunami-20261010214536",
-      "sitio": "El Destape",
-      "titulo": "Encuentro Plurinacional en Córdoba: el feminismo recupera su potencia de tsunami",
-      "url": "https://www.eldestapeweb.com/politica/encuentro-plurinacional-cordoba-feminismo-recupera-potencia-tsunami-20261010214536",
-      "detectado": "2026-10-11T16:51:19.110Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/agua-turbia-gran-remate-beneficia-amigos-milei-afecta-millones-202610110519",
-      "sitio": "El Destape",
-      "titulo": "Agua turbia: el gran remate que beneficia a los amigos de Milei y afecta a millones",
-      "url": "https://www.eldestapeweb.com/politica/agua-turbia-gran-remate-beneficia-amigos-milei-afecta-millones-202610110519",
-      "detectado": "2026-10-11T11:41:01.740Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/insoportable-continuidad-fracaso-202610110519",
-      "sitio": "El Destape",
-      "titulo": "La insoportable continuidad del fracaso",
-      "url": "https://www.eldestapeweb.com/economia/insoportable-continuidad-fracaso-202610110519",
-      "detectado": "2026-10-11T11:41:01.740Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-11T11:41:01.740Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
-      "sitio": "El Destape",
-      "titulo": "Movimientos de Axel y Cristina aceleran las definiciones en el peronismo",
-      "url": "https://www.eldestapeweb.com/politica/movimientos-axel-cristina-aceleran-definiciones-peronismo-202610110519",
-      "detectado": "2026-10-11T11:41:01.740Z"
     }
   ]
 }
