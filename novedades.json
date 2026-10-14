@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-14T02:20:19.123Z",
+  "actualizado": "2026-10-14T10:42:57.345Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-nuevo-recibo-asistido/",
+      "sitio": "Contadores en Red",
+      "titulo": "Personal de Casas Particulares nuevo Recibo Asistido.",
+      "url": "https://contadoresenred.com/personal-de-casas-particulares-nuevo-recibo-asistido/",
+      "detectado": "2026-10-14T10:42:50.156Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-arca-incorpora-el-recibo-de-sueldo-asistido/",
+      "sitio": "Ignacio Online",
+      "titulo": "Servicio Doméstico: ARCA incorpora el recibo de sueldo asistido",
+      "url": "https://www.ignacioonline.com.ar/servicio-domestico-arca-incorpora-el-recibo-de-sueldo-asistido/",
+      "detectado": "2026-10-14T10:42:51.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/inyectan-2500-millones-dolares-nuevo-proyecto-britanico-llevarse-petroleo-malvinas-20261013233819",
+      "sitio": "El Destape",
+      "titulo": "Inyectan más de 2500 millones de USD en un nuevo proyecto británico petrolero en Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/inyectan-2500-millones-dolares-nuevo-proyecto-britanico-llevarse-petroleo-malvinas-20261013233819",
+      "detectado": "2026-10-14T10:42:56.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/59-anos-murio-ex-boxeador-jorge-locomotora-castro-deportes-2026101465833",
+      "sitio": "El Destape",
+      "titulo": "A los 59 años, murió el campeón del mundo Roña Castro",
+      "url": "https://www.eldestapeweb.com/deportes/59-anos-murio-ex-boxeador-jorge-locomotora-castro-deportes-2026101465833",
+      "detectado": "2026-10-14T10:42:56.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/parte-medico-papa-leon-xiv-operacion-paso-noche-tranquila-2026101465244",
+      "sitio": "El Destape",
+      "titulo": "El parte médico del papa León XIV tras la operación: “Pasó una noche tranquila”",
+      "url": "https://www.eldestapeweb.com/internacionales/parte-medico-papa-leon-xiv-operacion-paso-noche-tranquila-2026101465244",
+      "detectado": "2026-10-14T10:42:56.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-caida-vasco-da-gama-copa-sudamericana-20261013233218",
+      "sitio": "El Destape",
+      "titulo": "Uno por uno: los puntajes de Boca en la caída ante Vasco Da Gama por Copa Sudamericana",
+      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-caida-vasco-da-gama-copa-sudamericana-20261013233218",
+      "detectado": "2026-10-14T10:42:56.772Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/esteban-micozzi",
+      "sitio": "El Destape",
+      "titulo": "Por Esteban Micozzi",
+      "url": "https://www.eldestapeweb.com/perfil/esteban-micozzi",
+      "detectado": "2026-10-14T10:42:56.772Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/salud-papa-leon-xiv-sabe-operacion-pasara-viaje-argentina-20261013172819",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Por Sebastián Premici",
       "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
       "detectado": "2026-10-11T02:25:56.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/lula-busca-remontada-abstencionistas-redes-nueva-agenda-derecha-20261010145336",
-      "sitio": "El Destape",
-      "titulo": "Lula busca la remontada: abstencionistas, redes y una nueva agenda contra la derecha",
-      "url": "https://www.eldestapeweb.com/internacionales/lula-busca-remontada-abstencionistas-redes-nueva-agenda-derecha-20261010145336",
-      "detectado": "2026-10-11T02:25:56.779Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/neutralizada-cgt-ilusiona-ser-celestina-pj-2026101015241",
-      "sitio": "El Destape",
-      "titulo": "Neutralizada, la CGT se ilusiona con ser la celestina del PJ",
-      "url": "https://www.eldestapeweb.com/politica/neutralizada-cgt-ilusiona-ser-celestina-pj-2026101015241",
-      "detectado": "2026-10-10T20:46:26.720Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
-      "sitio": "El Destape",
-      "titulo": "Por Mariano Martín",
-      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
-      "detectado": "2026-10-10T20:46:26.720Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-insolitos-argumentos-corte-revertir-fallo-cecim-20261010163519",
-      "sitio": "El Destape",
-      "titulo": "Ley de Tierras: los insólitos argumentos de la Corte para revertir el fallo “CECIM”",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-insolitos-argumentos-corte-revertir-fallo-cecim-20261010163519",
-      "detectado": "2026-10-10T20:46:26.720Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-10T20:46:26.720Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/les-ensenamos-historia-decidieron-hacerla-rebelion-secundaria-continua-2026101016386",
-      "sitio": "El Destape",
-      "titulo": "\"Les enseñamos historia y decidieron hacerla\": la rebelión secundaria continúa",
-      "url": "https://www.eldestapeweb.com/internacionales/les-ensenamos-historia-decidieron-hacerla-rebelion-secundaria-continua-2026101016386",
-      "detectado": "2026-10-10T20:46:26.720Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/caputo-fusible-gobernadores-agrandados-decision-karina-salvar-campana-20261010111659",
-      "sitio": "El Destape",
-      "titulo": "Caputo fusible y gobernadores agrandados: la decisión de Karina para salvar la campaña",
-      "url": "https://www.eldestapeweb.com/politica/caputo-fusible-gobernadores-agrandados-decision-karina-salvar-campana-20261010111659",
-      "detectado": "2026-10-10T16:26:50.363Z"
     }
   ]
 }
