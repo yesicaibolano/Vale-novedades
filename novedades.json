@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-15T10:26:06.040Z",
+  "actualizado": "2026-10-15T15:50:21.129Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/cnv-habilita-a-terceros-a-tomar-el-examen-de-idoneidad/",
+      "sitio": "Contadores en Red",
+      "titulo": "CNV habilita a terceros a tomar el examen de idoneidad.",
+      "url": "https://contadoresenred.com/cnv-habilita-a-terceros-a-tomar-el-examen-de-idoneidad/",
+      "detectado": "2026-10-15T15:50:14.823Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/la-cnv-endurece-reglas-para-psav-y-redefine-su-informe-mensual/",
+      "sitio": "Contadores en Red",
+      "titulo": "La CNV endurece reglas para PSAV y redefine su informe mensual.",
+      "url": "https://contadoresenred.com/la-cnv-endurece-reglas-para-psav-y-redefine-su-informe-mensual/",
+      "detectado": "2026-10-15T15:50:14.823Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/registracion-automatica-de-los-estados-contables-plataforma-balances/",
+      "sitio": "Contadores en Red",
+      "titulo": "Registración automática para confeccionar los Estados Contables. Plataforma Balances.",
+      "url": "https://contadoresenred.com/registracion-automatica-de-los-estados-contables-plataforma-balances/",
+      "detectado": "2026-10-15T15:50:14.823Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/autonomos-octubre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-10-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Autónomos Octubre 2026. ¿Cuánto se paga por categoría a partir del 15-10-2026?",
+      "url": "https://contadoresenred.com/autonomos-octubre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-10-2026/",
+      "detectado": "2026-10-15T15:50:14.823Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-septiembre-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ajuste por Inflación contable e impositivo. Índices Septiembre 2026.",
+      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-septiembre-2026/",
+      "detectado": "2026-10-15T15:50:14.823Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/agip-nuevo-plan-para-deudas-de-abl-y-patentes-con-quita-de-intereses-y-hasta-12-cuotas/",
+      "sitio": "Ignacio Online",
+      "titulo": "AGIP: nuevo plan para deudas de ABL y Patentes con quita de intereses y hasta 12 cuotas",
+      "url": "https://www.ignacioonline.com.ar/agip-nuevo-plan-para-deudas-de-abl-y-patentes-con-quita-de-intereses-y-hasta-12-cuotas/",
+      "detectado": "2026-10-15T15:50:16.199Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/disparo-riesgo-pais-esta-cifra-caen-acciones-argentinas-crisis-financiera-preocupa-javier-milei-20261015115929",
+      "sitio": "El Destape",
+      "titulo": "El riesgo país se dispara 5%: trepa a los 640 puntos y caen las acciones argentinas",
+      "url": "https://www.eldestapeweb.com/economia/disparo-riesgo-pais-esta-cifra-caen-acciones-argentinas-crisis-financiera-preocupa-javier-milei-20261015115929",
+      "detectado": "2026-10-15T15:50:20.579Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-15T15:50:20.579Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dijo-milei-ee-uu-hizo-disparar-riesgo-pais-640-20261015124510",
+      "sitio": "El Destape",
+      "titulo": "Milei dijo que iba a bajar el riesgo país y a los minutos se le disparó",
+      "url": "https://www.eldestapeweb.com/politica/dijo-milei-ee-uu-hizo-disparar-riesgo-pais-640-20261015124510",
+      "detectado": "2026-10-15T15:50:20.579Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dnu-70-23-diputados-marcha-universitaria-vivo-cobertura-minuto-minuto-posible-derogacion-marchas-todo-pais-2026101511024",
+      "sitio": "El Destape",
+      "titulo": "Blindaron el Congreso antes del tratamiento del DNU 70/2023",
+      "url": "https://www.eldestapeweb.com/politica/dnu-70-23-diputados-marcha-universitaria-vivo-cobertura-minuto-minuto-posible-derogacion-marchas-todo-pais-2026101511024",
+      "detectado": "2026-10-15T15:50:20.579Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "sitio": "El Destape",
+      "titulo": "Por Santiago Ballatore Nisenbaum",
+      "url": "https://www.eldestapeweb.com/perfil/santiago-ballatore-nisenbaum",
+      "detectado": "2026-10-15T15:50:20.579Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-acreditacion-automatica-para-cobrar-el-20-de-la-asignacion-por-embarazo/",
       "sitio": "Ignacio Online",
@@ -324,13 +401,6 @@
       "detectado": "2026-10-13T13:01:30.561Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-10-13T13:01:36.156Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-empeoro-pronostico-crecimiento-inflacion-desempleo-argentina-2026101395737",
       "sitio": "El Destape",
       "titulo": "El FMI empeoró el pronóstico de crecimiento, inflación y desempleo para Argentina",
@@ -350,76 +420,6 @@
       "titulo": "Zonas Frías: ya rige el nuevo régimen que deja sin subsidio a 3,3 millones de usuarios",
       "url": "https://www.eldestapeweb.com/economia/zonas-frias-gobierno-aplico-exclusiones-3-3-millones-familias-sufriran-fuertes-aumentos-gas-2026101385145",
       "detectado": "2026-10-13T13:01:36.156Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-insiste-sesion-derogacion-dnu-70-faltan-votos-202610130547",
-      "sitio": "El Destape",
-      "titulo": "Cámara de Diputados",
-      "url": "https://www.eldestapeweb.com/politica/oposicion-insiste-sesion-derogacion-dnu-70-faltan-votos-202610130547",
-      "detectado": "2026-10-13T04:06:18.917Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
-      "sitio": "El Destape",
-      "titulo": "Argentina, campeona de la crisis habitacional: alquilar cuesta comida, ahorros y trabajo",
-      "url": "https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
-      "detectado": "2026-10-13T04:06:18.918Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/razones-condenan-milei-derrota-peligro-trump-intento-salvarse-via-batalla-cultural-20261012181019",
-      "sitio": "El Destape",
-      "titulo": "Las razones que condenan a Milei a la derrota, el peligro Trump y la batalla cultural",
-      "url": "https://www.eldestapeweb.com/politica/razones-condenan-milei-derrota-peligro-trump-intento-salvarse-via-batalla-cultural-20261012181019",
-      "detectado": "2026-10-12T23:52:03.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Navarro",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-navarro",
-      "detectado": "2026-10-12T23:52:03.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/antes-marcha-federal-universitaria-rectores-van-congreso-lla-les-bloqueara-comision-20261012191247",
-      "sitio": "El Destape",
-      "titulo": "Marcha Federal Universitaria",
-      "url": "https://www.eldestapeweb.com/politica/antes-marcha-federal-universitaria-rectores-van-congreso-lla-les-bloqueara-comision-20261012191247",
-      "detectado": "2026-10-12T23:52:03.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/piden-detencion-caputo-bausili-causa-oro-bcra-20261012162341",
-      "sitio": "El Destape",
-      "titulo": "Escándalo en el BCRA",
-      "url": "https://www.eldestapeweb.com/politica/piden-detencion-caputo-bausili-causa-oro-bcra-20261012162341",
-      "detectado": "2026-10-12T23:52:03.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fin-semana-largo-hubo-turistas-gasto-retrocedio-2-2-20261012115345",
-      "sitio": "El Destape",
-      "titulo": "Fin de semana largo: hubo más turistas pero el gasto retrocedió 2,2%",
-      "url": "https://www.eldestapeweb.com/economia/fin-semana-largo-hubo-turistas-gasto-retrocedio-2-2-20261012115345",
-      "detectado": "2026-10-12T23:52:03.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-consumo-cayo-incluso-donde-subio-salario-real-202610120523",
-      "sitio": "El Destape",
-      "titulo": "Advierten que el consumo cayó incluso donde subió el salario real",
-      "url": "https://www.eldestapeweb.com/economia/advierten-consumo-cayo-incluso-donde-subio-salario-real-202610120523",
-      "detectado": "2026-10-12T13:39:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/crisis-habitacional",
-      "sitio": "El Destape",
-      "titulo": "Crisis habitacional",
-      "url": "https://www.eldestapeweb.com/tag/crisis-habitacional",
-      "detectado": "2026-10-12T13:39:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
-      "sitio": "El Destape",
-      "titulo": "El Vaticano confirmó cuándo será operado el papa León XIV",
-      "url": "https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
-      "detectado": "2026-10-12T13:39:06.571Z"
     }
   ]
 }
