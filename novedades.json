@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-15T02:01:09.817Z",
+  "actualizado": "2026-10-15T10:26:06.040Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/anses-acreditacion-automatica-para-cobrar-el-20-de-la-asignacion-por-embarazo/",
+      "sitio": "Ignacio Online",
+      "titulo": "ANSES: acreditación automática para cobrar el 20% de la Asignación por Embarazo",
+      "url": "https://www.ignacioonline.com.ar/anses-acreditacion-automatica-para-cobrar-el-20-de-la-asignacion-por-embarazo/",
+      "detectado": "2026-10-15T10:26:01.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/aumentos-exorbitantes-caida-viajes-boletos-amba-subieron-2700-gestion-milei-202610150523",
+      "sitio": "El Destape",
+      "titulo": "DNU 70/2023: el transporte aumentó hasta 2700% y se desplomó la cantidad de pasajeros",
+      "url": "https://www.eldestapeweb.com/economia/aumentos-exorbitantes-caida-viajes-boletos-amba-subieron-2700-gestion-milei-202610150523",
+      "detectado": "2026-10-15T10:26:05.499Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-15T10:26:05.499Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fusion-telecom-telefonica-llamativo-dato-detras-millonaria-venta-aprueba-gobierno-frenar-monopolio-202610150523",
+      "sitio": "El Destape",
+      "titulo": "Concentración económica",
+      "url": "https://www.eldestapeweb.com/politica/fusion-telecom-telefonica-llamativo-dato-detras-millonaria-venta-aprueba-gobierno-frenar-monopolio-202610150523",
+      "detectado": "2026-10-15T10:26:05.499Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/acerca-deadline-santilli-demoran-acuerdos-gobernadores-202610150523",
+      "sitio": "El Destape",
+      "titulo": "Se acerca el deadline de Santilli, pero se demoran los acuerdos con los gobernadores",
+      "url": "https://www.eldestapeweb.com/politica/acerca-deadline-santilli-demoran-acuerdos-gobernadores-202610150523",
+      "detectado": "2026-10-15T10:26:05.499Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-15T10:26:05.499Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/suspenso-horas-sesion-diputados-hay-numero-tiro-gracia-dnu-70-23-20261014223023",
       "sitio": "El Destape",
@@ -317,13 +359,6 @@
       "detectado": "2026-10-13T04:06:18.917Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-13T04:06:18.918Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/argentina-campeona-crisis-habitacional-alquilar-cuesta-comida-ahorros-trabajo-202610120523",
       "sitio": "El Destape",
       "titulo": "Argentina, campeona de la crisis habitacional: alquilar cuesta comida, ahorros y trabajo",
@@ -380,46 +415,11 @@
       "detectado": "2026-10-12T13:39:06.571Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-12T13:39:06.571Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
       "sitio": "El Destape",
       "titulo": "El Vaticano confirmó cuándo será operado el papa León XIV",
       "url": "https://www.eldestapeweb.com/internacionales/vaticano-confirmo-cuando-sera-operado-papa-leon-xiv-2026101294327",
       "detectado": "2026-10-12T13:39:06.571Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/ministerio-de-economia",
-      "sitio": "El Destape",
-      "titulo": "Ministerio de Economía",
-      "url": "https://www.eldestapeweb.com/tag/ministerio-de-economia",
-      "detectado": "2026-10-12T02:50:17.166Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/menem-descarto-salida-caputo-no-hay-dudas-continuidad-20261011212248",
-      "sitio": "El Destape",
-      "titulo": "Menem descartó una salida de Caputo: “No hay dudas sobre su continuidad\"",
-      "url": "https://www.eldestapeweb.com/politica/menem-descarto-salida-caputo-no-hay-dudas-continuidad-20261011212248",
-      "detectado": "2026-10-12T02:50:17.166Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-racing-vs-belgrano-forma-legal-riesgos-2026101113023",
-      "sitio": "El Destape",
-      "titulo": "Racing perdió con Belgrano y el Cilindro se convirtió en un \"polvorín\" contra Milito",
-      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-racing-vs-belgrano-forma-legal-riesgos-2026101113023",
-      "detectado": "2026-10-12T02:50:17.166Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/no-fue-solo-2025-bcra-cambio-estrategia-inversiones-oro-volvio-perder-2026-2026101116236",
-      "sitio": "El Destape",
-      "titulo": "No fue sólo 2025: el BCRA cambió de estrategia con el oro y volvió a perder en 2026",
-      "url": "https://www.eldestapeweb.com/economia/no-fue-solo-2025-bcra-cambio-estrategia-inversiones-oro-volvio-perder-2026-2026101116236",
-      "detectado": "2026-10-11T21:07:30.777Z"
     }
   ]
 }
