@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-15T15:50:21.129Z",
+  "actualizado": "2026-10-15T20:35:44.612Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/10-diputados-no-hubo-quorum-bajar-dnu-70-23-20261015142010",
+      "sitio": "El Destape",
+      "titulo": "Faltaron 8 diputados y no hubo quórum: se cayó la sesión para bajar el DNU 70/23",
+      "url": "https://www.eldestapeweb.com/politica/10-diputados-no-hubo-quorum-bajar-dnu-70-23-20261015142010",
+      "detectado": "2026-10-15T20:35:43.612Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-15T20:35:43.612Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/viaje-relampago-karina-estados-unidos-rosca-telefono-trama-detras-caida-sesion-congreso-20261015163253",
+      "sitio": "El Destape",
+      "titulo": "Karina viajó a EEUU para estar con Milei y fue la gran ganadora de la sesión fallida",
+      "url": "https://www.eldestapeweb.com/politica/viaje-relampago-karina-estados-unidos-rosca-telefono-trama-detras-caida-sesion-congreso-20261015163253",
+      "detectado": "2026-10-15T20:35:43.612Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-15T20:35:43.612Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-milei-debe-girar-2-5-billones-extra-universidades-cumplir-ley-financiamiento-20261015143715",
+      "sitio": "El Destape",
+      "titulo": "Presupuesto universitario",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-milei-debe-girar-2-5-billones-extra-universidades-cumplir-ley-financiamiento-20261015143715",
+      "detectado": "2026-10-15T20:35:43.612Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/cnv-habilita-a-terceros-a-tomar-el-examen-de-idoneidad/",
       "sitio": "Contadores en Red",
@@ -174,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "Sesión del 15: Gobierno advierte que a la oposición \"le faltan 2 diputados para el quórum\"",
       "url": "https://www.eldestapeweb.com/politica/alarma-casa-rosada-oposicion-acelera-voltear-dnu-70-javier-milei-diputados-20261014152059",
-      "detectado": "2026-10-14T21:01:37.262Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-14T21:01:37.262Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Derecho de Ejercicio Profesional: 5º anticipo de 2026",
       "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
       "detectado": "2026-10-13T13:01:30.561Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nuestro Consejo participó de la III Convención Panhispánica de Lenguaje Claro y Accesible",
-      "url": "https://www.cpba.com.ar/noticias/item/15996-nuestro-consejo-participo-de-la-iii-convencion-panhispanica-de-lenguaje-claro-y-accesible",
-      "detectado": "2026-10-13T13:01:30.561Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-empeoro-pronostico-crecimiento-inflacion-desempleo-argentina-2026101395737",
-      "sitio": "El Destape",
-      "titulo": "El FMI empeoró el pronóstico de crecimiento, inflación y desempleo para Argentina",
-      "url": "https://www.eldestapeweb.com/economia/fmi-empeoro-pronostico-crecimiento-inflacion-desempleo-argentina-2026101395737",
-      "detectado": "2026-10-13T13:01:36.156Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ley-tierras-inmobiliria-quiso-vender-campo-frontera-lago-fallo-corte-2026101391426",
-      "sitio": "El Destape",
-      "titulo": "Inmobiliria quiso vender un campo de frontera con un lago tras el fallo de la Corte",
-      "url": "https://www.eldestapeweb.com/politica/ley-tierras-inmobiliria-quiso-vender-campo-frontera-lago-fallo-corte-2026101391426",
-      "detectado": "2026-10-13T13:01:36.156Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/zonas-frias-gobierno-aplico-exclusiones-3-3-millones-familias-sufriran-fuertes-aumentos-gas-2026101385145",
-      "sitio": "El Destape",
-      "titulo": "Zonas Frías: ya rige el nuevo régimen que deja sin subsidio a 3,3 millones de usuarios",
-      "url": "https://www.eldestapeweb.com/economia/zonas-frias-gobierno-aplico-exclusiones-3-3-millones-familias-sufriran-fuertes-aumentos-gas-2026101385145",
-      "detectado": "2026-10-13T13:01:36.156Z"
     }
   ]
 }
