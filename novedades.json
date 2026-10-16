@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-16T15:38:49.478Z",
+  "actualizado": "2026-10-16T20:08:55.391Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-nuevas-escalas-salariales-y-cambios-en-los-80-000-para-los-cct-108-75-y-122-75/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad: nuevas escalas salariales y cambios en los $80.000 para los CCT 108/75 y 122/75",
+      "url": "https://www.ignacioonline.com.ar/sanidad-nuevas-escalas-salariales-y-cambios-en-los-80-000-para-los-cct-108-75-y-122-75/",
+      "detectado": "2026-10-16T20:08:49.273Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16014-cpba-on-line-fuera-de-servicio-durante-el-fin-de-semana",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "CPBA On-Line fuera de servicio durante el fin de semana",
+      "url": "https://www.cpba.com.ar/noticias/item/16014-cpba-on-line-fuera-de-servicio-durante-el-fin-de-semana",
+      "detectado": "2026-10-16T20:08:53.345Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-subio-20-mes-complica-plan-economico-milei-20261016161324",
+      "sitio": "El Destape",
+      "titulo": "El riesgo país subió 33,5% en un mes y se desvanece la estrategia financiera de Milei",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-subio-20-mes-complica-plan-economico-milei-20261016161324",
+      "detectado": "2026-10-16T20:08:54.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/duras-criticas-kicillof-milei-freno-total-obra-publica-todo-pais-estamos-sufriendo-todos-20261016163046",
+      "sitio": "El Destape",
+      "titulo": "Kicillof cargó contra Milei por la falta de obra pública: \"Estamos sufriendo todos\"",
+      "url": "https://www.eldestapeweb.com/politica/duras-criticas-kicillof-milei-freno-total-obra-publica-todo-pais-estamos-sufriendo-todos-20261016163046",
+      "detectado": "2026-10-16T20:08:54.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/cuanto-perdieron-salarios-ano-javier-milei-esta-siguiendo-mismo-destino-mauricio-macri-ano-elecciones-20261016133625",
+      "sitio": "El Destape",
+      "titulo": "La masa salarial no para de caer y Milei sigue el mismo destino que Macri",
+      "url": "https://www.eldestapeweb.com/economia/cuanto-perdieron-salarios-ano-javier-milei-esta-siguiendo-mismo-destino-mauricio-macri-ano-elecciones-20261016133625",
+      "detectado": "2026-10-16T20:08:54.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-insiste-argentina-reduzca-subsidios-energeticos-20261016124014",
+      "sitio": "El Destape",
+      "titulo": "El FMI insiste con que Argentina reduzca los subsidios energéticos",
+      "url": "https://www.eldestapeweb.com/economia/fmi-insiste-argentina-reduzca-subsidios-energeticos-20261016124014",
+      "detectado": "2026-10-16T20:08:54.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-10-16T20:08:54.905Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
       "sitio": "Jorge Vega",
@@ -371,55 +420,6 @@
       "titulo": "Por Agustina Arredondo",
       "url": "https://www.eldestapeweb.com/perfil/agustina-arredondo",
       "detectado": "2026-10-14T16:02:04.637Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/personal-de-casas-particulares-nuevo-recibo-asistido/",
-      "sitio": "Contadores en Red",
-      "titulo": "Personal de Casas Particulares nuevo Recibo Asistido.",
-      "url": "https://contadoresenred.com/personal-de-casas-particulares-nuevo-recibo-asistido/",
-      "detectado": "2026-10-14T10:42:50.156Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/servicio-domestico-arca-incorpora-el-recibo-de-sueldo-asistido/",
-      "sitio": "Ignacio Online",
-      "titulo": "Servicio Doméstico: ARCA incorpora el recibo de sueldo asistido",
-      "url": "https://www.ignacioonline.com.ar/servicio-domestico-arca-incorpora-el-recibo-de-sueldo-asistido/",
-      "detectado": "2026-10-14T10:42:51.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/inyectan-2500-millones-dolares-nuevo-proyecto-britanico-llevarse-petroleo-malvinas-20261013233819",
-      "sitio": "El Destape",
-      "titulo": "Inyectan más de 2500 millones de USD en un nuevo proyecto británico petrolero en Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/inyectan-2500-millones-dolares-nuevo-proyecto-britanico-llevarse-petroleo-malvinas-20261013233819",
-      "detectado": "2026-10-14T10:42:56.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/59-anos-murio-ex-boxeador-jorge-locomotora-castro-deportes-2026101465833",
-      "sitio": "El Destape",
-      "titulo": "A los 59 años, murió el campeón del mundo Roña Castro",
-      "url": "https://www.eldestapeweb.com/deportes/59-anos-murio-ex-boxeador-jorge-locomotora-castro-deportes-2026101465833",
-      "detectado": "2026-10-14T10:42:56.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/parte-medico-papa-leon-xiv-operacion-paso-noche-tranquila-2026101465244",
-      "sitio": "El Destape",
-      "titulo": "El parte médico del papa León XIV tras la operación: “Pasó una noche tranquila”",
-      "url": "https://www.eldestapeweb.com/internacionales/parte-medico-papa-leon-xiv-operacion-paso-noche-tranquila-2026101465244",
-      "detectado": "2026-10-14T10:42:56.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-caida-vasco-da-gama-copa-sudamericana-20261013233218",
-      "sitio": "El Destape",
-      "titulo": "Uno por uno: los puntajes de Boca en la caída ante Vasco Da Gama por Copa Sudamericana",
-      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-boca-caida-vasco-da-gama-copa-sudamericana-20261013233218",
-      "detectado": "2026-10-14T10:42:56.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/esteban-micozzi",
-      "sitio": "El Destape",
-      "titulo": "Por Esteban Micozzi",
-      "url": "https://www.eldestapeweb.com/perfil/esteban-micozzi",
-      "detectado": "2026-10-14T10:42:56.772Z"
     }
   ]
 }
