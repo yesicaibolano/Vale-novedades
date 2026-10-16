@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-16T01:51:10.404Z",
+  "actualizado": "2026-10-16T10:13:35.412Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/presupuesto-2027-javier-milei-reservo-caja-discrecional-us-6-400-millones-presionar-provincias-20261015232422",
+      "sitio": "El Destape",
+      "titulo": "La bazooka millonaria de Milei para seducir a los gobernadores",
+      "url": "https://www.eldestapeweb.com/politica/presupuesto-2027-javier-milei-reservo-caja-discrecional-us-6-400-millones-presionar-provincias-20261015232422",
+      "detectado": "2026-10-16T10:13:34.856Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/aceleraron-precios-alimentos-octubre-registraron-mayor-suba-semanal-mayo-202610151609",
+      "sitio": "El Destape",
+      "titulo": "Inflación: una consultora detectó la mayor suba de precios en alimentos desde mayo",
+      "url": "https://www.eldestapeweb.com/economia/aceleraron-precios-alimentos-octubre-registraron-mayor-suba-semanal-mayo-202610151609",
+      "detectado": "2026-10-16T10:13:34.856Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/vuelve-ramon-diaz-river-tiene-pasar-sea-dt-cual-futuro-ponzio-20261015231843",
+      "sitio": "El Destape",
+      "titulo": "Vuelve Ramón Díaz a River: qué tiene que pasar para que sea el DT",
+      "url": "https://www.eldestapeweb.com/deportes/vuelve-ramon-diaz-river-tiene-pasar-sea-dt-cual-futuro-ponzio-20261015231843",
+      "detectado": "2026-10-16T10:13:34.856Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-apuesta-completar-jugada-sesion-exitosa-semana-viene-202610160525",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno apuesta a completar la jugada con una sesión exitosa la semana que viene",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-apuesta-completar-jugada-sesion-exitosa-semana-viene-202610160525",
+      "detectado": "2026-10-16T10:13:34.856Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-16T10:13:34.856Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-federal-universitaria",
       "sitio": "El Destape",
@@ -181,13 +216,6 @@
       "sitio": "El Destape",
       "titulo": "Se acerca el deadline de Santilli, pero se demoran los acuerdos con los gobernadores",
       "url": "https://www.eldestapeweb.com/politica/acerca-deadline-santilli-demoran-acuerdos-gobernadores-202610150523",
-      "detectado": "2026-10-15T10:26:05.499Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "detectado": "2026-10-15T10:26:05.499Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "No te pierdas las 17as Jornadas Provinciales de Cooperativismo",
       "url": "https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
       "detectado": "2026-10-13T22:00:55.839Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16010-ahora-en-repro-finanzas-para-la-vida-real-como-ordenar-el-presupuesto-familiar-y-manejar-las-deudas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Finanzas para la vida real: Cómo ordenar el presupuesto familiar y…",
-      "url": "https://www.cpba.com.ar/noticias/item/16010-ahora-en-repro-finanzas-para-la-vida-real-como-ordenar-el-presupuesto-familiar-y-manejar-las-deudas",
-      "detectado": "2026-10-13T22:00:55.839Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-fue-operado-adenocarcinoma-pulmonar-esta-salud-20261013171747",
-      "sitio": "El Destape",
-      "titulo": "El Papa fue operado de un tumor maligno y se espera más información sobre su tratamiento",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-fue-operado-adenocarcinoma-pulmonar-esta-salud-20261013171747",
-      "detectado": "2026-10-13T22:00:57.896Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-septiembre-acelero-fue-1-9-2026101316433",
-      "sitio": "El Destape",
-      "titulo": "La inflación de septiembre se aceleró y fue de 1,9%",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-septiembre-acelero-fue-1-9-2026101316433",
-      "detectado": "2026-10-13T22:00:57.896Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilacion-hambre-aumento-noviembre-minima-no-compra-medio-kilo-asado-20261013182316",
-      "sitio": "El Destape",
-      "titulo": "El aumento de noviembre para la jubilación mínima no compra ni medio kilo de asado",
-      "url": "https://www.eldestapeweb.com/economia/jubilacion-hambre-aumento-noviembre-minima-no-compra-medio-kilo-asado-20261013182316",
-      "detectado": "2026-10-13T22:00:57.896Z"
     }
   ]
 }
