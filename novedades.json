@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-16T10:13:35.412Z",
+  "actualizado": "2026-10-16T15:38:49.478Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Autónomos y dependientes: Categorías, aportes y topes - OCTUBRE 2026",
+      "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
+      "detectado": "2026-10-16T15:38:43.469Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16012-se-actualiza-el-valor-del-caduceo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se actualiza el valor del Caduceo",
+      "url": "https://www.cpba.com.ar/noticias/item/16012-se-actualiza-el-valor-del-caduceo",
+      "detectado": "2026-10-16T15:38:47.617Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16013-ahora-en-repro-criterios-simplificados-en-la-nua-que-cambia-con-la-nueva-norma",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Criterios simplificados en la NUA: Qué cambia con la nueva norma",
+      "url": "https://www.cpba.com.ar/noticias/item/16013-ahora-en-repro-criterios-simplificados-en-la-nua-que-cambia-con-la-nueva-norma",
+      "detectado": "2026-10-16T15:38:47.617Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-16T15:38:48.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ampliaron-procesamiento-spagnuolo-causa-coimas-andis-2026101612117",
+      "sitio": "El Destape",
+      "titulo": "Ampliaron el procesamiento de Spagnuolo en la causa por las coimas de la Andis",
+      "url": "https://www.eldestapeweb.com/politica/ampliaron-procesamiento-spagnuolo-causa-coimas-andis-2026101612117",
+      "detectado": "2026-10-16T15:38:48.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/reaparecio-papa-dio-misa-publican-primera-foto-operacion-202610161034",
+      "sitio": "El Destape",
+      "titulo": "Reapareció el Papa: dio una misa y publican su primera foto tras la operación",
+      "url": "https://www.eldestapeweb.com/internacionales/reaparecio-papa-dio-misa-publican-primera-foto-operacion-202610161034",
+      "detectado": "2026-10-16T15:38:48.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/gobierno-oficializo-quita-92-medicamentos-programa-remediar-traslada-gasto-provincias-20261015202347",
+      "sitio": "El Destape",
+      "titulo": "Adiós al “Remediar”: pasó de distribuir 98 drogas a seis",
+      "url": "https://www.eldestapeweb.com/sociedad/gobierno-oficializo-quita-92-medicamentos-programa-remediar-traslada-gasto-provincias-20261015202347",
+      "detectado": "2026-10-16T15:38:48.971Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/llamativa-jugada-judicial-fiscal-termina-sepultar-causa-fmi-beneficia-macri-caputo-sturzenegger-20261015191645",
+      "sitio": "El Destape",
+      "titulo": "Fiscal macrista facilita cierre del caso por la deuda con el FMI que tomó el ex presidente",
+      "url": "https://www.eldestapeweb.com/politica/llamativa-jugada-judicial-fiscal-termina-sepultar-causa-fmi-beneficia-macri-caputo-sturzenegger-20261015191645",
+      "detectado": "2026-10-16T15:38:48.971Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/presupuesto-2027-javier-milei-reservo-caja-discrecional-us-6-400-millones-presionar-provincias-20261015232422",
       "sitio": "El Destape",
@@ -153,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "El riesgo país se dispara 5%: trepa a los 640 puntos y caen las acciones argentinas",
       "url": "https://www.eldestapeweb.com/economia/disparo-riesgo-pais-esta-cifra-caen-acciones-argentinas-crisis-financiera-preocupa-javier-milei-20261015115929",
-      "detectado": "2026-10-15T15:50:20.579Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-10-15T15:50:20.579Z"
     },
     {
@@ -371,55 +420,6 @@
       "titulo": "Por Esteban Micozzi",
       "url": "https://www.eldestapeweb.com/perfil/esteban-micozzi",
       "detectado": "2026-10-14T10:42:56.772Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/salud-papa-leon-xiv-sabe-operacion-pasara-viaje-argentina-20261013172819",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno sigue con los preparativos de la visita del Papa y espera el parte médico",
-      "url": "https://www.eldestapeweb.com/sociedad/salud-papa-leon-xiv-sabe-operacion-pasara-viaje-argentina-20261013172819",
-      "detectado": "2026-10-14T02:20:18.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-comienza-blindaje-dnu-70-23-oposicion-empuja-juntar-quorum-jueves-20261013215854",
-      "sitio": "El Destape",
-      "titulo": "LLA comienza el blindaje al DNU 70/23 y la oposición empuja para juntar quórum el jueves",
-      "url": "https://www.eldestapeweb.com/politica/lla-comienza-blindaje-dnu-70-23-oposicion-empuja-juntar-quorum-jueves-20261013215854",
-      "detectado": "2026-10-14T02:20:18.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/julio-volvio-caer-empleo-van-14-meses-seguidos-destruccion-2026101322331",
-      "sitio": "El Destape",
-      "titulo": "En julio volvió a caer el empleo y van 14 meses seguidos de destrucción",
-      "url": "https://www.eldestapeweb.com/economia/julio-volvio-caer-empleo-van-14-meses-seguidos-destruccion-2026101322331",
-      "detectado": "2026-10-14T02:20:18.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-abre-semifinal-copa-sudamericana-vasco-da-gama-bombonera-2026101310414",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Boca pierde ante Vasco de local en La Bombonera",
-      "url": "https://www.eldestapeweb.com/deportes/boca-abre-semifinal-copa-sudamericana-vasco-da-gama-bombonera-2026101310414",
-      "detectado": "2026-10-14T02:20:18.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/alertan-sifilis-argentina-casos-mujeres-aumentaron-26-va-ano-superan-record-2025-toda-poblacion-20261013213043",
-      "sitio": "El Destape",
-      "titulo": "Alerta por sífilis: los casos en mujeres aumentaron 26% en 2025 y 2026 anticipa récords",
-      "url": "https://www.eldestapeweb.com/sociedad/alertan-sifilis-argentina-casos-mujeres-aumentaron-26-va-ano-superan-record-2025-toda-poblacion-20261013213043",
-      "detectado": "2026-10-14T02:20:18.587Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16009-te-gustan-los-libros-disfruta-un-20-de-descuento-en-editorial-lid",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "¿Te gustan los libros? Disfrutá un 20% de descuento en Editorial LID",
-      "url": "https://www.cpba.com.ar/noticias/item/16009-te-gustan-los-libros-disfruta-un-20-de-descuento-en-editorial-lid",
-      "detectado": "2026-10-13T22:00:55.839Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "No te pierdas las 17as Jornadas Provinciales de Cooperativismo",
-      "url": "https://www.cpba.com.ar/noticias/item/15937-no-te-pierdas-las-17-jornadas-provinciales-de-cooperativismo",
-      "detectado": "2026-10-13T22:00:55.839Z"
     }
   ]
 }
