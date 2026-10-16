@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-15T20:35:44.612Z",
+  "actualizado": "2026-10-16T01:51:10.404Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-federal-universitaria",
+      "sitio": "El Destape",
+      "titulo": "Marcha Federal Universitaria",
+      "url": "https://www.eldestapeweb.com/tag/marcha-federal-universitaria",
+      "detectado": "2026-10-16T01:51:10.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gases-represion-falta-quorum-milei-anoto-victoria-congreso-salio-reprimir-franar-protesta-calle-2026101519415",
+      "sitio": "El Destape",
+      "titulo": "Milei gana con la casta, pero no puede con la calle y volvió a reprimir",
+      "url": "https://www.eldestapeweb.com/politica/gases-represion-falta-quorum-milei-anoto-victoria-congreso-salio-reprimir-franar-protesta-calle-2026101519415",
+      "detectado": "2026-10-16T01:51:10.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-universitaria",
+      "sitio": "El Destape",
+      "titulo": "Marcha universitaria",
+      "url": "https://www.eldestapeweb.com/tag/marcha-universitaria",
+      "detectado": "2026-10-16T01:51:10.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/grave-denuncia-violencia-institucional-fuerzas-seguridad-detuvieron-nene-14-anos-2026101518230",
+      "sitio": "El Destape",
+      "titulo": "El saldo de la represión: 550 asistidos y 6 detenidos, entre ellos dos menores de edad",
+      "url": "https://www.eldestapeweb.com/politica/grave-denuncia-violencia-institucional-fuerzas-seguridad-detuvieron-nene-14-anos-2026101518230",
+      "detectado": "2026-10-16T01:51:10.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/estudiantes-recibe-flamengo-copa-libertadores-comunicado-urgente-marcos-rojo-hora-tv-vivo-streaming-online-20261015113445",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Estudiantes recibe a Flamengo en semis de Copa Libertadores",
+      "url": "https://www.eldestapeweb.com/deportes/estudiantes-recibe-flamengo-copa-libertadores-comunicado-urgente-marcos-rojo-hora-tv-vivo-streaming-online-20261015113445",
+      "detectado": "2026-10-16T01:51:10.017Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/10-diputados-no-hubo-quorum-bajar-dnu-70-23-20261015142010",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "El aumento de noviembre para la jubilación mínima no compra ni medio kilo de asado",
       "url": "https://www.eldestapeweb.com/economia/jubilacion-hambre-aumento-noviembre-minima-no-compra-medio-kilo-asado-20261013182316",
       "detectado": "2026-10-13T22:00:57.896Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-viaje-milei-cuida-sesion-15-crecen-criticas-luis-caputo-20261013135941",
-      "sitio": "El Destape",
-      "titulo": "Karina se bajó del viaje de Milei, cuida la sesión del 15 y crecen las críticas a \"Toto\"",
-      "url": "https://www.eldestapeweb.com/politica/karina-viaje-milei-cuida-sesion-15-crecen-criticas-luis-caputo-20261013135941",
-      "detectado": "2026-10-13T22:00:57.896Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/visual-sueldos-iva-y-conta-web-las-novedades-de-los-tres-sistemas-de-logosoft/",
-      "sitio": "Contadores en Red",
-      "titulo": "Visual Sueldos, IVA y Conta Web: las novedades de los tres sistemas de Logosoft",
-      "url": "https://contadoresenred.com/visual-sueldos-iva-y-conta-web-las-novedades-de-los-tres-sistemas-de-logosoft/",
-      "detectado": "2026-10-13T13:01:25.836Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ley-27-828-focaliza-zona-fria-impacto-en-monotributistas/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ley 27.828 focaliza Zona Fría. Cambio de reglas. Impacto en Monotributistas",
-      "url": "https://contadoresenred.com/ley-27-828-focaliza-zona-fria-impacto-en-monotributistas/",
-      "detectado": "2026-10-13T13:01:25.836Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/inocencia-fiscal-2-que-cambia-en-ganancias-simplificado-las-multas-y-los-controles-de-arca/",
-      "sitio": "Ignacio Online",
-      "titulo": "Inocencia Fiscal 2: qué cambia en Ganancias Simplificado, las multas y los controles de ARCA",
-      "url": "https://www.ignacioonline.com.ar/inocencia-fiscal-2-que-cambia-en-ganancias-simplificado-las-multas-y-los-controles-de-arca/",
-      "detectado": "2026-10-13T13:01:27.213Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Derecho de Ejercicio Profesional: 5º anticipo de 2026",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "detectado": "2026-10-13T13:01:30.561Z"
     }
   ]
 }
