@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-16T20:08:55.391Z",
+  "actualizado": "2026-10-17T01:46:06.012Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dinero-convivencia-tiempos-crisis-cuanta-plata-pierde-desorganizacion-parejas-20261016205756",
+      "sitio": "El Destape",
+      "titulo": "El 30% de las familias tiene discusiones por el manejo del dinero",
+      "url": "https://www.eldestapeweb.com/economia/dinero-convivencia-tiempos-crisis-cuanta-plata-pierde-desorganizacion-parejas-20261016205756",
+      "detectado": "2026-10-17T01:46:05.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/margen-usar-tarjeta-credito-motivo-cayo-financiamiento-familias-argentinas-20261016191552",
+      "sitio": "El Destape",
+      "titulo": "Ante el avance de la morosidad, las familias dejaron de usar las tarjetas de crédito",
+      "url": "https://www.eldestapeweb.com/economia/margen-usar-tarjeta-credito-motivo-cayo-financiamiento-familias-argentinas-20261016191552",
+      "detectado": "2026-10-17T01:46:05.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-10-17T01:46:05.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/habra-recorte-pelo-ideologia-promesa-keiko-fujimori-poner-orden-escuelas-20261016224413",
+      "sitio": "El Destape",
+      "titulo": "“Habrá recorte de pelo y de la ideología”: la promesa de Keiko Fujimori para poner “orden”",
+      "url": "https://www.eldestapeweb.com/internacionales/habra-recorte-pelo-ideologia-promesa-keiko-fujimori-poner-orden-escuelas-20261016224413",
+      "detectado": "2026-10-17T01:46:05.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/proyecto-soberania-libertad-avanza-acepta-hacerle-cambios-ley-milei-sumar-aliados-diputados-2026101618450",
+      "sitio": "El Destape",
+      "titulo": "LLA cede e implementará cambios en el proyecto de malvinización de Milei",
+      "url": "https://www.eldestapeweb.com/politica/proyecto-soberania-libertad-avanza-acepta-hacerle-cambios-ley-milei-sumar-aliados-diputados-2026101618450",
+      "detectado": "2026-10-17T01:46:05.428Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-nuevas-escalas-salariales-y-cambios-en-los-80-000-para-los-cct-108-75-y-122-75/",
       "sitio": "Ignacio Online",
@@ -385,41 +420,6 @@
       "titulo": "Diputados: LLA sostiene la ley de Tierras y protege el DNU 70/23",
       "url": "https://www.eldestapeweb.com/politica/milei-llega-ee-uu-busca-foto-bolsonaro-mientras-afianza-alineamiento-trump-202610148624",
       "detectado": "2026-10-14T21:01:37.262Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/mantiene-viaje-papa-argentina-respuesta-oficial-vaticano-20261014174736",
-      "sitio": "El Destape",
-      "titulo": "El Vaticano ratificó la intención del papa León XIV de viajar a Argentina y la región",
-      "url": "https://www.eldestapeweb.com/internacionales/mantiene-viaje-papa-argentina-respuesta-oficial-vaticano-20261014174736",
-      "detectado": "2026-10-14T21:01:37.262Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-traves-mensaje-clave-protegidos-juicios-202610141280",
-      "sitio": "El Destape",
-      "titulo": "León XIV reapareció tras la operación a través de un mensaje: “Protegidos de los juicios”",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-traves-mensaje-clave-protegidos-juicios-202610141280",
-      "detectado": "2026-10-14T16:02:04.637Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alimentos-subieron-casi-3-conurbano-bonaerense-arriba-inflacion-indec-20261014105139",
-      "sitio": "El Destape",
-      "titulo": "Los alimentos subieron casi 3% en el conurbano bonaerense, muy por arriba de la inflación",
-      "url": "https://www.eldestapeweb.com/economia/alimentos-subieron-casi-3-conurbano-bonaerense-arriba-inflacion-indec-20261014105139",
-      "detectado": "2026-10-14T16:02:04.637Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/arruabarrena-fallo-todo-boca-vs-vasco-da-gama-2-cambios-tiene-hacer-vuelta-2026101410421",
-      "sitio": "El Destape",
-      "titulo": "Arruabarrena falló en todo: los dos cambios que necesita Boca para la vuelta",
-      "url": "https://www.eldestapeweb.com/deportes/arruabarrena-fallo-todo-boca-vs-vasco-da-gama-2-cambios-tiene-hacer-vuelta-2026101410421",
-      "detectado": "2026-10-14T16:02:04.637Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/agustina-arredondo",
-      "sitio": "El Destape",
-      "titulo": "Por Agustina Arredondo",
-      "url": "https://www.eldestapeweb.com/perfil/agustina-arredondo",
-      "detectado": "2026-10-14T16:02:04.637Z"
     }
   ]
 }
