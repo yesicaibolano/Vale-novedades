@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-17T14:30:34.157Z",
+  "actualizado": "2026-10-17T19:45:09.770Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-dia-lealtad-justicia-social-no-hay-libertad-verdadera-2026101713336",
+      "sitio": "El Destape",
+      "titulo": "Kicillof en el Día de la Lealtad: \"Construir una alternativa que termine con la pesadilla\"",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-dia-lealtad-justicia-social-no-hay-libertad-verdadera-2026101713336",
+      "detectado": "2026-10-17T19:45:09.264Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/denunciaron-penalmente-gobierno-represion-frente-congreso-marcha-universitaria-excedieron-limites-legales-2026101716365",
+      "sitio": "El Destape",
+      "titulo": "Denunciaron penalmente al Gobierno por la represión: \"Excedieron límites legales\"",
+      "url": "https://www.eldestapeweb.com/politica/denunciaron-penalmente-gobierno-represion-frente-congreso-marcha-universitaria-excedieron-limites-legales-2026101716365",
+      "detectado": "2026-10-17T19:45:09.264Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "sitio": "El Destape",
+      "titulo": "Por Javier Peverelli",
+      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "detectado": "2026-10-17T19:45:09.264Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/cirujano-leon-xiv-hablo-salud-papa-viaja-sudamerica-202610171521",
+      "sitio": "El Destape",
+      "titulo": "El cirujano del Papa aseguró que no hay motivos clínicos por los que no pueda viajar",
+      "url": "https://www.eldestapeweb.com/internacionales/cirujano-leon-xiv-hablo-salud-papa-viaja-sudamerica-202610171521",
+      "detectado": "2026-10-17T19:45:09.264Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/maximo-kirchner-17-octubre-poder-economico-tiene-secuestrada-cfk-san-jose-20261017163537",
+      "sitio": "El Destape",
+      "titulo": "Máximo Kirchner, por el 17 de Octubre: \"El poder económico tiene secuestrada a CFK\"",
+      "url": "https://www.eldestapeweb.com/politica/maximo-kirchner-17-octubre-poder-economico-tiene-secuestrada-cfk-san-jose-20261017163537",
+      "detectado": "2026-10-17T19:45:09.264Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-numeros-milei-calculo-axel-cuentas-cristina-2026101710055",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Concentración económica",
       "url": "https://www.eldestapeweb.com/politica/fusion-telecom-telefonica-llamativo-dato-detras-millonaria-venta-aprueba-gobierno-frenar-monopolio-202610150523",
       "detectado": "2026-10-15T10:26:05.499Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/acerca-deadline-santilli-demoran-acuerdos-gobernadores-202610150523",
-      "sitio": "El Destape",
-      "titulo": "Se acerca el deadline de Santilli, pero se demoran los acuerdos con los gobernadores",
-      "url": "https://www.eldestapeweb.com/politica/acerca-deadline-santilli-demoran-acuerdos-gobernadores-202610150523",
-      "detectado": "2026-10-15T10:26:05.499Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/suspenso-horas-sesion-diputados-hay-numero-tiro-gracia-dnu-70-23-20261014223023",
-      "sitio": "El Destape",
-      "titulo": "Suspenso a horas de la sesión: ¿hay número para el tiro de gracia al DNU 70/23?",
-      "url": "https://www.eldestapeweb.com/politica/suspenso-horas-sesion-diputados-hay-numero-tiro-gracia-dnu-70-23-20261014223023",
-      "detectado": "2026-10-15T02:01:09.586Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/atraso-cambiario-recesion-baja-dolar-ajuste-gobierno-no-logran-frenar-fuga-capitales-20261014202130",
-      "sitio": "El Destape",
-      "titulo": "Milei y Caputo atrasaron el dólar otro 1% y se disparó la fuga de divisas",
-      "url": "https://www.eldestapeweb.com/economia/atraso-cambiario-recesion-baja-dolar-ajuste-gobierno-no-logran-frenar-fuga-capitales-20261014202130",
-      "detectado": "2026-10-15T02:01:09.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-10-15T02:01:09.587Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/estados-unidos-milei-pidio-victoria-trump-bolsonaro-pintar-hemisferio-azul-20261014213717",
-      "sitio": "El Destape",
-      "titulo": "Milei pidió una victoria de Trump y Bolsonaro: \"Pintar el hemisferio de azul\"",
-      "url": "https://www.eldestapeweb.com/internacionales/estados-unidos-milei-pidio-victoria-trump-bolsonaro-pintar-hemisferio-azul-20261014213717",
-      "detectado": "2026-10-15T02:01:09.587Z"
     }
   ]
 }
