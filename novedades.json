@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-17T01:46:06.012Z",
+  "actualizado": "2026-10-17T09:47:12.844Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dnu-70-23-desregulacion-dejo-cuotas-500-caras-1-2-millones-personas-cobertura-medica-202610170555",
+      "sitio": "El Destape",
+      "titulo": "DNU 70/23: la desregulación dejó cuotas 500% más caras y 1,2 millones sin cobertura médica",
+      "url": "https://www.eldestapeweb.com/economia/dnu-70-23-desregulacion-dejo-cuotas-500-caras-1-2-millones-personas-cobertura-medica-202610170555",
+      "detectado": "2026-10-17T09:47:12.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-17T09:47:12.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-tomo-decision-definitiva-corte-suprema-final-mandato-nos-esta-yendo-bien-202610170555",
+      "sitio": "El Destape",
+      "titulo": "Decisión final: Milei no completará la Corte porque \"está muy conforme\" con los 3 jueces",
+      "url": "https://www.eldestapeweb.com/politica/milei-tomo-decision-definitiva-corte-suprema-final-mandato-nos-esta-yendo-bien-202610170555",
+      "detectado": "2026-10-17T09:47:12.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-17T09:47:12.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-dio-vuelta-bombonera-le-gano-talleres-escala-tabla-anual-20261016232458",
+      "sitio": "El Destape",
+      "titulo": "Boca lo dio vuelta en La Bombonera, le ganó a Talleres y escala en la tabla anual",
+      "url": "https://www.eldestapeweb.com/deportes/boca-dio-vuelta-bombonera-le-gano-talleres-escala-tabla-anual-20261016232458",
+      "detectado": "2026-10-17T09:47:12.320Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/dinero-convivencia-tiempos-crisis-cuanta-plata-pierde-desorganizacion-parejas-20261016205756",
       "sitio": "El Destape",
@@ -233,13 +268,6 @@
       "detectado": "2026-10-15T20:35:43.612Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-15T20:35:43.612Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-milei-debe-girar-2-5-billones-extra-universidades-cumplir-ley-financiamiento-20261015143715",
       "sitio": "El Destape",
       "titulo": "Presupuesto universitario",
@@ -331,13 +359,6 @@
       "detectado": "2026-10-15T10:26:05.499Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-15T10:26:05.499Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/fusion-telecom-telefonica-llamativo-dato-detras-millonaria-venta-aprueba-gobierno-frenar-monopolio-202610150523",
       "sitio": "El Destape",
       "titulo": "Concentración económica",
@@ -399,27 +420,6 @@
       "titulo": "SMATA-FAATRA: Básicos de octubre a diciembre 2026",
       "url": "https://www.ignacioonline.com.ar/smata-faatra-basicos-de-octubre-a-diciembre-2026/",
       "detectado": "2026-10-14T21:01:31.074Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alarma-casa-rosada-oposicion-acelera-voltear-dnu-70-javier-milei-diputados-20261014152059",
-      "sitio": "El Destape",
-      "titulo": "Sesión del 15: Gobierno advierte que a la oposición \"le faltan 2 diputados para el quórum\"",
-      "url": "https://www.eldestapeweb.com/politica/alarma-casa-rosada-oposicion-acelera-voltear-dnu-70-javier-milei-diputados-20261014152059",
-      "detectado": "2026-10-14T21:01:37.262Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-10-14T21:01:37.262Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-llega-ee-uu-busca-foto-bolsonaro-mientras-afianza-alineamiento-trump-202610148624",
-      "sitio": "El Destape",
-      "titulo": "Diputados: LLA sostiene la ley de Tierras y protege el DNU 70/23",
-      "url": "https://www.eldestapeweb.com/politica/milei-llega-ee-uu-busca-foto-bolsonaro-mientras-afianza-alineamiento-trump-202610148624",
-      "detectado": "2026-10-14T21:01:37.262Z"
     }
   ]
 }
