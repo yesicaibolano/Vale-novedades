@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-10-18T09:59:34.560Z",
+  "actualizado": "2026-10-18T14:57:18.344Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-afirmo-retomara-gradualmente-actividades-2026101895034",
+      "sitio": "El Destape",
+      "titulo": "León XIV reapareció tras su operación y afirmó que retomará gradualmente sus actividades",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-afirmo-retomara-gradualmente-actividades-2026101895034",
+      "detectado": "2026-10-18T14:57:18.001Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fotografiar-propio-balazo-mientras-cierran-causa-fmi-caso-importante-pais-20261017195930",
+      "sitio": "El Destape",
+      "titulo": "Fotografiar tu propio balazo mientras cierran la causa FMI",
+      "url": "https://www.eldestapeweb.com/politica/fotografiar-propio-balazo-mientras-cierran-causa-fmi-caso-importante-pais-20261017195930",
+      "detectado": "2026-10-18T14:57:18.001Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/blindaje-gobierno-debil-mil-caras-debate-opositor-202610180531",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "Registración automática para confeccionar los Estados Contables. Plataforma Balances.",
       "url": "https://contadoresenred.com/registracion-automatica-de-los-estados-contables-plataforma-balances/",
-      "detectado": "2026-10-15T15:50:14.823Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/autonomos-octubre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-10-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Autónomos Octubre 2026. ¿Cuánto se paga por categoría a partir del 15-10-2026?",
-      "url": "https://contadoresenred.com/autonomos-octubre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-10-2026/",
-      "detectado": "2026-10-15T15:50:14.823Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-septiembre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ajuste por Inflación contable e impositivo. Índices Septiembre 2026.",
-      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-septiembre-2026/",
       "detectado": "2026-10-15T15:50:14.823Z"
     }
   ]
