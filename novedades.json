@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-19T17:50:13.952Z",
+  "actualizado": "2026-10-19T21:46:44.925Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15882-30-seminario-provincial-de-jovenes-graduados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Inscribite al 30° Seminario Provincial de Jóvenes Graduados",
+      "url": "https://www.cpba.com.ar/noticias/item/15882-30-seminario-provincial-de-jovenes-graduados",
+      "detectado": "2026-10-19T21:46:42.764Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16015-el-consejo-participo-de-una-charla-en-la-uean",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo participó de una charla en la UEAN",
+      "url": "https://www.cpba.com.ar/noticias/item/16015-el-consejo-participo-de-una-charla-en-la-uean",
+      "detectado": "2026-10-19T21:46:42.764Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16016-el-comite-de-jovenes-reunido-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Comité de Jóvenes, reunido en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/16016-el-comite-de-jovenes-reunido-en-sede-provincial",
+      "detectado": "2026-10-19T21:46:42.764Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peligro-reclamo-malvinas-insolita-postura-gobierno-polemico-pedido-donald-trump-20261019163516",
+      "sitio": "El Destape",
+      "titulo": "Alerta por el Malvinas: el Gobierno \"analiza\" un pedido de Trump que afecta a Argentina",
+      "url": "https://www.eldestapeweb.com/politica/peligro-reclamo-malvinas-insolita-postura-gobierno-polemico-pedido-donald-trump-20261019163516",
+      "detectado": "2026-10-19T21:46:44.372Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/prestacion-desempleo-anses-cuantos-trabajadores-pidieron-2026-dato-expone-milei-cuanto-cobra-2026101914512",
+      "sitio": "El Destape",
+      "titulo": "Casi 150 mil trabajadores tuvieron que pedir el seguro de desempleo en lo que va del año",
+      "url": "https://www.eldestapeweb.com/economia/prestacion-desempleo-anses-cuantos-trabajadores-pidieron-2026-dato-expone-milei-cuanto-cobra-2026101914512",
+      "detectado": "2026-10-19T21:46:44.372Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-reconoce-supo-dato-clave-explica-crisis-economica-viene-exterior-20261019171129",
+      "sitio": "El Destape",
+      "titulo": "Mal dato para la actividad: fuerte caída de las importaciones y de la inversión",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-reconoce-supo-dato-clave-explica-crisis-economica-viene-exterior-20261019171129",
+      "detectado": "2026-10-19T21:46:44.372Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-19-octubre-minuto-minuto-20261019727",
+      "sitio": "El Destape",
+      "titulo": "Con los índices a la baja, Milei festeja exportaciones récord",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-19-octubre-minuto-minuto-20261019727",
+      "detectado": "2026-10-19T21:46:44.372Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-acuerdos-milei-hace-trump-china-consumo-carne-desplomo-llego-momento-historico-20261019174244",
+      "sitio": "El Destape",
+      "titulo": "El consumo de carne se derrumbó 10% en septiembre y sigue hundido en un piso histórico",
+      "url": "https://www.eldestapeweb.com/economia/crisis-acuerdos-milei-hace-trump-china-consumo-carne-desplomo-llego-momento-historico-20261019174244",
+      "detectado": "2026-10-19T21:46:44.372Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "CPBA On-Line fuera de servicio durante el fin de semana",
       "url": "https://www.cpba.com.ar/noticias/item/16014-cpba-on-line-fuera-de-servicio-durante-el-fin-de-semana",
       "detectado": "2026-10-16T20:08:53.345Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-subio-20-mes-complica-plan-economico-milei-20261016161324",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país subió 33,5% en un mes y se desvanece la estrategia financiera de Milei",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-subio-20-mes-complica-plan-economico-milei-20261016161324",
-      "detectado": "2026-10-16T20:08:54.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/duras-criticas-kicillof-milei-freno-total-obra-publica-todo-pais-estamos-sufriendo-todos-20261016163046",
-      "sitio": "El Destape",
-      "titulo": "Kicillof cargó contra Milei por la falta de obra pública: \"Estamos sufriendo todos\"",
-      "url": "https://www.eldestapeweb.com/politica/duras-criticas-kicillof-milei-freno-total-obra-publica-todo-pais-estamos-sufriendo-todos-20261016163046",
-      "detectado": "2026-10-16T20:08:54.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cuanto-perdieron-salarios-ano-javier-milei-esta-siguiendo-mismo-destino-mauricio-macri-ano-elecciones-20261016133625",
-      "sitio": "El Destape",
-      "titulo": "La masa salarial no para de caer y Milei sigue el mismo destino que Macri",
-      "url": "https://www.eldestapeweb.com/economia/cuanto-perdieron-salarios-ano-javier-milei-esta-siguiendo-mismo-destino-mauricio-macri-ano-elecciones-20261016133625",
-      "detectado": "2026-10-16T20:08:54.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-insiste-argentina-reduzca-subsidios-energeticos-20261016124014",
-      "sitio": "El Destape",
-      "titulo": "El FMI insiste con que Argentina reduzca los subsidios energéticos",
-      "url": "https://www.eldestapeweb.com/economia/fmi-insiste-argentina-reduzca-subsidios-energeticos-20261016124014",
-      "detectado": "2026-10-16T20:08:54.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-10-16T20:08:54.905Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Autónomos y dependientes: Categorías, aportes y topes - OCTUBRE 2026",
-      "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
-      "detectado": "2026-10-16T15:38:43.469Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16012-se-actualiza-el-valor-del-caduceo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se actualiza el valor del Caduceo",
-      "url": "https://www.cpba.com.ar/noticias/item/16012-se-actualiza-el-valor-del-caduceo",
-      "detectado": "2026-10-16T15:38:47.617Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16013-ahora-en-repro-criterios-simplificados-en-la-nua-que-cambia-con-la-nueva-norma",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Criterios simplificados en la NUA: Qué cambia con la nueva norma",
-      "url": "https://www.cpba.com.ar/noticias/item/16013-ahora-en-repro-criterios-simplificados-en-la-nua-que-cambia-con-la-nueva-norma",
-      "detectado": "2026-10-16T15:38:47.617Z"
     }
   ]
 }
