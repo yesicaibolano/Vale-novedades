@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-19T02:00:36.551Z",
+  "actualizado": "2026-10-19T11:22:18.649Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arba-anuncio-un-plan-de-pagos-con-descuentos-de-hasta-el-40-para-regularizar-deudas/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARBA anunció un plan de pagos con descuentos de hasta el 40% para regularizar deudas",
+      "url": "https://contadoresenred.com/arba-anuncio-un-plan-de-pagos-con-descuentos-de-hasta-el-40-para-regularizar-deudas/",
+      "detectado": "2026-10-19T11:22:12.561Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/sifere-sircar-y-sirtac-se-trasladan-vencimiento-por-la-visita-del-papa/",
+      "sitio": "Contadores en Red",
+      "titulo": "SIFERE, SIRCAR y SIRTAC se trasladan vencimientos por la visita del Papa",
+      "url": "https://contadoresenred.com/sifere-sircar-y-sirtac-se-trasladan-vencimiento-por-la-visita-del-papa/",
+      "detectado": "2026-10-19T11:22:12.562Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/donde-estan-dolares-rigi-preocupante-radiografia-economica-derriba-mito-gobierno-inversiones-202610190511",
+      "sitio": "El Destape",
+      "titulo": "Ni RIGI ni desregulación: las inversiones no llegan y crece la presión sobre los dólares",
+      "url": "https://www.eldestapeweb.com/economia/donde-estan-dolares-rigi-preocupante-radiografia-economica-derriba-mito-gobierno-inversiones-202610190511",
+      "detectado": "2026-10-19T11:22:18.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-19T11:22:18.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/plan-libertad-avanza-salvar-dnu-70-23-maniobras-concesiones-oficialismo-evitar-derrotas-legislativas-202610190511",
+      "sitio": "El Destape",
+      "titulo": "La semana legislativa",
+      "url": "https://www.eldestapeweb.com/politica/plan-libertad-avanza-salvar-dnu-70-23-maniobras-concesiones-oficialismo-evitar-derrotas-legislativas-202610190511",
+      "detectado": "2026-10-19T11:22:18.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-19T11:22:18.082Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/romantizan-independencia-preocupante-cifra-indec-esconde-explosion-precarizacion-laboral-202610190511",
+      "sitio": "El Destape",
+      "titulo": "El nuevo récord negativo de Milei que revela la precariedad del trabajo informal",
+      "url": "https://www.eldestapeweb.com/economia/romantizan-independencia-preocupante-cifra-indec-esconde-explosion-precarizacion-laboral-202610190511",
+      "detectado": "2026-10-19T11:22:18.082Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-y-entidades-sin-fines-de-lucro-cuales-deben-aportar-y-como-acceder-al-25/",
       "sitio": "Ignacio Online",
@@ -198,13 +247,6 @@
       "detectado": "2026-10-17T09:47:12.320Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-17T09:47:12.320Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-tomo-decision-definitiva-corte-suprema-final-mandato-nos-esta-yendo-bien-202610170555",
       "sitio": "El Destape",
       "titulo": "Decisión final: Milei no completará la Corte porque \"está muy conforme\" con los 3 jueces",
@@ -378,48 +420,6 @@
       "titulo": "El Gobierno apuesta a completar la jugada con una sesión exitosa la semana que viene",
       "url": "https://www.eldestapeweb.com/politica/gobierno-apuesta-completar-jugada-sesion-exitosa-semana-viene-202610160525",
       "detectado": "2026-10-16T10:13:34.856Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-federal-universitaria",
-      "sitio": "El Destape",
-      "titulo": "Marcha Federal Universitaria",
-      "url": "https://www.eldestapeweb.com/tag/marcha-federal-universitaria",
-      "detectado": "2026-10-16T01:51:10.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gases-represion-falta-quorum-milei-anoto-victoria-congreso-salio-reprimir-franar-protesta-calle-2026101519415",
-      "sitio": "El Destape",
-      "titulo": "Milei gana con la casta, pero no puede con la calle y volvió a reprimir",
-      "url": "https://www.eldestapeweb.com/politica/gases-represion-falta-quorum-milei-anoto-victoria-congreso-salio-reprimir-franar-protesta-calle-2026101519415",
-      "detectado": "2026-10-16T01:51:10.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/marcha-universitaria",
-      "sitio": "El Destape",
-      "titulo": "Marcha universitaria",
-      "url": "https://www.eldestapeweb.com/tag/marcha-universitaria",
-      "detectado": "2026-10-16T01:51:10.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/grave-denuncia-violencia-institucional-fuerzas-seguridad-detuvieron-nene-14-anos-2026101518230",
-      "sitio": "El Destape",
-      "titulo": "El saldo de la represión: 550 asistidos y 6 detenidos, entre ellos dos menores de edad",
-      "url": "https://www.eldestapeweb.com/politica/grave-denuncia-violencia-institucional-fuerzas-seguridad-detuvieron-nene-14-anos-2026101518230",
-      "detectado": "2026-10-16T01:51:10.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/estudiantes-recibe-flamengo-copa-libertadores-comunicado-urgente-marcos-rojo-hora-tv-vivo-streaming-online-20261015113445",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Estudiantes recibe a Flamengo en semis de Copa Libertadores",
-      "url": "https://www.eldestapeweb.com/deportes/estudiantes-recibe-flamengo-copa-libertadores-comunicado-urgente-marcos-rojo-hora-tv-vivo-streaming-online-20261015113445",
-      "detectado": "2026-10-16T01:51:10.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/10-diputados-no-hubo-quorum-bajar-dnu-70-23-20261015142010",
-      "sitio": "El Destape",
-      "titulo": "Faltaron 8 diputados y no hubo quórum: se cayó la sesión para bajar el DNU 70/23",
-      "url": "https://www.eldestapeweb.com/politica/10-diputados-no-hubo-quorum-bajar-dnu-70-23-20261015142010",
-      "detectado": "2026-10-15T20:35:43.612Z"
     }
   ]
 }
