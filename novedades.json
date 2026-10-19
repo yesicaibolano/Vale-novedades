@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-10-19T11:22:18.649Z",
+  "actualizado": "2026-10-19T17:50:13.952Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ya está disponible el servicio web “Ganancias Personas Jurídicas”",
+      "url": "https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
+      "detectado": "2026-10-19T17:49:58.157Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/prorrogan-un-ano-los-beneficios-para-trabajadores-rurales-a-quienes-alcanza/",
+      "sitio": "Contadores en Red",
+      "titulo": "Prorrogan un año los beneficios para trabajadores rurales. ¿A quiénes alcanza?",
+      "url": "https://contadoresenred.com/prorrogan-un-ano-los-beneficios-para-trabajadores-rurales-a-quienes-alcanza/",
+      "detectado": "2026-10-19T17:49:58.157Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/el-registro-de-la-propiedad-inmueble-unifica-sus-controles-antilavado-en-caba/",
+      "sitio": "Contadores en Red",
+      "titulo": "El Registro de la Propiedad Inmueble unifica sus controles antilavado en CABA.",
+      "url": "https://contadoresenred.com/el-registro-de-la-propiedad-inmueble-unifica-sus-controles-antilavado-en-caba/",
+      "detectado": "2026-10-19T17:49:58.157Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/convenio-multilateral-vencimientos-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Convenio Multilateral: nuevos vencimientos de SIFERE, SIRCAR y SIRTAC en noviembre de 2026",
+      "url": "https://www.ignacioonline.com.ar/convenio-multilateral-vencimientos-noviembre-2026/",
+      "detectado": "2026-10-19T17:49:59.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/paro-de-colectivos",
+      "sitio": "El Destape",
+      "titulo": "Paro de colectivos",
+      "url": "https://www.eldestapeweb.com/tag/paro-de-colectivos",
+      "detectado": "2026-10-19T17:50:13.302Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/empresarios-definen-paro-colectivos-si-falla-negociacion-gobierno-nacional-2026101914247",
+      "sitio": "El Destape",
+      "titulo": "Paro de colectivos: empresarios se reúnen con el Gobierno y alertan por medidas de fuerza",
+      "url": "https://www.eldestapeweb.com/economia/empresarios-definen-paro-colectivos-si-falla-negociacion-gobierno-nacional-2026101914247",
+      "detectado": "2026-10-19T17:50:13.302Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-19T17:50:13.302Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dispara-riesgo-pais-caen-bonos-inicio-mercado-financiero-2026101911220",
+      "sitio": "El Destape",
+      "titulo": "Se dispara el riesgo país y alcanza un nuevo máximo en el año",
+      "url": "https://www.eldestapeweb.com/economia/dispara-riesgo-pais-caen-bonos-inicio-mercado-financiero-2026101911220",
+      "detectado": "2026-10-19T17:50:13.302Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-dispuso-secreto-militar-operacion-compra-equipamiento-ffaa-20261019102955",
+      "sitio": "El Destape",
+      "titulo": "Milei dispuso el secreto militar para la compra de las FFAA y no informarán qué adquirirán",
+      "url": "https://www.eldestapeweb.com/politica/milei-dispuso-secreto-militar-operacion-compra-equipamiento-ffaa-20261019102955",
+      "detectado": "2026-10-19T17:50:13.302Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arba-anuncio-un-plan-de-pagos-con-descuentos-de-hasta-el-40-para-regularizar-deudas/",
       "sitio": "Contadores en Red",
@@ -226,13 +289,6 @@
       "detectado": "2026-10-17T14:30:33.623Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-10-17T14:30:33.623Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-17-octubre-minuto-minuto-2026101794326",
       "sitio": "El Destape",
       "titulo": "Milei ya prepara su próximo viaje al exterior con destino a España",
@@ -364,62 +420,6 @@
       "titulo": "Ahora en RePro | Criterios simplificados en la NUA: Qué cambia con la nueva norma",
       "url": "https://www.cpba.com.ar/noticias/item/16013-ahora-en-repro-criterios-simplificados-en-la-nua-que-cambia-con-la-nueva-norma",
       "detectado": "2026-10-16T15:38:47.617Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ampliaron-procesamiento-spagnuolo-causa-coimas-andis-2026101612117",
-      "sitio": "El Destape",
-      "titulo": "Ampliaron el procesamiento de Spagnuolo en la causa por las coimas de la Andis",
-      "url": "https://www.eldestapeweb.com/politica/ampliaron-procesamiento-spagnuolo-causa-coimas-andis-2026101612117",
-      "detectado": "2026-10-16T15:38:48.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/reaparecio-papa-dio-misa-publican-primera-foto-operacion-202610161034",
-      "sitio": "El Destape",
-      "titulo": "Reapareció el Papa: dio una misa y publican su primera foto tras la operación",
-      "url": "https://www.eldestapeweb.com/internacionales/reaparecio-papa-dio-misa-publican-primera-foto-operacion-202610161034",
-      "detectado": "2026-10-16T15:38:48.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/gobierno-oficializo-quita-92-medicamentos-programa-remediar-traslada-gasto-provincias-20261015202347",
-      "sitio": "El Destape",
-      "titulo": "Adiós al “Remediar”: pasó de distribuir 98 drogas a seis",
-      "url": "https://www.eldestapeweb.com/sociedad/gobierno-oficializo-quita-92-medicamentos-programa-remediar-traslada-gasto-provincias-20261015202347",
-      "detectado": "2026-10-16T15:38:48.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/llamativa-jugada-judicial-fiscal-termina-sepultar-causa-fmi-beneficia-macri-caputo-sturzenegger-20261015191645",
-      "sitio": "El Destape",
-      "titulo": "Fiscal macrista facilita cierre del caso por la deuda con el FMI que tomó el ex presidente",
-      "url": "https://www.eldestapeweb.com/politica/llamativa-jugada-judicial-fiscal-termina-sepultar-causa-fmi-beneficia-macri-caputo-sturzenegger-20261015191645",
-      "detectado": "2026-10-16T15:38:48.971Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/presupuesto-2027-javier-milei-reservo-caja-discrecional-us-6-400-millones-presionar-provincias-20261015232422",
-      "sitio": "El Destape",
-      "titulo": "La bazooka millonaria de Milei para seducir a los gobernadores",
-      "url": "https://www.eldestapeweb.com/politica/presupuesto-2027-javier-milei-reservo-caja-discrecional-us-6-400-millones-presionar-provincias-20261015232422",
-      "detectado": "2026-10-16T10:13:34.856Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/aceleraron-precios-alimentos-octubre-registraron-mayor-suba-semanal-mayo-202610151609",
-      "sitio": "El Destape",
-      "titulo": "Inflación: una consultora detectó la mayor suba de precios en alimentos desde mayo",
-      "url": "https://www.eldestapeweb.com/economia/aceleraron-precios-alimentos-octubre-registraron-mayor-suba-semanal-mayo-202610151609",
-      "detectado": "2026-10-16T10:13:34.856Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/vuelve-ramon-diaz-river-tiene-pasar-sea-dt-cual-futuro-ponzio-20261015231843",
-      "sitio": "El Destape",
-      "titulo": "Vuelve Ramón Díaz a River: qué tiene que pasar para que sea el DT",
-      "url": "https://www.eldestapeweb.com/deportes/vuelve-ramon-diaz-river-tiene-pasar-sea-dt-cual-futuro-ponzio-20261015231843",
-      "detectado": "2026-10-16T10:13:34.856Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-apuesta-completar-jugada-sesion-exitosa-semana-viene-202610160525",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno apuesta a completar la jugada con una sesión exitosa la semana que viene",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-apuesta-completar-jugada-sesion-exitosa-semana-viene-202610160525",
-      "detectado": "2026-10-16T10:13:34.856Z"
     }
   ]
 }
