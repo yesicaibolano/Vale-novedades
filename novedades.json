@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-20T10:30:13.168Z",
+  "actualizado": "2026-10-20T15:54:03.780Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arba-prorroga-y-modificacion-del-calendario-de-vencimientos/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARBA prórroga y modificación del calendario de vencimientos",
+      "url": "https://contadoresenred.com/arba-prorroga-y-modificacion-del-calendario-de-vencimientos/",
+      "detectado": "2026-10-20T15:53:57.098Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/empresas-de-servicios-eventuales-se-elimina-el-regimen-de-retencion-de-contribuciones-patronales/",
+      "sitio": "Contadores en Red",
+      "titulo": "Empresas de servicios eventuales: se elimina el régimen de retención de contribuciones patronales.",
+      "url": "https://contadoresenred.com/empresas-de-servicios-eventuales-se-elimina-el-regimen-de-retencion-de-contribuciones-patronales/",
+      "detectado": "2026-10-20T15:53:57.098Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16017-ahora-en-repro-entre-comparables-e-ia-los-nuevos-desafios-de-los-precios-de-transferencia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Entre comparables e IA: Los nuevos desafíos de los precios de…",
+      "url": "https://www.cpba.com.ar/noticias/item/16017-ahora-en-repro-entre-comparables-e-ia-los-nuevos-desafios-de-los-precios-de-transferencia",
+      "detectado": "2026-10-20T15:54:01.719Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dispara-riesgo-pais-toca-record-historico-ano-20261020103635",
+      "sitio": "El Destape",
+      "titulo": "Se dispara el riesgo país y toca un récord histórico en el año",
+      "url": "https://www.eldestapeweb.com/economia/dispara-riesgo-pais-toca-record-historico-ano-20261020103635",
+      "detectado": "2026-10-20T15:54:03.189Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/paro-subtes-vivo-cuando-vuelve-servicio-minuto-minuto-conflicto-metrodelegados-2026102012164",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno de la Ciudad intimó a los trabajadores del subte por el paro",
+      "url": "https://www.eldestapeweb.com/sociedad/paro-subtes-vivo-cuando-vuelve-servicio-minuto-minuto-conflicto-metrodelegados-2026102012164",
+      "detectado": "2026-10-20T15:54:03.189Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-martes-20-de-octubre-202610203011",
+      "sitio": "El Destape",
+      "titulo": "El dólar blue alcanza un nuevo récord histórico y la crisis financiera no tiene fin",
+      "url": "https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-martes-20-de-octubre-202610203011",
+      "detectado": "2026-10-20T15:54:03.189Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-postergo-arranque-fondo-asistencia-laboral-decreto-202610207542",
+      "sitio": "El Destape",
+      "titulo": "Milei postergó la aplicación del FAL para desalentar despidos antes de las elecciones",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-milei-postergo-arranque-fondo-asistencia-laboral-decreto-202610207542",
+      "detectado": "2026-10-20T15:54:03.189Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/juicio-ypf-jueza-preska-anulo-sentencia-cerro-definitivamente-caso-2026102011455",
+      "sitio": "El Destape",
+      "titulo": "Juicio por YPF: la jueza Preska anuló su sentencia y avanza el cierre del caso",
+      "url": "https://www.eldestapeweb.com/economia/juicio-ypf-jueza-preska-anulo-sentencia-cerro-definitivamente-caso-2026102011455",
+      "detectado": "2026-10-20T15:54:03.189Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/fal-se-posterga-su-entrada-en-vigencia-y-se-amplia-el-periodo-de-carencia/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "Por Nicolás Lantos",
       "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
       "detectado": "2026-10-18T01:43:27.208Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alarmante-dato-millonario-oculto-gobierno-salida-dolares-gestion-libertaria-20261017184531",
-      "sitio": "El Destape",
-      "titulo": "Una película de salida de dólares y bache: con Milei se fugaron USD 48.000 millones",
-      "url": "https://www.eldestapeweb.com/economia/alarmante-dato-millonario-oculto-gobierno-salida-dolares-gestion-libertaria-20261017184531",
-      "detectado": "2026-10-18T01:43:27.208Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-10-18T01:43:27.208Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/operaba-red-coimagate-conocio-detalle-desfalco-8-000-millones-andis-20261017184531",
-      "sitio": "El Destape",
-      "titulo": "Corrupción y lavado",
-      "url": "https://www.eldestapeweb.com/politica/operaba-red-coimagate-conocio-detalle-desfalco-8-000-millones-andis-20261017184531",
-      "detectado": "2026-10-18T01:43:27.208Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-dia-lealtad-justicia-social-no-hay-libertad-verdadera-2026101713336",
-      "sitio": "El Destape",
-      "titulo": "Kicillof en el Día de la Lealtad: \"Construir una alternativa que termine con la pesadilla\"",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-dia-lealtad-justicia-social-no-hay-libertad-verdadera-2026101713336",
-      "detectado": "2026-10-17T19:45:09.264Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/denunciaron-penalmente-gobierno-represion-frente-congreso-marcha-universitaria-excedieron-limites-legales-2026101716365",
-      "sitio": "El Destape",
-      "titulo": "Denunciaron penalmente al Gobierno por la represión: \"Excedieron límites legales\"",
-      "url": "https://www.eldestapeweb.com/politica/denunciaron-penalmente-gobierno-represion-frente-congreso-marcha-universitaria-excedieron-limites-legales-2026101716365",
-      "detectado": "2026-10-17T19:45:09.264Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "sitio": "El Destape",
-      "titulo": "Por Javier Peverelli",
-      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "detectado": "2026-10-17T19:45:09.264Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/cirujano-leon-xiv-hablo-salud-papa-viaja-sudamerica-202610171521",
-      "sitio": "El Destape",
-      "titulo": "El cirujano del Papa aseguró que no hay motivos clínicos por los que no pueda viajar",
-      "url": "https://www.eldestapeweb.com/internacionales/cirujano-leon-xiv-hablo-salud-papa-viaja-sudamerica-202610171521",
-      "detectado": "2026-10-17T19:45:09.264Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/maximo-kirchner-17-octubre-poder-economico-tiene-secuestrada-cfk-san-jose-20261017163537",
-      "sitio": "El Destape",
-      "titulo": "Máximo Kirchner, por el 17 de Octubre: \"El poder económico tiene secuestrada a CFK\"",
-      "url": "https://www.eldestapeweb.com/politica/maximo-kirchner-17-octubre-poder-economico-tiene-secuestrada-cfk-san-jose-20261017163537",
-      "detectado": "2026-10-17T19:45:09.264Z"
     }
   ]
 }
