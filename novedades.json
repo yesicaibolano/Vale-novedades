@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-10-20T02:17:59.218Z",
+  "actualizado": "2026-10-20T10:30:13.168Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/fal-se-posterga-su-entrada-en-vigencia-y-se-amplia-el-periodo-de-carencia/",
+      "sitio": "Contadores en Red",
+      "titulo": "FAL. Se posterga su entrada en vigencia y se amplía el período de carencia",
+      "url": "https://contadoresenred.com/fal-se-posterga-su-entrada-en-vigencia-y-se-amplia-el-periodo-de-carencia/",
+      "detectado": "2026-10-20T10:30:04.091Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2635-fondo-de-asistencia-laboral-fal-se-prorroga-su-entrada-en-vigencia-y-se-amplia-el-plazo-de-carencia.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Fondo de Asistencia Laboral (FAL): Se prorroga su entrada en vigencia y se amplia el plazo de carencia",
+      "url": "https://jorgevega.com.ar/laboral/2635-fondo-de-asistencia-laboral-fal-se-prorroga-su-entrada-en-vigencia-y-se-amplia-el-plazo-de-carencia.html",
+      "detectado": "2026-10-20T10:30:05.065Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-diciembre-2026-carencia-12-meses-decreto-1228/",
+      "sitio": "Ignacio Online",
+      "titulo": "FAL: postergan el inicio a diciembre de 2026 y amplían la carencia a 12 meses",
+      "url": "https://www.ignacioonline.com.ar/fal-diciembre-2026-carencia-12-meses-decreto-1228/",
+      "detectado": "2026-10-20T10:30:06.320Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-elimina-la-retencion-de-seguridad-social-para-empresas-de-servicios-eventuales/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA elimina la retención de Seguridad Social para empresas de servicios eventuales",
+      "url": "https://www.ignacioonline.com.ar/arca-elimina-la-retencion-de-seguridad-social-para-empresas-de-servicios-eventuales/",
+      "detectado": "2026-10-20T10:30:06.320Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-paso-riesgos-milei-si-anulan-primarias-20261019225728",
+      "sitio": "El Destape",
+      "titulo": "Alerta PASO: los riesgos para Milei si se anulan las primarias",
+      "url": "https://www.eldestapeweb.com/politica/alerta-paso-riesgos-milei-si-anulan-primarias-20261019225728",
+      "detectado": "2026-10-20T10:30:12.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-10-20T10:30:12.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilaciones-anses-quienes-jubilados-casta-beneficiados-milei-ganan-casi-20-minima-bono-202610200554",
+      "sitio": "El Destape",
+      "titulo": "Jubilaciones judiciales: cobran 18 veces más que la mínima",
+      "url": "https://www.eldestapeweb.com/economia/jubilaciones-anses-quienes-jubilados-casta-beneficiados-milei-ganan-casi-20-minima-bono-202610200554",
+      "detectado": "2026-10-20T10:30:12.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-cambio-libreto-complico-vuelco-malvinero-milei-202610200554",
+      "sitio": "El Destape",
+      "titulo": "Reclamo por Malvinas",
+      "url": "https://www.eldestapeweb.com/politica/trump-cambio-libreto-complico-vuelco-malvinero-milei-202610200554",
+      "detectado": "2026-10-20T10:30:12.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-20T10:30:12.791Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/punto-final-causa-deuda-usd-57-100-millones-macri-fmi-cerraron-jueces-reunian-expresidente-olivos-20261019212747",
       "sitio": "El Destape",
@@ -289,13 +352,6 @@
       "detectado": "2026-10-18T09:59:34.054Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-18T09:59:34.054Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/navegando-ciegas-error-gobierno-congreso-abre-puerta-desguace-dnu-70-23-2026101720421",
       "sitio": "El Destape",
       "titulo": "Milei ganó tiempo, la oposición tiene que ganar poder",
@@ -364,62 +420,6 @@
       "titulo": "Máximo Kirchner, por el 17 de Octubre: \"El poder económico tiene secuestrada a CFK\"",
       "url": "https://www.eldestapeweb.com/politica/maximo-kirchner-17-octubre-poder-economico-tiene-secuestrada-cfk-san-jose-20261017163537",
       "detectado": "2026-10-17T19:45:09.264Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-numeros-milei-calculo-axel-cuentas-cristina-2026101710055",
-      "sitio": "El Destape",
-      "titulo": "Algoritmo 2027: los números de Milei, el cálculo de Axel y las cuentas de Cristina",
-      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-numeros-milei-calculo-axel-cuentas-cristina-2026101710055",
-      "detectado": "2026-10-17T14:30:33.623Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-recibio-alta-medica-dejo-hospital-pasara-visita-argentina-20261017111446",
-      "sitio": "El Destape",
-      "titulo": "El papa León XIV recibió el alta médica y dejó el hospital: qué se sabe",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-recibio-alta-medica-dejo-hospital-pasara-visita-argentina-20261017111446",
-      "detectado": "2026-10-17T14:30:33.623Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-17-octubre-minuto-minuto-2026101794326",
-      "sitio": "El Destape",
-      "titulo": "Milei ya prepara su próximo viaje al exterior con destino a España",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-17-octubre-minuto-minuto-2026101794326",
-      "detectado": "2026-10-17T14:30:33.623Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dnu-70-23-desregulacion-dejo-cuotas-500-caras-1-2-millones-personas-cobertura-medica-202610170555",
-      "sitio": "El Destape",
-      "titulo": "DNU 70/23: la desregulación dejó cuotas 500% más caras y 1,2 millones sin cobertura médica",
-      "url": "https://www.eldestapeweb.com/economia/dnu-70-23-desregulacion-dejo-cuotas-500-caras-1-2-millones-personas-cobertura-medica-202610170555",
-      "detectado": "2026-10-17T09:47:12.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-tomo-decision-definitiva-corte-suprema-final-mandato-nos-esta-yendo-bien-202610170555",
-      "sitio": "El Destape",
-      "titulo": "Decisión final: Milei no completará la Corte porque \"está muy conforme\" con los 3 jueces",
-      "url": "https://www.eldestapeweb.com/politica/milei-tomo-decision-definitiva-corte-suprema-final-mandato-nos-esta-yendo-bien-202610170555",
-      "detectado": "2026-10-17T09:47:12.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-17T09:47:12.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-dio-vuelta-bombonera-le-gano-talleres-escala-tabla-anual-20261016232458",
-      "sitio": "El Destape",
-      "titulo": "Boca lo dio vuelta en La Bombonera, le ganó a Talleres y escala en la tabla anual",
-      "url": "https://www.eldestapeweb.com/deportes/boca-dio-vuelta-bombonera-le-gano-talleres-escala-tabla-anual-20261016232458",
-      "detectado": "2026-10-17T09:47:12.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dinero-convivencia-tiempos-crisis-cuanta-plata-pierde-desorganizacion-parejas-20261016205756",
-      "sitio": "El Destape",
-      "titulo": "El 30% de las familias tiene discusiones por el manejo del dinero",
-      "url": "https://www.eldestapeweb.com/economia/dinero-convivencia-tiempos-crisis-cuanta-plata-pierde-desorganizacion-parejas-20261016205756",
-      "detectado": "2026-10-17T01:46:05.428Z"
     }
   ]
 }
