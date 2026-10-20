@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-20T15:54:03.780Z",
+  "actualizado": "2026-10-20T20:56:47.784Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-servicio-web-habilitado/",
+      "sitio": "Ignacio Online",
+      "titulo": "Ganancias Personas Jurídicas: ARCA habilitó el servicio web ¿Simplificado?",
+      "url": "https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-servicio-web-habilitado/",
+      "detectado": "2026-10-20T20:56:41.381Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/satsaid-atvc-octubre-2026-aumento-escala-salarial/",
+      "sitio": "Ignacio Online",
+      "titulo": "SATSAID: aumento del 3,6% desde octubre de 2026 y nuevas escalas del CCT 223/75",
+      "url": "https://www.ignacioonline.com.ar/satsaid-atvc-octubre-2026-aumento-escala-salarial/",
+      "detectado": "2026-10-20T20:56:41.381Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/paro-de-colectivos",
+      "sitio": "El Destape",
+      "titulo": "Paro de colectivos",
+      "url": "https://www.eldestapeweb.com/tag/paro-de-colectivos",
+      "detectado": "2026-10-20T20:56:47.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/paro-colectivos-gobierno-sube-subsidios-busca-desactivar-medida-fuerza-2026102013633",
+      "sitio": "El Destape",
+      "titulo": "Paro de colectivos: el Gobierno sube subsidios y las cámaras resuelven qué hacer",
+      "url": "https://www.eldestapeweb.com/economia/paro-colectivos-gobierno-sube-subsidios-busca-desactivar-medida-fuerza-2026102013633",
+      "detectado": "2026-10-20T20:56:47.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mesa-politica-casa-rosada-gobierno-busco-mostrar-unidad-karina-milei-luis-caputo-semanas-tension-interna-2026102017913",
+      "sitio": "El Destape",
+      "titulo": "Tras dos semanas de tensión, Karina se reencontró con Caputo con las elecciones en la mira",
+      "url": "https://www.eldestapeweb.com/politica/mesa-politica-casa-rosada-gobierno-busco-mostrar-unidad-karina-milei-luis-caputo-semanas-tension-interna-2026102017913",
+      "detectado": "2026-10-20T20:56:47.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-20T20:56:47.120Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-vs-vasco-da-gama-hoy-semifinal-copa-sudamericana-horario-ver-vivo-donde-ver-2026102015510",
+      "sitio": "El Destape",
+      "titulo": "Boca enfrenta a Vasco Da Gama y Leandro Paredes va al banco de suplentes",
+      "url": "https://www.eldestapeweb.com/deportes/boca-vs-vasco-da-gama-hoy-semifinal-copa-sudamericana-horario-ver-vivo-donde-ver-2026102015510",
+      "detectado": "2026-10-20T20:56:47.120Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/arba-prorroga-y-modificacion-del-calendario-de-vencimientos/",
       "sitio": "Contadores en Red",
@@ -240,13 +289,6 @@
       "detectado": "2026-10-19T17:49:59.768Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/paro-de-colectivos",
-      "sitio": "El Destape",
-      "titulo": "Paro de colectivos",
-      "url": "https://www.eldestapeweb.com/tag/paro-de-colectivos",
-      "detectado": "2026-10-19T17:50:13.302Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/empresarios-definen-paro-colectivos-si-falla-negociacion-gobierno-nacional-2026101914247",
       "sitio": "El Destape",
       "titulo": "Paro de colectivos: empresarios se reúnen con el Gobierno y alertan por medidas de fuerza",
@@ -378,48 +420,6 @@
       "titulo": "Fotografiar tu propio balazo mientras cierran la causa FMI",
       "url": "https://www.eldestapeweb.com/politica/fotografiar-propio-balazo-mientras-cierran-causa-fmi-caso-importante-pais-20261017195930",
       "detectado": "2026-10-18T14:57:18.001Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/blindaje-gobierno-debil-mil-caras-debate-opositor-202610180531",
-      "sitio": "El Destape",
-      "titulo": "El blindaje de un gobierno débil, las mil caras del debate opositor",
-      "url": "https://www.eldestapeweb.com/politica/blindaje-gobierno-debil-mil-caras-debate-opositor-202610180531",
-      "detectado": "2026-10-18T09:59:34.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/cuando-democracias-devienen-plutocracias-202610180531",
-      "sitio": "El Destape",
-      "titulo": "Cuando las democracias devienen plutocracias",
-      "url": "https://www.eldestapeweb.com/opinion/cuando-democracias-devienen-plutocracias-202610180531",
-      "detectado": "2026-10-18T09:59:34.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-18T09:59:34.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dia-lealtad-actos-separados-mismo-llamado-derrotar-milei-202610180531",
-      "sitio": "El Destape",
-      "titulo": "Día de la Lealtad: actos separados, pero un mismo llamado a derrotar a Milei",
-      "url": "https://www.eldestapeweb.com/politica/dia-lealtad-actos-separados-mismo-llamado-derrotar-milei-202610180531",
-      "detectado": "2026-10-18T09:59:34.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/navegando-ciegas-error-gobierno-congreso-abre-puerta-desguace-dnu-70-23-2026101720421",
-      "sitio": "El Destape",
-      "titulo": "Milei ganó tiempo, la oposición tiene que ganar poder",
-      "url": "https://www.eldestapeweb.com/politica/navegando-ciegas-error-gobierno-congreso-abre-puerta-desguace-dnu-70-23-2026101720421",
-      "detectado": "2026-10-18T01:43:27.208Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-10-18T01:43:27.208Z"
     }
   ]
 }
