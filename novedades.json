@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-21T10:41:56.814Z",
+  "actualizado": "2026-10-21T16:11:02.896Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/proteccion-de-la-vivienda-unica-en-buenos-aires-cambios-en-la-renuncia-y-deber-de-informacion-del-escribano/",
+      "sitio": "Contadores en Red",
+      "titulo": "Protección de la vivienda única en Buenos Aires: cambios en la renuncia y deber de información del escribano.",
+      "url": "https://contadoresenred.com/proteccion-de-la-vivienda-unica-en-buenos-aires-cambios-en-la-renuncia-y-deber-de-informacion-del-escribano/",
+      "detectado": "2026-10-21T16:10:53.647Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16018-arca-implemento-el-servicio-web-de-ganancias-personas-juridicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA implementó el servicio web de Ganancias Personas Jurídicas",
+      "url": "https://www.cpba.com.ar/noticias/item/16018-arca-implemento-el-servicio-web-de-ganancias-personas-juridicas",
+      "detectado": "2026-10-21T16:11:01.163Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/antes-visita-papa-leon-xvi-iglesia-cruzo-diputados-libertarios-ajuste-discapacidad-20261021115355",
+      "sitio": "El Destape",
+      "titulo": "Tensión en Congreso: la Iglesia cruzó a diputados libertarios por ajuste en discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/antes-visita-papa-leon-xvi-iglesia-cruzo-diputados-libertarios-ajuste-discapacidad-20261021115355",
+      "detectado": "2026-10-21T16:11:02.405Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-volvio-atacar-pedro-sanchez-impresentable-dictador-2026102174330",
+      "sitio": "El Destape",
+      "titulo": "Provocadora frase de Milei contra Pedro Sánchez en España: “Impresentable dictador”",
+      "url": "https://www.eldestapeweb.com/politica/milei-volvio-atacar-pedro-sanchez-impresentable-dictador-2026102174330",
+      "detectado": "2026-10-21T16:11:02.405Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-recorrio-plaza-san-pedro-sabe-llegada-argentina-2026102183149",
+      "sitio": "El Destape",
+      "titulo": "El Papa recorrió la plaza San Pedro y crecen las esperanzas de su visita a Argentina",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-recorrio-plaza-san-pedro-sabe-llegada-argentina-2026102183149",
+      "detectado": "2026-10-21T16:11:02.406Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-10-21T16:11:02.406Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
+      "sitio": "El Destape",
+      "titulo": "Hay quórum: inició la sesión en Diputados, con un temario a pedir de LLA",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
+      "detectado": "2026-10-21T16:11:02.406Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/regimen-de-promocion-del-turismo-gastronomico-de-la-provincia-de-buenos-aires/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Se dispara el riesgo país y alcanza un nuevo máximo en el año",
       "url": "https://www.eldestapeweb.com/economia/dispara-riesgo-pais-caen-bonos-inicio-mercado-financiero-2026101911220",
       "detectado": "2026-10-19T17:50:13.302Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-dispuso-secreto-militar-operacion-compra-equipamiento-ffaa-20261019102955",
-      "sitio": "El Destape",
-      "titulo": "Milei dispuso el secreto militar para la compra de las FFAA y no informarán qué adquirirán",
-      "url": "https://www.eldestapeweb.com/politica/milei-dispuso-secreto-militar-operacion-compra-equipamiento-ffaa-20261019102955",
-      "detectado": "2026-10-19T17:50:13.302Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arba-anuncio-un-plan-de-pagos-con-descuentos-de-hasta-el-40-para-regularizar-deudas/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARBA anunció un plan de pagos con descuentos de hasta el 40% para regularizar deudas",
-      "url": "https://contadoresenred.com/arba-anuncio-un-plan-de-pagos-con-descuentos-de-hasta-el-40-para-regularizar-deudas/",
-      "detectado": "2026-10-19T11:22:12.561Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/sifere-sircar-y-sirtac-se-trasladan-vencimiento-por-la-visita-del-papa/",
-      "sitio": "Contadores en Red",
-      "titulo": "SIFERE, SIRCAR y SIRTAC se trasladan vencimientos por la visita del Papa",
-      "url": "https://contadoresenred.com/sifere-sircar-y-sirtac-se-trasladan-vencimiento-por-la-visita-del-papa/",
-      "detectado": "2026-10-19T11:22:12.562Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/donde-estan-dolares-rigi-preocupante-radiografia-economica-derriba-mito-gobierno-inversiones-202610190511",
-      "sitio": "El Destape",
-      "titulo": "Ni RIGI ni desregulación: las inversiones no llegan y crece la presión sobre los dólares",
-      "url": "https://www.eldestapeweb.com/economia/donde-estan-dolares-rigi-preocupante-radiografia-economica-derriba-mito-gobierno-inversiones-202610190511",
-      "detectado": "2026-10-19T11:22:18.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-19T11:22:18.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/plan-libertad-avanza-salvar-dnu-70-23-maniobras-concesiones-oficialismo-evitar-derrotas-legislativas-202610190511",
-      "sitio": "El Destape",
-      "titulo": "La semana legislativa",
-      "url": "https://www.eldestapeweb.com/politica/plan-libertad-avanza-salvar-dnu-70-23-maniobras-concesiones-oficialismo-evitar-derrotas-legislativas-202610190511",
-      "detectado": "2026-10-19T11:22:18.082Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/romantizan-independencia-preocupante-cifra-indec-esconde-explosion-precarizacion-laboral-202610190511",
-      "sitio": "El Destape",
-      "titulo": "El nuevo récord negativo de Milei que revela la precariedad del trabajo informal",
-      "url": "https://www.eldestapeweb.com/economia/romantizan-independencia-preocupante-cifra-indec-esconde-explosion-precarizacion-laboral-202610190511",
-      "detectado": "2026-10-19T11:22:18.082Z"
     }
   ]
 }
