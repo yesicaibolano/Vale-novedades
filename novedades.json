@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-21T16:11:02.896Z",
+  "actualizado": "2026-10-21T20:57:13.683Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad: prorrogan hasta diciembre de 2027 las excepcionalidades parciales para la liquidación del F. 931",
+      "url": "https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
+      "detectado": "2026-10-21T20:57:08.135Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16019-la-sede-provincial-colmada-de-nuevos-matriculados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Sede Provincial, colmada de nuevos matriculados",
+      "url": "https://www.cpba.com.ar/noticias/item/16019-la-sede-provincial-colmada-de-nuevos-matriculados",
+      "detectado": "2026-10-21T20:57:12.121Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gritos-insultos-resta-votos-fallido-paso-milei-espana-20261021153525",
+      "sitio": "El Destape",
+      "titulo": "Gritos, insultos y \"resta votos\": el fallido paso de Milei por España",
+      "url": "https://www.eldestapeweb.com/politica/gritos-insultos-resta-votos-fallido-paso-milei-espana-20261021153525",
+      "detectado": "2026-10-21T20:57:13.160Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-21T20:57:13.160Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-lla-aliados-le-dieron-media-sancion-nueva-ley-inviolabilidad-propiedad-privada-20261021174210",
+      "sitio": "El Destape",
+      "titulo": "LLA y aliados le dieron media sanción a la nueva Inviolabilidad de la Propiedad Privada",
+      "url": "https://www.eldestapeweb.com/politica/diputados-lla-aliados-le-dieron-media-sancion-nueva-ley-inviolabilidad-propiedad-privada-20261021174210",
+      "detectado": "2026-10-21T20:57:13.160Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-21T20:57:13.160Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
+      "sitio": "El Destape",
+      "titulo": "El Papa León XIV no necesita “tratamiento adicional” tras la operación",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
+      "detectado": "2026-10-21T20:57:13.160Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/proteccion-de-la-vivienda-unica-en-buenos-aires-cambios-en-la-renuncia-y-deber-de-informacion-del-escribano/",
       "sitio": "Contadores en Red",
@@ -100,13 +149,6 @@
       "detectado": "2026-10-21T02:11:18.017Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-21T02:11:18.017Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
       "sitio": "El Destape",
       "titulo": "León XIV en Argentina",
@@ -160,13 +202,6 @@
       "sitio": "El Destape",
       "titulo": "Tras dos semanas de tensión, Karina se reencontró con Caputo con las elecciones en la mira",
       "url": "https://www.eldestapeweb.com/politica/mesa-politica-casa-rosada-gobierno-busco-mostrar-unidad-karina-milei-luis-caputo-semanas-tension-interna-2026102017913",
-      "detectado": "2026-10-20T20:56:47.120Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-20T20:56:47.120Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Ya está disponible el servicio web “Ganancias Personas Jurídicas”",
       "url": "https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
       "detectado": "2026-10-19T17:49:58.157Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/prorrogan-un-ano-los-beneficios-para-trabajadores-rurales-a-quienes-alcanza/",
-      "sitio": "Contadores en Red",
-      "titulo": "Prorrogan un año los beneficios para trabajadores rurales. ¿A quiénes alcanza?",
-      "url": "https://contadoresenred.com/prorrogan-un-ano-los-beneficios-para-trabajadores-rurales-a-quienes-alcanza/",
-      "detectado": "2026-10-19T17:49:58.157Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/el-registro-de-la-propiedad-inmueble-unifica-sus-controles-antilavado-en-caba/",
-      "sitio": "Contadores en Red",
-      "titulo": "El Registro de la Propiedad Inmueble unifica sus controles antilavado en CABA.",
-      "url": "https://contadoresenred.com/el-registro-de-la-propiedad-inmueble-unifica-sus-controles-antilavado-en-caba/",
-      "detectado": "2026-10-19T17:49:58.157Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/convenio-multilateral-vencimientos-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Convenio Multilateral: nuevos vencimientos de SIFERE, SIRCAR y SIRTAC en noviembre de 2026",
-      "url": "https://www.ignacioonline.com.ar/convenio-multilateral-vencimientos-noviembre-2026/",
-      "detectado": "2026-10-19T17:49:59.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/empresarios-definen-paro-colectivos-si-falla-negociacion-gobierno-nacional-2026101914247",
-      "sitio": "El Destape",
-      "titulo": "Paro de colectivos: empresarios se reúnen con el Gobierno y alertan por medidas de fuerza",
-      "url": "https://www.eldestapeweb.com/economia/empresarios-definen-paro-colectivos-si-falla-negociacion-gobierno-nacional-2026101914247",
-      "detectado": "2026-10-19T17:50:13.302Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dispara-riesgo-pais-caen-bonos-inicio-mercado-financiero-2026101911220",
-      "sitio": "El Destape",
-      "titulo": "Se dispara el riesgo país y alcanza un nuevo máximo en el año",
-      "url": "https://www.eldestapeweb.com/economia/dispara-riesgo-pais-caen-bonos-inicio-mercado-financiero-2026101911220",
-      "detectado": "2026-10-19T17:50:13.302Z"
     }
   ]
 }
