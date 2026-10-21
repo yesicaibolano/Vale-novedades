@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-20T20:56:47.784Z",
+  "actualizado": "2026-10-21T02:11:18.616Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/propiedad-privada-discapacidad-endeudamiento-temario-pedir-lla-diputados-20261020173625",
+      "sitio": "El Destape",
+      "titulo": "Propiedad Privada, Discapacidad y Endeudamiento: un temario a pedir de LLA en Diputados",
+      "url": "https://www.eldestapeweb.com/politica/propiedad-privada-discapacidad-endeudamiento-temario-pedir-lla-diputados-20261020173625",
+      "detectado": "2026-10-21T02:11:18.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-21T02:11:18.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "detectado": "2026-10-21T02:11:18.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/visita-papa-sorpresivo-anuncio-vaticano-ilusiona-argentina-20261020183555",
+      "sitio": "El Destape",
+      "titulo": "Visita del Papa: el Vaticano enviará una delegación a Argentina",
+      "url": "https://www.eldestapeweb.com/politica/visita-papa-sorpresivo-anuncio-vaticano-ilusiona-argentina-20261020183555",
+      "detectado": "2026-10-21T02:11:18.017Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-vasco-da-gama-vs-boca-futbol-libre-pelota-libre-xuper-tv-riesgo-donde-hacerlo-manera-legal-202610208055",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Boca vence a Vasco desde el arranque y sueña con la final",
+      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-vasco-da-gama-vs-boca-futbol-libre-pelota-libre-xuper-tv-riesgo-donde-hacerlo-manera-legal-202610208055",
+      "detectado": "2026-10-21T02:11:18.017Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-servicio-web-habilitado/",
       "sitio": "Ignacio Online",
@@ -352,13 +387,6 @@
       "detectado": "2026-10-19T11:22:18.082Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-19T11:22:18.082Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/romantizan-independencia-preocupante-cifra-indec-esconde-explosion-precarizacion-laboral-202610190511",
       "sitio": "El Destape",
       "titulo": "El nuevo récord negativo de Milei que revela la precariedad del trabajo informal",
@@ -392,34 +420,6 @@
       "titulo": "Lula, durísimo con Bolsonaro en el debate: \"¿Ya le pidió prestada la motosierra de Milei?\"",
       "url": "https://www.eldestapeweb.com/internacionales/debate-presidencial-brasil-cara-balotaje-lula-comparo-flavio-bolsonaro-milei-alerto-motosierra-20261018212452",
       "detectado": "2026-10-19T02:00:35.997Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-river-vs-belgrano-goleada-liga-profesional-2026-2026101822215",
-      "sitio": "El Destape",
-      "titulo": "Uno por uno: los puntajes de River vs Belgrano en la goleada por la Liga Profesional 2026",
-      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-river-vs-belgrano-goleada-liga-profesional-2026-2026101822215",
-      "detectado": "2026-10-19T02:00:35.997Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Lamas",
-      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
-      "detectado": "2026-10-19T02:00:35.997Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-afirmo-retomara-gradualmente-actividades-2026101895034",
-      "sitio": "El Destape",
-      "titulo": "León XIV reapareció tras su operación y afirmó que retomará gradualmente sus actividades",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-reaparecio-operacion-afirmo-retomara-gradualmente-actividades-2026101895034",
-      "detectado": "2026-10-18T14:57:18.001Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fotografiar-propio-balazo-mientras-cierran-causa-fmi-caso-importante-pais-20261017195930",
-      "sitio": "El Destape",
-      "titulo": "Fotografiar tu propio balazo mientras cierran la causa FMI",
-      "url": "https://www.eldestapeweb.com/politica/fotografiar-propio-balazo-mientras-cierran-causa-fmi-caso-importante-pais-20261017195930",
-      "detectado": "2026-10-18T14:57:18.001Z"
     }
   ]
 }
