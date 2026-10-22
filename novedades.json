@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-22T16:09:09.996Z",
+  "actualizado": "2026-10-22T20:54:19.370Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-lanzo-esta-preparada-ser-presidenta-desato-tormenta-gobierno-no-le-suma-votos-milei-2026102215347",
+      "sitio": "El Destape",
+      "titulo": "Cayeron mal los dichos de Bullrich en Rosada y dudan si será vice: \"No nos suma votos\"",
+      "url": "https://www.eldestapeweb.com/politica/patricia-bullrich-lanzo-esta-preparada-ser-presidenta-desato-tormenta-gobierno-no-le-suma-votos-milei-2026102215347",
+      "detectado": "2026-10-22T20:54:18.935Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-22T20:54:18.935Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-admitio-economia-no-estaria-evolucionando-tan-positivamente-esperaba-20261022171653",
+      "sitio": "El Destape",
+      "titulo": "Milei admitió que la economía \"no estaría evolucionando tan positivamente\" como esperaba",
+      "url": "https://www.eldestapeweb.com/politica/milei-admitio-economia-no-estaria-evolucionando-tan-positivamente-esperaba-20261022171653",
+      "detectado": "2026-10-22T20:54:18.935Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/polemica-foto-spa-desato-escandalo-profundizo-grieta-interna-bloque-provincias-unidas-diputados-20261022141651",
+      "sitio": "El Destape",
+      "titulo": "La grieta de Provincias Unidas en Diputados: acusaciones, votaciones divididas y tensión",
+      "url": "https://www.eldestapeweb.com/politica/polemica-foto-spa-desato-escandalo-profundizo-grieta-interna-bloque-provincias-unidas-diputados-20261022141651",
+      "detectado": "2026-10-22T20:54:18.935Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/vuelve-promocion-futbol-argentino-cuando-aplicara-20261022154625",
+      "sitio": "El Destape",
+      "titulo": "Vuelve la Promoción al fútbol argentino: cuándo y cómo se aplicará",
+      "url": "https://www.eldestapeweb.com/deportes/vuelve-promocion-futbol-argentino-cuando-aplicara-20261022154625",
+      "detectado": "2026-10-22T20:54:18.935Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/sircip-comenzara-a-operar-en-diciembre-en-siete-jurisdicciones-y-ya-tiene-sus-primeros-vencimientos/",
       "sitio": "Contadores en Red",
@@ -160,13 +195,6 @@
       "sitio": "El Destape",
       "titulo": "Gritos, insultos y \"resta votos\": el fallido paso de Milei por España",
       "url": "https://www.eldestapeweb.com/politica/gritos-insultos-resta-votos-fallido-paso-milei-espana-20261021153525",
-      "detectado": "2026-10-21T20:57:13.160Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-21T20:57:13.160Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Milei postergó la aplicación del FAL para desalentar despidos antes de las elecciones",
       "url": "https://www.eldestapeweb.com/politica/gobierno-milei-postergo-arranque-fondo-asistencia-laboral-decreto-202610207542",
       "detectado": "2026-10-20T15:54:03.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/juicio-ypf-jueza-preska-anulo-sentencia-cerro-definitivamente-caso-2026102011455",
-      "sitio": "El Destape",
-      "titulo": "Juicio por YPF: la jueza Preska anuló su sentencia y avanza el cierre del caso",
-      "url": "https://www.eldestapeweb.com/economia/juicio-ypf-jueza-preska-anulo-sentencia-cerro-definitivamente-caso-2026102011455",
-      "detectado": "2026-10-20T15:54:03.189Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fal-se-posterga-su-entrada-en-vigencia-y-se-amplia-el-periodo-de-carencia/",
-      "sitio": "Contadores en Red",
-      "titulo": "FAL. Se posterga su entrada en vigencia y se amplía el período de carencia",
-      "url": "https://contadoresenred.com/fal-se-posterga-su-entrada-en-vigencia-y-se-amplia-el-periodo-de-carencia/",
-      "detectado": "2026-10-20T10:30:04.091Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2635-fondo-de-asistencia-laboral-fal-se-prorroga-su-entrada-en-vigencia-y-se-amplia-el-plazo-de-carencia.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Fondo de Asistencia Laboral (FAL): Se prorroga su entrada en vigencia y se amplia el plazo de carencia",
-      "url": "https://jorgevega.com.ar/laboral/2635-fondo-de-asistencia-laboral-fal-se-prorroga-su-entrada-en-vigencia-y-se-amplia-el-plazo-de-carencia.html",
-      "detectado": "2026-10-20T10:30:05.065Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-diciembre-2026-carencia-12-meses-decreto-1228/",
-      "sitio": "Ignacio Online",
-      "titulo": "FAL: postergan el inicio a diciembre de 2026 y amplían la carencia a 12 meses",
-      "url": "https://www.ignacioonline.com.ar/fal-diciembre-2026-carencia-12-meses-decreto-1228/",
-      "detectado": "2026-10-20T10:30:06.320Z"
     }
   ]
 }
