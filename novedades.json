@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-22T10:43:54.972Z",
+  "actualizado": "2026-10-22T16:09:09.996Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/sircip-comenzara-a-operar-en-diciembre-en-siete-jurisdicciones-y-ya-tiene-sus-primeros-vencimientos/",
+      "sitio": "Contadores en Red",
+      "titulo": "SIRCIP comenzará a operar en diciembre en siete jurisdicciones y ya tiene sus primeros vencimientos",
+      "url": "https://contadoresenred.com/sircip-comenzara-a-operar-en-diciembre-en-siete-jurisdicciones-y-ya-tiene-sus-primeros-vencimientos/",
+      "detectado": "2026-10-22T16:09:03.134Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/como-proteger-tu-casa-con-el-regimen-de-vivienda-unica/",
+      "sitio": "Contadores en Red",
+      "titulo": "¿Cómo proteger tu casa gratis con el Régimen de Vivienda Única?",
+      "url": "https://contadoresenred.com/como-proteger-tu-casa-con-el-regimen-de-vivienda-unica/",
+      "detectado": "2026-10-22T16:09:03.134Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Participá de la 2ª Jornada Provincial de Actuación Laboral y Previsional",
+      "url": "https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "detectado": "2026-10-22T16:09:08.018Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16020-la-delegacion-san-martin-celebro-su-60-aniversario",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Delegación San Martín celebró su 60° aniversario",
+      "url": "https://www.cpba.com.ar/noticias/item/16020-la-delegacion-san-martin-celebro-su-60-aniversario",
+      "detectado": "2026-10-22T16:09:08.018Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-superar-700-puntos-caen-acciones-argentinas-20261022122534",
+      "sitio": "El Destape",
+      "titulo": "El riesgo país vuelve a subir y supera los 700 puntos",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-superar-700-puntos-caen-acciones-argentinas-20261022122534",
+      "detectado": "2026-10-22T16:09:09.348Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-confirmo-visitara-argentina-alla-vamos-2026102292236",
+      "sitio": "El Destape",
+      "titulo": "El Papa León XIV confirmó que visitará la Argentina: \"Allá vamos\"",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-confirmo-visitara-argentina-alla-vamos-2026102292236",
+      "detectado": "2026-10-22T16:09:09.348Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/atletico-mineiro-peligroso-rival-boca-copa-sudamericana-dt-copero-baja-clave-karma-finales-2-argentinos-ex-river-silbado-20261022102251",
+      "sitio": "El Destape",
+      "titulo": "Mineiro, rival de Boca: DT copero, 2 argentinos, baja clave y karma en finales",
+      "url": "https://www.eldestapeweb.com/deportes/atletico-mineiro-peligroso-rival-boca-copa-sudamericana-dt-copero-baja-clave-karma-finales-2-argentinos-ex-river-silbado-20261022102251",
+      "detectado": "2026-10-22T16:09:09.348Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-adjudico-venta-90-aysa-us-340-2-millones-202610227396",
+      "sitio": "El Destape",
+      "titulo": "Privatizaciones: el Gobierno adjudicó la venta de AySA y fijó una fecha clave",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-adjudico-venta-90-aysa-us-340-2-millones-202610227396",
+      "detectado": "2026-10-22T16:09:09.348Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/trafico-fronterizo-con-fines-comerciales-se-prorroga-entrada-en-vigencia-de-prohibiciones/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "FAL: postergan el inicio a diciembre de 2026 y amplían la carencia a 12 meses",
       "url": "https://www.ignacioonline.com.ar/fal-diciembre-2026-carencia-12-meses-decreto-1228/",
       "detectado": "2026-10-20T10:30:06.320Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-elimina-la-retencion-de-seguridad-social-para-empresas-de-servicios-eventuales/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA elimina la retención de Seguridad Social para empresas de servicios eventuales",
-      "url": "https://www.ignacioonline.com.ar/arca-elimina-la-retencion-de-seguridad-social-para-empresas-de-servicios-eventuales/",
-      "detectado": "2026-10-20T10:30:06.320Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/alerta-paso-riesgos-milei-si-anulan-primarias-20261019225728",
-      "sitio": "El Destape",
-      "titulo": "Alerta PASO: los riesgos para Milei si se anulan las primarias",
-      "url": "https://www.eldestapeweb.com/politica/alerta-paso-riesgos-milei-si-anulan-primarias-20261019225728",
-      "detectado": "2026-10-20T10:30:12.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-10-20T10:30:12.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/jubilaciones-anses-quienes-jubilados-casta-beneficiados-milei-ganan-casi-20-minima-bono-202610200554",
-      "sitio": "El Destape",
-      "titulo": "Jubilaciones judiciales: cobran 18 veces más que la mínima",
-      "url": "https://www.eldestapeweb.com/economia/jubilaciones-anses-quienes-jubilados-casta-beneficiados-milei-ganan-casi-20-minima-bono-202610200554",
-      "detectado": "2026-10-20T10:30:12.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-cambio-libreto-complico-vuelco-malvinero-milei-202610200554",
-      "sitio": "El Destape",
-      "titulo": "Reclamo por Malvinas",
-      "url": "https://www.eldestapeweb.com/politica/trump-cambio-libreto-complico-vuelco-malvinero-milei-202610200554",
-      "detectado": "2026-10-20T10:30:12.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-20T10:30:12.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/punto-final-causa-deuda-usd-57-100-millones-macri-fmi-cerraron-jueces-reunian-expresidente-olivos-20261019212747",
-      "sitio": "El Destape",
-      "titulo": "Los jueces que se reunían con Macri cerraron el caso de la deuda con el FMI",
-      "url": "https://www.eldestapeweb.com/politica/punto-final-causa-deuda-usd-57-100-millones-macri-fmi-cerraron-jueces-reunian-expresidente-olivos-20261019212747",
-      "detectado": "2026-10-20T02:17:58.713Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/freno-gobierno-diputados-libertad-avanza-tuvo-suspender-comision-ley-malvinas-falta-firmas-20261019205132",
-      "sitio": "El Destape",
-      "titulo": "Por falta de apoyos a la Ley Malvinas, el Gobierno suspendió el debate en comisión",
-      "url": "https://www.eldestapeweb.com/politica/freno-gobierno-diputados-libertad-avanza-tuvo-suspender-comision-ley-malvinas-falta-firmas-20261019205132",
-      "detectado": "2026-10-20T02:17:58.713Z"
     }
   ]
 }
