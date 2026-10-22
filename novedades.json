@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-22T02:05:29.575Z",
+  "actualizado": "2026-10-22T10:43:54.972Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/trafico-fronterizo-con-fines-comerciales-se-prorroga-entrada-en-vigencia-de-prohibiciones/",
+      "sitio": "Contadores en Red",
+      "titulo": "Tráfico fronterizo con fines comerciales, se prorroga entrada en vigencia de prohibiciones.",
+      "url": "https://contadoresenred.com/trafico-fronterizo-con-fines-comerciales-se-prorroga-entrada-en-vigencia-de-prohibiciones/",
+      "detectado": "2026-10-22T10:43:48.597Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-edificios-escala-salarial-octubre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Encargados de edificios: escala salarial de octubre de 2026 del CCT 589/10",
+      "url": "https://www.ignacioonline.com.ar/encargados-edificios-escala-salarial-octubre-2026/",
+      "detectado": "2026-10-22T10:43:49.818Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dice-nueva-ley-discapacidad-impulsa-milei-20261021224445",
+      "sitio": "El Destape",
+      "titulo": "Diputados dio media sanción a la nueva ley de Discapacidad: qué dice la normativa",
+      "url": "https://www.eldestapeweb.com/politica/dice-nueva-ley-discapacidad-impulsa-milei-20261021224445",
+      "detectado": "2026-10-22T10:43:54.417Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/efecto-puerta-giratoria-reservas-no-crecen-pese-superavit-record-dolares-ponen-jaque-modelo-milei-20261021232926",
+      "sitio": "El Destape",
+      "titulo": "Puerta giratoria: los dólares entran, pero se van rápido y ponen en jaque el modelo Milei",
+      "url": "https://www.eldestapeweb.com/economia/efecto-puerta-giratoria-reservas-no-crecen-pese-superavit-record-dolares-ponen-jaque-modelo-milei-20261021232926",
+      "detectado": "2026-10-22T10:43:54.417Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-22T10:43:54.417Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/crisis-movilidad-social-20261021232255",
+      "sitio": "El Destape",
+      "titulo": "La crisis de la movilidad social",
+      "url": "https://www.eldestapeweb.com/opinion/crisis-movilidad-social-20261021232255",
+      "detectado": "2026-10-22T10:43:54.417Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-10-22T10:43:54.417Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Por falta de apoyos a la Ley Malvinas, el Gobierno suspendió el debate en comisión",
       "url": "https://www.eldestapeweb.com/politica/freno-gobierno-diputados-libertad-avanza-tuvo-suspender-comision-ley-malvinas-falta-firmas-20261019205132",
       "detectado": "2026-10-20T02:17:58.713Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-petroleros-dijo-suba-riesgo-pais-factores-externos-dolar-no-esta-atrasado-2026101922236",
-      "sitio": "El Destape",
-      "titulo": "Milei con petroleros: \"Todo el mundo tiene problemas de inflación\"",
-      "url": "https://www.eldestapeweb.com/politica/milei-petroleros-dijo-suba-riesgo-pais-factores-externos-dolar-no-esta-atrasado-2026101922236",
-      "detectado": "2026-10-20T02:17:58.713Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "sitio": "El Destape",
-      "titulo": "Por Roberto Bellato",
-      "url": "https://www.eldestapeweb.com/perfil/roberto-bellato",
-      "detectado": "2026-10-20T02:17:58.713Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15882-30-seminario-provincial-de-jovenes-graduados",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Inscribite al 30° Seminario Provincial de Jóvenes Graduados",
-      "url": "https://www.cpba.com.ar/noticias/item/15882-30-seminario-provincial-de-jovenes-graduados",
-      "detectado": "2026-10-19T21:46:42.764Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16015-el-consejo-participo-de-una-charla-en-la-uean",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo participó de una charla en la UEAN",
-      "url": "https://www.cpba.com.ar/noticias/item/16015-el-consejo-participo-de-una-charla-en-la-uean",
-      "detectado": "2026-10-19T21:46:42.764Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16016-el-comite-de-jovenes-reunido-en-sede-provincial",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Comité de Jóvenes, reunido en Sede Provincial",
-      "url": "https://www.cpba.com.ar/noticias/item/16016-el-comite-de-jovenes-reunido-en-sede-provincial",
-      "detectado": "2026-10-19T21:46:42.764Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peligro-reclamo-malvinas-insolita-postura-gobierno-polemico-pedido-donald-trump-20261019163516",
-      "sitio": "El Destape",
-      "titulo": "Alerta por el Malvinas: el Gobierno \"analiza\" un pedido de Trump que afecta a Argentina",
-      "url": "https://www.eldestapeweb.com/politica/peligro-reclamo-malvinas-insolita-postura-gobierno-polemico-pedido-donald-trump-20261019163516",
-      "detectado": "2026-10-19T21:46:44.372Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/prestacion-desempleo-anses-cuantos-trabajadores-pidieron-2026-dato-expone-milei-cuanto-cobra-2026101914512",
-      "sitio": "El Destape",
-      "titulo": "Casi 150 mil trabajadores tuvieron que pedir el seguro de desempleo en lo que va del año",
-      "url": "https://www.eldestapeweb.com/economia/prestacion-desempleo-anses-cuantos-trabajadores-pidieron-2026-dato-expone-milei-cuanto-cobra-2026101914512",
-      "detectado": "2026-10-19T21:46:44.372Z"
     }
   ]
 }
