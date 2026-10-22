@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-21T20:57:13.683Z",
+  "actualizado": "2026-10-22T02:05:29.575Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
+      "sitio": "El Destape",
+      "titulo": "Actividad económica",
+      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
+      "detectado": "2026-10-22T02:05:29.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950",
+      "sitio": "El Destape",
+      "titulo": "La actividad volvió a caer en agosto y el país se acerca a la recesión formal",
+      "url": "https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950",
+      "detectado": "2026-10-22T02:05:29.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno negoció cambios con la oposición y debate una ley de Discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
+      "detectado": "2026-10-22T02:05:29.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tecnologia/falla-critica-php-pone-jaque-toda-infraestructura-internet-2026102122143",
+      "sitio": "El Destape",
+      "titulo": "Alerta mundial por una falla crítica que afecta a toda la infraestructura de Internet",
+      "url": "https://www.eldestapeweb.com/tecnologia/falla-critica-php-pone-jaque-toda-infraestructura-internet-2026102122143",
+      "detectado": "2026-10-22T02:05:29.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/andis-piden-43-indagatorias-apuntan-firma-suizo-argentina-cooptar-agencia-20261021195223",
+      "sitio": "El Destape",
+      "titulo": "Corrupción en discapacidad",
+      "url": "https://www.eldestapeweb.com/politica/andis-piden-43-indagatorias-apuntan-firma-suizo-argentina-cooptar-agencia-20261021195223",
+      "detectado": "2026-10-22T02:05:29.000Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
       "sitio": "Ignacio Online",
@@ -90,13 +125,6 @@
       "sitio": "El Destape",
       "titulo": "Seguimiento Minuto A Minuto",
       "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-10-21T16:11:02.406Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
-      "sitio": "El Destape",
-      "titulo": "Hay quórum: inició la sesión en Diputados, con un temario a pedir de LLA",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
       "detectado": "2026-10-21T16:11:02.406Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Casi 150 mil trabajadores tuvieron que pedir el seguro de desempleo en lo que va del año",
       "url": "https://www.eldestapeweb.com/economia/prestacion-desempleo-anses-cuantos-trabajadores-pidieron-2026-dato-expone-milei-cuanto-cobra-2026101914512",
       "detectado": "2026-10-19T21:46:44.372Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-reconoce-supo-dato-clave-explica-crisis-economica-viene-exterior-20261019171129",
-      "sitio": "El Destape",
-      "titulo": "Mal dato para la actividad: fuerte caída de las importaciones y de la inversión",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-reconoce-supo-dato-clave-explica-crisis-economica-viene-exterior-20261019171129",
-      "detectado": "2026-10-19T21:46:44.372Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-19-octubre-minuto-minuto-20261019727",
-      "sitio": "El Destape",
-      "titulo": "Con los índices a la baja, Milei festeja exportaciones récord",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-19-octubre-minuto-minuto-20261019727",
-      "detectado": "2026-10-19T21:46:44.372Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-acuerdos-milei-hace-trump-china-consumo-carne-desplomo-llego-momento-historico-20261019174244",
-      "sitio": "El Destape",
-      "titulo": "El consumo de carne se derrumbó 10% en septiembre y sigue hundido en un piso histórico",
-      "url": "https://www.eldestapeweb.com/economia/crisis-acuerdos-milei-hace-trump-china-consumo-carne-desplomo-llego-momento-historico-20261019174244",
-      "detectado": "2026-10-19T21:46:44.372Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ya está disponible el servicio web “Ganancias Personas Jurídicas”",
-      "url": "https://contadoresenred.com/ya-esta-disponible-el-servicio-web-ganancias-personas-juridicas/",
-      "detectado": "2026-10-19T17:49:58.157Z"
     }
   ]
 }
