@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-22T20:54:19.370Z",
+  "actualizado": "2026-10-23T02:10:08.520Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/efecto-puerta-doce-disparo-6-1-comision-llevarse-dolares-pais-2026102219408",
+      "sitio": "El Destape",
+      "titulo": "Efecto Puerta Doce: se disparó a 6,1% la comisión para llevarse los dólares del país",
+      "url": "https://www.eldestapeweb.com/politica/efecto-puerta-doce-disparo-6-1-comision-llevarse-dolares-pais-2026102219408",
+      "detectado": "2026-10-23T02:10:07.942Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-23T02:10:07.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-apura-milei-fija-fecha-limite-eliminar-paso-202610221841",
+      "sitio": "El Destape",
+      "titulo": "Bullrich apuró a Milei y le pone plazos para la reforma electoral",
+      "url": "https://www.eldestapeweb.com/politica/patricia-bullrich-apura-milei-fija-fecha-limite-eliminar-paso-202610221841",
+      "detectado": "2026-10-23T02:10:07.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-23T02:10:07.943Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-23T02:10:07.943Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-lanzo-esta-preparada-ser-presidenta-desato-tormenta-gobierno-no-le-suma-votos-milei-2026102215347",
       "sitio": "El Destape",
@@ -205,13 +240,6 @@
       "detectado": "2026-10-21T20:57:13.160Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-21T20:57:13.160Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
       "sitio": "El Destape",
       "titulo": "El Papa León XIV no necesita “tratamiento adicional” tras la operación",
@@ -392,34 +420,6 @@
       "titulo": "Ahora en RePro | Entre comparables e IA: Los nuevos desafíos de los precios de…",
       "url": "https://www.cpba.com.ar/noticias/item/16017-ahora-en-repro-entre-comparables-e-ia-los-nuevos-desafios-de-los-precios-de-transferencia",
       "detectado": "2026-10-20T15:54:01.719Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dispara-riesgo-pais-toca-record-historico-ano-20261020103635",
-      "sitio": "El Destape",
-      "titulo": "Se dispara el riesgo país y toca un récord histórico en el año",
-      "url": "https://www.eldestapeweb.com/economia/dispara-riesgo-pais-toca-record-historico-ano-20261020103635",
-      "detectado": "2026-10-20T15:54:03.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/paro-subtes-vivo-cuando-vuelve-servicio-minuto-minuto-conflicto-metrodelegados-2026102012164",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno de la Ciudad intimó a los trabajadores del subte por el paro",
-      "url": "https://www.eldestapeweb.com/sociedad/paro-subtes-vivo-cuando-vuelve-servicio-minuto-minuto-conflicto-metrodelegados-2026102012164",
-      "detectado": "2026-10-20T15:54:03.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-martes-20-de-octubre-202610203011",
-      "sitio": "El Destape",
-      "titulo": "El dólar blue alcanza un nuevo récord histórico y la crisis financiera no tiene fin",
-      "url": "https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-martes-20-de-octubre-202610203011",
-      "detectado": "2026-10-20T15:54:03.189Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-postergo-arranque-fondo-asistencia-laboral-decreto-202610207542",
-      "sitio": "El Destape",
-      "titulo": "Milei postergó la aplicación del FAL para desalentar despidos antes de las elecciones",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-milei-postergo-arranque-fondo-asistencia-laboral-decreto-202610207542",
-      "detectado": "2026-10-20T15:54:03.189Z"
     }
   ]
 }
