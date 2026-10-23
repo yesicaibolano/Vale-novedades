@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-23T10:35:32.284Z",
+  "actualizado": "2026-10-23T15:59:10.784Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/dj-simplificada-de-ganancias-puntos-a-tener-en-cuenta-de-la-nueva-reglamentacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "DJ simplificada de Ganancias. Puntos a tener en cuenta de la nueva reglamentación",
+      "url": "https://contadoresenred.com/dj-simplificada-de-ganancias-puntos-a-tener-en-cuenta-de-la-nueva-reglamentacion/",
+      "detectado": "2026-10-23T15:59:03.577Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-personas-juridicas-web-arca-publico-el-manual-del-nuevo-servicio/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias Personas Jurídicas web: ARCA publicó el manual del nuevo servicio.",
+      "url": "https://contadoresenred.com/ganancias-personas-juridicas-web-arca-publico-el-manual-del-nuevo-servicio/",
+      "detectado": "2026-10-23T15:59:03.577Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2636-decreto-1253-26-reglamentacion-de-la-ley-27-799-de-inocencia-fiscal.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Decreto 1253/26 - Reglamentación de la Ley 27.799 de Inocencia Fiscal",
+      "url": "https://jorgevega.com.ar/impuestos/2636-decreto-1253-26-reglamentacion-de-la-ley-27-799-de-inocencia-fiscal.html",
+      "detectado": "2026-10-23T15:59:04.082Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arba-plan-de-pagos-con-descuentos-de-hasta-el-40-y-cuotas-sin-interes/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARBA: plan de pagos con descuentos de hasta el 40% y cuotas sin interés",
+      "url": "https://www.ignacioonline.com.ar/arba-plan-de-pagos-con-descuentos-de-hasta-el-40-y-cuotas-sin-interes/",
+      "detectado": "2026-10-23T15:59:05.072Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
+      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "detectado": "2026-10-23T15:59:08.533Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16022-moron-fue-sede-de-la-tercera-ronda-de-consultas-tributarias-de-arba",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Morón fue sede de la tercera Ronda de Consultas Tributarias de ARBA",
+      "url": "https://www.cpba.com.ar/noticias/item/16022-moron-fue-sede-de-la-tercera-ronda-de-consultas-tributarias-de-arba",
+      "detectado": "2026-10-23T15:59:08.533Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-suspendio-viaje-encendio-alarmas-llegada-argentina-2026102394716",
+      "sitio": "El Destape",
+      "titulo": "León XIV suspendió un viaje y encendió las alarmas por su llegada a Argentina",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-suspendio-viaje-encendio-alarmas-llegada-argentina-2026102394716",
+      "detectado": "2026-10-23T15:59:10.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/comienza-juicio-oral-cristina-kirchner-causa-hotesur-sauces-20261023101539",
+      "sitio": "El Destape",
+      "titulo": "Comenzó el juicio oral contra Cristina Kirchner por la causa Hotesur y Los Sauces",
+      "url": "https://www.eldestapeweb.com/politica/comienza-juicio-oral-cristina-kirchner-causa-hotesur-sauces-20261023101539",
+      "detectado": "2026-10-23T15:59:10.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-23T15:59:10.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/financial-times-durisimo-milei-crisis-argentina-ambiente-sombrio-20261023123729",
+      "sitio": "El Destape",
+      "titulo": "El Financial Times, durísimo contra Milei por la crisis: \"Ambiente sombrío\"",
+      "url": "https://www.eldestapeweb.com/economia/financial-times-durisimo-milei-crisis-argentina-ambiente-sombrio-20261023123729",
+      "detectado": "2026-10-23T15:59:10.193Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/giro-caso-nancy-godoy-5-detenidos-quedaron-acorralados-femicidio-falso-testimonio-nuevas-imputaciones-20261023125016",
+      "sitio": "El Destape",
+      "titulo": "Giro en el caso Nancy: 5 detenidos quedaron acorralados por \"femicidio\"",
+      "url": "https://www.eldestapeweb.com/sociedad/giro-caso-nancy-godoy-5-detenidos-quedaron-acorralados-femicidio-falso-testimonio-nuevas-imputaciones-20261023125016",
+      "detectado": "2026-10-23T15:59:10.193Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/regularizar-deudas-tributarias-en-arba-con-descuentos-de-hasta-el-40/",
       "sitio": "Contadores en Red",
@@ -343,83 +420,6 @@
       "titulo": "Régimen de Promoción del Turismo Gastronómico de la Provincia de Buenos Aires.",
       "url": "https://contadoresenred.com/regimen-de-promocion-del-turismo-gastronomico-de-la-provincia-de-buenos-aires/",
       "detectado": "2026-10-21T10:41:50.622Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-10-21T10:41:56.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/caen-bonos-argentinos-protestas-represion-inflacion-vuelve-acelerarse-202610210522",
-      "sitio": "El Destape",
-      "titulo": "Conflictividad y riesgo país, camino al deadline de Milei",
-      "url": "https://www.eldestapeweb.com/politica/caen-bonos-argentinos-protestas-represion-inflacion-vuelve-acelerarse-202610210522",
-      "detectado": "2026-10-21T10:41:56.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/juicio-cuadernos-piden-careo-cabot-fotografo-nacion-contradicciones-clave-202610210522",
-      "sitio": "El Destape",
-      "titulo": "Fotocopia de los Cuadernos",
-      "url": "https://www.eldestapeweb.com/politica/juicio-cuadernos-piden-careo-cabot-fotografo-nacion-contradicciones-clave-202610210522",
-      "detectado": "2026-10-21T10:41:56.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-21T10:41:56.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/vence-emergencia-salud-pediatrica-protestas-vuelven-tomar-fuerza-congreso-202610210522",
-      "sitio": "El Destape",
-      "titulo": "Vence la Emergencia en Salud Pediátrica y las protestas vuelven a tomar fuerza",
-      "url": "https://www.eldestapeweb.com/politica/vence-emergencia-salud-pediatrica-protestas-vuelven-tomar-fuerza-congreso-202610210522",
-      "detectado": "2026-10-21T10:41:56.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/propiedad-privada-discapacidad-endeudamiento-temario-pedir-lla-diputados-20261020173625",
-      "sitio": "El Destape",
-      "titulo": "Propiedad Privada, Discapacidad y Endeudamiento: un temario a pedir de LLA en Diputados",
-      "url": "https://www.eldestapeweb.com/politica/propiedad-privada-discapacidad-endeudamiento-temario-pedir-lla-diputados-20261020173625",
-      "detectado": "2026-10-21T02:11:18.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "detectado": "2026-10-21T02:11:18.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/visita-papa-sorpresivo-anuncio-vaticano-ilusiona-argentina-20261020183555",
-      "sitio": "El Destape",
-      "titulo": "Visita del Papa: el Vaticano enviará una delegación a Argentina",
-      "url": "https://www.eldestapeweb.com/politica/visita-papa-sorpresivo-anuncio-vaticano-ilusiona-argentina-20261020183555",
-      "detectado": "2026-10-21T02:11:18.017Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-vivo-vasco-da-gama-vs-boca-futbol-libre-pelota-libre-xuper-tv-riesgo-donde-hacerlo-manera-legal-202610208055",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Boca vence a Vasco desde el arranque y sueña con la final",
-      "url": "https://www.eldestapeweb.com/deportes/ver-vivo-vasco-da-gama-vs-boca-futbol-libre-pelota-libre-xuper-tv-riesgo-donde-hacerlo-manera-legal-202610208055",
-      "detectado": "2026-10-21T02:11:18.017Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-servicio-web-habilitado/",
-      "sitio": "Ignacio Online",
-      "titulo": "Ganancias Personas Jurídicas: ARCA habilitó el servicio web ¿Simplificado?",
-      "url": "https://www.ignacioonline.com.ar/ganancias-personas-juridicas-arca-servicio-web-habilitado/",
-      "detectado": "2026-10-20T20:56:41.381Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/satsaid-atvc-octubre-2026-aumento-escala-salarial/",
-      "sitio": "Ignacio Online",
-      "titulo": "SATSAID: aumento del 3,6% desde octubre de 2026 y nuevas escalas del CCT 223/75",
-      "url": "https://www.ignacioonline.com.ar/satsaid-atvc-octubre-2026-aumento-escala-salarial/",
-      "detectado": "2026-10-20T20:56:41.381Z"
     }
   ]
 }
