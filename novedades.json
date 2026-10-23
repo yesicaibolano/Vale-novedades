@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-23T15:59:10.784Z",
+  "actualizado": "2026-10-23T20:42:18.045Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/provincia-de-buenos-aires-cambio-en-facturas-y-tickets-desde-cuando-es-obligatorio/",
+      "sitio": "Contadores en Red",
+      "titulo": "Provincia de Buenos Aires: cambio en facturas y tickets. ¿Desde cuándo es obligatorio?",
+      "url": "https://contadoresenred.com/provincia-de-buenos-aires-cambio-en-facturas-y-tickets-desde-cuando-es-obligatorio/",
+      "detectado": "2026-10-23T20:42:08.753Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16023-ahora-en-repro-primera-entrevista-con-un-cliente-que-preguntar-para-asesorar-mejor",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Primera entrevista con un cliente: Qué preguntar para asesorar mejor",
+      "url": "https://www.cpba.com.ar/noticias/item/16023-ahora-en-repro-primera-entrevista-con-un-cliente-que-preguntar-para-asesorar-mejor",
+      "detectado": "2026-10-23T20:42:14.589Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-karina-sobreseidos-causa-libra-20261023163046",
+      "sitio": "El Destape",
+      "titulo": "Estafa $LIBRA: a pesar de los peritajes, sobreseyeron a Milei y a Karina",
+      "url": "https://www.eldestapeweb.com/politica/milei-karina-sobreseidos-causa-libra-20261023163046",
+      "detectado": "2026-10-23T20:42:16.046Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/petroleo-toca-maximo-cinco-meses-presiona-precios-nafta-20261023142918",
+      "sitio": "El Destape",
+      "titulo": "Conflicto en Medio Oriente",
+      "url": "https://www.eldestapeweb.com/economia/petroleo-toca-maximo-cinco-meses-presiona-precios-nafta-20261023142918",
+      "detectado": "2026-10-23T20:42:16.046Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-subir-estabiliza-arriba-700-puntos-2026102313318",
+      "sitio": "El Destape",
+      "titulo": "El riesgo país vuelve a subir y alcanza un nuevo récord en el año",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-subir-estabiliza-arriba-700-puntos-2026102313318",
+      "detectado": "2026-10-23T20:42:16.046Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/ley-de-tierras-rurales",
+      "sitio": "El Destape",
+      "titulo": "Ley de Tierras Rurales",
+      "url": "https://www.eldestapeweb.com/tag/ley-de-tierras-rurales",
+      "detectado": "2026-10-23T20:42:16.046Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/protestas-lorenzetti-afirmo-corte-no-vende-tierras-20261023133828",
+      "sitio": "El Destape",
+      "titulo": "Tras las protestas en su contra, Lorenzetti afirmó: \"La Corte no vende tierras\"",
+      "url": "https://www.eldestapeweb.com/politica/protestas-lorenzetti-afirmo-corte-no-vende-tierras-20261023133828",
+      "detectado": "2026-10-23T20:42:16.046Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/dj-simplificada-de-ganancias-puntos-a-tener-en-cuenta-de-la-nueva-reglamentacion/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "El Papa León XIV no necesita “tratamiento adicional” tras la operación",
       "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
       "detectado": "2026-10-21T20:57:13.160Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/proteccion-de-la-vivienda-unica-en-buenos-aires-cambios-en-la-renuncia-y-deber-de-informacion-del-escribano/",
-      "sitio": "Contadores en Red",
-      "titulo": "Protección de la vivienda única en Buenos Aires: cambios en la renuncia y deber de información del escribano.",
-      "url": "https://contadoresenred.com/proteccion-de-la-vivienda-unica-en-buenos-aires-cambios-en-la-renuncia-y-deber-de-informacion-del-escribano/",
-      "detectado": "2026-10-21T16:10:53.647Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16018-arca-implemento-el-servicio-web-de-ganancias-personas-juridicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "ARCA implementó el servicio web de Ganancias Personas Jurídicas",
-      "url": "https://www.cpba.com.ar/noticias/item/16018-arca-implemento-el-servicio-web-de-ganancias-personas-juridicas",
-      "detectado": "2026-10-21T16:11:01.163Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/antes-visita-papa-leon-xvi-iglesia-cruzo-diputados-libertarios-ajuste-discapacidad-20261021115355",
-      "sitio": "El Destape",
-      "titulo": "Tensión en Congreso: la Iglesia cruzó a diputados libertarios por ajuste en discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/antes-visita-papa-leon-xvi-iglesia-cruzo-diputados-libertarios-ajuste-discapacidad-20261021115355",
-      "detectado": "2026-10-21T16:11:02.405Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-volvio-atacar-pedro-sanchez-impresentable-dictador-2026102174330",
-      "sitio": "El Destape",
-      "titulo": "Provocadora frase de Milei contra Pedro Sánchez en España: “Impresentable dictador”",
-      "url": "https://www.eldestapeweb.com/politica/milei-volvio-atacar-pedro-sanchez-impresentable-dictador-2026102174330",
-      "detectado": "2026-10-21T16:11:02.405Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-recorrio-plaza-san-pedro-sabe-llegada-argentina-2026102183149",
-      "sitio": "El Destape",
-      "titulo": "El Papa recorrió la plaza San Pedro y crecen las esperanzas de su visita a Argentina",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-recorrio-plaza-san-pedro-sabe-llegada-argentina-2026102183149",
-      "detectado": "2026-10-21T16:11:02.406Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-10-21T16:11:02.406Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/regimen-de-promocion-del-turismo-gastronomico-de-la-provincia-de-buenos-aires/",
-      "sitio": "Contadores en Red",
-      "titulo": "Régimen de Promoción del Turismo Gastronómico de la Provincia de Buenos Aires.",
-      "url": "https://contadoresenred.com/regimen-de-promocion-del-turismo-gastronomico-de-la-provincia-de-buenos-aires/",
-      "detectado": "2026-10-21T10:41:50.622Z"
     }
   ]
 }
