@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-24T02:08:59.313Z",
+  "actualizado": "2026-10-24T09:53:45.749Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/escandalosos-argumentos-comodoro-py-cerrar-causa-libra-favorecer-milei-karina-todos-acusados-criptoestafa-202610240549",
+      "sitio": "El Destape",
+      "titulo": "Los escandalosos argumentos de Comodoro Py para cerrar la causa $LIBRA y favorecer a Milei",
+      "url": "https://www.eldestapeweb.com/politica/escandalosos-argumentos-comodoro-py-cerrar-causa-libra-favorecer-milei-karina-todos-acusados-criptoestafa-202610240549",
+      "detectado": "2026-10-24T09:53:45.403Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-24T09:53:45.404Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peligro-plan-gobierno-jugada-peronismo-obligar-milei-competir-paso-202610240549",
+      "sitio": "El Destape",
+      "titulo": "Milei patea la suspensión de las PASO para diciembre y lucha con los gobernadores",
+      "url": "https://www.eldestapeweb.com/politica/peligro-plan-gobierno-jugada-peronismo-obligar-milei-competir-paso-202610240549",
+      "detectado": "2026-10-24T09:53:45.404Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-24T09:53:45.404Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
+      "sitio": "El Destape",
+      "titulo": "De Menem a Milei: desindustrialización acelerada y un golpe más profundo a la industria",
+      "url": "https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
+      "detectado": "2026-10-24T09:53:45.404Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
       "sitio": "Ignacio Online",
@@ -247,13 +282,6 @@
       "detectado": "2026-10-22T20:54:18.935Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-22T20:54:18.935Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-admitio-economia-no-estaria-evolucionando-tan-positivamente-esperaba-20261022171653",
       "sitio": "El Destape",
       "titulo": "Milei admitió que la economía \"no estaría evolucionando tan positivamente\" como esperaba",
@@ -392,34 +420,6 @@
       "titulo": "La actividad volvió a caer en agosto y el país se acerca a la recesión formal",
       "url": "https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950",
       "detectado": "2026-10-22T02:05:29.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno negoció cambios con la oposición y debate una ley de Discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-21-octubre-minuto-minuto-2026102165326",
-      "detectado": "2026-10-22T02:05:29.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tecnologia/falla-critica-php-pone-jaque-toda-infraestructura-internet-2026102122143",
-      "sitio": "El Destape",
-      "titulo": "Alerta mundial por una falla crítica que afecta a toda la infraestructura de Internet",
-      "url": "https://www.eldestapeweb.com/tecnologia/falla-critica-php-pone-jaque-toda-infraestructura-internet-2026102122143",
-      "detectado": "2026-10-22T02:05:29.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/andis-piden-43-indagatorias-apuntan-firma-suizo-argentina-cooptar-agencia-20261021195223",
-      "sitio": "El Destape",
-      "titulo": "Corrupción en discapacidad",
-      "url": "https://www.eldestapeweb.com/politica/andis-piden-43-indagatorias-apuntan-firma-suizo-argentina-cooptar-agencia-20261021195223",
-      "detectado": "2026-10-22T02:05:29.000Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
-      "sitio": "Ignacio Online",
-      "titulo": "Sanidad: prorrogan hasta diciembre de 2027 las excepcionalidades parciales para la liquidación del F. 931",
-      "url": "https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
-      "detectado": "2026-10-21T20:57:08.135Z"
     }
   ]
 }
