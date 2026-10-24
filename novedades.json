@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-10-24T14:56:51.740Z",
+  "actualizado": "2026-10-24T19:53:23.118Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
+      "sitio": "El Destape",
+      "titulo": "De Menem a Milei: desindustrialización acelerada y un golpe más profundo a la industria",
+      "url": "https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
+      "detectado": "2026-10-24T19:53:22.523Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-24T19:53:22.523Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/economia-familiar-morosidad-apuestas-online-papa-le-marca-agenda-milei-202610240549",
       "sitio": "El Destape",
@@ -41,13 +55,6 @@
       "sitio": "El Destape",
       "titulo": "Por Jonathan Heguier",
       "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-24T09:53:45.404Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
-      "sitio": "El Destape",
-      "titulo": "De Menem a Milei: desindustrialización acelerada y un golpe más profundo a la industria",
-      "url": "https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
       "detectado": "2026-10-24T09:53:45.404Z"
     },
     {
@@ -391,13 +398,6 @@
       "sitio": "El Destape",
       "titulo": "Puerta giratoria: los dólares entran, pero se van rápido y ponen en jaque el modelo Milei",
       "url": "https://www.eldestapeweb.com/economia/efecto-puerta-giratoria-reservas-no-crecen-pese-superavit-record-dolares-ponen-jaque-modelo-milei-20261021232926",
-      "detectado": "2026-10-22T10:43:54.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-10-22T10:43:54.417Z"
     },
     {
