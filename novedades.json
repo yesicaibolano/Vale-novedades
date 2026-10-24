@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-23T20:42:18.045Z",
+  "actualizado": "2026-10-24T02:08:59.313Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: sin acuerdo salarial, la negociación sigue la próxima semana",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
+      "detectado": "2026-10-24T02:08:51.304Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-24T02:08:58.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/puede-lula-ganar-balotaje-calles-llenas-ejercito-whatsapp-viraje-decisivo-campana-20261023205031",
+      "sitio": "El Destape",
+      "titulo": "Una marea roja en las calles y otra digital empuja a Lula con chances en el balotaje",
+      "url": "https://www.eldestapeweb.com/internacionales/puede-lula-ganar-balotaje-calles-llenas-ejercito-whatsapp-viraje-decisivo-campana-20261023205031",
+      "detectado": "2026-10-24T02:08:58.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "sitio": "El Destape",
+      "titulo": "Por Pablo Giuliano (desde Brasil)",
+      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "detectado": "2026-10-24T02:08:58.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/proyecto-soberania-milei-lla-busca-dictamen-cambios-aliados-mirada-estados-unidos-2026102319435",
+      "sitio": "El Destape",
+      "titulo": "LLA cree que puede dictaminar el proyecto de \"soberanía\", en medio de presiones de EEUU",
+      "url": "https://www.eldestapeweb.com/politica/proyecto-soberania-milei-lla-busca-dictamen-cambios-aliados-mirada-estados-unidos-2026102319435",
+      "detectado": "2026-10-24T02:08:58.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-24T02:08:58.924Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/provincia-de-buenos-aires-cambio-en-facturas-y-tickets-desde-cuando-es-obligatorio/",
       "sitio": "Contadores en Red",
@@ -198,20 +240,6 @@
       "detectado": "2026-10-23T02:10:07.943Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-23T02:10:07.943Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-10-23T02:10:07.943Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/patricia-bullrich-lanzo-esta-preparada-ser-presidenta-desato-tormenta-gobierno-no-le-suma-votos-milei-2026102215347",
       "sitio": "El Destape",
       "titulo": "Cayeron mal los dichos de Bullrich en Rosada y dudan si será vice: \"No nos suma votos\"",
@@ -392,34 +420,6 @@
       "titulo": "Sanidad: prorrogan hasta diciembre de 2027 las excepcionalidades parciales para la liquidación del F. 931",
       "url": "https://www.ignacioonline.com.ar/sanidad-prorrogan-hasta-diciembre-de-2027-las-excepcionalidades-parciales-para-la-liquidacion-del-f-931/",
       "detectado": "2026-10-21T20:57:08.135Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16019-la-sede-provincial-colmada-de-nuevos-matriculados",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Sede Provincial, colmada de nuevos matriculados",
-      "url": "https://www.cpba.com.ar/noticias/item/16019-la-sede-provincial-colmada-de-nuevos-matriculados",
-      "detectado": "2026-10-21T20:57:12.121Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gritos-insultos-resta-votos-fallido-paso-milei-espana-20261021153525",
-      "sitio": "El Destape",
-      "titulo": "Gritos, insultos y \"resta votos\": el fallido paso de Milei por España",
-      "url": "https://www.eldestapeweb.com/politica/gritos-insultos-resta-votos-fallido-paso-milei-espana-20261021153525",
-      "detectado": "2026-10-21T20:57:13.160Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/diputados-lla-aliados-le-dieron-media-sancion-nueva-ley-inviolabilidad-propiedad-privada-20261021174210",
-      "sitio": "El Destape",
-      "titulo": "LLA y aliados le dieron media sanción a la nueva Inviolabilidad de la Propiedad Privada",
-      "url": "https://www.eldestapeweb.com/politica/diputados-lla-aliados-le-dieron-media-sancion-nueva-ley-inviolabilidad-propiedad-privada-20261021174210",
-      "detectado": "2026-10-21T20:57:13.160Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
-      "sitio": "El Destape",
-      "titulo": "El Papa León XIV no necesita “tratamiento adicional” tras la operación",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-no-necesita-tratamiento-adicional-operacion-20261021163139",
-      "detectado": "2026-10-21T20:57:13.160Z"
     }
   ]
 }
