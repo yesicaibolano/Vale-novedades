@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-10-24T09:53:45.749Z",
+  "actualizado": "2026-10-24T14:56:51.740Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-familiar-morosidad-apuestas-online-papa-le-marca-agenda-milei-202610240549",
+      "sitio": "El Destape",
+      "titulo": "Economía familiar, morosidad y apuestas online: el Papa le marca la agenda a Milei",
+      "url": "https://www.eldestapeweb.com/politica/economia-familiar-morosidad-apuestas-online-papa-le-marca-agenda-milei-202610240549",
+      "detectado": "2026-10-24T14:56:51.383Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-24T14:56:51.383Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/escandalosos-argumentos-comodoro-py-cerrar-causa-libra-favorecer-milei-karina-todos-acusados-criptoestafa-202610240549",
       "sitio": "El Destape",
@@ -69,13 +83,6 @@
       "sitio": "El Destape",
       "titulo": "LLA cree que puede dictaminar el proyecto de \"soberanía\", en medio de presiones de EEUU",
       "url": "https://www.eldestapeweb.com/politica/proyecto-soberania-milei-lla-busca-dictamen-cambios-aliados-mirada-estados-unidos-2026102319435",
-      "detectado": "2026-10-24T02:08:58.924Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-10-24T02:08:58.924Z"
     },
     {
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Actividad económica",
       "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-10-22T02:05:29.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950",
-      "sitio": "El Destape",
-      "titulo": "La actividad volvió a caer en agosto y el país se acerca a la recesión formal",
-      "url": "https://www.eldestapeweb.com/economia/actividad-economica-volvio-caer-agosto-pais-acerca-recesion-formal-20261021201950",
       "detectado": "2026-10-22T02:05:29.000Z"
     }
   ]
