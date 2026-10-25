@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-10-25T01:55:40.760Z",
+  "actualizado": "2026-10-25T10:15:11.977Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/garrote-zanahoria-intervencion-directa-enviados-trump-salvar-milei-202610250555",
+      "sitio": "El Destape",
+      "titulo": "Garrote y zanahoria: la intervención directa de los enviados de Trump para salvar a Milei",
+      "url": "https://www.eldestapeweb.com/politica/garrote-zanahoria-intervencion-directa-enviados-trump-salvar-milei-202610250555",
+      "detectado": "2026-10-25T10:15:11.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/verdadero-milagro-economico-milei-tener-todo-favor-hundir-economia-202610250555",
+      "sitio": "El Destape",
+      "titulo": "Recesión y fracaso libertario",
+      "url": "https://www.eldestapeweb.com/economia/verdadero-milagro-economico-milei-tener-todo-favor-hundir-economia-202610250555",
+      "detectado": "2026-10-25T10:15:11.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ano-elecciones-presidenciales-crece-deseo-cambio-rumbo-202610250555",
+      "sitio": "El Destape",
+      "titulo": "Panorama de encuestas",
+      "url": "https://www.eldestapeweb.com/politica/ano-elecciones-presidenciales-crece-deseo-cambio-rumbo-202610250555",
+      "detectado": "2026-10-25T10:15:11.294Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-25T10:15:11.294Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
       "sitio": "El Destape",
@@ -282,13 +310,6 @@
       "detectado": "2026-10-23T10:35:31.969Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-23T10:35:31.969Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbe-consumo-masivo-cayeron-ventas-noveno-mes-consecutivo-crecen-deudas-comprar-alimentos-20261022191823",
       "sitio": "El Destape",
       "titulo": "Cae el consumo en supermercados: acumula un 2,7% en el 2026 y no repunta hace 9 meses",
@@ -399,27 +420,6 @@
       "titulo": "Mineiro, rival de Boca: DT copero, 2 argentinos, baja clave y karma en finales",
       "url": "https://www.eldestapeweb.com/deportes/atletico-mineiro-peligroso-rival-boca-copa-sudamericana-dt-copero-baja-clave-karma-finales-2-argentinos-ex-river-silbado-20261022102251",
       "detectado": "2026-10-22T16:09:09.348Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-adjudico-venta-90-aysa-us-340-2-millones-202610227396",
-      "sitio": "El Destape",
-      "titulo": "Privatizaciones: el Gobierno adjudicó la venta de AySA y fijó una fecha clave",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-adjudico-venta-90-aysa-us-340-2-millones-202610227396",
-      "detectado": "2026-10-22T16:09:09.348Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/trafico-fronterizo-con-fines-comerciales-se-prorroga-entrada-en-vigencia-de-prohibiciones/",
-      "sitio": "Contadores en Red",
-      "titulo": "Tráfico fronterizo con fines comerciales, se prorroga entrada en vigencia de prohibiciones.",
-      "url": "https://contadoresenred.com/trafico-fronterizo-con-fines-comerciales-se-prorroga-entrada-en-vigencia-de-prohibiciones/",
-      "detectado": "2026-10-22T10:43:48.597Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-edificios-escala-salarial-octubre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Encargados de edificios: escala salarial de octubre de 2026 del CCT 589/10",
-      "url": "https://www.ignacioonline.com.ar/encargados-edificios-escala-salarial-octubre-2026/",
-      "detectado": "2026-10-22T10:43:49.818Z"
     }
   ]
 }
