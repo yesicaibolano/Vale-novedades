@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-24T19:53:23.118Z",
+  "actualizado": "2026-10-25T01:55:40.760Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
+      "sitio": "El Destape",
+      "titulo": "Bolsonaro y Lula buscan el voto indeciso, en la recta final de unas elecciones decisivas",
+      "url": "https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
+      "detectado": "2026-10-25T01:55:40.366Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/recesion-no-afloja-cae-emae-derrumba-consumo-masivo-diez-sectores-retroceden-20261024213148",
+      "sitio": "El Destape",
+      "titulo": "Milei se desarma pero lo sostienen Estados Unidos y los ultra ricos",
+      "url": "https://www.eldestapeweb.com/politica/recesion-no-afloja-cae-emae-derrumba-consumo-masivo-diez-sectores-retroceden-20261024213148",
+      "detectado": "2026-10-25T01:55:40.366Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-10-25T01:55:40.366Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/circulo-vicioso-economia-consecuencias-ocultas-destruir-gasto-infraestructura-2026102421055",
+      "sitio": "El Destape",
+      "titulo": "La zoncera discursiva del equilibrio fiscal",
+      "url": "https://www.eldestapeweb.com/economia/circulo-vicioso-economia-consecuencias-ocultas-destruir-gasto-infraestructura-2026102421055",
+      "detectado": "2026-10-25T01:55:40.366Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-10-25T01:55:40.366Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Encargados de edificios: escala salarial de octubre de 2026 del CCT 589/10",
       "url": "https://www.ignacioonline.com.ar/encargados-edificios-escala-salarial-octubre-2026/",
       "detectado": "2026-10-22T10:43:49.818Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dice-nueva-ley-discapacidad-impulsa-milei-20261021224445",
-      "sitio": "El Destape",
-      "titulo": "Diputados dio media sanción a la nueva ley de Discapacidad: qué dice la normativa",
-      "url": "https://www.eldestapeweb.com/politica/dice-nueva-ley-discapacidad-impulsa-milei-20261021224445",
-      "detectado": "2026-10-22T10:43:54.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/efecto-puerta-giratoria-reservas-no-crecen-pese-superavit-record-dolares-ponen-jaque-modelo-milei-20261021232926",
-      "sitio": "El Destape",
-      "titulo": "Puerta giratoria: los dólares entran, pero se van rápido y ponen en jaque el modelo Milei",
-      "url": "https://www.eldestapeweb.com/economia/efecto-puerta-giratoria-reservas-no-crecen-pese-superavit-record-dolares-ponen-jaque-modelo-milei-20261021232926",
-      "detectado": "2026-10-22T10:43:54.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/crisis-movilidad-social-20261021232255",
-      "sitio": "El Destape",
-      "titulo": "La crisis de la movilidad social",
-      "url": "https://www.eldestapeweb.com/opinion/crisis-movilidad-social-20261021232255",
-      "detectado": "2026-10-22T10:43:54.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-22T10:43:54.417Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-10-22T02:05:29.000Z"
     }
   ]
 }
