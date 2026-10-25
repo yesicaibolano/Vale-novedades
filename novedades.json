@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-10-25T15:07:14.973Z",
+  "actualizado": "2026-10-25T20:03:47.459Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/resultados-elecciones-brasil-2026-vivo-quien-gana-lula-flavio-bolsonaro-2026102516022",
+      "sitio": "El Destape",
+      "titulo": "Pidieron extender la votación: Lula por falta de colectivos y Bolsonaro por las lluvias",
+      "url": "https://www.eldestapeweb.com/internacionales/resultados-elecciones-brasil-2026-vivo-quien-gana-lula-flavio-bolsonaro-2026102516022",
+      "detectado": "2026-10-25T20:03:47.236Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/presidencia-israel",
+      "sitio": "El Destape",
+      "titulo": "Presidencia Israel",
+      "url": "https://www.eldestapeweb.com/tag/presidencia-israel",
+      "detectado": "2026-10-25T20:03:47.236Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-carrera-franco-colapinto-larga-21-gp-estados-unidos-hora-tv-vivo-streaming-online-20261025101632",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "La Delegación San Martín celebró su 60° aniversario",
       "url": "https://www.cpba.com.ar/noticias/item/16020-la-delegacion-san-martin-celebro-su-60-aniversario",
       "detectado": "2026-10-22T16:09:08.018Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-superar-700-puntos-caen-acciones-argentinas-20261022122534",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país vuelve a subir y supera los 700 puntos",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-superar-700-puntos-caen-acciones-argentinas-20261022122534",
-      "detectado": "2026-10-22T16:09:09.348Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-confirmo-visitara-argentina-alla-vamos-2026102292236",
-      "sitio": "El Destape",
-      "titulo": "El Papa León XIV confirmó que visitará la Argentina: \"Allá vamos\"",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-confirmo-visitara-argentina-alla-vamos-2026102292236",
-      "detectado": "2026-10-22T16:09:09.348Z"
     }
   ]
 }
