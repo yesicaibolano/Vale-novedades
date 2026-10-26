@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-25T20:03:47.459Z",
+  "actualizado": "2026-10-26T01:57:09.064Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/xubio-incorpora-ia-simplificar-la-conciliacion-bancaria/",
+      "sitio": "Ignacio Online",
+      "titulo": "Xubio incorpora IA simplificar la conciliación bancaria",
+      "url": "https://www.ignacioonline.com.ar/xubio-incorpora-ia-simplificar-la-conciliacion-bancaria/",
+      "detectado": "2026-10-26T01:57:04.117Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/aconpy-lanza-la-presentacion-de-iva-automatica-el-primer-sistema-que-presenta-el-iva-de-punta-a-punta/",
+      "sitio": "Ignacio Online",
+      "titulo": "Aconpy lanza la Presentación de IVA Automática: el primer sistema que presenta el IVA de punta a punta",
+      "url": "https://www.ignacioonline.com.ar/aconpy-lanza-la-presentacion-de-iva-automatica-el-primer-sistema-que-presenta-el-iva-de-punta-a-punta/",
+      "detectado": "2026-10-26T01:57:04.117Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/lula-hablo-ganar-presidencia-cuarta-vez-20261025222854",
+      "sitio": "El Destape",
+      "titulo": "Lula celebra la reelección: \"Fue una derrota del negacionismo y la mentira\"",
+      "url": "https://www.eldestapeweb.com/internacionales/lula-hablo-ganar-presidencia-cuarta-vez-20261025222854",
+      "detectado": "2026-10-26T01:57:08.679Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-vamos-pedir-anulacion-elecciones-20261025224948",
+      "sitio": "El Destape",
+      "titulo": "Flávio Bolsonaro: \"Vamos a pedir la anulación de las elecciones\"",
+      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-vamos-pedir-anulacion-elecciones-20261025224948",
+      "detectado": "2026-10-26T01:57:08.679Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-cristina-massa-peronismo-celebraron-triunfo-lula-brasil-20261025214110",
+      "sitio": "El Destape",
+      "titulo": "Axel, Cristina, Massa y el peronismo celebraron el triunfo de Lula",
+      "url": "https://www.eldestapeweb.com/politica/axel-cristina-massa-peronismo-celebraron-triunfo-lula-brasil-20261025214110",
+      "detectado": "2026-10-26T01:57:08.679Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-25-octubre-minuto-minuto-202610259455",
+      "sitio": "El Destape",
+      "titulo": "Mileístas agitan la narrativa de \"fraude\" en la elección de Brasil",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-25-octubre-minuto-minuto-202610259455",
+      "detectado": "2026-10-26T01:57:08.679Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/senadores-diputados-bolsonaristas-piden-impeachment-juez-habilito-extension-horario-votacion-20261025192940",
+      "sitio": "El Destape",
+      "titulo": "El bolsonarismo pide impeachment contra el juez que habilitó más horas para votar",
+      "url": "https://www.eldestapeweb.com/internacionales/senadores-diputados-bolsonaristas-piden-impeachment-juez-habilito-extension-horario-votacion-20261025192940",
+      "detectado": "2026-10-26T01:57:08.679Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/resultados-elecciones-brasil-2026-vivo-quien-gana-lula-flavio-bolsonaro-2026102516022",
       "sitio": "El Destape",
@@ -371,55 +420,6 @@
       "titulo": "Cayeron mal los dichos de Bullrich en Rosada y dudan si será vice: \"No nos suma votos\"",
       "url": "https://www.eldestapeweb.com/politica/patricia-bullrich-lanzo-esta-preparada-ser-presidenta-desato-tormenta-gobierno-no-le-suma-votos-milei-2026102215347",
       "detectado": "2026-10-22T20:54:18.935Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-admitio-economia-no-estaria-evolucionando-tan-positivamente-esperaba-20261022171653",
-      "sitio": "El Destape",
-      "titulo": "Milei admitió que la economía \"no estaría evolucionando tan positivamente\" como esperaba",
-      "url": "https://www.eldestapeweb.com/politica/milei-admitio-economia-no-estaria-evolucionando-tan-positivamente-esperaba-20261022171653",
-      "detectado": "2026-10-22T20:54:18.935Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/polemica-foto-spa-desato-escandalo-profundizo-grieta-interna-bloque-provincias-unidas-diputados-20261022141651",
-      "sitio": "El Destape",
-      "titulo": "La grieta de Provincias Unidas en Diputados: acusaciones, votaciones divididas y tensión",
-      "url": "https://www.eldestapeweb.com/politica/polemica-foto-spa-desato-escandalo-profundizo-grieta-interna-bloque-provincias-unidas-diputados-20261022141651",
-      "detectado": "2026-10-22T20:54:18.935Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/vuelve-promocion-futbol-argentino-cuando-aplicara-20261022154625",
-      "sitio": "El Destape",
-      "titulo": "Vuelve la Promoción al fútbol argentino: cuándo y cómo se aplicará",
-      "url": "https://www.eldestapeweb.com/deportes/vuelve-promocion-futbol-argentino-cuando-aplicara-20261022154625",
-      "detectado": "2026-10-22T20:54:18.935Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/sircip-comenzara-a-operar-en-diciembre-en-siete-jurisdicciones-y-ya-tiene-sus-primeros-vencimientos/",
-      "sitio": "Contadores en Red",
-      "titulo": "SIRCIP comenzará a operar en diciembre en siete jurisdicciones y ya tiene sus primeros vencimientos",
-      "url": "https://contadoresenred.com/sircip-comenzara-a-operar-en-diciembre-en-siete-jurisdicciones-y-ya-tiene-sus-primeros-vencimientos/",
-      "detectado": "2026-10-22T16:09:03.134Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/como-proteger-tu-casa-con-el-regimen-de-vivienda-unica/",
-      "sitio": "Contadores en Red",
-      "titulo": "¿Cómo proteger tu casa gratis con el Régimen de Vivienda Única?",
-      "url": "https://contadoresenred.com/como-proteger-tu-casa-con-el-regimen-de-vivienda-unica/",
-      "detectado": "2026-10-22T16:09:03.134Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Participá de la 2ª Jornada Provincial de Actuación Laboral y Previsional",
-      "url": "https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "detectado": "2026-10-22T16:09:08.018Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16020-la-delegacion-san-martin-celebro-su-60-aniversario",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Delegación San Martín celebró su 60° aniversario",
-      "url": "https://www.cpba.com.ar/noticias/item/16020-la-delegacion-san-martin-celebro-su-60-aniversario",
-      "detectado": "2026-10-22T16:09:08.018Z"
     }
   ]
 }
