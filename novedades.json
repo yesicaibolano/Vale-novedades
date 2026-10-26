@@ -1,6 +1,97 @@
 {
-  "actualizado": "2026-10-26T11:39:20.418Z",
+  "actualizado": "2026-10-26T17:43:44.020Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/presentacion-iva-automatica-aconpy/",
+      "sitio": "Contadores en Red",
+      "titulo": "Aconpy lanza la Presentación de IVA Automática: el primer sistema que presenta el IVA de punta a punta",
+      "url": "https://contadoresenred.com/presentacion-iva-automatica-aconpy/",
+      "detectado": "2026-10-26T17:43:35.554Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-simplificada-quienes-deben-convalidar-y-como-verificar-si-ya-realizaron-el-tramite/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias Simplificada: quiénes deben convalidar y cómo verificar si ya realizaron el trámite",
+      "url": "https://contadoresenred.com/ganancias-simplificada-quienes-deben-convalidar-y-como-verificar-si-ya-realizaron-el-tramite/",
+      "detectado": "2026-10-26T17:43:35.554Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/renatre-plan-excepcional-de-facilidades-de-pago/",
+      "sitio": "Contadores en Red",
+      "titulo": "RENATRE Plan de Pago por deudas regularizadas en el Régimen de Promoción del Empleo Registrado (PER)",
+      "url": "https://contadoresenred.com/renatre-plan-excepcional-de-facilidades-de-pago/",
+      "detectado": "2026-10-26T17:43:35.554Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reglamenta-los-cambios-en-ganancias-simplificado-quienes-pueden-adherir/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA reglamenta los cambios en Ganancias Simplificado: quiénes pueden adherir",
+      "url": "https://www.ignacioonline.com.ar/arca-reglamenta-los-cambios-en-ganancias-simplificado-quienes-pueden-adherir/",
+      "detectado": "2026-10-26T17:43:37.671Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/webinar-fal-que-hay-que-saber-antes-de-su-implementacion/",
+      "sitio": "Ignacio Online",
+      "titulo": "Webinar FAL: qué hay que saber antes de su implementación",
+      "url": "https://www.ignacioonline.com.ar/webinar-fal-que-hay-que-saber-antes-de-su-implementacion/",
+      "detectado": "2026-10-26T17:43:37.671Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16025-actuaciones-web-fuera-de-servicio-por-mantenimiento-programado",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Actuaciones Web, fuera de servicio por mantenimiento programado",
+      "url": "https://www.cpba.com.ar/noticias/item/16025-actuaciones-web-fuera-de-servicio-por-mantenimiento-programado",
+      "detectado": "2026-10-26T17:43:42.039Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16027-se-realizaron-con-exito-las-17as-jornadas-provinciales-de-cooperativismo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se realizaron con éxito las 17as Jornadas Provinciales de Cooperativismo",
+      "url": "https://www.cpba.com.ar/noticias/item/16027-se-realizaron-con-exito-las-17as-jornadas-provinciales-de-cooperativismo",
+      "detectado": "2026-10-26T17:43:42.039Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16026-la-delegacion-tandil-celebro-su-60-aniversario",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "La Delegación Tandil celebró su 60° aniversario",
+      "url": "https://www.cpba.com.ar/noticias/item/16026-la-delegacion-tandil-celebro-su-60-aniversario",
+      "detectado": "2026-10-26T17:43:42.039Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-confirmo-visita-argentina-me-llena-alegria-202610261351",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/internacionales/papa-confirmo-visita-argentina-me-llena-alegria-202610261351",
+      "detectado": "2026-10-26T17:43:43.566Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/mercados-financieros",
+      "sitio": "El Destape",
+      "titulo": "Mercados financieros",
+      "url": "https://www.eldestapeweb.com/tag/mercados-financieros",
+      "detectado": "2026-10-26T17:43:43.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caen-acciones-bonos-riesgo-pais-argentino-sube-738-puntos-20261026114510",
+      "sitio": "El Destape",
+      "titulo": "Caen las acciones argentinas hasta 10% y el riesgo país trepa a 745 puntos",
+      "url": "https://www.eldestapeweb.com/economia/caen-acciones-bonos-riesgo-pais-argentino-sube-738-puntos-20261026114510",
+      "detectado": "2026-10-26T17:43:43.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-reunio-gabinete-hace-silencio-no-pronuncia-lula-brasil-2026102612376",
+      "sitio": "El Destape",
+      "titulo": "Milei reunió al Gabinete, hace silencio y no se pronuncia por Brasil",
+      "url": "https://www.eldestapeweb.com/politica/milei-reunio-gabinete-hace-silencio-no-pronuncia-lula-brasil-2026102612376",
+      "detectado": "2026-10-26T17:43:43.567Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "sitio": "El Destape",
+      "titulo": "Luiz Inácio Lula da Silva",
+      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "detectado": "2026-10-26T17:43:43.567Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-octubre-2026-disposicion-10-2026/",
       "sitio": "Contadores en Red",
@@ -329,97 +420,6 @@
       "titulo": "Estafa $LIBRA: a pesar de los peritajes, sobreseyeron a Milei y a Karina",
       "url": "https://www.eldestapeweb.com/politica/milei-karina-sobreseidos-causa-libra-20261023163046",
       "detectado": "2026-10-23T20:42:16.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/petroleo-toca-maximo-cinco-meses-presiona-precios-nafta-20261023142918",
-      "sitio": "El Destape",
-      "titulo": "Conflicto en Medio Oriente",
-      "url": "https://www.eldestapeweb.com/economia/petroleo-toca-maximo-cinco-meses-presiona-precios-nafta-20261023142918",
-      "detectado": "2026-10-23T20:42:16.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-subir-estabiliza-arriba-700-puntos-2026102313318",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país vuelve a subir y alcanza un nuevo récord en el año",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-vuelve-subir-estabiliza-arriba-700-puntos-2026102313318",
-      "detectado": "2026-10-23T20:42:16.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/ley-de-tierras-rurales",
-      "sitio": "El Destape",
-      "titulo": "Ley de Tierras Rurales",
-      "url": "https://www.eldestapeweb.com/tag/ley-de-tierras-rurales",
-      "detectado": "2026-10-23T20:42:16.046Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/protestas-lorenzetti-afirmo-corte-no-vende-tierras-20261023133828",
-      "sitio": "El Destape",
-      "titulo": "Tras las protestas en su contra, Lorenzetti afirmó: \"La Corte no vende tierras\"",
-      "url": "https://www.eldestapeweb.com/politica/protestas-lorenzetti-afirmo-corte-no-vende-tierras-20261023133828",
-      "detectado": "2026-10-23T20:42:16.046Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/dj-simplificada-de-ganancias-puntos-a-tener-en-cuenta-de-la-nueva-reglamentacion/",
-      "sitio": "Contadores en Red",
-      "titulo": "DJ simplificada de Ganancias. Puntos a tener en cuenta de la nueva reglamentación",
-      "url": "https://contadoresenred.com/dj-simplificada-de-ganancias-puntos-a-tener-en-cuenta-de-la-nueva-reglamentacion/",
-      "detectado": "2026-10-23T15:59:03.577Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ganancias-personas-juridicas-web-arca-publico-el-manual-del-nuevo-servicio/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ganancias Personas Jurídicas web: ARCA publicó el manual del nuevo servicio.",
-      "url": "https://contadoresenred.com/ganancias-personas-juridicas-web-arca-publico-el-manual-del-nuevo-servicio/",
-      "detectado": "2026-10-23T15:59:03.577Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2636-decreto-1253-26-reglamentacion-de-la-ley-27-799-de-inocencia-fiscal.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Decreto 1253/26 - Reglamentación de la Ley 27.799 de Inocencia Fiscal",
-      "url": "https://jorgevega.com.ar/impuestos/2636-decreto-1253-26-reglamentacion-de-la-ley-27-799-de-inocencia-fiscal.html",
-      "detectado": "2026-10-23T15:59:04.082Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arba-plan-de-pagos-con-descuentos-de-hasta-el-40-y-cuotas-sin-interes/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARBA: plan de pagos con descuentos de hasta el 40% y cuotas sin interés",
-      "url": "https://www.ignacioonline.com.ar/arba-plan-de-pagos-con-descuentos-de-hasta-el-40-y-cuotas-sin-interes/",
-      "detectado": "2026-10-23T15:59:05.072Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
-      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "detectado": "2026-10-23T15:59:08.533Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16022-moron-fue-sede-de-la-tercera-ronda-de-consultas-tributarias-de-arba",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Morón fue sede de la tercera Ronda de Consultas Tributarias de ARBA",
-      "url": "https://www.cpba.com.ar/noticias/item/16022-moron-fue-sede-de-la-tercera-ronda-de-consultas-tributarias-de-arba",
-      "detectado": "2026-10-23T15:59:08.533Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-leon-xiv-suspendio-viaje-encendio-alarmas-llegada-argentina-2026102394716",
-      "sitio": "El Destape",
-      "titulo": "León XIV suspendió un viaje y encendió las alarmas por su llegada a Argentina",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-leon-xiv-suspendio-viaje-encendio-alarmas-llegada-argentina-2026102394716",
-      "detectado": "2026-10-23T15:59:10.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/comienza-juicio-oral-cristina-kirchner-causa-hotesur-sauces-20261023101539",
-      "sitio": "El Destape",
-      "titulo": "Comenzó el juicio oral contra Cristina Kirchner por la causa Hotesur y Los Sauces",
-      "url": "https://www.eldestapeweb.com/politica/comienza-juicio-oral-cristina-kirchner-causa-hotesur-sauces-20261023101539",
-      "detectado": "2026-10-23T15:59:10.193Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/financial-times-durisimo-milei-crisis-argentina-ambiente-sombrio-20261023123729",
-      "sitio": "El Destape",
-      "titulo": "El Financial Times, durísimo contra Milei por la crisis: \"Ambiente sombrío\"",
-      "url": "https://www.eldestapeweb.com/economia/financial-times-durisimo-milei-crisis-argentina-ambiente-sombrio-20261023123729",
-      "detectado": "2026-10-23T15:59:10.193Z"
     }
   ]
 }
