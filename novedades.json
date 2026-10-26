@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-26T17:43:44.020Z",
+  "actualizado": "2026-10-26T21:58:21.428Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
+      "detectado": "2026-10-26T21:58:21.036Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-26T21:58:21.036Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lulismo-busca-tejer-alianzas-oposicion-argentina-congreso-defender-soberania-agenda-nuclear-2026102615569",
+      "sitio": "El Destape",
+      "titulo": "Con el vínculo roto con Milei, Lula activa una diplomacia paralela con la oposición",
+      "url": "https://www.eldestapeweb.com/politica/lulismo-busca-tejer-alianzas-oposicion-argentina-congreso-defender-soberania-agenda-nuclear-2026102615569",
+      "detectado": "2026-10-26T21:58:21.036Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-denuncio-lula-manipulo-eleccion-brasil-20261026165939",
+      "sitio": "El Destape",
+      "titulo": "Trump denunció que la elección en Brasil estuvo \"manipulada\"",
+      "url": "https://www.eldestapeweb.com/internacionales/trump-denuncio-lula-manipulo-eleccion-brasil-20261026165939",
+      "detectado": "2026-10-26T21:58:21.036Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/datos-economicos-enfurecen-libertarios-crecimiento-brasil-lula-contraste-argentina-20261026182921",
+      "sitio": "El Destape",
+      "titulo": "Crecer y distribuir, el modelo Lula: cuánto creció el PBI y bajó la pobreza en su gobierno",
+      "url": "https://www.eldestapeweb.com/economia/datos-economicos-enfurecen-libertarios-crecimiento-brasil-lula-contraste-argentina-20261026182921",
+      "detectado": "2026-10-26T21:58:21.036Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/presentacion-iva-automatica-aconpy/",
       "sitio": "Contadores en Red",
@@ -366,13 +401,6 @@
       "detectado": "2026-10-24T09:53:45.404Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-24T09:53:45.404Z"
-    },
-    {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
       "sitio": "Ignacio Online",
       "titulo": "Empleados de Comercio: sin acuerdo salarial, la negociación sigue la próxima semana",
@@ -392,34 +420,6 @@
       "titulo": "Una marea roja en las calles y otra digital empuja a Lula con chances en el balotaje",
       "url": "https://www.eldestapeweb.com/internacionales/puede-lula-ganar-balotaje-calles-llenas-ejercito-whatsapp-viraje-decisivo-campana-20261023205031",
       "detectado": "2026-10-24T02:08:58.924Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/proyecto-soberania-milei-lla-busca-dictamen-cambios-aliados-mirada-estados-unidos-2026102319435",
-      "sitio": "El Destape",
-      "titulo": "LLA cree que puede dictaminar el proyecto de \"soberanía\", en medio de presiones de EEUU",
-      "url": "https://www.eldestapeweb.com/politica/proyecto-soberania-milei-lla-busca-dictamen-cambios-aliados-mirada-estados-unidos-2026102319435",
-      "detectado": "2026-10-24T02:08:58.924Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/provincia-de-buenos-aires-cambio-en-facturas-y-tickets-desde-cuando-es-obligatorio/",
-      "sitio": "Contadores en Red",
-      "titulo": "Provincia de Buenos Aires: cambio en facturas y tickets. ¿Desde cuándo es obligatorio?",
-      "url": "https://contadoresenred.com/provincia-de-buenos-aires-cambio-en-facturas-y-tickets-desde-cuando-es-obligatorio/",
-      "detectado": "2026-10-23T20:42:08.753Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16023-ahora-en-repro-primera-entrevista-con-un-cliente-que-preguntar-para-asesorar-mejor",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Primera entrevista con un cliente: Qué preguntar para asesorar mejor",
-      "url": "https://www.cpba.com.ar/noticias/item/16023-ahora-en-repro-primera-entrevista-con-un-cliente-que-preguntar-para-asesorar-mejor",
-      "detectado": "2026-10-23T20:42:14.589Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-karina-sobreseidos-causa-libra-20261023163046",
-      "sitio": "El Destape",
-      "titulo": "Estafa $LIBRA: a pesar de los peritajes, sobreseyeron a Milei y a Karina",
-      "url": "https://www.eldestapeweb.com/politica/milei-karina-sobreseidos-causa-libra-20261023163046",
-      "detectado": "2026-10-23T20:42:16.046Z"
     }
   ]
 }
