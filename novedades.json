@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-27T02:35:07.442Z",
+  "actualizado": "2026-10-27T11:08:25.817Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/faltazo-fotos-redes-criticas-calculada-maniobra-bullrich-genera-tension-milei-202610270542",
+      "sitio": "El Destape",
+      "titulo": "Plan B, abrazo y faltazo: los cinco días frenéticos en los que Bullrich marcó la cancha",
+      "url": "https://www.eldestapeweb.com/politica/faltazo-fotos-redes-criticas-calculada-maniobra-bullrich-genera-tension-milei-202610270542",
+      "detectado": "2026-10-27T11:08:25.576Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-celebro-inyeccion-emocional-lula-evalua-tomar-campana-202610270542",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-celebro-inyeccion-emocional-lula-evalua-tomar-campana-202610270542",
+      "detectado": "2026-10-27T11:08:25.576Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-27T11:08:25.576Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/apuestas-iglesia-aprovecha-visita-papa-presiona-milei-202610270542",
+      "sitio": "El Destape",
+      "titulo": "Apuestas: la Iglesia aprovecha la visita del Papa y presiona a Milei",
+      "url": "https://www.eldestapeweb.com/politica/apuestas-iglesia-aprovecha-visita-papa-presiona-milei-202610270542",
+      "detectado": "2026-10-27T11:08:25.576Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "sitio": "El Destape",
+      "titulo": "Por Noelia Barral Grigera",
+      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
+      "detectado": "2026-10-27T11:08:25.576Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
       "sitio": "El Destape",
@@ -345,13 +380,6 @@
       "detectado": "2026-10-25T10:15:11.294Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-25T10:15:11.294Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
       "sitio": "El Destape",
       "titulo": "Bolsonaro y Lula buscan el voto indeciso, en la recta final de unas elecciones decisivas",
@@ -392,34 +420,6 @@
       "titulo": "De Menem a Milei: desindustrialización acelerada y un golpe más profundo a la industria",
       "url": "https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
       "detectado": "2026-10-24T19:53:22.523Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-24T14:56:51.383Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/escandalosos-argumentos-comodoro-py-cerrar-causa-libra-favorecer-milei-karina-todos-acusados-criptoestafa-202610240549",
-      "sitio": "El Destape",
-      "titulo": "Los escandalosos argumentos de Comodoro Py para cerrar la causa $LIBRA y favorecer a Milei",
-      "url": "https://www.eldestapeweb.com/politica/escandalosos-argumentos-comodoro-py-cerrar-causa-libra-favorecer-milei-karina-todos-acusados-criptoestafa-202610240549",
-      "detectado": "2026-10-24T09:53:45.403Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-24T09:53:45.404Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peligro-plan-gobierno-jugada-peronismo-obligar-milei-competir-paso-202610240549",
-      "sitio": "El Destape",
-      "titulo": "Milei patea la suspensión de las PASO para diciembre y lucha con los gobernadores",
-      "url": "https://www.eldestapeweb.com/politica/peligro-plan-gobierno-jugada-peronismo-obligar-milei-competir-paso-202610240549",
-      "detectado": "2026-10-24T09:53:45.404Z"
     }
   ]
 }
