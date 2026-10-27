@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-10-27T11:08:25.817Z",
+  "actualizado": "2026-10-27T16:55:21.417Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
+      "sitio": "Ignacio Online",
+      "titulo": "Feriados del 10 y 11 de noviembre: ¿se pagan doble y a quiénes alcanzan?",
+      "url": "https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
+      "detectado": "2026-10-27T16:55:13.823Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16028-se-prorrogo-la-entrada-en-vigencia-del-fondo-de-asistencia-laboral",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se prorrogó la entrada en vigencia del Fondo de Asistencia Laboral",
+      "url": "https://www.cpba.com.ar/noticias/item/16028-se-prorrogo-la-entrada-en-vigencia-del-fondo-de-asistencia-laboral",
+      "detectado": "2026-10-27T16:55:17.928Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15905-conecta-cpba-oportunidades-laborales-para-profesionales-en-ciencias-economicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Conecta CPBA: Oportunidades laborales para profesionales en Ciencias Económicas",
+      "url": "https://www.cpba.com.ar/noticias/item/15905-conecta-cpba-oportunidades-laborales-para-profesionales-en-ciencias-economicas",
+      "detectado": "2026-10-27T16:55:17.928Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16030-ahora-en-repro-rise2040-como-puede-cambiar-el-trabajo-de-los-profesionales-en-ciencias-economicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Rise2040: Cómo puede cambiar el trabajo de los profesionales en Ciencias…",
+      "url": "https://www.cpba.com.ar/noticias/item/16030-ahora-en-repro-rise2040-como-puede-cambiar-el-trabajo-de-los-profesionales-en-ciencias-economicas",
+      "detectado": "2026-10-27T16:55:17.928Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16029-el-consejo-presente-en-las-jornadas-bonaerenses-de-la-propiedad-horizontal",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo, presente en las 3° Jornadas Bonaerenses de la Propiedad Horizontal",
+      "url": "https://www.cpba.com.ar/noticias/item/16029-el-consejo-presente-en-las-jornadas-bonaerenses-de-la-propiedad-horizontal",
+      "detectado": "2026-10-27T16:55:17.928Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-27T16:55:20.963Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-no-reconoce-triunfo-electoral-lula-no-hay-comunicado-20261027114918",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno de Milei mintió para no reconocer a Lula: \"Ningún gesto\"",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-milei-no-reconoce-triunfo-electoral-lula-no-hay-comunicado-20261027114918",
+      "detectado": "2026-10-27T16:55:20.963Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bunge-cerro-planta-fertilizantes-dejo-200-trabajadores-calle-20261027101420",
+      "sitio": "El Destape",
+      "titulo": "Bunge cerró su planta de fertilizantes y dejó a 200 trabajadores en la calle",
+      "url": "https://www.eldestapeweb.com/politica/bunge-cerro-planta-fertilizantes-dejo-200-trabajadores-calle-20261027101420",
+      "detectado": "2026-10-27T16:55:20.963Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "sitio": "El Destape",
+      "titulo": "Por Gino Viglianco",
+      "url": "https://www.eldestapeweb.com/perfil/gino-viglianco",
+      "detectado": "2026-10-27T16:55:20.963Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/libra-damnificados-apelan-sobreseimiento-milei-duras-criticas-juez-fiscal-esperan-fallo-clave-casacion-20261027123734",
+      "sitio": "El Destape",
+      "titulo": "$LIBRA: Damnificados apelan el sobreseimiento de Milei y esperan fallo clave de Casación",
+      "url": "https://www.eldestapeweb.com/politica/libra-damnificados-apelan-sobreseimiento-milei-duras-criticas-juez-fiscal-esperan-fallo-clave-casacion-20261027123734",
+      "detectado": "2026-10-27T16:55:20.963Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/faltazo-fotos-redes-criticas-calculada-maniobra-bullrich-genera-tension-milei-202610270542",
       "sitio": "El Destape",
@@ -350,76 +420,6 @@
       "titulo": "Colapinto larga 21° en Estados Unidos y deberá luchar desde el fondo",
       "url": "https://www.eldestapeweb.com/deportes/ver-carrera-franco-colapinto-larga-21-gp-estados-unidos-hora-tv-vivo-streaming-online-20261025101632",
       "detectado": "2026-10-25T15:07:14.429Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-familiar-morosidad-apuestas-online-papa-le-marca-agenda-milei-202610240549",
-      "sitio": "El Destape",
-      "titulo": "Economía familiar, morosidad y apuestas online: el Papa le marca la agenda a Milei",
-      "url": "https://www.eldestapeweb.com/politica/economia-familiar-morosidad-apuestas-online-papa-le-marca-agenda-milei-202610240549",
-      "detectado": "2026-10-25T15:07:14.429Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/garrote-zanahoria-intervencion-directa-enviados-trump-salvar-milei-202610250555",
-      "sitio": "El Destape",
-      "titulo": "Garrote y zanahoria: la intervención directa de los enviados de Trump para salvar a Milei",
-      "url": "https://www.eldestapeweb.com/politica/garrote-zanahoria-intervencion-directa-enviados-trump-salvar-milei-202610250555",
-      "detectado": "2026-10-25T10:15:11.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/verdadero-milagro-economico-milei-tener-todo-favor-hundir-economia-202610250555",
-      "sitio": "El Destape",
-      "titulo": "Recesión y fracaso libertario",
-      "url": "https://www.eldestapeweb.com/economia/verdadero-milagro-economico-milei-tener-todo-favor-hundir-economia-202610250555",
-      "detectado": "2026-10-25T10:15:11.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ano-elecciones-presidenciales-crece-deseo-cambio-rumbo-202610250555",
-      "sitio": "El Destape",
-      "titulo": "Panorama de encuestas",
-      "url": "https://www.eldestapeweb.com/politica/ano-elecciones-presidenciales-crece-deseo-cambio-rumbo-202610250555",
-      "detectado": "2026-10-25T10:15:11.294Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
-      "sitio": "El Destape",
-      "titulo": "Bolsonaro y Lula buscan el voto indeciso, en la recta final de unas elecciones decisivas",
-      "url": "https://www.eldestapeweb.com/internacionales/elecciones-brasil-clave-voto-indeciso-multitudinaria-despedida-campana-lula-20261024204336",
-      "detectado": "2026-10-25T01:55:40.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/recesion-no-afloja-cae-emae-derrumba-consumo-masivo-diez-sectores-retroceden-20261024213148",
-      "sitio": "El Destape",
-      "titulo": "Milei se desarma pero lo sostienen Estados Unidos y los ultra ricos",
-      "url": "https://www.eldestapeweb.com/politica/recesion-no-afloja-cae-emae-derrumba-consumo-masivo-diez-sectores-retroceden-20261024213148",
-      "detectado": "2026-10-25T01:55:40.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-10-25T01:55:40.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/circulo-vicioso-economia-consecuencias-ocultas-destruir-gasto-infraestructura-2026102421055",
-      "sitio": "El Destape",
-      "titulo": "La zoncera discursiva del equilibrio fiscal",
-      "url": "https://www.eldestapeweb.com/economia/circulo-vicioso-economia-consecuencias-ocultas-destruir-gasto-infraestructura-2026102421055",
-      "detectado": "2026-10-25T01:55:40.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-10-25T01:55:40.366Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
-      "sitio": "El Destape",
-      "titulo": "De Menem a Milei: desindustrialización acelerada y un golpe más profundo a la industria",
-      "url": "https://www.eldestapeweb.com/economia/menem-milei-alertan-desindustrializacion-acelerada-golpe-cada-vez-profundo-industria-202610240549",
-      "detectado": "2026-10-24T19:53:22.523Z"
     }
   ]
 }
