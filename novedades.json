@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-27T16:55:21.417Z",
+  "actualizado": "2026-10-27T21:31:20.010Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/2639-empleados-de-comercio-se-acordo-un-incremento-del-5-7-y-una-suma-fija-de-50-000.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Empleados de Comercio: se acordó un incremento del 5,7% y una suma fija de $ 50.000",
+      "url": "https://jorgevega.com.ar/laboral/2639-empleados-de-comercio-se-acordo-un-incremento-del-5-7-y-una-suma-fija-de-50-000.html",
+      "detectado": "2026-10-27T21:31:13.164Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-llego-esposa-hijos-estados-unidos-medios-brasilenos-20261027181348",
+      "sitio": "El Destape",
+      "titulo": "Flávio Bolsonaro llegó con su esposa e hijos a Estados Unidos, según medios brasileños",
+      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-llego-esposa-hijos-estados-unidos-medios-brasilenos-20261027181348",
+      "detectado": "2026-10-27T21:31:19.185Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-dictamino-proyecto-soberania-cambios-pedir-ee-uu-20261027181144",
+      "sitio": "El Destape",
+      "titulo": "Malvinas: LLA dictaminó el proyecto de \"soberanía\", con cambios a pedir de EE.UU",
+      "url": "https://www.eldestapeweb.com/politica/lla-dictamino-proyecto-soberania-cambios-pedir-ee-uu-20261027181144",
+      "detectado": "2026-10-27T21:31:19.185Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-10-27T21:31:19.185Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fuga-flavio-bolsonaro-eeuu-respuesta-gobierno-argentino-versiones-paso-misiones-20261027162915",
+      "sitio": "El Destape",
+      "titulo": "Fuga de Bolsonaro a EEUU: en Casa Rosada afirman que \"jamás pisó suelo argentino\"",
+      "url": "https://www.eldestapeweb.com/politica/fuga-flavio-bolsonaro-eeuu-respuesta-gobierno-argentino-versiones-paso-misiones-20261027162915",
+      "detectado": "2026-10-27T21:31:19.185Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-27T21:31:19.185Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
       "sitio": "Ignacio Online",
@@ -139,13 +181,6 @@
       "sitio": "El Destape",
       "titulo": "Elecciones en Brasil",
       "url": "https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
-      "detectado": "2026-10-26T21:58:21.036Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-26T21:58:21.036Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Axel, Cristina, Massa y el peronismo celebraron el triunfo de Lula",
       "url": "https://www.eldestapeweb.com/politica/axel-cristina-massa-peronismo-celebraron-triunfo-lula-brasil-20261025214110",
       "detectado": "2026-10-26T01:57:08.679Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-25-octubre-minuto-minuto-202610259455",
-      "sitio": "El Destape",
-      "titulo": "Mileístas agitan la narrativa de \"fraude\" en la elección de Brasil",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-25-octubre-minuto-minuto-202610259455",
-      "detectado": "2026-10-26T01:57:08.679Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/senadores-diputados-bolsonaristas-piden-impeachment-juez-habilito-extension-horario-votacion-20261025192940",
-      "sitio": "El Destape",
-      "titulo": "El bolsonarismo pide impeachment contra el juez que habilitó más horas para votar",
-      "url": "https://www.eldestapeweb.com/internacionales/senadores-diputados-bolsonaristas-piden-impeachment-juez-habilito-extension-horario-votacion-20261025192940",
-      "detectado": "2026-10-26T01:57:08.679Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/resultados-elecciones-brasil-2026-vivo-quien-gana-lula-flavio-bolsonaro-2026102516022",
-      "sitio": "El Destape",
-      "titulo": "Pidieron extender la votación: Lula por falta de colectivos y Bolsonaro por las lluvias",
-      "url": "https://www.eldestapeweb.com/internacionales/resultados-elecciones-brasil-2026-vivo-quien-gana-lula-flavio-bolsonaro-2026102516022",
-      "detectado": "2026-10-25T20:03:47.236Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/presidencia-israel",
-      "sitio": "El Destape",
-      "titulo": "Presidencia Israel",
-      "url": "https://www.eldestapeweb.com/tag/presidencia-israel",
-      "detectado": "2026-10-25T20:03:47.236Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/ver-carrera-franco-colapinto-larga-21-gp-estados-unidos-hora-tv-vivo-streaming-online-20261025101632",
-      "sitio": "El Destape",
-      "titulo": "Colapinto larga 21° en Estados Unidos y deberá luchar desde el fondo",
-      "url": "https://www.eldestapeweb.com/deportes/ver-carrera-franco-colapinto-larga-21-gp-estados-unidos-hora-tv-vivo-streaming-online-20261025101632",
-      "detectado": "2026-10-25T15:07:14.429Z"
     }
   ]
 }
