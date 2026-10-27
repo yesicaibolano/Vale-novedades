@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-10-26T21:58:21.428Z",
+  "actualizado": "2026-10-27T02:35:07.442Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
+      "sitio": "El Destape",
+      "titulo": "Caputo empezó a liquidar dólares en un intento de calmar a los mercados",
+      "url": "https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
+      "detectado": "2026-10-27T02:35:06.860Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-27T02:35:06.860Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/ventas-desploman-37-ganancias-resisten-trampa-modelo-economico-milei-descubierto-20261026184441",
+      "sitio": "El Destape",
+      "titulo": "La rentabilidad resiste la recesión a costa del ajuste sobre salarios y puestos de trabajo",
+      "url": "https://www.eldestapeweb.com/economia/ventas-desploman-37-ganancias-resisten-trampa-modelo-economico-milei-descubierto-20261026184441",
+      "detectado": "2026-10-27T02:35:06.860Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-27T02:35:06.860Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
       "sitio": "El Destape",
@@ -366,13 +394,6 @@
       "detectado": "2026-10-24T19:53:22.523Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-24T19:53:22.523Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "sitio": "El Destape",
       "titulo": "Por Federico Pokorowski",
@@ -399,27 +420,6 @@
       "titulo": "Milei patea la suspensión de las PASO para diciembre y lucha con los gobernadores",
       "url": "https://www.eldestapeweb.com/politica/peligro-plan-gobierno-jugada-peronismo-obligar-milei-competir-paso-202610240549",
       "detectado": "2026-10-24T09:53:45.404Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: sin acuerdo salarial, la negociación sigue la próxima semana",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-sin-acuerdo-salarial-la-negociacion-sigue-la-proxima-semana/",
-      "detectado": "2026-10-24T02:08:51.304Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-10-24T02:08:58.924Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/puede-lula-ganar-balotaje-calles-llenas-ejercito-whatsapp-viraje-decisivo-campana-20261023205031",
-      "sitio": "El Destape",
-      "titulo": "Una marea roja en las calles y otra digital empuja a Lula con chances en el balotaje",
-      "url": "https://www.eldestapeweb.com/internacionales/puede-lula-ganar-balotaje-calles-llenas-ejercito-whatsapp-viraje-decisivo-campana-20261023205031",
-      "detectado": "2026-10-24T02:08:58.924Z"
     }
   ]
 }
