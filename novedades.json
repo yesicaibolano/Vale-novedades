@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-28T11:44:30.538Z",
+  "actualizado": "2026-10-28T17:29:15.133Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/empleados-de-comercio-nuevo-acuerdo-salarial-de-octubre-de-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Empleados de Comercio: nuevo acuerdo salarial de octubre de 2026",
+      "url": "https://contadoresenred.com/empleados-de-comercio-nuevo-acuerdo-salarial-de-octubre-de-2026/",
+      "detectado": "2026-10-28T17:29:05.782Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-noviembre-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Jubilaciones y bases imponibles: actualización - Noviembre 2026",
+      "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-noviembre-2026.html",
+      "detectado": "2026-10-28T17:29:06.608Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-noviembre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ANSeS: Montos Asignaciones familiares - NOVIEMBRE 2026",
+      "url": "https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-noviembre.html",
+      "detectado": "2026-10-28T17:29:06.608Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-12-claves-del-acuerdo-salarial-de-octubre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: 12 claves del acuerdo salarial de octubre 2026",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-12-claves-del-acuerdo-salarial-de-octubre-2026/",
+      "detectado": "2026-10-28T17:29:07.528Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/montos-asignaciones-familiares-noviembre-2026-anses/",
+      "sitio": "Ignacio Online",
+      "titulo": "Montos Asignaciones Familiares noviembre 2026 ANSeS",
+      "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-noviembre-2026-anses/",
+      "detectado": "2026-10-28T17:29:07.528Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16031-entrega-de-medallas-en-la-delegacion-mercedes",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Entrega de medallas en la Delegación Mercedes",
+      "url": "https://www.cpba.com.ar/noticias/item/16031-entrega-de-medallas-en-la-delegacion-mercedes",
+      "detectado": "2026-10-28T17:29:12.406Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/investigacion-exclusiva-raul-jalil-decreto-pagos-1773-millones-clinicas-privadas-2026-202610289143",
+      "sitio": "El Destape",
+      "titulo": "Jalil decretó pagos por $1773 millones para sus clínicas en 2026",
+      "url": "https://www.eldestapeweb.com/politica/investigacion-exclusiva-raul-jalil-decreto-pagos-1773-millones-clinicas-privadas-2026-202610289143",
+      "detectado": "2026-10-28T17:29:14.054Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fuga-flavio-bolsonaro-senador-llego-estados-unidos-paso-argentina-20261028104647",
+      "sitio": "El Destape",
+      "titulo": "Flávio Bolsonaro llegó a Miami tras su paso por Argentina",
+      "url": "https://www.eldestapeweb.com/internacionales/fuga-flavio-bolsonaro-senador-llego-estados-unidos-paso-argentina-20261028104647",
+      "detectado": "2026-10-28T17:29:14.054Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/aumento-salarios-2026-empresas-dicidieron-pasara-sueldos-diciembre-les-ira-inflacion-20261028124459",
+      "sitio": "El Destape",
+      "titulo": "Las empresas planean cerrar el año con un aumento salarial por debajo de la inflación",
+      "url": "https://www.eldestapeweb.com/economia/aumento-salarios-2026-empresas-dicidieron-pasara-sueldos-diciembre-les-ira-inflacion-20261028124459",
+      "detectado": "2026-10-28T17:29:14.054Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fugo-flavio-bolsonaro-argentina-pista-avion-destapo-grave-sospecha-gobierno-20261028101016",
+      "sitio": "El Destape",
+      "titulo": "Escándalo: el Congreso denuncia al Gobierno de Milei por la fuga de Bolsonaro",
+      "url": "https://www.eldestapeweb.com/politica/fugo-flavio-bolsonaro-argentina-pista-avion-destapo-grave-sospecha-gobierno-20261028101016",
+      "detectado": "2026-10-28T17:29:14.054Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/cgt-prepara-miniparo-antes-fin-ano-2026102874119",
+      "sitio": "El Destape",
+      "titulo": "La CGT prepara un \"miniparo\" para antes de fin de año",
+      "url": "https://www.eldestapeweb.com/politica/cgt-prepara-miniparo-antes-fin-ano-2026102874119",
+      "detectado": "2026-10-28T17:29:14.054Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/fondos-comunes-de-inversion-de-dinero-deberan-mostrar-su-variacion-en-los-ultimos-7-dias/",
       "sitio": "Contadores en Red",
@@ -343,83 +420,6 @@
       "titulo": "La Delegación Tandil celebró su 60° aniversario",
       "url": "https://www.cpba.com.ar/noticias/item/16026-la-delegacion-tandil-celebro-su-60-aniversario",
       "detectado": "2026-10-26T17:43:42.039Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/papa-confirmo-visita-argentina-me-llena-alegria-202610261351",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/internacionales/papa-confirmo-visita-argentina-me-llena-alegria-202610261351",
-      "detectado": "2026-10-26T17:43:43.566Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/mercados-financieros",
-      "sitio": "El Destape",
-      "titulo": "Mercados financieros",
-      "url": "https://www.eldestapeweb.com/tag/mercados-financieros",
-      "detectado": "2026-10-26T17:43:43.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caen-acciones-bonos-riesgo-pais-argentino-sube-738-puntos-20261026114510",
-      "sitio": "El Destape",
-      "titulo": "Caen las acciones argentinas hasta 10% y el riesgo país trepa a 745 puntos",
-      "url": "https://www.eldestapeweb.com/economia/caen-acciones-bonos-riesgo-pais-argentino-sube-738-puntos-20261026114510",
-      "detectado": "2026-10-26T17:43:43.567Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-reunio-gabinete-hace-silencio-no-pronuncia-lula-brasil-2026102612376",
-      "sitio": "El Destape",
-      "titulo": "Milei reunió al Gabinete, hace silencio y no se pronuncia por Brasil",
-      "url": "https://www.eldestapeweb.com/politica/milei-reunio-gabinete-hace-silencio-no-pronuncia-lula-brasil-2026102612376",
-      "detectado": "2026-10-26T17:43:43.567Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-octubre-2026-disposicion-10-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Valor Suma Fija ART Octubre 2026 para ambos regímenes. Disposición 10/2026",
-      "url": "https://contadoresenred.com/valor-suma-fija-art-octubre-2026-disposicion-10-2026/",
-      "detectado": "2026-10-26T11:39:09.911Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ganancias-simplificada-ley-27-799-adhesion-ratificacion-y-exclusion-del-regimen/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ganancias Simplificada Ley 27.799. Adhesión, convalidación y exclusión del régimen.",
-      "url": "https://contadoresenred.com/ganancias-simplificada-ley-27-799-adhesion-ratificacion-y-exclusion-del-regimen/",
-      "detectado": "2026-10-26T11:39:09.911Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fondo-de-asistencia-laboral-fal-adecuacion-segun-decreto-1228-26/",
-      "sitio": "Contadores en Red",
-      "titulo": "Fondo de Asistencia Laboral (FAL) adecuación según Decreto 1228/26",
-      "url": "https://contadoresenred.com/fondo-de-asistencia-laboral-fal-adecuacion-segun-decreto-1228-26/",
-      "detectado": "2026-10-26T11:39:09.911Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/2637-riesgos-trabajo-cuota-octubre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Riesgos del Trabajo - La Cuota Fija aumenta a $ 1.971 en Octubre 2026 (vencimiento Noviembre)",
-      "url": "https://jorgevega.com.ar/laboral/2637-riesgos-trabajo-cuota-octubre-2026.html",
-      "detectado": "2026-10-26T11:39:10.830Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fal-arca-ajusta-el-cronograma-a-diciembre-de-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "FAL: ARCA ajusta el cronograma a diciembre de 2026",
-      "url": "https://www.ignacioonline.com.ar/fal-arca-ajusta-el-cronograma-a-diciembre-de-2026/",
-      "detectado": "2026-10-26T11:39:11.901Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026-2/",
-      "sitio": "Ignacio Online",
-      "titulo": "SRT: la suma fija del FFEP será de $1.935 para septiembre 2026",
-      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-1-935-para-septiembre-2026-2/",
-      "detectado": "2026-10-26T11:39:11.901Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/pasaelarchivo-una-herramienta-para-pasar-archivos-contables-a-excel/",
-      "sitio": "Ignacio Online",
-      "titulo": "pasaelarchivo, una herramienta para pasar archivos contables a Excel",
-      "url": "https://www.ignacioonline.com.ar/pasaelarchivo-una-herramienta-para-pasar-archivos-contables-a-excel/",
-      "detectado": "2026-10-26T11:39:11.901Z"
     }
   ]
 }
