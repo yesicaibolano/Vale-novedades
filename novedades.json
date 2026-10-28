@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-27T21:31:20.010Z",
+  "actualizado": "2026-10-28T02:43:52.894Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-aumento-del-57-y-un-bono-de-50-000-para-octubre-noviembre-y-diciembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: aumento del 5,7% y un bono de $50.000 para octubre, noviembre y diciembre 2026",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-aumento-del-57-y-un-bono-de-50-000-para-octubre-noviembre-y-diciembre-2026/",
+      "detectado": "2026-10-28T02:43:45.930Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-aprobo-tercera-revision-dice-tiempo-llegara-crecimiento-empleo-20261027192257",
+      "sitio": "El Destape",
+      "titulo": "El FMI aprobó la tercera revisión y dice que “con el tiempo” llegará el crecimiento",
+      "url": "https://www.eldestapeweb.com/economia/fmi-aprobo-tercera-revision-dice-tiempo-llegara-crecimiento-empleo-20261027192257",
+      "detectado": "2026-10-28T02:43:52.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-28T02:43:52.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fuga-bolsonaro-milei-fue-clave-afirmo-operador-liberal-20261027205127",
+      "sitio": "El Destape",
+      "titulo": "La fuga de Bolsonaro: \"Milei fue clave\", afirmó un operador liberal",
+      "url": "https://www.eldestapeweb.com/politica/fuga-bolsonaro-milei-fue-clave-afirmo-operador-liberal-20261027205127",
+      "detectado": "2026-10-28T02:43:52.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "sitio": "El Destape",
+      "titulo": "Luiz Inácio Lula da Silva",
+      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
+      "detectado": "2026-10-28T02:43:52.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/lula-fulmino-bolsonaro-fuga-haya-ido-verguenza-20261027183547",
+      "sitio": "El Destape",
+      "titulo": "Lula fulminó a Flávio Bolsonaro por su huida: \"Que se haya ido es una vergüenza\"",
+      "url": "https://www.eldestapeweb.com/internacionales/lula-fulmino-bolsonaro-fuga-haya-ido-verguenza-20261027183547",
+      "detectado": "2026-10-28T02:43:52.319Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/2639-empleados-de-comercio-se-acordo-un-incremento-del-5-7-y-una-suma-fija-de-50-000.html",
       "sitio": "Jorge Vega",
@@ -156,13 +198,6 @@
       "detectado": "2026-10-27T02:35:06.860Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-10-27T02:35:06.860Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/ventas-desploman-37-ganancias-resisten-trampa-modelo-economico-milei-descubierto-20261026184441",
       "sitio": "El Destape",
       "titulo": "La rentabilidad resiste la recesión a costa del ajuste sobre salarios y puestos de trabajo",
@@ -289,13 +324,6 @@
       "detectado": "2026-10-26T17:43:43.567Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "sitio": "El Destape",
-      "titulo": "Luiz Inácio Lula da Silva",
-      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "detectado": "2026-10-26T17:43:43.567Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/valor-suma-fija-art-octubre-2026-disposicion-10-2026/",
       "sitio": "Contadores en Red",
       "titulo": "Valor Suma Fija ART Octubre 2026 para ambos regímenes. Disposición 10/2026",
@@ -392,34 +420,6 @@
       "titulo": "Xubio incorpora IA simplificar la conciliación bancaria",
       "url": "https://www.ignacioonline.com.ar/xubio-incorpora-ia-simplificar-la-conciliacion-bancaria/",
       "detectado": "2026-10-26T01:57:04.117Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/aconpy-lanza-la-presentacion-de-iva-automatica-el-primer-sistema-que-presenta-el-iva-de-punta-a-punta/",
-      "sitio": "Ignacio Online",
-      "titulo": "Aconpy lanza la Presentación de IVA Automática: el primer sistema que presenta el IVA de punta a punta",
-      "url": "https://www.ignacioonline.com.ar/aconpy-lanza-la-presentacion-de-iva-automatica-el-primer-sistema-que-presenta-el-iva-de-punta-a-punta/",
-      "detectado": "2026-10-26T01:57:04.117Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/lula-hablo-ganar-presidencia-cuarta-vez-20261025222854",
-      "sitio": "El Destape",
-      "titulo": "Lula celebra la reelección: \"Fue una derrota del negacionismo y la mentira\"",
-      "url": "https://www.eldestapeweb.com/internacionales/lula-hablo-ganar-presidencia-cuarta-vez-20261025222854",
-      "detectado": "2026-10-26T01:57:08.679Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-vamos-pedir-anulacion-elecciones-20261025224948",
-      "sitio": "El Destape",
-      "titulo": "Flávio Bolsonaro: \"Vamos a pedir la anulación de las elecciones\"",
-      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-vamos-pedir-anulacion-elecciones-20261025224948",
-      "detectado": "2026-10-26T01:57:08.679Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/axel-cristina-massa-peronismo-celebraron-triunfo-lula-brasil-20261025214110",
-      "sitio": "El Destape",
-      "titulo": "Axel, Cristina, Massa y el peronismo celebraron el triunfo de Lula",
-      "url": "https://www.eldestapeweb.com/politica/axel-cristina-massa-peronismo-celebraron-triunfo-lula-brasil-20261025214110",
-      "detectado": "2026-10-26T01:57:08.679Z"
     }
   ]
 }
