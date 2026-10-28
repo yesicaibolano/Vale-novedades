@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-10-28T02:43:52.894Z",
+  "actualizado": "2026-10-28T11:44:30.538Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/fondos-comunes-de-inversion-de-dinero-deberan-mostrar-su-variacion-en-los-ultimos-7-dias/",
+      "sitio": "Contadores en Red",
+      "titulo": "Fondos Comunes de Inversión de dinero deberán mostrar su variación en los últimos 7 días.",
+      "url": "https://contadoresenred.com/fondos-comunes-de-inversion-de-dinero-deberan-mostrar-su-variacion-en-los-ultimos-7-dias/",
+      "detectado": "2026-10-28T11:43:33.545Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-noviembre-2026-minima-y-maxima/",
+      "sitio": "Contadores en Red",
+      "titulo": "Base Imponible SIPA Noviembre 2026 Mínima y máxima",
+      "url": "https://contadoresenred.com/base-imponible-sipa-noviembre-2026-minima-y-maxima/",
+      "detectado": "2026-10-28T11:43:33.546Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/noviembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
+      "sitio": "Ignacio Online",
+      "titulo": "Noviembre 2026: Aportes y Contribuciones | Base Imponible Máxima y Mínima",
+      "url": "https://www.ignacioonline.com.ar/noviembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
+      "detectado": "2026-10-28T11:44:24.187Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/avion-bolsonaro-partio-madrugada-iguazu-2026102804156",
+      "sitio": "El Destape",
+      "titulo": "Bolsonaro entró a la Argentina con su familia y tomó un vuelo privado en Iguazú",
+      "url": "https://www.eldestapeweb.com/internacionales/avion-bolsonaro-partio-madrugada-iguazu-2026102804156",
+      "detectado": "2026-10-28T11:44:29.892Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Brasil",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
+      "detectado": "2026-10-28T11:44:29.892Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lecciones-lula-peronismo-oposicion-milei-202610280531",
+      "sitio": "El Destape",
+      "titulo": "Lecciones de Lula para el peronismo y la oposición a Milei",
+      "url": "https://www.eldestapeweb.com/politica/lecciones-lula-peronismo-oposicion-milei-202610280531",
+      "detectado": "2026-10-28T11:44:29.892Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/abuso-sobrecargos-fmi-le-costaron-argentina-6852-millones-dolares-202610280531",
+      "sitio": "El Destape",
+      "titulo": "Sobrecargos de casi 6900 millones de dólares",
+      "url": "https://www.eldestapeweb.com/economia/abuso-sobrecargos-fmi-le-costaron-argentina-6852-millones-dolares-202610280531",
+      "detectado": "2026-10-28T11:44:29.892Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/octubre-vuelve-caer-apoyo-milei-bullrich-competitiva-kicillof-202610280531",
+      "sitio": "El Destape",
+      "titulo": "En octubre vuelve a caer el apoyo a Milei y Bullrich ya es más competitiva contra Kicillof",
+      "url": "https://www.eldestapeweb.com/politica/octubre-vuelve-caer-apoyo-milei-bullrich-competitiva-kicillof-202610280531",
+      "detectado": "2026-10-28T11:44:29.892Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-aumento-del-57-y-un-bono-de-50-000-para-octubre-noviembre-y-diciembre-2026/",
       "sitio": "Ignacio Online",
@@ -119,13 +175,6 @@
       "titulo": "El Consejo, presente en las 3° Jornadas Bonaerenses de la Propiedad Horizontal",
       "url": "https://www.cpba.com.ar/noticias/item/16029-el-consejo-presente-en-las-jornadas-bonaerenses-de-la-propiedad-horizontal",
       "detectado": "2026-10-27T16:55:17.928Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-10-27T16:55:20.963Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-no-reconoce-triunfo-electoral-lula-no-hay-comunicado-20261027114918",
@@ -371,55 +420,6 @@
       "titulo": "pasaelarchivo, una herramienta para pasar archivos contables a Excel",
       "url": "https://www.ignacioonline.com.ar/pasaelarchivo-una-herramienta-para-pasar-archivos-contables-a-excel/",
       "detectado": "2026-10-26T11:39:11.901Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/renatre-nuevo-plan-de-pagos-para-deudas-del-per-con-hasta-50-de-quita-de-intereses/",
-      "sitio": "Ignacio Online",
-      "titulo": "RENATRE: nuevo plan de pagos para deudas del PER con hasta 50% de quita de intereses",
-      "url": "https://www.ignacioonline.com.ar/renatre-nuevo-plan-de-pagos-para-deudas-del-per-con-hasta-50-de-quita-de-intereses/",
-      "detectado": "2026-10-26T11:39:11.901Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/historica-remontada-brasil-lula-da-silva-derroto-flavio-bolsonaro-balotaje-logro-cuarto-mandato-2026102602847",
-      "sitio": "El Destape",
-      "titulo": "Una remontada histórica para la leyenda Lula, el hijo de Brasil",
-      "url": "https://www.eldestapeweb.com/internacionales/historica-remontada-brasil-lula-da-silva-derroto-flavio-bolsonaro-balotaje-logro-cuarto-mandato-2026102602847",
-      "detectado": "2026-10-26T11:39:20.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "sitio": "El Destape",
-      "titulo": "Por Pablo Giuliano (desde Brasil)",
-      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
-      "detectado": "2026-10-26T11:39:20.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reeleccion-lula-triunfo-epico-frena-hegemonia-trump-region-20261025234220",
-      "sitio": "El Destape",
-      "titulo": "La reelección de Lula: un triunfo épico que frena la hegemonía de Trump en la región",
-      "url": "https://www.eldestapeweb.com/politica/reeleccion-lula-triunfo-epico-frena-hegemonia-trump-region-20261025234220",
-      "detectado": "2026-10-26T11:39:20.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-10-26T11:39:20.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-triunfo-lula-hubo-rechazo-motosierra-milei-2026102681118",
-      "sitio": "El Destape",
-      "titulo": "Kicillof tras el triunfo de Lula: \"Hubo un rechazo a la motosierra de Milei\"",
-      "url": "https://www.eldestapeweb.com/politica/kicillof-triunfo-lula-hubo-rechazo-motosierra-milei-2026102681118",
-      "detectado": "2026-10-26T11:39:20.060Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/xubio-incorpora-ia-simplificar-la-conciliacion-bancaria/",
-      "sitio": "Ignacio Online",
-      "titulo": "Xubio incorpora IA simplificar la conciliación bancaria",
-      "url": "https://www.ignacioonline.com.ar/xubio-incorpora-ia-simplificar-la-conciliacion-bancaria/",
-      "detectado": "2026-10-26T01:57:04.117Z"
     }
   ]
 }
