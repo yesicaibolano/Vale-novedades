@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-10-28T17:29:15.133Z",
+  "actualizado": "2026-10-28T21:56:18.178Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Calculadora de Sueldos para Empleados de Comercio (Convenio 130/75) - CON ACUERDO DE FECHA 27-10-2026",
+      "url": "https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
+      "detectado": "2026-10-28T21:56:10.563Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-escalas-salariales-oficiales-octubre-a-diciembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: escalas salariales oficiales Octubre a Diciembre 2026",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-escalas-salariales-oficiales-octubre-a-diciembre-2026/",
+      "detectado": "2026-10-28T21:56:11.637Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-asume-verdadero-presidente-agradecio-ayuda-milei-20261028173219",
+      "sitio": "El Destape",
+      "titulo": "Bolsonaro se autoproclamó \"líder de Brasil\" y agradeció la ayuda de Trump y Milei",
+      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-asume-verdadero-presidente-agradecio-ayuda-milei-20261028173219",
+      "detectado": "2026-10-28T21:56:17.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trolls-internas-seguridad-nexo-ee-uu-detalles-silencioso-operativo-casa-rosada-fuga-bolsonaro-20261028152840",
+      "sitio": "El Destape",
+      "titulo": "Apoyo total del Gobierno a Caputo por la fuga de Bolsonaro y hay ruido con Monteoliva",
+      "url": "https://www.eldestapeweb.com/politica/trolls-internas-seguridad-nexo-ee-uu-detalles-silencioso-operativo-casa-rosada-fuga-bolsonaro-20261028152840",
+      "detectado": "2026-10-28T21:56:17.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-28T21:56:17.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/salieron-luz-oscuros-nexos-aerolinea-saco-flavio-bolsonaro-pais-caso-corrupcion-andis-milei-20261028161338",
+      "sitio": "El Destape",
+      "titulo": "Los nexos de la empresa en la que voló Flavio Bolsonaro con la corrupción de ANDIS",
+      "url": "https://www.eldestapeweb.com/politica/salieron-luz-oscuros-nexos-aerolinea-saco-flavio-bolsonaro-pais-caso-corrupcion-andis-milei-20261028161338",
+      "detectado": "2026-10-28T21:56:17.557Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-28T21:56:17.557Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/empleados-de-comercio-nuevo-acuerdo-salarial-de-octubre-de-2026/",
       "sitio": "Contadores en Red",
@@ -212,13 +261,6 @@
       "detectado": "2026-10-27T21:31:19.185Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-27T21:31:19.185Z"
-    },
-    {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
       "sitio": "Ignacio Online",
       "titulo": "Feriados del 10 y 11 de noviembre: ¿se pagan doble y a quiénes alcanzan?",
@@ -378,48 +420,6 @@
       "titulo": "Ganancias Simplificada: quiénes deben convalidar y cómo verificar si ya realizaron el trámite",
       "url": "https://contadoresenred.com/ganancias-simplificada-quienes-deben-convalidar-y-como-verificar-si-ya-realizaron-el-tramite/",
       "detectado": "2026-10-26T17:43:35.554Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/renatre-plan-excepcional-de-facilidades-de-pago/",
-      "sitio": "Contadores en Red",
-      "titulo": "RENATRE Plan de Pago por deudas regularizadas en el Régimen de Promoción del Empleo Registrado (PER)",
-      "url": "https://contadoresenred.com/renatre-plan-excepcional-de-facilidades-de-pago/",
-      "detectado": "2026-10-26T17:43:35.554Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reglamenta-los-cambios-en-ganancias-simplificado-quienes-pueden-adherir/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA reglamenta los cambios en Ganancias Simplificado: quiénes pueden adherir",
-      "url": "https://www.ignacioonline.com.ar/arca-reglamenta-los-cambios-en-ganancias-simplificado-quienes-pueden-adherir/",
-      "detectado": "2026-10-26T17:43:37.671Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/webinar-fal-que-hay-que-saber-antes-de-su-implementacion/",
-      "sitio": "Ignacio Online",
-      "titulo": "Webinar FAL: qué hay que saber antes de su implementación",
-      "url": "https://www.ignacioonline.com.ar/webinar-fal-que-hay-que-saber-antes-de-su-implementacion/",
-      "detectado": "2026-10-26T17:43:37.671Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16025-actuaciones-web-fuera-de-servicio-por-mantenimiento-programado",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Actuaciones Web, fuera de servicio por mantenimiento programado",
-      "url": "https://www.cpba.com.ar/noticias/item/16025-actuaciones-web-fuera-de-servicio-por-mantenimiento-programado",
-      "detectado": "2026-10-26T17:43:42.039Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16027-se-realizaron-con-exito-las-17as-jornadas-provinciales-de-cooperativismo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se realizaron con éxito las 17as Jornadas Provinciales de Cooperativismo",
-      "url": "https://www.cpba.com.ar/noticias/item/16027-se-realizaron-con-exito-las-17as-jornadas-provinciales-de-cooperativismo",
-      "detectado": "2026-10-26T17:43:42.039Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16026-la-delegacion-tandil-celebro-su-60-aniversario",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "La Delegación Tandil celebró su 60° aniversario",
-      "url": "https://www.cpba.com.ar/noticias/item/16026-la-delegacion-tandil-celebro-su-60-aniversario",
-      "detectado": "2026-10-26T17:43:42.039Z"
     }
   ]
 }
