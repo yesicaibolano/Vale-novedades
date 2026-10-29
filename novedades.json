@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-29T03:03:41.549Z",
+  "actualizado": "2026-10-29T11:51:23.486Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/apertura-importaciones-ingreso-bienes-consumo-supero-niveles-macrismo-golpea-industria-nacional-202610290526",
+      "sitio": "El Destape",
+      "titulo": "Importaciones récord: los bienes finales ya superan el promedio de Macri y Fernández",
+      "url": "https://www.eldestapeweb.com/economia/apertura-importaciones-ingreso-bienes-consumo-supero-niveles-macrismo-golpea-industria-nacional-202610290526",
+      "detectado": "2026-10-29T11:51:23.105Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-29T11:51:23.105Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bolsonaro-gate-agita-congreso-complica-agenda-gobierno-202610290526",
+      "sitio": "El Destape",
+      "titulo": "El Bolsonaro-gate agita el Congreso y complica la agenda del Gobierno",
+      "url": "https://www.eldestapeweb.com/politica/bolsonaro-gate-agita-congreso-complica-agenda-gobierno-202610290526",
+      "detectado": "2026-10-29T11:51:23.105Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-10-29T11:51:23.105Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/crece-interna-oficialista-bullrich-profundiza-criticas-gobierno-sabiendo-milei-necesita-votos-202610290526",
+      "sitio": "El Destape",
+      "titulo": "Semana sin tregua: el desmarque de Bullrich y sus votos clave",
+      "url": "https://www.eldestapeweb.com/politica/crece-interna-oficialista-bullrich-profundiza-criticas-gobierno-sabiendo-milei-necesita-votos-202610290526",
+      "detectado": "2026-10-29T11:51:23.105Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-luis-caputo-cuerda-floja-caida-consumo-iva-expone-recesion-profundiza-senales-rebote-vista-2026102821151",
       "sitio": "El Destape",
@@ -366,13 +401,6 @@
       "detectado": "2026-10-27T11:08:25.576Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-27T11:08:25.576Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/apuestas-iglesia-aprovecha-visita-papa-presiona-milei-202610270542",
       "sitio": "El Destape",
       "titulo": "Apuestas: la Iglesia aprovecha la visita del Papa y presiona a Milei",
@@ -392,34 +420,6 @@
       "titulo": "Caputo empezó a liquidar dólares en un intento de calmar a los mercados",
       "url": "https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
       "detectado": "2026-10-27T02:35:06.860Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ventas-desploman-37-ganancias-resisten-trampa-modelo-economico-milei-descubierto-20261026184441",
-      "sitio": "El Destape",
-      "titulo": "La rentabilidad resiste la recesión a costa del ajuste sobre salarios y puestos de trabajo",
-      "url": "https://www.eldestapeweb.com/economia/ventas-desploman-37-ganancias-resisten-trampa-modelo-economico-milei-descubierto-20261026184441",
-      "detectado": "2026-10-27T02:35:06.860Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-27T02:35:06.860Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/politica/noche-furia-tension-gobierno-milei-niega-reconocer-triunfo-lula-brasil-20261026174826",
-      "detectado": "2026-10-26T21:58:21.036Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lulismo-busca-tejer-alianzas-oposicion-argentina-congreso-defender-soberania-agenda-nuclear-2026102615569",
-      "sitio": "El Destape",
-      "titulo": "Con el vínculo roto con Milei, Lula activa una diplomacia paralela con la oposición",
-      "url": "https://www.eldestapeweb.com/politica/lulismo-busca-tejer-alianzas-oposicion-argentina-congreso-defender-soberania-agenda-nuclear-2026102615569",
-      "detectado": "2026-10-26T21:58:21.036Z"
     }
   ]
 }
