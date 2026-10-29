@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-28T21:56:18.178Z",
+  "actualizado": "2026-10-29T03:03:41.549Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/ajuste-luis-caputo-cuerda-floja-caida-consumo-iva-expone-recesion-profundiza-senales-rebote-vista-2026102821151",
+      "sitio": "El Destape",
+      "titulo": "La recaudación del IVA sigue en caída y marca la continuidad de la recesión",
+      "url": "https://www.eldestapeweb.com/economia/ajuste-luis-caputo-cuerda-floja-caida-consumo-iva-expone-recesion-profundiza-senales-rebote-vista-2026102821151",
+      "detectado": "2026-10-29T03:03:41.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-10-29T03:03:41.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
+      "sitio": "El Destape",
+      "titulo": "Actividad económica",
+      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
+      "detectado": "2026-10-29T03:03:41.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-mantiene-meta-superavit-mete-presion-gobierno-20261028214921",
+      "sitio": "El Destape",
+      "titulo": "El FMI mantiene su meta de superávit y mete presión al Gobierno",
+      "url": "https://www.eldestapeweb.com/economia/fmi-mantiene-meta-superavit-mete-presion-gobierno-20261028214921",
+      "detectado": "2026-10-29T03:03:41.087Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-hablo-flavio-bolsonaro-denuncio-fue-tratado-forma-injusta-brasil-2026102820553",
+      "sitio": "El Destape",
+      "titulo": "Trump, sobre la llegada de Bolsonaro a EE.UU.: \"No me voy a involucrar\"",
+      "url": "https://www.eldestapeweb.com/internacionales/trump-hablo-flavio-bolsonaro-denuncio-fue-tratado-forma-injusta-brasil-2026102820553",
+      "detectado": "2026-10-29T03:03:41.087Z"
+    },
     {
       "id": "jorgevega|https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
       "sitio": "Jorge Vega",
@@ -198,13 +233,6 @@
       "detectado": "2026-10-28T02:43:52.319Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-10-28T02:43:52.319Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/fuga-bolsonaro-milei-fue-clave-afirmo-operador-liberal-20261027205127",
       "sitio": "El Destape",
       "titulo": "La fuga de Bolsonaro: \"Milei fue clave\", afirmó un operador liberal",
@@ -392,34 +420,6 @@
       "titulo": "Con el vínculo roto con Milei, Lula activa una diplomacia paralela con la oposición",
       "url": "https://www.eldestapeweb.com/politica/lulismo-busca-tejer-alianzas-oposicion-argentina-congreso-defender-soberania-agenda-nuclear-2026102615569",
       "detectado": "2026-10-26T21:58:21.036Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-denuncio-lula-manipulo-eleccion-brasil-20261026165939",
-      "sitio": "El Destape",
-      "titulo": "Trump denunció que la elección en Brasil estuvo \"manipulada\"",
-      "url": "https://www.eldestapeweb.com/internacionales/trump-denuncio-lula-manipulo-eleccion-brasil-20261026165939",
-      "detectado": "2026-10-26T21:58:21.036Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/datos-economicos-enfurecen-libertarios-crecimiento-brasil-lula-contraste-argentina-20261026182921",
-      "sitio": "El Destape",
-      "titulo": "Crecer y distribuir, el modelo Lula: cuánto creció el PBI y bajó la pobreza en su gobierno",
-      "url": "https://www.eldestapeweb.com/economia/datos-economicos-enfurecen-libertarios-crecimiento-brasil-lula-contraste-argentina-20261026182921",
-      "detectado": "2026-10-26T21:58:21.036Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/presentacion-iva-automatica-aconpy/",
-      "sitio": "Contadores en Red",
-      "titulo": "Aconpy lanza la Presentación de IVA Automática: el primer sistema que presenta el IVA de punta a punta",
-      "url": "https://contadoresenred.com/presentacion-iva-automatica-aconpy/",
-      "detectado": "2026-10-26T17:43:35.554Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ganancias-simplificada-quienes-deben-convalidar-y-como-verificar-si-ya-realizaron-el-tramite/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ganancias Simplificada: quiénes deben convalidar y cómo verificar si ya realizaron el trámite",
-      "url": "https://contadoresenred.com/ganancias-simplificada-quienes-deben-convalidar-y-como-verificar-si-ya-realizaron-el-tramite/",
-      "detectado": "2026-10-26T17:43:35.554Z"
     }
   ]
 }
