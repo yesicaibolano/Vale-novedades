@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-10-29T11:51:23.486Z",
+  "actualizado": "2026-10-29T17:39:58.927Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
+      "sitio": "Contadores en Red",
+      "titulo": "CNV: prorrogan hasta el 13 de noviembre la presentación de estados financieros / estados contables",
+      "url": "https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
+      "detectado": "2026-10-29T17:39:50.826Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/acuerdos-contra-el-contrabando-las-plataformas-aportaran-informacion-para-cruces-con-arca/",
+      "sitio": "Contadores en Red",
+      "titulo": "Acuerdos contra el contrabando: las plataformas aportarán información para cruces con ARCA",
+      "url": "https://contadoresenred.com/acuerdos-contra-el-contrabando-las-plataformas-aportaran-informacion-para-cruces-con-arca/",
+      "detectado": "2026-10-29T17:39:50.826Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/cnv-regimen-de-presentacion-de-informacion-por-la-autopista-de-la-informacion-financiera-aif/",
+      "sitio": "Contadores en Red",
+      "titulo": "CNV: Régimen de presentación de información por la Autopista de la Información Financiera (AIF)",
+      "url": "https://contadoresenred.com/cnv-regimen-de-presentacion-de-informacion-por-la-autopista-de-la-informacion-financiera-aif/",
+      "detectado": "2026-10-29T17:39:50.826Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/factura-de-credito-electronico-mantiene-plazos-de-21-dias-corridos-hasta-octubre-2027/",
+      "sitio": "Contadores en Red",
+      "titulo": "Factura de Crédito Electrónico mantiene plazos de 21 días corridos hasta octubre 2027",
+      "url": "https://contadoresenred.com/factura-de-credito-electronico-mantiene-plazos-de-21-dias-corridos-hasta-octubre-2027/",
+      "detectado": "2026-10-29T17:39:50.826Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16032-prevencion-del-la-ft-fp-informe-del-revisor-externo-independiente-improcedencia-de-su-legalizacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Prevención del LA/FT/FP - Informe del Revisor Externo Independiente: Improcedencia de su legalización",
+      "url": "https://www.cpba.com.ar/noticias/item/16032-prevencion-del-la-ft-fp-informe-del-revisor-externo-independiente-improcedencia-de-su-legalizacion",
+      "detectado": "2026-10-29T17:39:54.471Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
+      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
+      "detectado": "2026-10-29T17:39:54.471Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/medio-virtual-recesion-fmi-le-pidio-crecimiento-gobierno-2026102912938",
+      "sitio": "El Destape",
+      "titulo": "El FMI cuestionó al Gobierno por el empleo y el crecimiento de la economía",
+      "url": "https://www.eldestapeweb.com/economia/medio-virtual-recesion-fmi-le-pidio-crecimiento-gobierno-2026102912938",
+      "detectado": "2026-10-29T17:39:55.969Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inversion-volvio-desplomarse-septiembre-cayo-7-ano-20261029101616",
+      "sitio": "El Destape",
+      "titulo": "La inversión volvió a desplomarse en septiembre y cayó más de 7% en el año",
+      "url": "https://www.eldestapeweb.com/economia/inversion-volvio-desplomarse-septiembre-cayo-7-ano-20261029101616",
+      "detectado": "2026-10-29T17:39:55.969Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/oficial-cambio-formato-futbol-argentino-2027-chau-dos-zonas-todos-todos-2026102913323",
+      "sitio": "El Destape",
+      "titulo": "Oficial: cambió el formato de Primera, adiós a las zonas y todos contra todos",
+      "url": "https://www.eldestapeweb.com/deportes/oficial-cambio-formato-futbol-argentino-2027-chau-dos-zonas-todos-todos-2026102913323",
+      "detectado": "2026-10-29T17:39:55.969Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-10-29T17:39:55.969Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-29-octubre-minuto-minuto-2026102965656",
+      "sitio": "El Destape",
+      "titulo": "Hay quórum: inició la sesión en el Senado",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-29-octubre-minuto-minuto-2026102965656",
+      "detectado": "2026-10-29T17:39:55.969Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/apertura-importaciones-ingreso-bienes-consumo-supero-niveles-macrismo-golpea-industria-nacional-202610290526",
       "sitio": "El Destape",
@@ -343,83 +420,6 @@
       "titulo": "Conecta CPBA: Oportunidades laborales para profesionales en Ciencias Económicas",
       "url": "https://www.cpba.com.ar/noticias/item/15905-conecta-cpba-oportunidades-laborales-para-profesionales-en-ciencias-economicas",
       "detectado": "2026-10-27T16:55:17.928Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16030-ahora-en-repro-rise2040-como-puede-cambiar-el-trabajo-de-los-profesionales-en-ciencias-economicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Rise2040: Cómo puede cambiar el trabajo de los profesionales en Ciencias…",
-      "url": "https://www.cpba.com.ar/noticias/item/16030-ahora-en-repro-rise2040-como-puede-cambiar-el-trabajo-de-los-profesionales-en-ciencias-economicas",
-      "detectado": "2026-10-27T16:55:17.928Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16029-el-consejo-presente-en-las-jornadas-bonaerenses-de-la-propiedad-horizontal",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo, presente en las 3° Jornadas Bonaerenses de la Propiedad Horizontal",
-      "url": "https://www.cpba.com.ar/noticias/item/16029-el-consejo-presente-en-las-jornadas-bonaerenses-de-la-propiedad-horizontal",
-      "detectado": "2026-10-27T16:55:17.928Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-milei-no-reconoce-triunfo-electoral-lula-no-hay-comunicado-20261027114918",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno de Milei mintió para no reconocer a Lula: \"Ningún gesto\"",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-milei-no-reconoce-triunfo-electoral-lula-no-hay-comunicado-20261027114918",
-      "detectado": "2026-10-27T16:55:20.963Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bunge-cerro-planta-fertilizantes-dejo-200-trabajadores-calle-20261027101420",
-      "sitio": "El Destape",
-      "titulo": "Bunge cerró su planta de fertilizantes y dejó a 200 trabajadores en la calle",
-      "url": "https://www.eldestapeweb.com/politica/bunge-cerro-planta-fertilizantes-dejo-200-trabajadores-calle-20261027101420",
-      "detectado": "2026-10-27T16:55:20.963Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gino-viglianco",
-      "sitio": "El Destape",
-      "titulo": "Por Gino Viglianco",
-      "url": "https://www.eldestapeweb.com/perfil/gino-viglianco",
-      "detectado": "2026-10-27T16:55:20.963Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/libra-damnificados-apelan-sobreseimiento-milei-duras-criticas-juez-fiscal-esperan-fallo-clave-casacion-20261027123734",
-      "sitio": "El Destape",
-      "titulo": "$LIBRA: Damnificados apelan el sobreseimiento de Milei y esperan fallo clave de Casación",
-      "url": "https://www.eldestapeweb.com/politica/libra-damnificados-apelan-sobreseimiento-milei-duras-criticas-juez-fiscal-esperan-fallo-clave-casacion-20261027123734",
-      "detectado": "2026-10-27T16:55:20.963Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/faltazo-fotos-redes-criticas-calculada-maniobra-bullrich-genera-tension-milei-202610270542",
-      "sitio": "El Destape",
-      "titulo": "Plan B, abrazo y faltazo: los cinco días frenéticos en los que Bullrich marcó la cancha",
-      "url": "https://www.eldestapeweb.com/politica/faltazo-fotos-redes-criticas-calculada-maniobra-bullrich-genera-tension-milei-202610270542",
-      "detectado": "2026-10-27T11:08:25.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-celebro-inyeccion-emocional-lula-evalua-tomar-campana-202610270542",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/politica/peronismo-celebro-inyeccion-emocional-lula-evalua-tomar-campana-202610270542",
-      "detectado": "2026-10-27T11:08:25.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/apuestas-iglesia-aprovecha-visita-papa-presiona-milei-202610270542",
-      "sitio": "El Destape",
-      "titulo": "Apuestas: la Iglesia aprovecha la visita del Papa y presiona a Milei",
-      "url": "https://www.eldestapeweb.com/politica/apuestas-iglesia-aprovecha-visita-papa-presiona-milei-202610270542",
-      "detectado": "2026-10-27T11:08:25.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "sitio": "El Destape",
-      "titulo": "Por Noelia Barral Grigera",
-      "url": "https://www.eldestapeweb.com/perfil/noelia-barral-grigera",
-      "detectado": "2026-10-27T11:08:25.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
-      "sitio": "El Destape",
-      "titulo": "Caputo empezó a liquidar dólares en un intento de calmar a los mercados",
-      "url": "https://www.eldestapeweb.com/economia/caputo-empezo-liquidar-dolares-intento-calmar-mercados-20261026204941",
-      "detectado": "2026-10-27T02:35:06.860Z"
     }
   ]
 }
