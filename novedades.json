@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-10-29T17:39:58.927Z",
+  "actualizado": "2026-10-29T22:05:13.242Z",
   "items": [
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/473-inacap-contribucion-2026.html",
+      "sitio": "Jorge Vega",
+      "titulo": "INACAP: contribución vigente hasta Diciembre 2026",
+      "url": "https://jorgevega.com.ar/laboral/473-inacap-contribucion-2026.html",
+      "detectado": "2026-10-29T22:05:06.258Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-pidio-investigar-si-side-participo-fuga-flavio-bolsonaro-argentina-2026102917401",
+      "sitio": "El Destape",
+      "titulo": "El peronismo pidió investigar si la SIDE participó de la fuga de Bolsonaro por Argentina",
+      "url": "https://www.eldestapeweb.com/politica/peronismo-pidio-investigar-si-side-participo-fuga-flavio-bolsonaro-argentina-2026102917401",
+      "detectado": "2026-10-29T22:05:12.747Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/escenario-elecciones-estados-unidos-preocupa-milei-podria-llevar-riesgo-pais-900-puntos-20261029154956",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en EE.UU.",
+      "url": "https://www.eldestapeweb.com/politica/escenario-elecciones-estados-unidos-preocupa-milei-podria-llevar-riesgo-pais-900-puntos-20261029154956",
+      "detectado": "2026-10-29T22:05:12.747Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-10-29T22:05:12.747Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/choques-trenes-brasil-confirmo-muerte-argentino-agustin-randazzo-2026102918359",
+      "sitio": "El Destape",
+      "titulo": "Choques de trenes en Brasil: se confirmó la muerte del argentino Agustín Randazzo",
+      "url": "https://www.eldestapeweb.com/sociedad/choques-trenes-brasil-confirmo-muerte-argentino-agustin-randazzo-2026102918359",
+      "detectado": "2026-10-29T22:05:12.747Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bcra-cayo-actividad-economica-crece-riesgo-inflacion-20261029142452",
+      "sitio": "El Destape",
+      "titulo": "Un informe del BCRA confirmó caída de la actividad y alertó por impacto de la inflación",
+      "url": "https://www.eldestapeweb.com/economia/bcra-cayo-actividad-economica-crece-riesgo-inflacion-20261029142452",
+      "detectado": "2026-10-29T22:05:12.747Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
       "sitio": "Contadores en Red",
@@ -174,13 +216,6 @@
       "sitio": "El Destape",
       "titulo": "Apoyo total del Gobierno a Caputo por la fuga de Bolsonaro y hay ruido con Monteoliva",
       "url": "https://www.eldestapeweb.com/politica/trolls-internas-seguridad-nexo-ee-uu-detalles-silencioso-operativo-casa-rosada-fuga-bolsonaro-20261028152840",
-      "detectado": "2026-10-28T21:56:17.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-10-28T21:56:17.557Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Malvinas: LLA dictaminó el proyecto de \"soberanía\", con cambios a pedir de EE.UU",
       "url": "https://www.eldestapeweb.com/politica/lla-dictamino-proyecto-soberania-cambios-pedir-ee-uu-20261027181144",
       "detectado": "2026-10-27T21:31:19.185Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-10-27T21:31:19.185Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fuga-flavio-bolsonaro-eeuu-respuesta-gobierno-argentino-versiones-paso-misiones-20261027162915",
-      "sitio": "El Destape",
-      "titulo": "Fuga de Bolsonaro a EEUU: en Casa Rosada afirman que \"jamás pisó suelo argentino\"",
-      "url": "https://www.eldestapeweb.com/politica/fuga-flavio-bolsonaro-eeuu-respuesta-gobierno-argentino-versiones-paso-misiones-20261027162915",
-      "detectado": "2026-10-27T21:31:19.185Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
-      "sitio": "Ignacio Online",
-      "titulo": "Feriados del 10 y 11 de noviembre: ¿se pagan doble y a quiénes alcanzan?",
-      "url": "https://www.ignacioonline.com.ar/feriados-del-10-y-11-de-noviembre-se-pagan-doble-y-a-quienes-alcanzan/",
-      "detectado": "2026-10-27T16:55:13.823Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16028-se-prorrogo-la-entrada-en-vigencia-del-fondo-de-asistencia-laboral",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se prorrogó la entrada en vigencia del Fondo de Asistencia Laboral",
-      "url": "https://www.cpba.com.ar/noticias/item/16028-se-prorrogo-la-entrada-en-vigencia-del-fondo-de-asistencia-laboral",
-      "detectado": "2026-10-27T16:55:17.928Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15905-conecta-cpba-oportunidades-laborales-para-profesionales-en-ciencias-economicas",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Conecta CPBA: Oportunidades laborales para profesionales en Ciencias Económicas",
-      "url": "https://www.cpba.com.ar/noticias/item/15905-conecta-cpba-oportunidades-laborales-para-profesionales-en-ciencias-economicas",
-      "detectado": "2026-10-27T16:55:17.928Z"
     }
   ]
 }
