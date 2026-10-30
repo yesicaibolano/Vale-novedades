@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-10-30T03:08:26.060Z",
+  "actualizado": "2026-10-30T11:44:14.800Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/se-extiende-plan-de-facilidades-para-sector-salud-mipymes-y-entidades-sin-fines-de-lucro/",
+      "sitio": "Contadores en Red",
+      "titulo": "Se extiende plan de facilidades para Sector Salud, MiPyMEs y entidades sin fines de lucro",
+      "url": "https://contadoresenred.com/se-extiende-plan-de-facilidades-para-sector-salud-mipymes-y-entidades-sin-fines-de-lucro/",
+      "detectado": "2026-10-30T11:44:08.563Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ganancias-se-prorroga-la-presentacion-de-la-declaracion-jurada-2025/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ganancias. Se prorroga la presentación de la Declaración Jurada 2025",
+      "url": "https://contadoresenred.com/ganancias-se-prorroga-la-presentacion-de-la-declaracion-jurada-2025/",
+      "detectado": "2026-10-30T11:44:08.563Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2641-arca-extiende-el-plazo-de-adhesion-de-dos-regimenes-especiales-de-facilidades-de-pago.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ARCA extiende el plazo de adhesión de dos regímenes especiales de facilidades de pago",
+      "url": "https://jorgevega.com.ar/impuestos/2641-arca-extiende-el-plazo-de-adhesion-de-dos-regimenes-especiales-de-facilidades-de-pago.html",
+      "detectado": "2026-10-30T11:44:09.202Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/impuestos/2640-arca-rg-5918-ganancias-nueva-prorroga-ahora-hasta-el-16-de-noviembre-solo-presentacion.html",
+      "sitio": "Jorge Vega",
+      "titulo": "ARCA RG 5918 - Ganancias: nueva prórroga, ahora hasta el 16 de noviembre (SOLO PRESENTACIÓN)",
+      "url": "https://jorgevega.com.ar/impuestos/2640-arca-rg-5918-ganancias-nueva-prorroga-ahora-hasta-el-16-de-noviembre-solo-presentacion.html",
+      "detectado": "2026-10-30T11:44:09.202Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/uthgra-como-liquidar-los-sueldos-de-octubre-2026-mientras-sigue-la-negociacion-paritaria/",
+      "sitio": "Ignacio Online",
+      "titulo": "UTHGRA: cómo liquidar los sueldos de octubre 2026 mientras sigue la negociación paritaria",
+      "url": "https://www.ignacioonline.com.ar/uthgra-como-liquidar-los-sueldos-de-octubre-2026-mientras-sigue-la-negociacion-paritaria/",
+      "detectado": "2026-10-30T11:44:09.493Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-diciembre-los-planes-de-pago-para-mipymes-pequenos-contribuyentes-y-sector-salud/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA prorrogó hasta el 30 de diciembre los planes de pago para MiPyMEs, pequeños contribuyentes y sector salud",
+      "url": "https://www.ignacioonline.com.ar/arca-prorrogo-hasta-el-30-de-diciembre-los-planes-de-pago-para-mipymes-pequenos-contribuyentes-y-sector-salud/",
+      "detectado": "2026-10-30T11:44:09.493Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/ganancias-arca-prorrogo-hasta-el-16-de-noviembre-la-presentacion-de-declaraciones-juradas/",
+      "sitio": "Ignacio Online",
+      "titulo": "Ganancias: ARCA prorrogó hasta el 16 de noviembre la presentación de declaraciones juradas",
+      "url": "https://www.ignacioonline.com.ar/ganancias-arca-prorrogo-hasta-el-16-de-noviembre-la-presentacion-de-declaraciones-juradas/",
+      "detectado": "2026-10-30T11:44:09.493Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-aprobo-tres-reformas-clave-fuertes-criticas-ajuste-impacto-fiscal-2026103083326",
+      "sitio": "El Destape",
+      "titulo": "El Senado aprobó la reforma en Salud Mental y beneficios fiscales a medianas empresas",
+      "url": "https://www.eldestapeweb.com/politica/senado-aprobo-tres-reformas-clave-fuertes-criticas-ajuste-impacto-fiscal-2026103083326",
+      "detectado": "2026-10-30T11:44:14.267Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/dudas-once-ponzio-paro-river-enfrentar-boca-20261029221435",
+      "sitio": "El Destape",
+      "titulo": "Sin dudas: el once que Ponzio paró en River para enfrentar a Boca",
+      "url": "https://www.eldestapeweb.com/deportes/dudas-once-ponzio-paro-river-enfrentar-boca-20261029221435",
+      "detectado": "2026-10-30T11:44:14.267Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/caputo-desvio-us-2-156-millones-tapar-agujero-financiero-202610300514",
       "sitio": "El Destape",
@@ -357,69 +420,6 @@
       "titulo": "Noviembre 2026: Aportes y Contribuciones | Base Imponible Máxima y Mínima",
       "url": "https://www.ignacioonline.com.ar/noviembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
       "detectado": "2026-10-28T11:44:24.187Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/avion-bolsonaro-partio-madrugada-iguazu-2026102804156",
-      "sitio": "El Destape",
-      "titulo": "Bolsonaro entró a la Argentina con su familia y tomó un vuelo privado en Iguazú",
-      "url": "https://www.eldestapeweb.com/internacionales/avion-bolsonaro-partio-madrugada-iguazu-2026102804156",
-      "detectado": "2026-10-28T11:44:29.892Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Brasil",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-brasil",
-      "detectado": "2026-10-28T11:44:29.892Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lecciones-lula-peronismo-oposicion-milei-202610280531",
-      "sitio": "El Destape",
-      "titulo": "Lecciones de Lula para el peronismo y la oposición a Milei",
-      "url": "https://www.eldestapeweb.com/politica/lecciones-lula-peronismo-oposicion-milei-202610280531",
-      "detectado": "2026-10-28T11:44:29.892Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/abuso-sobrecargos-fmi-le-costaron-argentina-6852-millones-dolares-202610280531",
-      "sitio": "El Destape",
-      "titulo": "Sobrecargos de casi 6900 millones de dólares",
-      "url": "https://www.eldestapeweb.com/economia/abuso-sobrecargos-fmi-le-costaron-argentina-6852-millones-dolares-202610280531",
-      "detectado": "2026-10-28T11:44:29.892Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/octubre-vuelve-caer-apoyo-milei-bullrich-competitiva-kicillof-202610280531",
-      "sitio": "El Destape",
-      "titulo": "En octubre vuelve a caer el apoyo a Milei y Bullrich ya es más competitiva contra Kicillof",
-      "url": "https://www.eldestapeweb.com/politica/octubre-vuelve-caer-apoyo-milei-bullrich-competitiva-kicillof-202610280531",
-      "detectado": "2026-10-28T11:44:29.892Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-aumento-del-57-y-un-bono-de-50-000-para-octubre-noviembre-y-diciembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: aumento del 5,7% y un bono de $50.000 para octubre, noviembre y diciembre 2026",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-aumento-del-57-y-un-bono-de-50-000-para-octubre-noviembre-y-diciembre-2026/",
-      "detectado": "2026-10-28T02:43:45.930Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-aprobo-tercera-revision-dice-tiempo-llegara-crecimiento-empleo-20261027192257",
-      "sitio": "El Destape",
-      "titulo": "El FMI aprobó la tercera revisión y dice que “con el tiempo” llegará el crecimiento",
-      "url": "https://www.eldestapeweb.com/economia/fmi-aprobo-tercera-revision-dice-tiempo-llegara-crecimiento-empleo-20261027192257",
-      "detectado": "2026-10-28T02:43:52.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fuga-bolsonaro-milei-fue-clave-afirmo-operador-liberal-20261027205127",
-      "sitio": "El Destape",
-      "titulo": "La fuga de Bolsonaro: \"Milei fue clave\", afirmó un operador liberal",
-      "url": "https://www.eldestapeweb.com/politica/fuga-bolsonaro-milei-fue-clave-afirmo-operador-liberal-20261027205127",
-      "detectado": "2026-10-28T02:43:52.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "sitio": "El Destape",
-      "titulo": "Luiz Inácio Lula da Silva",
-      "url": "https://www.eldestapeweb.com/tag/luiz-inacio-lula-da-silva",
-      "detectado": "2026-10-28T02:43:52.319Z"
     }
   ]
 }
