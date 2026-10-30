@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-30T17:18:40.805Z",
+  "actualizado": "2026-10-30T21:43:34.610Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
+      "sitio": "El Destape",
+      "titulo": "$LIBRA: la PIA hizo lugar al pedido de las ONG y solicitó reabrir la causa",
+      "url": "https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
+      "detectado": "2026-10-30T21:43:34.154Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-10-30T21:43:34.154Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-sube-762-puntos-caen-bonos-acciones-argentinas-20261030142549",
+      "sitio": "El Destape",
+      "titulo": "Caen los bonos y las acciones argentinas y el riesgo país se encamina a los 800 puntos",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-sube-762-puntos-caen-bonos-acciones-argentinas-20261030142549",
+      "detectado": "2026-10-30T21:43:34.154Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/caso-bolsonaro-brasil-cito-diplomaticos-argentina-pedir-explicaciones-20261030142345",
+      "sitio": "El Destape",
+      "titulo": "Caso Bolsonaro: Brasil se reunió con diplomáticos de Argentina",
+      "url": "https://www.eldestapeweb.com/politica/caso-bolsonaro-brasil-cito-diplomaticos-argentina-pedir-explicaciones-20261030142345",
+      "detectado": "2026-10-30T21:43:34.154Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "sitio": "El Destape",
+      "titulo": "Por Pablo Giuliano (desde Brasil)",
+      "url": "https://www.eldestapeweb.com/perfil/pablo-giuliano-desde-brasil",
+      "detectado": "2026-10-30T21:43:34.154Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/por-que-brindar-una-cobertura-medica-de-calidad-tambien-es-una-inversion-para-tu-equipo/",
       "sitio": "Ignacio Online",
@@ -385,41 +420,6 @@
       "titulo": "Los nexos de la empresa en la que voló Flavio Bolsonaro con la corrupción de ANDIS",
       "url": "https://www.eldestapeweb.com/politica/salieron-luz-oscuros-nexos-aerolinea-saco-flavio-bolsonaro-pais-caso-corrupcion-andis-milei-20261028161338",
       "detectado": "2026-10-28T21:56:17.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-10-28T21:56:17.557Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/empleados-de-comercio-nuevo-acuerdo-salarial-de-octubre-de-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Empleados de Comercio: nuevo acuerdo salarial de octubre de 2026",
-      "url": "https://contadoresenred.com/empleados-de-comercio-nuevo-acuerdo-salarial-de-octubre-de-2026/",
-      "detectado": "2026-10-28T17:29:05.782Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-noviembre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Jubilaciones y bases imponibles: actualización - Noviembre 2026",
-      "url": "https://jorgevega.com.ar/laboral/699-jubilaciones-bases-imponibles-actualizacion-noviembre-2026.html",
-      "detectado": "2026-10-28T17:29:06.608Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-noviembre.html",
-      "sitio": "Jorge Vega",
-      "titulo": "ANSeS: Montos Asignaciones familiares - NOVIEMBRE 2026",
-      "url": "https://jorgevega.com.ar/laboral/284-asignaciones-familiares-anses-2026-noviembre.html",
-      "detectado": "2026-10-28T17:29:06.608Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-12-claves-del-acuerdo-salarial-de-octubre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: 12 claves del acuerdo salarial de octubre 2026",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-12-claves-del-acuerdo-salarial-de-octubre-2026/",
-      "detectado": "2026-10-28T17:29:07.528Z"
     }
   ]
 }
