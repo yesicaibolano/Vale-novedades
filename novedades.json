@@ -1,6 +1,76 @@
 {
-  "actualizado": "2026-10-30T11:44:14.800Z",
+  "actualizado": "2026-10-30T17:18:40.805Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/por-que-brindar-una-cobertura-medica-de-calidad-tambien-es-una-inversion-para-tu-equipo/",
+      "sitio": "Ignacio Online",
+      "titulo": "Por qué brindar una cobertura médica de calidad también es una inversión para tu equipo.",
+      "url": "https://www.ignacioonline.com.ar/por-que-brindar-una-cobertura-medica-de-calidad-tambien-es-una-inversion-para-tu-equipo/",
+      "detectado": "2026-10-30T17:18:36.261Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/smata-acara-escalas-salariales-de-octubre-noviembre-y-diciembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "SMATA–ACARA: escalas salariales de octubre, noviembre y diciembre 2026",
+      "url": "https://www.ignacioonline.com.ar/smata-acara-escalas-salariales-de-octubre-noviembre-y-diciembre-2026/",
+      "detectado": "2026-10-30T17:18:36.261Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16035-arca-dispuso-nuevas-prorrogas-para-ganancias-y-planes-de-facilidades-de-pago",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA dispuso nuevas prórrogas para Ganancias y planes de facilidades de pago",
+      "url": "https://www.cpba.com.ar/noticias/item/16035-arca-dispuso-nuevas-prorrogas-para-ganancias-y-planes-de-facilidades-de-pago",
+      "detectado": "2026-10-30T17:18:39.469Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16034-el-consejo-dijo-presente-en-la-xi-cumbre-de-las-americas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo dijo presente en la XI Cumbre de las Américas",
+      "url": "https://www.cpba.com.ar/noticias/item/16034-el-consejo-dijo-presente-en-la-xi-cumbre-de-las-americas",
+      "detectado": "2026-10-30T17:18:39.469Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16033-ahora-en-repro-innovacion-en-ciencias-economicas-como-anticiparse-al-cambio",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Innovación en Ciencias Económicas: Cómo anticiparse al cambio",
+      "url": "https://www.cpba.com.ar/noticias/item/16033-ahora-en-repro-innovacion-en-ciencias-economicas-como-anticiparse-al-cambio",
+      "detectado": "2026-10-30T17:18:39.469Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/luz-gas-aumentan-noviembre-amba-otra-vez-encima-inflacion-202610308500",
+      "sitio": "El Destape",
+      "titulo": "Luz y gas aumentan en noviembre en el AMBA, otra vez por encima de la inflación",
+      "url": "https://www.eldestapeweb.com/economia/luz-gas-aumentan-noviembre-amba-otra-vez-encima-inflacion-202610308500",
+      "detectado": "2026-10-30T17:18:40.351Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/mercados-financieros",
+      "sitio": "El Destape",
+      "titulo": "Mercados financieros",
+      "url": "https://www.eldestapeweb.com/tag/mercados-financieros",
+      "detectado": "2026-10-30T17:18:40.351Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-mundial-petroleo-supera-us-116-desploman-bolsas-20261030115346",
+      "sitio": "El Destape",
+      "titulo": "Los ataques en Ormuz y el hackeo a Binance provocaron un nuevo desplome financiero mundial",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-mundial-petroleo-supera-us-116-desploman-bolsas-20261030115346",
+      "detectado": "2026-10-30T17:18:40.351Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
+      "sitio": "El Destape",
+      "titulo": "La inflación no baja y volvió a rondar el 2% en octubre",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
+      "detectado": "2026-10-30T17:18:40.351Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/feliz-navidad-redes-recuerdan-diego-maradona-dia-cumpleanos-20261030105056",
+      "sitio": "El Destape",
+      "titulo": "Feliz Navidad: las redes recuerdan a Diego Maradona en el día de su cumpleaños",
+      "url": "https://www.eldestapeweb.com/deportes/feliz-navidad-redes-recuerdan-diego-maradona-dia-cumpleanos-20261030105056",
+      "detectado": "2026-10-30T17:18:40.351Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/se-extiende-plan-de-facilidades-para-sector-salud-mipymes-y-entidades-sin-fines-de-lucro/",
       "sitio": "Contadores en Red",
@@ -350,76 +420,6 @@
       "titulo": "Empleados de Comercio: 12 claves del acuerdo salarial de octubre 2026",
       "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-12-claves-del-acuerdo-salarial-de-octubre-2026/",
       "detectado": "2026-10-28T17:29:07.528Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/montos-asignaciones-familiares-noviembre-2026-anses/",
-      "sitio": "Ignacio Online",
-      "titulo": "Montos Asignaciones Familiares noviembre 2026 ANSeS",
-      "url": "https://www.ignacioonline.com.ar/montos-asignaciones-familiares-noviembre-2026-anses/",
-      "detectado": "2026-10-28T17:29:07.528Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16031-entrega-de-medallas-en-la-delegacion-mercedes",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Entrega de medallas en la Delegación Mercedes",
-      "url": "https://www.cpba.com.ar/noticias/item/16031-entrega-de-medallas-en-la-delegacion-mercedes",
-      "detectado": "2026-10-28T17:29:12.406Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/investigacion-exclusiva-raul-jalil-decreto-pagos-1773-millones-clinicas-privadas-2026-202610289143",
-      "sitio": "El Destape",
-      "titulo": "Jalil decretó pagos por $1773 millones para sus clínicas en 2026",
-      "url": "https://www.eldestapeweb.com/politica/investigacion-exclusiva-raul-jalil-decreto-pagos-1773-millones-clinicas-privadas-2026-202610289143",
-      "detectado": "2026-10-28T17:29:14.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fuga-flavio-bolsonaro-senador-llego-estados-unidos-paso-argentina-20261028104647",
-      "sitio": "El Destape",
-      "titulo": "Flávio Bolsonaro llegó a Miami tras su paso por Argentina",
-      "url": "https://www.eldestapeweb.com/internacionales/fuga-flavio-bolsonaro-senador-llego-estados-unidos-paso-argentina-20261028104647",
-      "detectado": "2026-10-28T17:29:14.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/aumento-salarios-2026-empresas-dicidieron-pasara-sueldos-diciembre-les-ira-inflacion-20261028124459",
-      "sitio": "El Destape",
-      "titulo": "Las empresas planean cerrar el año con un aumento salarial por debajo de la inflación",
-      "url": "https://www.eldestapeweb.com/economia/aumento-salarios-2026-empresas-dicidieron-pasara-sueldos-diciembre-les-ira-inflacion-20261028124459",
-      "detectado": "2026-10-28T17:29:14.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fugo-flavio-bolsonaro-argentina-pista-avion-destapo-grave-sospecha-gobierno-20261028101016",
-      "sitio": "El Destape",
-      "titulo": "Escándalo: el Congreso denuncia al Gobierno de Milei por la fuga de Bolsonaro",
-      "url": "https://www.eldestapeweb.com/politica/fugo-flavio-bolsonaro-argentina-pista-avion-destapo-grave-sospecha-gobierno-20261028101016",
-      "detectado": "2026-10-28T17:29:14.054Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cgt-prepara-miniparo-antes-fin-ano-2026102874119",
-      "sitio": "El Destape",
-      "titulo": "La CGT prepara un \"miniparo\" para antes de fin de año",
-      "url": "https://www.eldestapeweb.com/politica/cgt-prepara-miniparo-antes-fin-ano-2026102874119",
-      "detectado": "2026-10-28T17:29:14.054Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fondos-comunes-de-inversion-de-dinero-deberan-mostrar-su-variacion-en-los-ultimos-7-dias/",
-      "sitio": "Contadores en Red",
-      "titulo": "Fondos Comunes de Inversión de dinero deberán mostrar su variación en los últimos 7 días.",
-      "url": "https://contadoresenred.com/fondos-comunes-de-inversion-de-dinero-deberan-mostrar-su-variacion-en-los-ultimos-7-dias/",
-      "detectado": "2026-10-28T11:43:33.545Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/base-imponible-sipa-noviembre-2026-minima-y-maxima/",
-      "sitio": "Contadores en Red",
-      "titulo": "Base Imponible SIPA Noviembre 2026 Mínima y máxima",
-      "url": "https://contadoresenred.com/base-imponible-sipa-noviembre-2026-minima-y-maxima/",
-      "detectado": "2026-10-28T11:43:33.546Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/noviembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "sitio": "Ignacio Online",
-      "titulo": "Noviembre 2026: Aportes y Contribuciones | Base Imponible Máxima y Mínima",
-      "url": "https://www.ignacioonline.com.ar/noviembre-2026-aportes-y-contribuciones-base-imponible-maxima-y-minima/",
-      "detectado": "2026-10-28T11:44:24.187Z"
     }
   ]
 }
