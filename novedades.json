@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-31T02:54:23.563Z",
+  "actualizado": "2026-10-31T11:17:53.510Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/informe-uba-conicet-advierte-nueva-recesion-ocurre-shock-externo-devaluacion-20261030232515",
+      "sitio": "El Destape",
+      "titulo": "Recesión sin excusas externas: el modelo Milei empieza a mostrar sus límites",
+      "url": "https://www.eldestapeweb.com/economia/informe-uba-conicet-advierte-nueva-recesion-ocurre-shock-externo-devaluacion-20261030232515",
+      "detectado": "2026-10-31T11:17:53.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-10-31T11:17:53.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-10-31T11:17:53.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-no-va-echar-bullrich-milei-ve-lula-version-oculta-santiago-caputo-20261030232348",
+      "sitio": "El Destape",
+      "titulo": "Karina no la va a echar a Bullrich, Milei se ve con Lula y la versión oculta sobre Caputo",
+      "url": "https://www.eldestapeweb.com/politica/karina-no-va-echar-bullrich-milei-ve-lula-version-oculta-santiago-caputo-20261030232348",
+      "detectado": "2026-10-31T11:17:53.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/juega-donald-trump-elecciones-intermedias-20261030232237",
+      "sitio": "El Destape",
+      "titulo": "¿Qué se juega Donald Trump en las elecciones intermedias?",
+      "url": "https://www.eldestapeweb.com/internacionales/juega-donald-trump-elecciones-intermedias-20261030232237",
+      "detectado": "2026-10-31T11:17:53.232Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-octubre-2026-con-aumento/",
       "sitio": "Ignacio Online",
@@ -359,13 +394,6 @@
       "detectado": "2026-10-29T11:51:23.105Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-10-29T11:51:23.105Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/bolsonaro-gate-agita-congreso-complica-agenda-gobierno-202610290526",
       "sitio": "El Destape",
       "titulo": "El Bolsonaro-gate agita el Congreso y complica la agenda del Gobierno",
@@ -392,34 +420,6 @@
       "titulo": "Por Fernando Alonso",
       "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-10-29T03:03:41.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/actividad-economica",
-      "sitio": "El Destape",
-      "titulo": "Actividad económica",
-      "url": "https://www.eldestapeweb.com/tag/actividad-economica",
-      "detectado": "2026-10-29T03:03:41.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-mantiene-meta-superavit-mete-presion-gobierno-20261028214921",
-      "sitio": "El Destape",
-      "titulo": "El FMI mantiene su meta de superávit y mete presión al Gobierno",
-      "url": "https://www.eldestapeweb.com/economia/fmi-mantiene-meta-superavit-mete-presion-gobierno-20261028214921",
-      "detectado": "2026-10-29T03:03:41.087Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-hablo-flavio-bolsonaro-denuncio-fue-tratado-forma-injusta-brasil-2026102820553",
-      "sitio": "El Destape",
-      "titulo": "Trump, sobre la llegada de Bolsonaro a EE.UU.: \"No me voy a involucrar\"",
-      "url": "https://www.eldestapeweb.com/internacionales/trump-hablo-flavio-bolsonaro-denuncio-fue-tratado-forma-injusta-brasil-2026102820553",
-      "detectado": "2026-10-29T03:03:41.087Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "Calculadora de Sueldos para Empleados de Comercio (Convenio 130/75) - CON ACUERDO DE FECHA 27-10-2026",
-      "url": "https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
-      "detectado": "2026-10-28T21:56:10.563Z"
     }
   ]
 }
