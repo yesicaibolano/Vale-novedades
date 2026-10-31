@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-30T21:43:34.610Z",
+  "actualizado": "2026-10-31T02:54:23.563Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-octubre-2026-con-aumento/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: liquidación octubre 2026 (con aumento)",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-octubre-2026-con-aumento/",
+      "detectado": "2026-10-31T02:54:18.220Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/cuantos-dolares-compraron-argentinos-gobierno-dato-le-mete-presion-milei-1-ano-elecciones-20261030185247",
+      "sitio": "El Destape",
+      "titulo": "Los argentinos presionan a Caputo y compraron U$S 3.400 millones en septiembre",
+      "url": "https://www.eldestapeweb.com/economia/cuantos-dolares-compraron-argentinos-gobierno-dato-le-mete-presion-milei-1-ano-elecciones-20261030185247",
+      "detectado": "2026-10-31T02:54:23.062Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Estados Unidos",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "detectado": "2026-10-31T02:54:23.062Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-pierde-ee-uu-democratas-ganarian-parlamento-tendrian-mejor-eleccion-2009-20261030172021",
+      "sitio": "El Destape",
+      "titulo": "Trump, complicado: los demócratas podrían tener su mejor elección desde 2009",
+      "url": "https://www.eldestapeweb.com/internacionales/trump-pierde-ee-uu-democratas-ganarian-parlamento-tendrian-mejor-eleccion-2009-20261030172021",
+      "detectado": "2026-10-31T02:54:23.062Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
+      "sitio": "El Destape",
+      "titulo": "La inflación no baja y volvió a rondar el 2% en octubre",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
+      "detectado": "2026-10-31T02:54:23.062Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
       "sitio": "El Destape",
@@ -90,13 +125,6 @@
       "sitio": "El Destape",
       "titulo": "Los ataques en Ormuz y el hackeo a Binance provocaron un nuevo desplome financiero mundial",
       "url": "https://www.eldestapeweb.com/economia/crisis-financiera-mundial-petroleo-supera-us-116-desploman-bolsas-20261030115346",
-      "detectado": "2026-10-30T17:18:40.351Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
-      "sitio": "El Destape",
-      "titulo": "La inflación no baja y volvió a rondar el 2% en octubre",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
       "detectado": "2026-10-30T17:18:40.351Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Calculadora de Sueldos para Empleados de Comercio (Convenio 130/75) - CON ACUERDO DE FECHA 27-10-2026",
       "url": "https://jorgevega.com.ar/laboral/71-calculadora-sueldos-empleados-comercio-octubre-2026.html",
       "detectado": "2026-10-28T21:56:10.563Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-escalas-salariales-oficiales-octubre-a-diciembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: escalas salariales oficiales Octubre a Diciembre 2026",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-escalas-salariales-oficiales-octubre-a-diciembre-2026/",
-      "detectado": "2026-10-28T21:56:11.637Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-asume-verdadero-presidente-agradecio-ayuda-milei-20261028173219",
-      "sitio": "El Destape",
-      "titulo": "Bolsonaro se autoproclamó \"líder de Brasil\" y agradeció la ayuda de Trump y Milei",
-      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-asume-verdadero-presidente-agradecio-ayuda-milei-20261028173219",
-      "detectado": "2026-10-28T21:56:17.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trolls-internas-seguridad-nexo-ee-uu-detalles-silencioso-operativo-casa-rosada-fuga-bolsonaro-20261028152840",
-      "sitio": "El Destape",
-      "titulo": "Apoyo total del Gobierno a Caputo por la fuga de Bolsonaro y hay ruido con Monteoliva",
-      "url": "https://www.eldestapeweb.com/politica/trolls-internas-seguridad-nexo-ee-uu-detalles-silencioso-operativo-casa-rosada-fuga-bolsonaro-20261028152840",
-      "detectado": "2026-10-28T21:56:17.557Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/salieron-luz-oscuros-nexos-aerolinea-saco-flavio-bolsonaro-pais-caso-corrupcion-andis-milei-20261028161338",
-      "sitio": "El Destape",
-      "titulo": "Los nexos de la empresa en la que voló Flavio Bolsonaro con la corrupción de ANDIS",
-      "url": "https://www.eldestapeweb.com/politica/salieron-luz-oscuros-nexos-aerolinea-saco-flavio-bolsonaro-pais-caso-corrupcion-andis-milei-20261028161338",
-      "detectado": "2026-10-28T21:56:17.557Z"
     }
   ]
 }
