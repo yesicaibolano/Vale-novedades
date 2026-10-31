@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-31T16:23:17.825Z",
+  "actualizado": "2026-10-31T20:43:24.024Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sube-presion-libertaria-destituir-juez-freno-reforma-laboral-20261031161754",
+      "sitio": "El Destape",
+      "titulo": "Más presión libertaria para destituir al juez que frenó la reforma laboral",
+      "url": "https://www.eldestapeweb.com/politica/sube-presion-libertaria-destituir-juez-freno-reforma-laboral-20261031161754",
+      "detectado": "2026-10-31T20:43:23.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
+      "sitio": "El Destape",
+      "titulo": "Por Mariano Martín",
+      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
+      "detectado": "2026-10-31T20:43:23.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/pais-vaca-muerta-vende-cada-vez-menos-nafta-mercado-interno-2026103114400",
+      "sitio": "El Destape",
+      "titulo": "En el país de Vaca Muerta, se vende cada vez menos nafta en el mercado interno",
+      "url": "https://www.eldestapeweb.com/economia/pais-vaca-muerta-vende-cada-vez-menos-nafta-mercado-interno-2026103114400",
+      "detectado": "2026-10-31T20:43:23.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "sitio": "El Destape",
+      "titulo": "Por Sebastián Premici",
+      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
+      "detectado": "2026-10-31T20:43:23.560Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/interna-libertaria",
+      "sitio": "El Destape",
+      "titulo": "Interna libertaria",
+      "url": "https://www.eldestapeweb.com/tag/interna-libertaria",
+      "detectado": "2026-10-31T20:43:23.560Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-nuevas-canciones-axel-afina-banda-pejotista-milei-ruido-bullrich-202610310539",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "La inversión volvió a desplomarse en septiembre y cayó más de 7% en el año",
       "url": "https://www.eldestapeweb.com/economia/inversion-volvio-desplomarse-septiembre-cayo-7-ano-20261029101616",
       "detectado": "2026-10-29T17:39:55.969Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/oficial-cambio-formato-futbol-argentino-2027-chau-dos-zonas-todos-todos-2026102913323",
-      "sitio": "El Destape",
-      "titulo": "Oficial: cambió el formato de Primera, adiós a las zonas y todos contra todos",
-      "url": "https://www.eldestapeweb.com/deportes/oficial-cambio-formato-futbol-argentino-2027-chau-dos-zonas-todos-todos-2026102913323",
-      "detectado": "2026-10-29T17:39:55.969Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-10-29T17:39:55.969Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-29-octubre-minuto-minuto-2026102965656",
-      "sitio": "El Destape",
-      "titulo": "Hay quórum: inició la sesión en el Senado",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-29-octubre-minuto-minuto-2026102965656",
-      "detectado": "2026-10-29T17:39:55.969Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/apertura-importaciones-ingreso-bienes-consumo-supero-niveles-macrismo-golpea-industria-nacional-202610290526",
-      "sitio": "El Destape",
-      "titulo": "Importaciones récord: los bienes finales ya superan el promedio de Macri y Fernández",
-      "url": "https://www.eldestapeweb.com/economia/apertura-importaciones-ingreso-bienes-consumo-supero-niveles-macrismo-golpea-industria-nacional-202610290526",
-      "detectado": "2026-10-29T11:51:23.105Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bolsonaro-gate-agita-congreso-complica-agenda-gobierno-202610290526",
-      "sitio": "El Destape",
-      "titulo": "El Bolsonaro-gate agita el Congreso y complica la agenda del Gobierno",
-      "url": "https://www.eldestapeweb.com/politica/bolsonaro-gate-agita-congreso-complica-agenda-gobierno-202610290526",
-      "detectado": "2026-10-29T11:51:23.105Z"
     }
   ]
 }
