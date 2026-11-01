@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-01T12:08:14.411Z",
+  "actualizado": "2026-11-01T21:24:49.644Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/incertidumbre-economica-bajos-salarios-desempleo-preocupa-argentinos-2026111174542",
+      "sitio": "El Destape",
+      "titulo": "Incertidumbre económica, bajos salarios y desempleo: lo que más preocupa a los argentinos",
+      "url": "https://www.eldestapeweb.com/economia/incertidumbre-economica-bajos-salarios-desempleo-preocupa-argentinos-2026111174542",
+      "detectado": "2026-11-01T21:24:49.182Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-boca-victoria-river-superclasico-2026111171029",
+      "sitio": "El Destape",
+      "titulo": "Uno por uno: los puntajes de los jugadores de Boca en la victoria ante River",
+      "url": "https://www.eldestapeweb.com/deportes/uno-uno-puntajes-jugadores-boca-victoria-river-superclasico-2026111171029",
+      "detectado": "2026-11-01T21:24:49.182Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Lamas",
+      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
+      "detectado": "2026-11-01T21:24:49.182Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/estrategia-trump-si-pierde-mayoria-elecciones-sere-senor-veto-2026111163845",
+      "sitio": "El Destape",
+      "titulo": "La estrategia de Trump si pierde la mayoría en las elecciones: \"Seré el señor Veto\"",
+      "url": "https://www.eldestapeweb.com/internacionales/estrategia-trump-si-pierde-mayoria-elecciones-sere-senor-veto-2026111163845",
+      "detectado": "2026-11-01T21:24:49.182Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/kicillof-ratifica-apuesta-paso-agita-discusion-peronismo-20261110537",
+      "sitio": "El Destape",
+      "titulo": "Kicillof ratifica su apuesta a las PASO y agita la discusión en el peronismo",
+      "url": "https://www.eldestapeweb.com/politica/kicillof-ratifica-apuesta-paso-agita-discusion-peronismo-20261110537",
+      "detectado": "2026-11-01T21:24:49.182Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/etapa-abre-lula-tercerizados-cia-orden-ganarle-derecha-20261110536",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "El peronismo pidió investigar si la SIDE participó de la fuga de Bolsonaro por Argentina",
       "url": "https://www.eldestapeweb.com/politica/peronismo-pidio-investigar-si-side-participo-fuga-flavio-bolsonaro-argentina-2026102917401",
       "detectado": "2026-10-29T22:05:12.747Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/escenario-elecciones-estados-unidos-preocupa-milei-podria-llevar-riesgo-pais-900-puntos-20261029154956",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en EE.UU.",
-      "url": "https://www.eldestapeweb.com/politica/escenario-elecciones-estados-unidos-preocupa-milei-podria-llevar-riesgo-pais-900-puntos-20261029154956",
-      "detectado": "2026-10-29T22:05:12.747Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-10-29T22:05:12.747Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/choques-trenes-brasil-confirmo-muerte-argentino-agustin-randazzo-2026102918359",
-      "sitio": "El Destape",
-      "titulo": "Choques de trenes en Brasil: se confirmó la muerte del argentino Agustín Randazzo",
-      "url": "https://www.eldestapeweb.com/sociedad/choques-trenes-brasil-confirmo-muerte-argentino-agustin-randazzo-2026102918359",
-      "detectado": "2026-10-29T22:05:12.747Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/bcra-cayo-actividad-economica-crece-riesgo-inflacion-20261029142452",
-      "sitio": "El Destape",
-      "titulo": "Un informe del BCRA confirmó caída de la actividad y alertó por impacto de la inflación",
-      "url": "https://www.eldestapeweb.com/economia/bcra-cayo-actividad-economica-crece-riesgo-inflacion-20261029142452",
-      "detectado": "2026-10-29T22:05:12.747Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
-      "sitio": "Contadores en Red",
-      "titulo": "CNV: prorrogan hasta el 13 de noviembre la presentación de estados financieros / estados contables",
-      "url": "https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
-      "detectado": "2026-10-29T17:39:50.826Z"
     }
   ]
 }
