@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-11-01T02:47:21.052Z",
+  "actualizado": "2026-11-01T12:08:14.411Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/etapa-abre-lula-tercerizados-cia-orden-ganarle-derecha-20261110536",
+      "sitio": "El Destape",
+      "titulo": "La etapa que abre Lula, los tercerizados de la CIA y el orden para ganarle a la derecha",
+      "url": "https://www.eldestapeweb.com/politica/etapa-abre-lula-tercerizados-cia-orden-ganarle-derecha-20261110536",
+      "detectado": "2026-11-01T12:08:14.129Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/plan-economico-alternativo-milei-20261110536",
+      "sitio": "El Destape",
+      "titulo": "Exclusivo: un programa alternativo",
+      "url": "https://www.eldestapeweb.com/economia/plan-economico-alternativo-milei-20261110536",
+      "detectado": "2026-11-01T12:08:14.129Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Estados Unidos",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "detectado": "2026-11-01T12:08:14.129Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/golpe-podria-frenar-agenda-donald-trump-region-detalle-desvela-casa-blanca-20261031201732",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en EE. UU.: Trump se juega su mayoría en el Congreso en medio de internas",
+      "url": "https://www.eldestapeweb.com/internacionales/golpe-podria-frenar-agenda-donald-trump-region-detalle-desvela-casa-blanca-20261031201732",
+      "detectado": "2026-11-01T12:08:14.129Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-tambalea-futuro-depende-impredecible-trump-20261031213036",
       "sitio": "El Destape",
@@ -139,13 +167,6 @@
       "sitio": "El Destape",
       "titulo": "Los argentinos presionan a Caputo y compraron U$S 3.400 millones en septiembre",
       "url": "https://www.eldestapeweb.com/economia/cuantos-dolares-compraron-argentinos-gobierno-dato-le-mete-presion-milei-1-ano-elecciones-20261030185247",
-      "detectado": "2026-10-31T02:54:23.062Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Estados Unidos",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
       "detectado": "2026-10-31T02:54:23.062Z"
     },
     {
@@ -398,27 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "CNV: prorrogan hasta el 13 de noviembre la presentación de estados financieros / estados contables",
       "url": "https://contadoresenred.com/cnv-prorrogan-hasta-el-13-de-noviembre-la-presentacion-de-estados-financieros/",
-      "detectado": "2026-10-29T17:39:50.826Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/acuerdos-contra-el-contrabando-las-plataformas-aportaran-informacion-para-cruces-con-arca/",
-      "sitio": "Contadores en Red",
-      "titulo": "Acuerdos contra el contrabando: las plataformas aportarán información para cruces con ARCA",
-      "url": "https://contadoresenred.com/acuerdos-contra-el-contrabando-las-plataformas-aportaran-informacion-para-cruces-con-arca/",
-      "detectado": "2026-10-29T17:39:50.826Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/cnv-regimen-de-presentacion-de-informacion-por-la-autopista-de-la-informacion-financiera-aif/",
-      "sitio": "Contadores en Red",
-      "titulo": "CNV: Régimen de presentación de información por la Autopista de la Información Financiera (AIF)",
-      "url": "https://contadoresenred.com/cnv-regimen-de-presentacion-de-informacion-por-la-autopista-de-la-informacion-financiera-aif/",
-      "detectado": "2026-10-29T17:39:50.826Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/factura-de-credito-electronico-mantiene-plazos-de-21-dias-corridos-hasta-octubre-2027/",
-      "sitio": "Contadores en Red",
-      "titulo": "Factura de Crédito Electrónico mantiene plazos de 21 días corridos hasta octubre 2027",
-      "url": "https://contadoresenred.com/factura-de-credito-electronico-mantiene-plazos-de-21-dias-corridos-hasta-octubre-2027/",
       "detectado": "2026-10-29T17:39:50.826Z"
     }
   ]
