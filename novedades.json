@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-10-31T20:43:24.024Z",
+  "actualizado": "2026-11-01T02:47:21.052Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-tambalea-futuro-depende-impredecible-trump-20261031213036",
+      "sitio": "El Destape",
+      "titulo": "Milei tambalea y su futuro depende de un impredecible Trump",
+      "url": "https://www.eldestapeweb.com/politica/milei-tambalea-futuro-depende-impredecible-trump-20261031213036",
+      "detectado": "2026-11-01T02:47:20.563Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-11-01T02:47:20.563Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/libra-hechos-fiscalia-anticorrupcion-destaco-deben-profundizar-complican-milei-20261031191339",
+      "sitio": "El Destape",
+      "titulo": "$LIBRA: los hechos que la PIA destacó que se deben profundizar y complican a Milei",
+      "url": "https://www.eldestapeweb.com/politica/libra-hechos-fiscalia-anticorrupcion-destaco-deben-profundizar-complican-milei-20261031191339",
+      "detectado": "2026-11-01T02:47:20.563Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "sitio": "El Destape",
+      "titulo": "Por Franco Mizrahi",
+      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
+      "detectado": "2026-11-01T02:47:20.563Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/pavada-ulises-verdaderas-zonceras-libertarias-20261031231324",
+      "sitio": "El Destape",
+      "titulo": "La pavada de Ulises y las verdaderas zonceras libertarias",
+      "url": "https://www.eldestapeweb.com/opinion/pavada-ulises-verdaderas-zonceras-libertarias-20261031231324",
+      "detectado": "2026-11-01T02:47:20.563Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/sube-presion-libertaria-destituir-juez-freno-reforma-laboral-20261031161754",
       "sitio": "El Destape",
@@ -132,13 +167,6 @@
       "sitio": "El Destape",
       "titulo": "$LIBRA: la PIA hizo lugar al pedido de las ONG y solicitó reabrir la causa",
       "url": "https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
-      "detectado": "2026-10-30T21:43:34.154Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
       "detectado": "2026-10-30T21:43:34.154Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Factura de Crédito Electrónico mantiene plazos de 21 días corridos hasta octubre 2027",
       "url": "https://contadoresenred.com/factura-de-credito-electronico-mantiene-plazos-de-21-dias-corridos-hasta-octubre-2027/",
       "detectado": "2026-10-29T17:39:50.826Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16032-prevencion-del-la-ft-fp-informe-del-revisor-externo-independiente-improcedencia-de-su-legalizacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Prevención del LA/FT/FP - Informe del Revisor Externo Independiente: Improcedencia de su legalización",
-      "url": "https://www.cpba.com.ar/noticias/item/16032-prevencion-del-la-ft-fp-informe-del-revisor-externo-independiente-improcedencia-de-su-legalizacion",
-      "detectado": "2026-10-29T17:39:54.471Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Impulsá tu jubilación: Elegí tu escala de aportes para 2027",
-      "url": "https://www.cpba.com.ar/noticias/item/15962-impulsa-tu-jubilacion-elegi-tu-escala-de-aportes-para-2027",
-      "detectado": "2026-10-29T17:39:54.471Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/medio-virtual-recesion-fmi-le-pidio-crecimiento-gobierno-2026102912938",
-      "sitio": "El Destape",
-      "titulo": "El FMI cuestionó al Gobierno por el empleo y el crecimiento de la economía",
-      "url": "https://www.eldestapeweb.com/economia/medio-virtual-recesion-fmi-le-pidio-crecimiento-gobierno-2026102912938",
-      "detectado": "2026-10-29T17:39:55.969Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inversion-volvio-desplomarse-septiembre-cayo-7-ano-20261029101616",
-      "sitio": "El Destape",
-      "titulo": "La inversión volvió a desplomarse en septiembre y cayó más de 7% en el año",
-      "url": "https://www.eldestapeweb.com/economia/inversion-volvio-desplomarse-septiembre-cayo-7-ano-20261029101616",
-      "detectado": "2026-10-29T17:39:55.969Z"
     }
   ]
 }
