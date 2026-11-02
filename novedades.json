@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-11-01T21:24:49.644Z",
+  "actualizado": "2026-11-02T02:55:44.453Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reclama-aportes-a-colegios-privados-conflicto-con-el-ips-y-dudas-sobre-el-fal/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA reclama aportes a colegios privados: conflicto con el IPS y dudas sobre el FAL",
+      "url": "https://www.ignacioonline.com.ar/arca-reclama-aportes-a-colegios-privados-conflicto-con-el-ips-y-dudas-sobre-el-fal/",
+      "detectado": "2026-11-02T02:55:39.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-argentina-debe-pagar-usd-860-millones-organismo-frena-desembolso-clave-2026111221848",
+      "sitio": "El Destape",
+      "titulo": "Vencen USD860 millones con el FMI mientras se demora el nuevo desembolso",
+      "url": "https://www.eldestapeweb.com/economia/fmi-argentina-debe-pagar-usd-860-millones-organismo-frena-desembolso-clave-2026111221848",
+      "detectado": "2026-11-02T02:55:44.010Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-reaparecio-ee-uu-ataco-globo-justifico-fuga-brasil-acusando-persecucion-judicial-202611120388",
+      "sitio": "El Destape",
+      "titulo": "Ahora Bolsonaro atacó a \"Globo\" y denunció \"persecución judicial\" desde Estados Unidos",
+      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-reaparecio-ee-uu-ataco-globo-justifico-fuga-brasil-acusando-persecucion-judicial-202611120388",
+      "detectado": "2026-11-02T02:55:44.010Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/operativo-emergencia-ezeiza-turistas-extranjeros-intoxicados-llegar-crucero-ushuaia-2026111195424",
+      "sitio": "El Destape",
+      "titulo": "Ezeiza: se intoxicó un grupo de turistas que subió a un avión tras bajar de un crucero",
+      "url": "https://www.eldestapeweb.com/sociedad/operativo-emergencia-ezeiza-turistas-extranjeros-intoxicados-llegar-crucero-ushuaia-2026111195424",
+      "detectado": "2026-11-02T02:55:44.010Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/incertidumbre-economica-bajos-salarios-desempleo-preocupa-argentinos-2026111174542",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "Los gobernadores dialoguistas volvieron a alinearse detrás de Karina, Santilli y Caputo",
       "url": "https://www.eldestapeweb.com/politica/gobernadores-dialoguistas-volvieron-alinearse-detras-karina-santilli-caputo-202610300514",
       "detectado": "2026-10-30T03:08:25.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-10-30T03:08:25.541Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/banco-central-admitio-recesion-dio-pistas-donde-esta-oro-20261029213811",
-      "sitio": "El Destape",
-      "titulo": "El Banco Central admitió la recesión y dio pistas sobre dónde está el oro",
-      "url": "https://www.eldestapeweb.com/economia/banco-central-admitio-recesion-dio-pistas-donde-esta-oro-20261029213811",
-      "detectado": "2026-10-30T03:08:25.541Z"
-    },
-    {
-      "id": "jorgevega|https://jorgevega.com.ar/laboral/473-inacap-contribucion-2026.html",
-      "sitio": "Jorge Vega",
-      "titulo": "INACAP: contribución vigente hasta Diciembre 2026",
-      "url": "https://jorgevega.com.ar/laboral/473-inacap-contribucion-2026.html",
-      "detectado": "2026-10-29T22:05:06.258Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/peronismo-pidio-investigar-si-side-participo-fuga-flavio-bolsonaro-argentina-2026102917401",
-      "sitio": "El Destape",
-      "titulo": "El peronismo pidió investigar si la SIDE participó de la fuga de Bolsonaro por Argentina",
-      "url": "https://www.eldestapeweb.com/politica/peronismo-pidio-investigar-si-side-participo-fuga-flavio-bolsonaro-argentina-2026102917401",
-      "detectado": "2026-10-29T22:05:12.747Z"
     }
   ]
 }
