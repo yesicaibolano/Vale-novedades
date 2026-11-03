@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-11-03T13:05:53.436Z",
+  "actualizado": "2026-11-03T22:37:27.310Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo dio la bienvenida a sus nuevos matriculados",
+      "url": "https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
+      "detectado": "2026-11-03T22:37:25.335Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16037-ahora-en-repro-como-funciona-el-fondo-de-asistencia-laboral-y-que-implica-para-las-empresas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Cómo funciona el Fondo de Asistencia Laboral y qué implica para…",
+      "url": "https://www.cpba.com.ar/noticias/item/16037-ahora-en-repro-como-funciona-el-fondo-de-asistencia-laboral-y-que-implica-para-las-empresas",
+      "detectado": "2026-11-03T22:37:25.335Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/oposicion-iglesia-presionan-gobierno-senado-aprobar-ley-ludopatia-antes-llegada-papa-leon-xiv-2026113182140",
+      "sitio": "El Destape",
+      "titulo": "A días de la llegada de León XIV, piden a LLA que active el proyecto de ludopatía",
+      "url": "https://www.eldestapeweb.com/politica/oposicion-iglesia-presionan-gobierno-senado-aprobar-ley-ludopatia-antes-llegada-papa-leon-xiv-2026113182140",
+      "detectado": "2026-11-03T22:37:26.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-03T22:37:26.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-milei-suspendio-mesa-politica-casa-rosada-patricia-bullrich-aprovecho-mostrar-fuerza-equipo-propio-202611315590",
+      "sitio": "El Destape",
+      "titulo": "Karina suspendió la mesa política y Bullrich aprovechó y mostró una sugestiva foto",
+      "url": "https://www.eldestapeweb.com/politica/karina-milei-suspendio-mesa-politica-casa-rosada-patricia-bullrich-aprovecho-mostrar-fuerza-equipo-propio-202611315590",
+      "detectado": "2026-11-03T22:37:26.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dolar-2-026-2027-riesgo-pais-maximo-anual-senal-mercado-falta-dolares-recesion-2026113184828",
+      "sitio": "El Destape",
+      "titulo": "El mercado prueba al BCRA para sacarle cobertura pos electoral",
+      "url": "https://www.eldestapeweb.com/economia/dolar-2-026-2027-riesgo-pais-maximo-anual-senal-mercado-falta-dolares-recesion-2026113184828",
+      "detectado": "2026-11-03T22:37:26.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-11-03T22:37:26.962Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/uif-regimen-especifico-de-antecedente-favorable-para-adheridos-a-ganancias-simplificada/",
       "sitio": "Contadores en Red",
@@ -371,55 +420,6 @@
       "titulo": "Karina no la va a echar a Bullrich, Milei se ve con Lula y la versión oculta sobre Caputo",
       "url": "https://www.eldestapeweb.com/politica/karina-no-va-echar-bullrich-milei-ve-lula-version-oculta-santiago-caputo-20261030232348",
       "detectado": "2026-10-31T11:17:53.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/juega-donald-trump-elecciones-intermedias-20261030232237",
-      "sitio": "El Destape",
-      "titulo": "¿Qué se juega Donald Trump en las elecciones intermedias?",
-      "url": "https://www.eldestapeweb.com/internacionales/juega-donald-trump-elecciones-intermedias-20261030232237",
-      "detectado": "2026-10-31T11:17:53.232Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-octubre-2026-con-aumento/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: liquidación octubre 2026 (con aumento)",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-octubre-2026-con-aumento/",
-      "detectado": "2026-10-31T02:54:18.220Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/cuantos-dolares-compraron-argentinos-gobierno-dato-le-mete-presion-milei-1-ano-elecciones-20261030185247",
-      "sitio": "El Destape",
-      "titulo": "Los argentinos presionan a Caputo y compraron U$S 3.400 millones en septiembre",
-      "url": "https://www.eldestapeweb.com/economia/cuantos-dolares-compraron-argentinos-gobierno-dato-le-mete-presion-milei-1-ano-elecciones-20261030185247",
-      "detectado": "2026-10-31T02:54:23.062Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/trump-pierde-ee-uu-democratas-ganarian-parlamento-tendrian-mejor-eleccion-2009-20261030172021",
-      "sitio": "El Destape",
-      "titulo": "Trump, complicado: los demócratas podrían tener su mejor elección desde 2009",
-      "url": "https://www.eldestapeweb.com/internacionales/trump-pierde-ee-uu-democratas-ganarian-parlamento-tendrian-mejor-eleccion-2009-20261030172021",
-      "detectado": "2026-10-31T02:54:23.062Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
-      "sitio": "El Destape",
-      "titulo": "La inflación no baja y volvió a rondar el 2% en octubre",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-no-baja-volvio-rondar-2-octubre-20261030141032",
-      "detectado": "2026-10-31T02:54:23.062Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
-      "sitio": "El Destape",
-      "titulo": "$LIBRA: la PIA hizo lugar al pedido de las ONG y solicitó reabrir la causa",
-      "url": "https://www.eldestapeweb.com/politica/giro-inesperado-justicia-abre-nueva-puerta-investigar-maniobras-detras-caso-libra-20261030153120",
-      "detectado": "2026-10-30T21:43:34.154Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-sube-762-puntos-caen-bonos-acciones-argentinas-20261030142549",
-      "sitio": "El Destape",
-      "titulo": "Caen los bonos y las acciones argentinas y el riesgo país se encamina a los 800 puntos",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-sube-762-puntos-caen-bonos-acciones-argentinas-20261030142549",
-      "detectado": "2026-10-30T21:43:34.154Z"
     }
   ]
 }
