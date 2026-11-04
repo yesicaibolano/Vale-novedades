@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-04T03:31:34.337Z",
+  "actualizado": "2026-11-04T13:21:06.038Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/rimi-definen-los-bienes-de-eficiencia-energetica-y-los-requisitos-para-acceder-al-regimen-sin-monto-minimo-de-inversion/",
+      "sitio": "Contadores en Red",
+      "titulo": "RIMI: definen los bienes de eficiencia energética y los requisitos para acceder sin monto mínimo de inversión",
+      "url": "https://contadoresenred.com/rimi-definen-los-bienes-de-eficiencia-energetica-y-los-requisitos-para-acceder-al-regimen-sin-monto-minimo-de-inversion/",
+      "detectado": "2026-11-04T13:21:00.032Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ejecuciones-fiscales-prorrogan-la-suspension-hasta-junio-de-2027-y-amplian-su-alcance-a-mipymes/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ejecuciones fiscales: prorrogan la suspensión hasta junio de 2027 y amplían su alcance a MiPyMEs",
+      "url": "https://contadoresenred.com/ejecuciones-fiscales-prorrogan-la-suspension-hasta-junio-de-2027-y-amplian-su-alcance-a-mipymes/",
+      "detectado": "2026-11-04T13:21:00.032Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sire-iva-arca-incorpora-retenciones-y-percepciones-obligatorias-desde-abril-de-2027/",
+      "sitio": "Ignacio Online",
+      "titulo": "SIRE IVA: ARCA incorpora retenciones y percepciones obligatorias desde abril de 2027",
+      "url": "https://www.ignacioonline.com.ar/sire-iva-arca-incorpora-retenciones-y-percepciones-obligatorias-desde-abril-de-2027/",
+      "detectado": "2026-11-04T13:21:01.162Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bolsas-internacionales-caen-paliza-sufrio-donald-trump-202611485351",
+      "sitio": "El Destape",
+      "titulo": "Las bolsas internacionales caen tras la paliza que sufrió Donald Trump",
+      "url": "https://www.eldestapeweb.com/economia/bolsas-internacionales-caen-paliza-sufrio-donald-trump-202611485351",
+      "detectado": "2026-11-04T13:21:05.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/entorno-milei-analiza-aplastante-derrota-trump-apunta-fuga-voto-hombres-blancos-jovenes-20261148489",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno analiza la derrota de Trump y teme fuga de votos: \"Hombres blancos jóvenes”",
+      "url": "https://www.eldestapeweb.com/politica/entorno-milei-analiza-aplastante-derrota-trump-apunta-fuga-voto-hombres-blancos-jovenes-20261148489",
+      "detectado": "2026-11-04T13:21:05.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/ano-gestion-di-carlo-river-tres-derrotas-frente-boca-3-tecnicos-distintos-70-millones-dolares-jugadores-20261138019",
+      "sitio": "El Destape",
+      "titulo": "Un año de Di Carlo en River: tres técnicos, gastos exorbitantes y mal pasar deportivo",
+      "url": "https://www.eldestapeweb.com/deportes/ano-gestion-di-carlo-river-tres-derrotas-frente-boca-3-tecnicos-distintos-70-millones-dolares-jugadores-20261138019",
+      "detectado": "2026-11-04T13:21:05.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Lamas",
+      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
+      "detectado": "2026-11-04T13:21:05.539Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/elecciones-estados-unidos-paliza-plutocracia-trump-golpea-proyecto-milei-202611421039",
+      "sitio": "El Destape",
+      "titulo": "Una paliza a la plutocracia de Trump que golpea al Proyecto Milei",
+      "url": "https://www.eldestapeweb.com/opinion/elecciones-estados-unidos-paliza-plutocracia-trump-golpea-proyecto-milei-202611421039",
+      "detectado": "2026-11-04T13:21:05.539Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-homologaron-el-acuerdo-salarial-de-octubre-a-diciembre-de-2026/",
       "sitio": "Ignacio Online",
@@ -310,13 +366,6 @@
       "detectado": "2026-11-01T21:24:49.182Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Lamas",
-      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
-      "detectado": "2026-11-01T21:24:49.182Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/estrategia-trump-si-pierde-mayoria-elecciones-sere-senor-veto-2026111163845",
       "sitio": "El Destape",
       "titulo": "La estrategia de Trump si pierde la mayoría en las elecciones: \"Seré el señor Veto\"",
@@ -371,55 +420,6 @@
       "titulo": "$LIBRA: los hechos que la PIA destacó que se deben profundizar y complican a Milei",
       "url": "https://www.eldestapeweb.com/politica/libra-hechos-fiscalia-anticorrupcion-destaco-deben-profundizar-complican-milei-20261031191339",
       "detectado": "2026-11-01T02:47:20.563Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/pavada-ulises-verdaderas-zonceras-libertarias-20261031231324",
-      "sitio": "El Destape",
-      "titulo": "La pavada de Ulises y las verdaderas zonceras libertarias",
-      "url": "https://www.eldestapeweb.com/opinion/pavada-ulises-verdaderas-zonceras-libertarias-20261031231324",
-      "detectado": "2026-11-01T02:47:20.563Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sube-presion-libertaria-destituir-juez-freno-reforma-laboral-20261031161754",
-      "sitio": "El Destape",
-      "titulo": "Más presión libertaria para destituir al juez que frenó la reforma laboral",
-      "url": "https://www.eldestapeweb.com/politica/sube-presion-libertaria-destituir-juez-freno-reforma-laboral-20261031161754",
-      "detectado": "2026-10-31T20:43:23.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/mariano-martin",
-      "sitio": "El Destape",
-      "titulo": "Por Mariano Martín",
-      "url": "https://www.eldestapeweb.com/perfil/mariano-martin",
-      "detectado": "2026-10-31T20:43:23.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/pais-vaca-muerta-vende-cada-vez-menos-nafta-mercado-interno-2026103114400",
-      "sitio": "El Destape",
-      "titulo": "En el país de Vaca Muerta, se vende cada vez menos nafta en el mercado interno",
-      "url": "https://www.eldestapeweb.com/economia/pais-vaca-muerta-vende-cada-vez-menos-nafta-mercado-interno-2026103114400",
-      "detectado": "2026-10-31T20:43:23.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "sitio": "El Destape",
-      "titulo": "Por Sebastián Premici",
-      "url": "https://www.eldestapeweb.com/perfil/sebastian-premici",
-      "detectado": "2026-10-31T20:43:23.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/interna-libertaria",
-      "sitio": "El Destape",
-      "titulo": "Interna libertaria",
-      "url": "https://www.eldestapeweb.com/tag/interna-libertaria",
-      "detectado": "2026-10-31T20:43:23.560Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-nuevas-canciones-axel-afina-banda-pejotista-milei-ruido-bullrich-202610310539",
-      "sitio": "El Destape",
-      "titulo": "\"Nuevas canciones\": Axel afina la interna, la banda pejotista de Milei y el Ruido Bullrich",
-      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-nuevas-canciones-axel-afina-banda-pejotista-milei-ruido-bullrich-202610310539",
-      "detectado": "2026-10-31T16:23:17.537Z"
     }
   ]
 }
