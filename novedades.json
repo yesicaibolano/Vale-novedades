@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-05T03:53:01.308Z",
+  "actualizado": "2026-11-05T13:35:00.816Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "FAL: las entidades sin fines de lucro ya pueden solicitar su categorización",
+      "url": "https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
+      "detectado": "2026-11-05T13:34:50.533Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/plan-de-pagos-para-mipymes-se-podra-incluir-deuda-hasta-octubre-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Plan de pagos para MIPYMES se podrá incluir deuda hasta Octubre 2026.",
+      "url": "https://contadoresenred.com/plan-de-pagos-para-mipymes-se-podra-incluir-deuda-hasta-octubre-2026/",
+      "detectado": "2026-11-05T13:34:50.533Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/arca-extiende-hasta-junio-de-2027-la-suspension-de-ejecuciones-fiscales-y-medidas-cautelares/",
+      "sitio": "Contadores en Red",
+      "titulo": "ARCA extiende hasta junio de 2027 la suspensión de ejecuciones fiscales y medidas cautelares",
+      "url": "https://contadoresenred.com/arca-extiende-hasta-junio-de-2027-la-suspension-de-ejecuciones-fiscales-y-medidas-cautelares/",
+      "detectado": "2026-11-05T13:34:50.533Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-05T13:34:57.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-pidio-malvinas-cumbre-iberoamericana-madrid-202611583956",
+      "sitio": "El Destape",
+      "titulo": "Milei volvió a tildar al socialismo de \"fascista\" frente a Pedro Sánchez",
+      "url": "https://www.eldestapeweb.com/economia/milei-pidio-malvinas-cumbre-iberoamericana-madrid-202611583956",
+      "detectado": "2026-11-05T13:34:57.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/santiago-pena-quedo-paso-destitucion-juicio-politico-paraguay-2026115101844",
+      "sitio": "El Destape",
+      "titulo": "Santiago Peña quedó a un paso de la destitución por juicio político en Paraguay",
+      "url": "https://www.eldestapeweb.com/internacionales/santiago-pena-quedo-paso-destitucion-juicio-politico-paraguay-2026115101844",
+      "detectado": "2026-11-05T13:34:57.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/chau-portugal-cristiano-ronaldo-retiro-seleccion-41-anos-202611592055",
+      "sitio": "El Destape",
+      "titulo": "Fútbol internacional",
+      "url": "https://www.eldestapeweb.com/deportes/chau-portugal-cristiano-ronaldo-retiro-seleccion-41-anos-202611592055",
+      "detectado": "2026-11-05T13:34:57.962Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-empleo-no-hubo-40-000-postulaciones-side-24-horas-202611510715",
+      "sitio": "El Destape",
+      "titulo": "La crisis del empleo no para: hubo 40.000 postulaciones a la SIDE en 24 horas",
+      "url": "https://www.eldestapeweb.com/politica/crisis-empleo-no-hubo-40-000-postulaciones-side-24-horas-202611510715",
+      "detectado": "2026-11-05T13:34:57.962Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
       "sitio": "Ignacio Online",
@@ -282,13 +338,6 @@
       "detectado": "2026-11-03T13:05:52.754Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-03T13:05:52.754Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/side-hay-plata-lanzo-curso-ingreso-agentes-2027-20261138409",
       "sitio": "El Destape",
       "titulo": "Para la SIDE hay plata: se lanzó el curso de ingreso para agentes en 2027",
@@ -371,55 +420,6 @@
       "titulo": "Asociaciones civiles de Santa Fe podrán presentar un Estado de Recursos y Gastos ante ARCA",
       "url": "https://www.ignacioonline.com.ar/asociaciones-civiles-de-santa-fe-podran-presentar-un-estado-de-recursos-y-gastos-ante-arca/",
       "detectado": "2026-11-02T13:57:01.730Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/feriados-de-noviembre-2026-por-la-visita-del-papa-y-dia-del-bancario-que-dias-hay-que-tener-en-cuenta/",
-      "sitio": "Ignacio Online",
-      "titulo": "Feriados de noviembre 2026 por la visita del Papa y Día del Bancario, qué días hay que tener en cuenta",
-      "url": "https://www.ignacioonline.com.ar/feriados-de-noviembre-2026-por-la-visita-del-papa-y-dia-del-bancario-que-dias-hay-que-tener-en-cuenta/",
-      "detectado": "2026-11-02T13:57:01.730Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/renatre-aumenta-la-prestacion-por-desempleo-desde-noviembre-de-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "RENATRE aumenta la prestación por desempleo desde noviembre de 2026",
-      "url": "https://www.ignacioonline.com.ar/renatre-aumenta-la-prestacion-por-desempleo-desde-noviembre-de-2026/",
-      "detectado": "2026-11-02T13:57:01.730Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16036-beneficio-por-buen-cumplimiento-de-aportes",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Beneficio por buen cumplimiento de aportes",
-      "url": "https://www.cpba.com.ar/noticias/item/16036-beneficio-por-buen-cumplimiento-de-aportes",
-      "detectado": "2026-11-02T13:57:04.590Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/detras-dato-oficial-razon-estadistica-real-ingresos-informales-parecen-ganarle-inflacion-gobierno-milei-20261120511",
-      "sitio": "El Destape",
-      "titulo": "El preocupante fenómeno que explica la fuerte suba de los salarios informales",
-      "url": "https://www.eldestapeweb.com/economia/detras-dato-oficial-razon-estadistica-real-ingresos-informales-parecen-ganarle-inflacion-gobierno-milei-20261120511",
-      "detectado": "2026-11-02T13:57:05.998Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/cristina-kirchner-adelanto-evalua-ser-candidata-2027-no-20261129052",
-      "sitio": "El Destape",
-      "titulo": "Cristina Kirchner adelantó que evalúa ser candidata a presidenta en 2027: \"¿Por qué no?\"",
-      "url": "https://www.eldestapeweb.com/politica/cristina-kirchner-adelanto-evalua-ser-candidata-2027-no-20261129052",
-      "detectado": "2026-11-02T13:57:05.998Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/afa-saco-luz-audios-var-boca-vs-river-perfecta-roja-2026112101648",
-      "sitio": "El Destape",
-      "titulo": "Los polémicos audios del VAR del Superclásico: \"Perfecta la roja\"",
-      "url": "https://www.eldestapeweb.com/deportes/afa-saco-luz-audios-var-boca-vs-river-perfecta-roja-2026112101648",
-      "detectado": "2026-11-02T13:57:05.998Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/salarios-jubilaciones-programas-sociales-anclas-gobierno-frenar-inflacion-paralizan-economia-destruyen-poder-adquisitivo-20261120511",
-      "sitio": "El Destape",
-      "titulo": "El ajuste sobre salarios, jubilaciones y programas sociales profundiza el freno al consumo",
-      "url": "https://www.eldestapeweb.com/economia/salarios-jubilaciones-programas-sociales-anclas-gobierno-frenar-inflacion-paralizan-economia-destruyen-poder-adquisitivo-20261120511",
-      "detectado": "2026-11-02T13:57:05.998Z"
     }
   ]
 }
