@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-05T13:35:00.816Z",
+  "actualizado": "2026-11-05T22:57:19.400Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16041-inscripcion-de-auxiliares-de-justicia-2027-verificacion-de-inscripciones",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Inscripción de Auxiliares de Justicia 2027 – Verificación de Inscripciones",
+      "url": "https://www.cpba.com.ar/noticias/item/16041-inscripcion-de-auxiliares-de-justicia-2027-verificacion-de-inscripciones",
+      "detectado": "2026-11-05T22:57:17.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
+      "sitio": "El Destape",
+      "titulo": "El riesgo país se dispara a 925 puntos y crece la presión sobre Milei",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
+      "detectado": "2026-11-05T22:57:18.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
+      "sitio": "El Destape",
+      "titulo": "El juicio político comienza este jueves: \"Me presentaré\", aseguró Peña",
+      "url": "https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
+      "detectado": "2026-11-05T22:57:18.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/renuncio-presidente-paraguay-santiago-pena-medio-crisis-financiera-caso-ueno-bank-2026115132945",
+      "sitio": "El Destape",
+      "titulo": "Renunció el presidente de Paraguay, Santiago Peña, en medio de la crisis financiera",
+      "url": "https://www.eldestapeweb.com/internacionales/renuncio-presidente-paraguay-santiago-pena-medio-crisis-financiera-caso-ueno-bank-2026115132945",
+      "detectado": "2026-11-05T22:57:18.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/diputados-senadores-paraguayos-afirmaron-santiago-pena-habria-huido-argentina-2026115183028",
+      "sitio": "El Destape",
+      "titulo": "Diputados y senadores paraguayos afirmaron que Santiago Peña habría huido a la Argentina",
+      "url": "https://www.eldestapeweb.com/internacionales/diputados-senadores-paraguayos-afirmaron-santiago-pena-habria-huido-argentina-2026115183028",
+      "detectado": "2026-11-05T22:57:18.887Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/medio-crisis-derrota-trump-gobierno-rezan-papa-no-baje-mensaje-politico-milei-2026115134142",
+      "sitio": "El Destape",
+      "titulo": "En medio de la crisis, en el Gobierno \"rezan\" para que el Papa no baje un mensaje político",
+      "url": "https://www.eldestapeweb.com/politica/medio-crisis-derrota-trump-gobierno-rezan-papa-no-baje-mensaje-politico-milei-2026115134142",
+      "detectado": "2026-11-05T22:57:18.887Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "Por Fernando Alonso",
       "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-11-03T00:06:22.938Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/uia-organiza-conferencia-anual-medio-crisis-industrial-milei-2026112144220",
-      "sitio": "El Destape",
-      "titulo": "La UIA organiza su Conferencia anual en medio de la crisis industrial y sin Milei",
-      "url": "https://www.eldestapeweb.com/economia/uia-organiza-conferencia-anual-medio-crisis-industrial-milei-2026112144220",
-      "detectado": "2026-11-03T00:06:22.938Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arba-exencion-del-impuesto-a-los-automotores-ejercicio-fiscal-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARBA. Exención del Impuesto a los Automotores ejercicio fiscal 2026",
-      "url": "https://contadoresenred.com/arba-exencion-del-impuesto-a-los-automotores-ejercicio-fiscal-2026/",
-      "detectado": "2026-11-02T13:57:00.950Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/santa-fe-aprueban-un-regimen-contable-simplificado-para-asociaciones-civiles/",
-      "sitio": "Contadores en Red",
-      "titulo": "Santa Fe: aprueban un régimen contable simplificado para asociaciones civiles",
-      "url": "https://contadoresenred.com/santa-fe-aprueban-un-regimen-contable-simplificado-para-asociaciones-civiles/",
-      "detectado": "2026-11-02T13:57:00.950Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/tratamiento-de-tasas-y-aranceles-para-los-vehiculos-fal/",
-      "sitio": "Contadores en Red",
-      "titulo": "Tratamiento de tasas y aranceles para los vehículos FAL",
-      "url": "https://contadoresenred.com/tratamiento-de-tasas-y-aranceles-para-los-vehiculos-fal/",
-      "detectado": "2026-11-02T13:57:00.950Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/construccion-cambios-en-el-fondo-de-cese-laboral/",
-      "sitio": "Contadores en Red",
-      "titulo": "Construcción: cambios en el Fondo de cese laboral.",
-      "url": "https://contadoresenred.com/construccion-cambios-en-el-fondo-de-cese-laboral/",
-      "detectado": "2026-11-02T13:57:00.950Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/asociaciones-civiles-de-santa-fe-podran-presentar-un-estado-de-recursos-y-gastos-ante-arca/",
-      "sitio": "Ignacio Online",
-      "titulo": "Asociaciones civiles de Santa Fe podrán presentar un Estado de Recursos y Gastos ante ARCA",
-      "url": "https://www.ignacioonline.com.ar/asociaciones-civiles-de-santa-fe-podran-presentar-un-estado-de-recursos-y-gastos-ante-arca/",
-      "detectado": "2026-11-02T13:57:01.730Z"
     }
   ]
 }
