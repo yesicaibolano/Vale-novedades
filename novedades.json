@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-04T22:56:33.569Z",
+  "actualizado": "2026-11-05T03:53:01.308Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio Call Center: aumento del 5,7% y suma de $50.000 para el CCT 781/20",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
+      "detectado": "2026-11-05T03:52:55.905Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-cadena-pagos-morosidad-pymes-mora-disparo-840-crece-recesion-20261150512",
+      "sitio": "El Destape",
+      "titulo": "La recesión asfixia a las PyME: se estiran los plazos de cobro y se achican los de pago",
+      "url": "https://www.eldestapeweb.com/economia/alerta-cadena-pagos-morosidad-pymes-mora-disparo-840-crece-recesion-20261150512",
+      "detectado": "2026-11-05T03:53:00.312Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-05T03:53:00.312Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
+      "sitio": "El Destape",
+      "titulo": "Bullrich profundiza la distancia con Milei y polariza con CFK",
+      "url": "https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
+      "detectado": "2026-11-05T03:53:00.312Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/pj-oficializo-acordado-maximo-kirchner-presidira-congreso-partidario-20261150512",
+      "sitio": "El Destape",
+      "titulo": "Peronismo bonaerense",
+      "url": "https://www.eldestapeweb.com/politica/pj-oficializo-acordado-maximo-kirchner-presidira-congreso-partidario-20261150512",
+      "detectado": "2026-11-05T03:53:00.312Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-05T03:53:00.312Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/sisa-fagce-difundio-la-respuesta-de-arca-sobre-los-avisos-por-reintegros-de-iva/",
       "sitio": "Contadores en Red",
@@ -378,48 +420,6 @@
       "titulo": "El ajuste sobre salarios, jubilaciones y programas sociales profundiza el freno al consumo",
       "url": "https://www.eldestapeweb.com/economia/salarios-jubilaciones-programas-sociales-anclas-gobierno-frenar-inflacion-paralizan-economia-destruyen-poder-adquisitivo-20261120511",
       "detectado": "2026-11-02T13:57:05.998Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-02T13:57:05.998Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reclama-aportes-a-colegios-privados-conflicto-con-el-ips-y-dudas-sobre-el-fal/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA reclama aportes a colegios privados: conflicto con el IPS y dudas sobre el FAL",
-      "url": "https://www.ignacioonline.com.ar/arca-reclama-aportes-a-colegios-privados-conflicto-con-el-ips-y-dudas-sobre-el-fal/",
-      "detectado": "2026-11-02T02:55:39.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-argentina-debe-pagar-usd-860-millones-organismo-frena-desembolso-clave-2026111221848",
-      "sitio": "El Destape",
-      "titulo": "Vencen USD860 millones con el FMI mientras se demora el nuevo desembolso",
-      "url": "https://www.eldestapeweb.com/economia/fmi-argentina-debe-pagar-usd-860-millones-organismo-frena-desembolso-clave-2026111221848",
-      "detectado": "2026-11-02T02:55:44.010Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-reaparecio-ee-uu-ataco-globo-justifico-fuga-brasil-acusando-persecucion-judicial-202611120388",
-      "sitio": "El Destape",
-      "titulo": "Ahora Bolsonaro atacó a \"Globo\" y denunció \"persecución judicial\" desde Estados Unidos",
-      "url": "https://www.eldestapeweb.com/internacionales/flavio-bolsonaro-reaparecio-ee-uu-ataco-globo-justifico-fuga-brasil-acusando-persecucion-judicial-202611120388",
-      "detectado": "2026-11-02T02:55:44.010Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/operativo-emergencia-ezeiza-turistas-extranjeros-intoxicados-llegar-crucero-ushuaia-2026111195424",
-      "sitio": "El Destape",
-      "titulo": "Ezeiza: se intoxicó un grupo de turistas que subió a un avión tras bajar de un crucero",
-      "url": "https://www.eldestapeweb.com/sociedad/operativo-emergencia-ezeiza-turistas-extranjeros-intoxicados-llegar-crucero-ushuaia-2026111195424",
-      "detectado": "2026-11-02T02:55:44.010Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/incertidumbre-economica-bajos-salarios-desempleo-preocupa-argentinos-2026111174542",
-      "sitio": "El Destape",
-      "titulo": "Incertidumbre económica, bajos salarios y desempleo: lo que más preocupa a los argentinos",
-      "url": "https://www.eldestapeweb.com/economia/incertidumbre-economica-bajos-salarios-desempleo-preocupa-argentinos-2026111174542",
-      "detectado": "2026-11-01T21:24:49.182Z"
     }
   ]
 }
