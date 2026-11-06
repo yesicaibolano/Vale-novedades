@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-06T03:51:20.144Z",
+  "actualizado": "2026-11-06T13:19:07.403Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/refres-now-prescripcion-tributaria-inocencia-fiscal/",
+      "sitio": "Contadores en Red",
+      "titulo": "Refres Now: la Cámara pone límites a ARCA en materia de prescripción y evasión tributaria",
+      "url": "https://contadoresenred.com/refres-now-prescripcion-tributaria-inocencia-fiscal/",
+      "detectado": "2026-11-06T13:19:00.999Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/f-u-t-u-r-o-la-nueva-presentacion-mensual-para-empleadores-bonaerenses/",
+      "sitio": "Contadores en Red",
+      "titulo": "F.U.T.U.R.O. La nueva presentación mensual para Empleadores bonaerenses.",
+      "url": "https://contadoresenred.com/f-u-t-u-r-o-la-nueva-presentacion-mensual-para-empleadores-bonaerenses/",
+      "detectado": "2026-11-06T13:19:00.999Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/rimi-se-adecua-el-procedimiento-para-recuperar-el-iva-de-las-inversiones/",
+      "sitio": "Contadores en Red",
+      "titulo": "RIMI: se adecua el procedimiento para recuperar el IVA de las inversiones.",
+      "url": "https://contadoresenred.com/rimi-se-adecua-el-procedimiento-para-recuperar-el-iva-de-las-inversiones/",
+      "detectado": "2026-11-06T13:19:00.999Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "detectado": "2026-11-06T13:19:06.894Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-partio-rumbo-uruguay-previa-visita-argentina-202611683523",
+      "sitio": "El Destape",
+      "titulo": "León XIV ya partió rumbo a Uruguay, en la previa de su visita a Argentina",
+      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-partio-rumbo-uruguay-previa-visita-argentina-202611683523",
+      "detectado": "2026-11-06T13:19:06.894Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
+      "sitio": "El Destape",
+      "titulo": "Santiago Peña pidió una prórroga de 72 horas para ejercer su defensa en el juicio político",
+      "url": "https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
+      "detectado": "2026-11-06T13:19:06.894Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "sitio": "El Destape",
+      "titulo": "Provincia de Buenos Aires",
+      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
+      "detectado": "2026-11-06T13:19:06.894Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-armado-bonaerense-jugada-ex-river-amenaza-golpear-alianza-pro-milei-20261160529",
+      "sitio": "El Destape",
+      "titulo": "Fuego amigo: guerra entre el PRO y exsocios por un territorio clave",
+      "url": "https://www.eldestapeweb.com/politica/guerra-armado-bonaerense-jugada-ex-river-amenaza-golpear-alianza-pro-milei-20261160529",
+      "detectado": "2026-11-06T13:19:06.894Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-mira-impacto-riesgo-pais-mil-financiamiento-tesoro-2026115214358",
       "sitio": "El Destape",
@@ -48,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "El riesgo país se dispara a 925 puntos y crece la presión sobre Milei",
       "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
-      "detectado": "2026-11-05T22:57:18.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
-      "sitio": "El Destape",
-      "titulo": "El juicio político comienza este jueves: \"Me presentaré\", aseguró Peña",
-      "url": "https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
       "detectado": "2026-11-05T22:57:18.887Z"
     },
     {
@@ -371,55 +420,6 @@
       "titulo": "Por Federico Pokorowski",
       "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-11-03T22:37:26.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/karina-milei-suspendio-mesa-politica-casa-rosada-patricia-bullrich-aprovecho-mostrar-fuerza-equipo-propio-202611315590",
-      "sitio": "El Destape",
-      "titulo": "Karina suspendió la mesa política y Bullrich aprovechó y mostró una sugestiva foto",
-      "url": "https://www.eldestapeweb.com/politica/karina-milei-suspendio-mesa-politica-casa-rosada-patricia-bullrich-aprovecho-mostrar-fuerza-equipo-propio-202611315590",
-      "detectado": "2026-11-03T22:37:26.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dolar-2-026-2027-riesgo-pais-maximo-anual-senal-mercado-falta-dolares-recesion-2026113184828",
-      "sitio": "El Destape",
-      "titulo": "El mercado prueba al BCRA para sacarle cobertura pos electoral",
-      "url": "https://www.eldestapeweb.com/economia/dolar-2-026-2027-riesgo-pais-maximo-anual-senal-mercado-falta-dolares-recesion-2026113184828",
-      "detectado": "2026-11-03T22:37:26.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-11-03T22:37:26.962Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/uif-regimen-especifico-de-antecedente-favorable-para-adheridos-a-ganancias-simplificada/",
-      "sitio": "Contadores en Red",
-      "titulo": "UIF. Régimen específico de Antecedente Favorable para adheridos a Ganancias simplificada",
-      "url": "https://contadoresenred.com/uif-regimen-especifico-de-antecedente-favorable-para-adheridos-a-ganancias-simplificada/",
-      "detectado": "2026-11-03T13:05:46.013Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/sire-incorporacion-obligatoria-de-nuevos-regimenes-desde-abril-de-2027/",
-      "sitio": "Contadores en Red",
-      "titulo": "SIRE incorporación obligatoria de nuevos regímenes desde abril de 2027",
-      "url": "https://contadoresenred.com/sire-incorporacion-obligatoria-de-nuevos-regimenes-desde-abril-de-2027/",
-      "detectado": "2026-11-03T13:05:46.013Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-estados-unidos-2026-vivo-resultados-ultimas-noticias-comicios-medio-termino-hoy-martes-3-noviembre-20261138019",
-      "sitio": "El Destape",
-      "titulo": "Volatilidad en los mercados en EE.UU. a la espera del resultado electoral",
-      "url": "https://www.eldestapeweb.com/internacionales/elecciones-estados-unidos-2026-vivo-resultados-ultimas-noticias-comicios-medio-termino-hoy-martes-3-noviembre-20261138019",
-      "detectado": "2026-11-03T13:05:52.754Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/side-hay-plata-lanzo-curso-ingreso-agentes-2027-20261138409",
-      "sitio": "El Destape",
-      "titulo": "Para la SIDE hay plata: se lanzó el curso de ingreso para agentes en 2027",
-      "url": "https://www.eldestapeweb.com/politica/side-hay-plata-lanzo-curso-ingreso-agentes-2027-20261138409",
-      "detectado": "2026-11-03T13:05:52.754Z"
     }
   ]
 }
