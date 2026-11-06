@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-05T22:57:19.400Z",
+  "actualizado": "2026-11-06T03:51:20.144Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-mira-impacto-riesgo-pais-mil-financiamiento-tesoro-2026115214358",
+      "sitio": "El Destape",
+      "titulo": "El mercado mirá el impacto del Riesgo País en mil en el financiamiento del Tesoro",
+      "url": "https://www.eldestapeweb.com/economia/mercado-mira-impacto-riesgo-pais-mil-financiamiento-tesoro-2026115214358",
+      "detectado": "2026-11-06T03:51:19.318Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-11-06T03:51:19.318Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fiscales-suben-acusaciones-pena-mientras-presidente-ratifico-ira-juicio-2026115221846",
+      "sitio": "El Destape",
+      "titulo": "Los fiscales avanzan contra Peña, quien responde: \"Me defenderé\"",
+      "url": "https://www.eldestapeweb.com/internacionales/fiscales-suben-acusaciones-pena-mientras-presidente-ratifico-ira-juicio-2026115221846",
+      "detectado": "2026-11-06T03:51:19.318Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/banco-central-confirmo-desplome-economico-advierten-economia-sufrira-derrumbe-peor-esperado-202611520455",
+      "sitio": "El Destape",
+      "titulo": "Se profundiza la recesión y el mercado prevé un crecimiento de menos del 1% en 2026",
+      "url": "https://www.eldestapeweb.com/economia/banco-central-confirmo-desplome-economico-advierten-economia-sufrira-derrumbe-peor-esperado-202611520455",
+      "detectado": "2026-11-06T03:51:19.318Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mientras-presidente-esta-exterior-fuerte-jugada-politica-karina-milei-claro-mensaje-patricia-bullrich-202611520547",
+      "sitio": "El Destape",
+      "titulo": "Karina Milei movió fichas y mostró a los suyos, en un desafío a Bullrich",
+      "url": "https://www.eldestapeweb.com/politica/mientras-presidente-esta-exterior-fuerte-jugada-politica-karina-milei-claro-mensaje-patricia-bullrich-202611520547",
+      "detectado": "2026-11-06T03:51:19.318Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16041-inscripcion-de-auxiliares-de-justicia-2027-verificacion-de-inscripciones",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Para la SIDE hay plata: se lanzó el curso de ingreso para agentes en 2027",
       "url": "https://www.eldestapeweb.com/politica/side-hay-plata-lanzo-curso-ingreso-agentes-2027-20261138409",
       "detectado": "2026-11-03T13:05:52.754Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/obra-social-para-pymes/",
-      "sitio": "Contadores en Red",
-      "titulo": "Por qué brindar una cobertura médica de calidad también es una inversión para tu equipo.",
-      "url": "https://contadoresenred.com/obra-social-para-pymes/",
-      "detectado": "2026-11-03T00:06:17.550Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/fondo-de-cese-laboral-de-la-construccion-los-3-cambios-que-dispuso-el-bcra/",
-      "sitio": "Ignacio Online",
-      "titulo": "Fondo de Cese Laboral de la construcción: los 3 cambios que dispuso el BCRA",
-      "url": "https://www.ignacioonline.com.ar/fondo-de-cese-laboral-de-la-construccion-los-3-cambios-que-dispuso-el-bcra/",
-      "detectado": "2026-11-03T00:06:18.904Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/tragedia-preocupa-casa-rosada-caida-trump-ee-uu-complica-planes-caputo-milei-2026112193626",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en EE.UU.",
-      "url": "https://www.eldestapeweb.com/politica/tragedia-preocupa-casa-rosada-caida-trump-ee-uu-complica-planes-caputo-milei-2026112193626",
-      "detectado": "2026-11-03T00:06:22.938Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/disparo-riesgo-pais-cayeron-acciones-hay-alerta-mercado-pago-fmi-2026112201627",
-      "sitio": "El Destape",
-      "titulo": "Se disparó el Riesgo País, cayeron las acciones y hay alerta por el pago al FMI",
-      "url": "https://www.eldestapeweb.com/economia/disparo-riesgo-pais-cayeron-acciones-hay-alerta-mercado-pago-fmi-2026112201627",
-      "detectado": "2026-11-03T00:06:22.938Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-11-03T00:06:22.938Z"
     }
   ]
 }
