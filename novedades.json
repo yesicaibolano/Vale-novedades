@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-07T03:24:52.387Z",
+  "actualizado": "2026-11-07T11:58:27.253Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
+      "sitio": "Ignacio Online",
+      "titulo": "F.U.T.U.R.O.: otra declaración jurada y el mismo cansancio",
+      "url": "https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
+      "detectado": "2026-11-07T11:58:23.047Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "Contadores en Red",
       "titulo": "RIMI: definen los bienes de eficiencia energética y los requisitos para acceder sin monto mínimo de inversión",
       "url": "https://contadoresenred.com/rimi-definen-los-bienes-de-eficiencia-energetica-y-los-requisitos-para-acceder-al-regimen-sin-monto-minimo-de-inversion/",
-      "detectado": "2026-11-04T13:21:00.032Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ejecuciones-fiscales-prorrogan-la-suspension-hasta-junio-de-2027-y-amplian-su-alcance-a-mipymes/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ejecuciones fiscales: prorrogan la suspensión hasta junio de 2027 y amplían su alcance a MiPyMEs",
-      "url": "https://contadoresenred.com/ejecuciones-fiscales-prorrogan-la-suspension-hasta-junio-de-2027-y-amplian-su-alcance-a-mipymes/",
       "detectado": "2026-11-04T13:21:00.032Z"
     }
   ]
