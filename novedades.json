@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-07T11:58:27.253Z",
+  "actualizado": "2026-11-07T17:20:12.386Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/argentina-espera-papa-mapa-pobreza-vera-leon-xiv-ciudad-ciudad-2026117808",
+      "sitio": "El Destape",
+      "titulo": "La Argentina que espera al Papa: el mapa de la pobreza que verá León",
+      "url": "https://www.eldestapeweb.com/politica/argentina-espera-papa-mapa-pobreza-vera-leon-xiv-ciudad-ciudad-2026117808",
+      "detectado": "2026-11-07T17:20:12.066Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "sitio": "El Destape",
+      "titulo": "Por Javier Peverelli",
+      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "detectado": "2026-11-07T17:20:12.066Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
+      "sitio": "El Destape",
+      "titulo": "Peña destituido: Lula y Kast reconocieron a Alliana como presidente de Paraguay",
+      "url": "https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
+      "detectado": "2026-11-07T17:20:12.066Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
+      "sitio": "El Destape",
+      "titulo": "El Riesgo Pato acelera la fuga, trampa fallida al Papa y la Argentina \"aislada del mundo\"",
+      "url": "https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
+      "detectado": "2026-11-07T17:20:12.066Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dijo-leon-xiv-mate-primera-misa-sudamerica-compartir-2026117141156",
+      "sitio": "El Destape",
+      "titulo": "León XIV y su primera misa en Sudamérica: habló del mate y pidió \"estrechar lazos\"",
+      "url": "https://www.eldestapeweb.com/politica/dijo-leon-xiv-mate-primera-misa-sudamerica-compartir-2026117141156",
+      "detectado": "2026-11-07T17:20:12.066Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
       "sitio": "Ignacio Online",
@@ -385,41 +420,6 @@
       "titulo": "El Coro del Consejo celebra 35 años de música",
       "url": "https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
       "detectado": "2026-11-04T22:56:31.895Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-cerca-900-puntos-caida-activos-locales-derrota-trump-2026114164351",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país cerca de los 900 puntos y caída de activos locales tras derrota de Trump",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-cerca-900-puntos-caida-activos-locales-derrota-trump-2026114164351",
-      "detectado": "2026-11-04T22:56:33.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/golpe-gobierno-dura-derrota-donald-trump-sacude-casa-rosada-enciende-alarmas-libertarismo-2026114161252",
-      "sitio": "El Destape",
-      "titulo": "Velorio en la Rosada por la derrota de Trump: alerta 2027, voto joven y el nuevo libreto",
-      "url": "https://www.eldestapeweb.com/politica/golpe-gobierno-dura-derrota-donald-trump-sacude-casa-rosada-enciende-alarmas-libertarismo-2026114161252",
-      "detectado": "2026-11-04T22:56:33.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reves-milei-libra-camara-casacion-acepto-queja-victimas-allana-camino-reincorporarlas-querellantes-2026114144934",
-      "sitio": "El Destape",
-      "titulo": "$LIBRA: Casación aceptó la queja de víctimas y podría reincorporarlos como querellantes",
-      "url": "https://www.eldestapeweb.com/politica/reves-milei-libra-camara-casacion-acepto-queja-victimas-allana-camino-reincorporarlas-querellantes-2026114144934",
-      "detectado": "2026-11-04T22:56:33.060Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-11-04T22:56:33.060Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/rimi-definen-los-bienes-de-eficiencia-energetica-y-los-requisitos-para-acceder-al-regimen-sin-monto-minimo-de-inversion/",
-      "sitio": "Contadores en Red",
-      "titulo": "RIMI: definen los bienes de eficiencia energética y los requisitos para acceder sin monto mínimo de inversión",
-      "url": "https://contadoresenred.com/rimi-definen-los-bienes-de-eficiencia-energetica-y-los-requisitos-para-acceder-al-regimen-sin-monto-minimo-de-inversion/",
-      "detectado": "2026-11-04T13:21:00.032Z"
     }
   ]
 }
