@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-06T22:27:36.095Z",
+  "actualizado": "2026-11-07T03:24:52.387Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
+      "sitio": "El Destape",
+      "titulo": "“El Niño” en la era Milei: obras paralizadas y fondos para infraestructura subejecutados",
+      "url": "https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
+      "detectado": "2026-11-07T03:24:51.770Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-07T03:24:51.770Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-07T03:24:51.770Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nos-van-cagar-milei-tiene-otra-vice-bullrich-va-presidencia-2026117058",
+      "sitio": "El Destape",
+      "titulo": "“Nos van a cagar”: Milei ya tiene otra vice y Bullrich va por la presidencia",
+      "url": "https://www.eldestapeweb.com/politica/nos-van-cagar-milei-tiene-otra-vice-bullrich-va-presidencia-2026117058",
+      "detectado": "2026-11-07T03:24:51.770Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-07T03:24:51.770Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/cnv-crea-una-tasa-para-los-ff-fal-y-los-exime-del-arancel/",
       "sitio": "Contadores en Red",
@@ -240,13 +275,6 @@
       "detectado": "2026-11-05T13:34:50.533Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-05T13:34:57.962Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/milei-pidio-malvinas-cumbre-iberoamericana-madrid-202611583956",
       "sitio": "El Destape",
       "titulo": "Milei volvió a tildar al socialismo de \"fascista\" frente a Pedro Sánchez",
@@ -286,13 +314,6 @@
       "sitio": "El Destape",
       "titulo": "La recesión asfixia a las PyME: se estiran los plazos de cobro y se achican los de pago",
       "url": "https://www.eldestapeweb.com/economia/alerta-cadena-pagos-morosidad-pymes-mora-disparo-840-crece-recesion-20261150512",
-      "detectado": "2026-11-05T03:53:00.312Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-11-05T03:53:00.312Z"
     },
     {
@@ -373,13 +394,6 @@
       "detectado": "2026-11-04T22:56:33.060Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-04T22:56:33.060Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/reves-milei-libra-camara-casacion-acepto-queja-victimas-allana-camino-reincorporarlas-querellantes-2026114144934",
       "sitio": "El Destape",
       "titulo": "$LIBRA: Casación aceptó la queja de víctimas y podría reincorporarlos como querellantes",
@@ -406,20 +420,6 @@
       "titulo": "Ejecuciones fiscales: prorrogan la suspensión hasta junio de 2027 y amplían su alcance a MiPyMEs",
       "url": "https://contadoresenred.com/ejecuciones-fiscales-prorrogan-la-suspension-hasta-junio-de-2027-y-amplian-su-alcance-a-mipymes/",
       "detectado": "2026-11-04T13:21:00.032Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/sire-iva-arca-incorpora-retenciones-y-percepciones-obligatorias-desde-abril-de-2027/",
-      "sitio": "Ignacio Online",
-      "titulo": "SIRE IVA: ARCA incorpora retenciones y percepciones obligatorias desde abril de 2027",
-      "url": "https://www.ignacioonline.com.ar/sire-iva-arca-incorpora-retenciones-y-percepciones-obligatorias-desde-abril-de-2027/",
-      "detectado": "2026-11-04T13:21:01.162Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/bolsas-internacionales-caen-paliza-sufrio-donald-trump-202611485351",
-      "sitio": "El Destape",
-      "titulo": "Las bolsas internacionales caen tras la paliza que sufrió Donald Trump",
-      "url": "https://www.eldestapeweb.com/economia/bolsas-internacionales-caen-paliza-sufrio-donald-trump-202611485351",
-      "detectado": "2026-11-04T13:21:05.539Z"
     }
   ]
 }
