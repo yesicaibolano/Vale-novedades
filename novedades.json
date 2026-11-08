@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-07T21:08:14.365Z",
+  "actualizado": "2026-11-08T02:53:21.437Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/triunfos-lula-partido-democrata-giro-global-impone-nueva-agenda-politica-2026117214525",
+      "sitio": "El Destape",
+      "titulo": "¿La hora de los pueblos? Los límites del poder del dinero",
+      "url": "https://www.eldestapeweb.com/politica/triunfos-lula-partido-democrata-giro-global-impone-nueva-agenda-politica-2026117214525",
+      "detectado": "2026-11-08T02:53:21.025Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-11-08T02:53:21.025Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-campeon-triunfo-agonico-bombonera-abrochar-tabla-anual-2026117193729",
+      "sitio": "El Destape",
+      "titulo": "¡Boca campeón! Triunfo agónico en La Bombonera para ganar la Tabla Anual",
+      "url": "https://www.eldestapeweb.com/deportes/boca-campeon-triunfo-agonico-bombonera-abrochar-tabla-anual-2026117193729",
+      "detectado": "2026-11-08T02:53:21.025Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "sitio": "El Destape",
+      "titulo": "Elecciones en Estados Unidos",
+      "url": "https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
+      "detectado": "2026-11-08T02:53:21.025Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-bolsonaro-netanyahu-10-dias-estremecieron-mundo-milei-202611718025",
+      "sitio": "El Destape",
+      "titulo": "Trump, Bolsonaro, Netanyahu: 10 días que estremecieron el mundo de Milei",
+      "url": "https://www.eldestapeweb.com/politica/trump-bolsonaro-netanyahu-10-dias-estremecieron-mundo-milei-202611718025",
+      "detectado": "2026-11-08T02:53:21.025Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/insolitas-razones-justicia-sobreseyo-manuel-adorni-enriquecimiento-ilicito-202611716108",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Empleados de Comercio Call Center: aumento del 5,7% y suma de $50.000 para el CCT 781/20",
       "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
       "detectado": "2026-11-05T03:52:55.905Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-cadena-pagos-morosidad-pymes-mora-disparo-840-crece-recesion-20261150512",
-      "sitio": "El Destape",
-      "titulo": "La recesión asfixia a las PyME: se estiran los plazos de cobro y se achican los de pago",
-      "url": "https://www.eldestapeweb.com/economia/alerta-cadena-pagos-morosidad-pymes-mora-disparo-840-crece-recesion-20261150512",
-      "detectado": "2026-11-05T03:53:00.312Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
-      "sitio": "El Destape",
-      "titulo": "Bullrich profundiza la distancia con Milei y polariza con CFK",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-profundiza-distancia-milei-polariza-cfk-si-quieren-pureza-saquen-54-20261150512",
-      "detectado": "2026-11-05T03:53:00.312Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pj-oficializo-acordado-maximo-kirchner-presidira-congreso-partidario-20261150512",
-      "sitio": "El Destape",
-      "titulo": "Peronismo bonaerense",
-      "url": "https://www.eldestapeweb.com/politica/pj-oficializo-acordado-maximo-kirchner-presidira-congreso-partidario-20261150512",
-      "detectado": "2026-11-05T03:53:00.312Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-05T03:53:00.312Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/sisa-fagce-difundio-la-respuesta-de-arca-sobre-los-avisos-por-reintegros-de-iva/",
-      "sitio": "Contadores en Red",
-      "titulo": "SISA. FAGCE difundió la respuesta de ARCA sobre los avisos por reintegros de IVA.",
-      "url": "https://contadoresenred.com/sisa-fagce-difundio-la-respuesta-de-arca-sobre-los-avisos-por-reintegros-de-iva/",
-      "detectado": "2026-11-04T22:56:28.445Z"
     }
   ]
 }
