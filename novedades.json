@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-08T12:17:39.689Z",
+  "actualizado": "2026-11-08T21:24:34.019Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Coro del Consejo celebra 35 años de música",
+      "url": "https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
+      "detectado": "2026-11-08T21:24:32.183Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-1-llegada-aeroparque-milei-cronograma-hoy-202611815026",
+      "sitio": "El Destape",
+      "titulo": "Histórica visita del Papa: Milei lo recibe en la Casa Rosada",
+      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-1-llegada-aeroparque-milei-cronograma-hoy-202611815026",
+      "detectado": "2026-11-08T21:24:33.591Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/cinco-monjas-volcaron-camino-lujan-cuando-viajaban-ver-papa-leon-xiv-2026118171151",
+      "sitio": "El Destape",
+      "titulo": "Cinco monjas volcaron camino a Luján cuando viajaban para ver al Papa León XIV",
+      "url": "https://www.eldestapeweb.com/sociedad/cinco-monjas-volcaron-camino-lujan-cuando-viajaban-ver-papa-leon-xiv-2026118171151",
+      "detectado": "2026-11-08T21:24:33.591Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/ventas-minoristas-cayeron-1-6-octubre-acumulan-retroceso-2-ano-2026118124617",
+      "sitio": "El Destape",
+      "titulo": "Las ventas minoristas cayeron 1,6% en octubre y el retroceso sigue en lo que va el año",
+      "url": "https://www.eldestapeweb.com/economia/ventas-minoristas-cayeron-1-6-octubre-acumulan-retroceso-2-ano-2026118124617",
+      "detectado": "2026-11-08T21:24:33.591Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-lucho-brasil-hizo-carrera-digna-acabo-13-puntos-202611815410",
+      "sitio": "El Destape",
+      "titulo": "Colapinto luchó e hizo una carrera digna, pero acabó 13° y sin puntos",
+      "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-lucho-brasil-hizo-carrera-digna-acabo-13-puntos-202611815410",
+      "detectado": "2026-11-08T21:24:33.591Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "FAL: las entidades sin fines de lucro ya pueden solicitar su categorización",
       "url": "https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
       "detectado": "2026-11-05T13:34:50.533Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/plan-de-pagos-para-mipymes-se-podra-incluir-deuda-hasta-octubre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Plan de pagos para MIPYMES se podrá incluir deuda hasta Octubre 2026.",
-      "url": "https://contadoresenred.com/plan-de-pagos-para-mipymes-se-podra-incluir-deuda-hasta-octubre-2026/",
-      "detectado": "2026-11-05T13:34:50.533Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/arca-extiende-hasta-junio-de-2027-la-suspension-de-ejecuciones-fiscales-y-medidas-cautelares/",
-      "sitio": "Contadores en Red",
-      "titulo": "ARCA extiende hasta junio de 2027 la suspensión de ejecuciones fiscales y medidas cautelares",
-      "url": "https://contadoresenred.com/arca-extiende-hasta-junio-de-2027-la-suspension-de-ejecuciones-fiscales-y-medidas-cautelares/",
-      "detectado": "2026-11-05T13:34:50.533Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-pidio-malvinas-cumbre-iberoamericana-madrid-202611583956",
-      "sitio": "El Destape",
-      "titulo": "Milei volvió a tildar al socialismo de \"fascista\" frente a Pedro Sánchez",
-      "url": "https://www.eldestapeweb.com/economia/milei-pidio-malvinas-cumbre-iberoamericana-madrid-202611583956",
-      "detectado": "2026-11-05T13:34:57.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/santiago-pena-quedo-paso-destitucion-juicio-politico-paraguay-2026115101844",
-      "sitio": "El Destape",
-      "titulo": "Santiago Peña quedó a un paso de la destitución por juicio político en Paraguay",
-      "url": "https://www.eldestapeweb.com/internacionales/santiago-pena-quedo-paso-destitucion-juicio-politico-paraguay-2026115101844",
-      "detectado": "2026-11-05T13:34:57.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/chau-portugal-cristiano-ronaldo-retiro-seleccion-41-anos-202611592055",
-      "sitio": "El Destape",
-      "titulo": "Fútbol internacional",
-      "url": "https://www.eldestapeweb.com/deportes/chau-portugal-cristiano-ronaldo-retiro-seleccion-41-anos-202611592055",
-      "detectado": "2026-11-05T13:34:57.962Z"
     }
   ]
 }
