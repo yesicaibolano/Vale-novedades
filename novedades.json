@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-11-08T02:53:21.437Z",
+  "actualizado": "2026-11-08T12:17:39.689Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "detectado": "2026-11-08T12:17:39.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-llega-argentina-agenda-desafia-gobierno-milei-20261180525",
+      "sitio": "El Destape",
+      "titulo": "El Papa León XIV llega a la Argentina con una agenda que desafía al gobierno de Milei",
+      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-llega-argentina-agenda-desafia-gobierno-milei-20261180525",
+      "detectado": "2026-11-08T12:17:39.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-nuevos-duenos-economia-empresas-extranjeras-van-20261180525",
+      "sitio": "El Destape",
+      "titulo": "Quiénes ganan con el modelo de Milei",
+      "url": "https://www.eldestapeweb.com/economia/milei-nuevos-duenos-economia-empresas-extranjeras-van-20261180525",
+      "detectado": "2026-11-08T12:17:39.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
+      "sitio": "El Destape",
+      "titulo": "El Riesgo Pato acelera la fuga, trampa fallida al Papa y la Argentina \"aislada del mundo\"",
+      "url": "https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
+      "detectado": "2026-11-08T12:17:39.257Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/triunfos-lula-partido-democrata-giro-global-impone-nueva-agenda-politica-2026117214525",
       "sitio": "El Destape",
@@ -90,13 +118,6 @@
       "sitio": "El Destape",
       "titulo": "Peña destituido: Lula y Kast reconocieron a Alliana como presidente de Paraguay",
       "url": "https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
-      "detectado": "2026-11-07T17:20:12.066Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
-      "sitio": "El Destape",
-      "titulo": "El Riesgo Pato acelera la fuga, trampa fallida al Papa y la Argentina \"aislada del mundo\"",
-      "url": "https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
       "detectado": "2026-11-07T17:20:12.066Z"
     },
     {
@@ -261,13 +282,6 @@
       "detectado": "2026-11-06T13:19:00.999Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "detectado": "2026-11-06T13:19:06.894Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-partio-rumbo-uruguay-previa-visita-argentina-202611683523",
       "sitio": "El Destape",
       "titulo": "León XIV ya partió rumbo a Uruguay, en la previa de su visita a Argentina",
@@ -406,20 +420,6 @@
       "titulo": "Fútbol internacional",
       "url": "https://www.eldestapeweb.com/deportes/chau-portugal-cristiano-ronaldo-retiro-seleccion-41-anos-202611592055",
       "detectado": "2026-11-05T13:34:57.962Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/crisis-empleo-no-hubo-40-000-postulaciones-side-24-horas-202611510715",
-      "sitio": "El Destape",
-      "titulo": "La crisis del empleo no para: hubo 40.000 postulaciones a la SIDE en 24 horas",
-      "url": "https://www.eldestapeweb.com/politica/crisis-empleo-no-hubo-40-000-postulaciones-side-24-horas-202611510715",
-      "detectado": "2026-11-05T13:34:57.962Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio Call Center: aumento del 5,7% y suma de $50.000 para el CCT 781/20",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-call-center-aumento-del-57-y-suma-de-50-000-para-el-cct-781-20/",
-      "detectado": "2026-11-05T03:52:55.905Z"
     }
   ]
 }
