@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-09T03:13:48.295Z",
+  "actualizado": "2026-11-09T14:29:08.747Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
+      "sitio": "El Destape",
+      "titulo": "León XIV: \"El progreso se mide por cómo se acoge a las personas con discapacidad\"",
+      "url": "https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
+      "detectado": "2026-11-09T14:29:08.367Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-vivo-dia-2-misa-monumento-espanoles-visita-cottolengo-don-orione-agenda-hoy-202611963052",
+      "sitio": "El Destape",
+      "titulo": "El Papa viaja al Monumento a los Españoles para dar una misa por cadena nacional",
+      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-vivo-dia-2-misa-monumento-espanoles-visita-cottolengo-don-orione-agenda-hoy-202611963052",
+      "detectado": "2026-11-09T14:29:08.368Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/mejores-fotos-llegada-papa-leon-xiv-claypole-visitar-cottolengo-don-orione-2026119105247",
+      "sitio": "El Destape",
+      "titulo": "Las mejores fotos de la llegada del papa León XIV al Cottolengo Don Orione",
+      "url": "https://www.eldestapeweb.com/sociedad/mejores-fotos-llegada-papa-leon-xiv-claypole-visitar-cottolengo-don-orione-2026119105247",
+      "detectado": "2026-11-09T14:29:08.368Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cayo-mal-primer-discurso-papa-intentan-matizarlo-202611993949",
+      "sitio": "El Destape",
+      "titulo": "En el Gobierno cayó mal el primer discurso del Papa, pero intentan matizarlo",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-cayo-mal-primer-discurso-papa-intentan-matizarlo-202611993949",
+      "detectado": "2026-11-09T14:29:08.368Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-argentina-policia-detuvo-dos-personas-amenaza-muerte-papa-2026119105810",
+      "sitio": "El Destape",
+      "titulo": "Detuvieron a Tomás Natenzon y a otro hombre por amenazas durante la visita del Papa",
+      "url": "https://www.eldestapeweb.com/politica/leon-xiv-argentina-policia-detuvo-dos-personas-amenaza-muerte-papa-2026119105810",
+      "detectado": "2026-11-09T14:29:08.368Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Por Fernando Alonso",
       "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-11-06T03:51:19.318Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/fiscales-suben-acusaciones-pena-mientras-presidente-ratifico-ira-juicio-2026115221846",
-      "sitio": "El Destape",
-      "titulo": "Los fiscales avanzan contra Peña, quien responde: \"Me defenderé\"",
-      "url": "https://www.eldestapeweb.com/internacionales/fiscales-suben-acusaciones-pena-mientras-presidente-ratifico-ira-juicio-2026115221846",
-      "detectado": "2026-11-06T03:51:19.318Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/banco-central-confirmo-desplome-economico-advierten-economia-sufrira-derrumbe-peor-esperado-202611520455",
-      "sitio": "El Destape",
-      "titulo": "Se profundiza la recesión y el mercado prevé un crecimiento de menos del 1% en 2026",
-      "url": "https://www.eldestapeweb.com/economia/banco-central-confirmo-desplome-economico-advierten-economia-sufrira-derrumbe-peor-esperado-202611520455",
-      "detectado": "2026-11-06T03:51:19.318Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mientras-presidente-esta-exterior-fuerte-jugada-politica-karina-milei-claro-mensaje-patricia-bullrich-202611520547",
-      "sitio": "El Destape",
-      "titulo": "Karina Milei movió fichas y mostró a los suyos, en un desafío a Bullrich",
-      "url": "https://www.eldestapeweb.com/politica/mientras-presidente-esta-exterior-fuerte-jugada-politica-karina-milei-claro-mensaje-patricia-bullrich-202611520547",
-      "detectado": "2026-11-06T03:51:19.318Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16041-inscripcion-de-auxiliares-de-justicia-2027-verificacion-de-inscripciones",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Inscripción de Auxiliares de Justicia 2027 – Verificación de Inscripciones",
-      "url": "https://www.cpba.com.ar/noticias/item/16041-inscripcion-de-auxiliares-de-justicia-2027-verificacion-de-inscripciones",
-      "detectado": "2026-11-05T22:57:17.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país se dispara a 925 puntos y crece la presión sobre Milei",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
-      "detectado": "2026-11-05T22:57:18.887Z"
     }
   ]
 }
