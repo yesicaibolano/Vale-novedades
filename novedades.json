@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-08T21:24:34.019Z",
+  "actualizado": "2026-11-09T03:13:48.295Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
+      "detectado": "2026-11-09T03:13:47.767Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/noche-anterior-miles-fieles-hacen-fila-misa-papa-leon-xiv-202611821553",
+      "sitio": "El Destape",
+      "titulo": "Desde la noche del domingo, miles de fieles hacen fila para la misa del papa León XIV",
+      "url": "https://www.eldestapeweb.com/sociedad/noche-anterior-miles-fieles-hacen-fila-misa-papa-leon-xiv-202611821553",
+      "detectado": "2026-11-09T03:13:47.767Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-presentacion-leon-xiv-no-quiero-meterme-barro-usar-politicamente-discurso-2026118204635",
+      "sitio": "El Destape",
+      "titulo": "Milei, sobre León XIV: \"No quiero meterme en el barro de usar políticamente su discurso\"",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-presentacion-leon-xiv-no-quiero-meterme-barro-usar-politicamente-discurso-2026118204635",
+      "detectado": "2026-11-09T03:13:47.767Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/golpe-gastronomia-61-argentinos-no-sale-comer-afuera-caida-ingreso-20261190551",
+      "sitio": "El Destape",
+      "titulo": "El ajuste al disfrute: el 61% de los argentinos ya no sale nunca a comer",
+      "url": "https://www.eldestapeweb.com/economia/golpe-gastronomia-61-argentinos-no-sale-comer-afuera-caida-ingreso-20261190551",
+      "detectado": "2026-11-09T03:13:47.767Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-09T03:13:47.767Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
       "sitio": "CPBA (Buenos Aires)",
@@ -174,13 +209,6 @@
       "sitio": "El Destape",
       "titulo": "“El Niño” en la era Milei: obras paralizadas y fondos para infraestructura subejecutados",
       "url": "https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
-      "detectado": "2026-11-07T03:24:51.770Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-11-07T03:24:51.770Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "El riesgo país se dispara a 925 puntos y crece la presión sobre Milei",
       "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-900-puntos-crece-preocupacion-economia-milei-2026115124159",
       "detectado": "2026-11-05T22:57:18.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/renuncio-presidente-paraguay-santiago-pena-medio-crisis-financiera-caso-ueno-bank-2026115132945",
-      "sitio": "El Destape",
-      "titulo": "Renunció el presidente de Paraguay, Santiago Peña, en medio de la crisis financiera",
-      "url": "https://www.eldestapeweb.com/internacionales/renuncio-presidente-paraguay-santiago-pena-medio-crisis-financiera-caso-ueno-bank-2026115132945",
-      "detectado": "2026-11-05T22:57:18.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/diputados-senadores-paraguayos-afirmaron-santiago-pena-habria-huido-argentina-2026115183028",
-      "sitio": "El Destape",
-      "titulo": "Diputados y senadores paraguayos afirmaron que Santiago Peña habría huido a la Argentina",
-      "url": "https://www.eldestapeweb.com/internacionales/diputados-senadores-paraguayos-afirmaron-santiago-pena-habria-huido-argentina-2026115183028",
-      "detectado": "2026-11-05T22:57:18.887Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/medio-crisis-derrota-trump-gobierno-rezan-papa-no-baje-mensaje-politico-milei-2026115134142",
-      "sitio": "El Destape",
-      "titulo": "En medio de la crisis, en el Gobierno \"rezan\" para que el Papa no baje un mensaje político",
-      "url": "https://www.eldestapeweb.com/politica/medio-crisis-derrota-trump-gobierno-rezan-papa-no-baje-mensaje-politico-milei-2026115134142",
-      "detectado": "2026-11-05T22:57:18.887Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
-      "sitio": "Contadores en Red",
-      "titulo": "FAL: las entidades sin fines de lucro ya pueden solicitar su categorización",
-      "url": "https://contadoresenred.com/fal-las-entidades-sin-fines-de-lucro-ya-pueden-solicitar-su-categorizacion/",
-      "detectado": "2026-11-05T13:34:50.533Z"
     }
   ]
 }
