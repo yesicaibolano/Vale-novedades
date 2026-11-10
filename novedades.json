@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-10T00:54:14.917Z",
+  "actualizado": "2026-11-10T13:50:55.281Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se acerca el vencimiento del 5to Anticipo del DEP",
+      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
+      "detectado": "2026-11-10T13:50:53.433Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16049-nueva-jura-en-general-pueyrredon",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nueva jura en General Pueyrredon",
+      "url": "https://www.cpba.com.ar/noticias/item/16049-nueva-jura-en-general-pueyrredon",
+      "detectado": "2026-11-10T13:50:53.434Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16048-ahora-en-repro-ciberseguridad-en-estudios-contables-como-cambian-las-amenazas-en-tiempos-de-ia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Ciberseguridad en estudios contables: Cómo cambian las amenazas en tiempos de…",
+      "url": "https://www.cpba.com.ar/noticias/item/16048-ahora-en-repro-ciberseguridad-en-estudios-contables-como-cambian-las-amenazas-en-tiempos-de-ia",
+      "detectado": "2026-11-10T13:50:53.434Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-3-misa-cordoba-papamovil-vigilia-jovenes-palermo-202611106303",
+      "sitio": "El Destape",
+      "titulo": "El Papa recorre el Interior del país",
+      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-3-misa-cordoba-papamovil-vigilia-jovenes-palermo-202611106303",
+      "detectado": "2026-11-10T13:50:54.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/juan-pablo-ii-leon-xiv-fabrica-aviones-crisis-donde-papa-dara-misa-cordoba-2026117111919",
+      "sitio": "El Destape",
+      "titulo": "De Juan Pablo II a León XIV: la fábrica en crisis donde el Papa dará misa en Córdoba",
+      "url": "https://www.eldestapeweb.com/politica/juan-pablo-ii-leon-xiv-fabrica-aviones-crisis-donde-papa-dara-misa-cordoba-2026117111919",
+      "detectado": "2026-11-10T13:50:54.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/paro-cgt-adelanto-central-obrera-reunion-papa-leon-xiv-uca-20261110101844",
+      "sitio": "El Destape",
+      "titulo": "El mensaje del Papa revitalizó a la CGT, pero no hay paro a la vista",
+      "url": "https://www.eldestapeweb.com/internacionales/paro-cgt-adelanto-central-obrera-reunion-papa-leon-xiv-uca-20261110101844",
+      "detectado": "2026-11-10T13:50:54.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trastienda-misa-papal-guerra-fotos-faltazo-macri-tensiones-bullrich-2026119215426",
+      "sitio": "El Destape",
+      "titulo": "La trastienda de la misa papal: guerra de fotos, faltazo de Macri y tensiones con Bullrich",
+      "url": "https://www.eldestapeweb.com/politica/trastienda-misa-papal-guerra-fotos-faltazo-macri-tensiones-bullrich-2026119215426",
+      "detectado": "2026-11-10T13:50:54.791Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/duro-reclamo-milei-mujer-paralisis-cerebral-conmovio-papa-tendria-tener-corazon-blando-20261110103840",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/sociedad/duro-reclamo-milei-mujer-paralisis-cerebral-conmovio-papa-tendria-tener-corazon-blando-20261110103840",
+      "detectado": "2026-11-10T13:50:54.791Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/otra-dura-critica-papa-gobierno-ahora-apunto-tierra-techo-trabajo-2026119172819",
       "sitio": "El Destape",
@@ -364,62 +420,6 @@
       "titulo": "El riesgo país volvió a escalar y superó los 930 puntos por la caída de los bonos",
       "url": "https://www.eldestapeweb.com/economia/riesgo-pais-volvio-escalar-supero-930-puntos-caida-bonos-202611617128",
       "detectado": "2026-11-06T22:27:35.731Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/golpe-industria-produccion-manufacturera-cae-2-6-anual-profundiza-recesion-2026116175936",
-      "sitio": "El Destape",
-      "titulo": "La producción industrial manufacturera acumula una caída anual del 2,6%",
-      "url": "https://www.eldestapeweb.com/economia/golpe-industria-produccion-manufacturera-cae-2-6-anual-profundiza-recesion-2026116175936",
-      "detectado": "2026-11-06T22:27:35.731Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/bullrich-sumo-presion-milei-ludopatia-anuncio-fecha-tratamiento-202611616527",
-      "sitio": "El Destape",
-      "titulo": "Bullrich se sumó a la presión a Milei por Ludopatía y anunció fecha de tratamiento",
-      "url": "https://www.eldestapeweb.com/politica/bullrich-sumo-presion-milei-ludopatia-anuncio-fecha-tratamiento-202611616527",
-      "detectado": "2026-11-06T22:27:35.731Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/refres-now-prescripcion-tributaria-inocencia-fiscal/",
-      "sitio": "Contadores en Red",
-      "titulo": "Refres Now: la Cámara pone límites a ARCA en materia de prescripción y evasión tributaria",
-      "url": "https://contadoresenred.com/refres-now-prescripcion-tributaria-inocencia-fiscal/",
-      "detectado": "2026-11-06T13:19:00.999Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/f-u-t-u-r-o-la-nueva-presentacion-mensual-para-empleadores-bonaerenses/",
-      "sitio": "Contadores en Red",
-      "titulo": "F.U.T.U.R.O. La nueva presentación mensual para Empleadores bonaerenses.",
-      "url": "https://contadoresenred.com/f-u-t-u-r-o-la-nueva-presentacion-mensual-para-empleadores-bonaerenses/",
-      "detectado": "2026-11-06T13:19:00.999Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/rimi-se-adecua-el-procedimiento-para-recuperar-el-iva-de-las-inversiones/",
-      "sitio": "Contadores en Red",
-      "titulo": "RIMI: se adecua el procedimiento para recuperar el IVA de las inversiones.",
-      "url": "https://contadoresenred.com/rimi-se-adecua-el-procedimiento-para-recuperar-el-iva-de-las-inversiones/",
-      "detectado": "2026-11-06T13:19:00.999Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-partio-rumbo-uruguay-previa-visita-argentina-202611683523",
-      "sitio": "El Destape",
-      "titulo": "León XIV ya partió rumbo a Uruguay, en la previa de su visita a Argentina",
-      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-partio-rumbo-uruguay-previa-visita-argentina-202611683523",
-      "detectado": "2026-11-06T13:19:06.894Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
-      "sitio": "El Destape",
-      "titulo": "Santiago Peña pidió una prórroga de 72 horas para ejercer su defensa en el juicio político",
-      "url": "https://www.eldestapeweb.com/internacionales/corralito-paraguay-todas-noticias-escandalo-ueno-bank-este-jueves-5-noviembre-2026115105049",
-      "detectado": "2026-11-06T13:19:06.894Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "sitio": "El Destape",
-      "titulo": "Provincia de Buenos Aires",
-      "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
-      "detectado": "2026-11-06T13:19:06.894Z"
     }
   ]
 }
