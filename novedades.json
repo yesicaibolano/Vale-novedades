@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-10T13:50:55.281Z",
+  "actualizado": "2026-11-10T22:36:18.926Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Falta poco para la 2ª Jornada Provincial de Actuación Laboral y Previsional",
+      "url": "https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "detectado": "2026-11-10T22:36:16.818Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-parafraseo-francisco-pidio-suenen-iglesia-siga-haciendo-lio-2026111016620",
+      "sitio": "El Destape",
+      "titulo": "León XIV parafraseó a Francisco y pidió: \"Sueñen con una Iglesia que siga haciendo lío\"",
+      "url": "https://www.eldestapeweb.com/politica/leon-xiv-parafraseo-francisco-pidio-suenen-iglesia-siga-haciendo-lio-2026111016620",
+      "detectado": "2026-11-10T22:36:18.188Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/revelador-cara-cara-cordoba-trastienda-dialogo-desguace-milei-leon-xiv-referenta-social-2026111015474",
+      "sitio": "El Destape",
+      "titulo": "El detrás del diálogo sobre el desguace de Milei entre León XIV y una referenta",
+      "url": "https://www.eldestapeweb.com/politica/revelador-cara-cara-cordoba-trastienda-dialogo-desguace-milei-leon-xiv-referenta-social-2026111015474",
+      "detectado": "2026-11-10T22:36:18.188Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "sitio": "El Destape",
+      "titulo": "Por Javier Peverelli",
+      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
+      "detectado": "2026-11-10T22:36:18.188Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/desploman-acciones-argentina-wall-street-otro-dia-negro-mercados-2026111013491",
+      "sitio": "El Destape",
+      "titulo": "Desplome de las acciones argentinas en Wall Street en otro día negro en los mercados",
+      "url": "https://www.eldestapeweb.com/economia/desploman-acciones-argentina-wall-street-otro-dia-negro-mercados-2026111013491",
+      "detectado": "2026-11-10T22:36:18.188Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/visita-papa-leon-xiv-argentina-60-menciones-milei-redes-fue-negativa-nueva-encuesta-20261110124113",
+      "sitio": "El Destape",
+      "titulo": "Informe revela que la visita del Papa complicó a Milei en las redes sociales",
+      "url": "https://www.eldestapeweb.com/sociedad/visita-papa-leon-xiv-argentina-60-menciones-milei-redes-fue-negativa-nueva-encuesta-20261110124113",
+      "detectado": "2026-11-10T22:36:18.188Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
       "sitio": "CPBA (Buenos Aires)",
@@ -303,13 +345,6 @@
       "detectado": "2026-11-07T17:20:12.066Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "sitio": "El Destape",
-      "titulo": "Por Javier Peverelli",
-      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "detectado": "2026-11-07T17:20:12.066Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
       "sitio": "El Destape",
       "titulo": "Peña destituido: Lula y Kast reconocieron a Alliana como presidente de Paraguay",
@@ -385,41 +420,6 @@
       "titulo": "Encuentro de Delegados Presidentes en Mar del Plata",
       "url": "https://www.cpba.com.ar/noticias/item/16042-encuentro-de-delegados-presidentes-en-mar-del-plata",
       "detectado": "2026-11-06T22:27:34.317Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16044-el-consejo-presente-en-el-encuentro-deportivo-nacional-en-salta",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo, presente en el Encuentro Deportivo Nacional en Salta",
-      "url": "https://www.cpba.com.ar/noticias/item/16044-el-consejo-presente-en-el-encuentro-deportivo-nacional-en-salta",
-      "detectado": "2026-11-06T22:27:34.317Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16043-f-u-t-u-r-o-nueva-declaracion-jurada-mensual-para-empleadores-bonaerenses",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "F.U.T.U.R.O: Nueva declaración jurada mensual para empleadores bonaerenses",
-      "url": "https://www.cpba.com.ar/noticias/item/16043-f-u-t-u-r-o-nueva-declaracion-jurada-mensual-para-empleadores-bonaerenses",
-      "detectado": "2026-11-06T22:27:34.317Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16047-ahora-en-repro-inteligencia-artificial-en-el-estado-desafio-tecnologico-o-institucional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Inteligencia artificial en el Estado: ¿Desafío tecnológico o institucional?",
-      "url": "https://www.cpba.com.ar/noticias/item/16047-ahora-en-repro-inteligencia-artificial-en-el-estado-desafio-tecnologico-o-institucional",
-      "detectado": "2026-11-06T22:27:34.317Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/leon-xiv-america-latina-papa-hablo-artigas-recordo-francisco-hablo-responsabilidad-bien-comun-2026116184216",
-      "sitio": "El Destape",
-      "titulo": "León XIV habló de Artigas, recordó a Francisco y habló de \"responsabilidad del bien común\"",
-      "url": "https://www.eldestapeweb.com/internacionales/leon-xiv-america-latina-papa-hablo-artigas-recordo-francisco-hablo-responsabilidad-bien-comun-2026116184216",
-      "detectado": "2026-11-06T22:27:35.731Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-volvio-escalar-supero-930-puntos-caida-bonos-202611617128",
-      "sitio": "El Destape",
-      "titulo": "El riesgo país volvió a escalar y superó los 930 puntos por la caída de los bonos",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-volvio-escalar-supero-930-puntos-caida-bonos-202611617128",
-      "detectado": "2026-11-06T22:27:35.731Z"
     }
   ]
 }
