@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-09T14:29:08.747Z",
+  "actualizado": "2026-11-10T00:54:14.917Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/otra-dura-critica-papa-gobierno-ahora-apunto-tierra-techo-trabajo-2026119172819",
+      "sitio": "El Destape",
+      "titulo": "Otra dura crítica del Papa al Gobierno: ahora apuntó a \"Tierra, techo y trabajo\"",
+      "url": "https://www.eldestapeweb.com/sociedad/otra-dura-critica-papa-gobierno-ahora-apunto-tierra-techo-trabajo-2026119172819",
+      "detectado": "2026-11-10T00:54:14.476Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-testigo-nuevo-capitulo-pelea-milei-villarruel-2026119192358",
+      "sitio": "El Destape",
+      "titulo": "León XIV, testigo de un nuevo capítulo en la pelea entre Milei y Villarruel",
+      "url": "https://www.eldestapeweb.com/politica/leon-xiv-testigo-nuevo-capitulo-pelea-milei-villarruel-2026119192358",
+      "detectado": "2026-11-10T00:54:14.476Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-10T00:54:14.476Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-reunio-victimas-abuso-dentro-iglesia-2026119163435",
+      "sitio": "El Destape",
+      "titulo": "El papa León XIV se reunió con víctimas de abuso dentro de la Iglesia",
+      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-reunio-victimas-abuso-dentro-iglesia-2026119163435",
+      "detectado": "2026-11-10T00:54:14.476Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-10T00:54:14.476Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
       "sitio": "El Destape",
@@ -247,13 +282,6 @@
       "detectado": "2026-11-07T03:24:51.770Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-07T03:24:51.770Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/nos-van-cagar-milei-tiene-otra-vice-bullrich-va-presidencia-2026117058",
       "sitio": "El Destape",
       "titulo": "“Nos van a cagar”: Milei ya tiene otra vice y Bullrich va por la presidencia",
@@ -352,13 +380,6 @@
       "detectado": "2026-11-06T22:27:35.731Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-11-06T22:27:35.731Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/refres-now-prescripcion-tributaria-inocencia-fiscal/",
       "sitio": "Contadores en Red",
       "titulo": "Refres Now: la Cámara pone límites a ARCA en materia de prescripción y evasión tributaria",
@@ -399,27 +420,6 @@
       "titulo": "Provincia de Buenos Aires",
       "url": "https://www.eldestapeweb.com/tag/provincia-de-buenos-aires",
       "detectado": "2026-11-06T13:19:06.894Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/guerra-armado-bonaerense-jugada-ex-river-amenaza-golpear-alianza-pro-milei-20261160529",
-      "sitio": "El Destape",
-      "titulo": "Fuego amigo: guerra entre el PRO y exsocios por un territorio clave",
-      "url": "https://www.eldestapeweb.com/politica/guerra-armado-bonaerense-jugada-ex-river-amenaza-golpear-alianza-pro-milei-20261160529",
-      "detectado": "2026-11-06T13:19:06.894Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mercado-mira-impacto-riesgo-pais-mil-financiamiento-tesoro-2026115214358",
-      "sitio": "El Destape",
-      "titulo": "El mercado mirá el impacto del Riesgo País en mil en el financiamiento del Tesoro",
-      "url": "https://www.eldestapeweb.com/economia/mercado-mira-impacto-riesgo-pais-mil-financiamiento-tesoro-2026115214358",
-      "detectado": "2026-11-06T03:51:19.318Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-11-06T03:51:19.318Z"
     }
   ]
 }
