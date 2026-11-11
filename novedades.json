@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-11T13:01:40.973Z",
+  "actualizado": "2026-11-11T23:45:36.562Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
+      "detectado": "2026-11-11T23:45:36.008Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/gabriel-santana",
+      "sitio": "El Destape",
+      "titulo": "Por Gabriel Santana",
+      "url": "https://www.eldestapeweb.com/perfil/gabriel-santana",
+      "detectado": "2026-11-11T23:45:36.008Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/hora-descartados-ecos-politicos-visita-papa-leon-xiv-argentina-20261111201323",
+      "sitio": "El Destape",
+      "titulo": "¿La hora de los descartados? Ecos políticos de la visita del Papa León XIV",
+      "url": "https://www.eldestapeweb.com/politica/hora-descartados-ecos-politicos-visita-papa-leon-xiv-argentina-20261111201323",
+      "detectado": "2026-11-11T23:45:36.008Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/leon-xiv-argentina-este-pais-tiene-dos-papas-2026111115114",
+      "sitio": "El Destape",
+      "titulo": "El emotivo último mensaje de León XIV en Argentina: \"Este país tiene dos Papas\"",
+      "url": "https://www.eldestapeweb.com/sociedad/leon-xiv-argentina-este-pais-tiene-dos-papas-2026111115114",
+      "detectado": "2026-11-11T23:45:36.008Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/interna-feroz-milei-aplicaran-tolerancia-cero-bullrich-suena-reemplazo-2027-20261111161439",
+      "sitio": "El Destape",
+      "titulo": "Se fue el Papa y los Milei arrancan el operativo “tolerancia cero con Bullrich”",
+      "url": "https://www.eldestapeweb.com/politica/interna-feroz-milei-aplicaran-tolerancia-cero-bullrich-suena-reemplazo-2027-20261111161439",
+      "detectado": "2026-11-11T23:45:36.008Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-dia-4-vivo-carcel-devoto-misa-lujan-despedida-ezeiza-202611116302",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Bullrich, camino al 2027: asesora de imagen propia, ejército militante y \"buenas formas\"",
       "url": "https://www.eldestapeweb.com/politica/camino-2027-trastienda-estrategia-politica-estructura-propia-monta-patricia-bullrich-202611717162",
       "detectado": "2026-11-07T21:08:14.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-vs-defensa-justicia-formacion-tv-hora-partido-torneo-clausura-2026117154129",
-      "sitio": "El Destape",
-      "titulo": "Boca vs. Defensa y Justicia: formación, TV y hora del partido por el Torneo Clausura",
-      "url": "https://www.eldestapeweb.com/deportes/boca-vs-defensa-justicia-formacion-tv-hora-partido-torneo-clausura-2026117154129",
-      "detectado": "2026-11-07T21:08:14.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/argentina-espera-papa-mapa-pobreza-vera-leon-xiv-ciudad-ciudad-2026117808",
-      "sitio": "El Destape",
-      "titulo": "La Argentina que espera al Papa: el mapa de la pobreza que verá León",
-      "url": "https://www.eldestapeweb.com/politica/argentina-espera-papa-mapa-pobreza-vera-leon-xiv-ciudad-ciudad-2026117808",
-      "detectado": "2026-11-07T17:20:12.066Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
-      "sitio": "El Destape",
-      "titulo": "Peña destituido: Lula y Kast reconocieron a Alliana como presidente de Paraguay",
-      "url": "https://www.eldestapeweb.com/internacionales/pena-destituido-lula-kast-reconocieron-alliana-presidente-paraguay-202611711519",
-      "detectado": "2026-11-07T17:20:12.066Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dijo-leon-xiv-mate-primera-misa-sudamerica-compartir-2026117141156",
-      "sitio": "El Destape",
-      "titulo": "León XIV y su primera misa en Sudamérica: habló del mate y pidió \"estrechar lazos\"",
-      "url": "https://www.eldestapeweb.com/politica/dijo-leon-xiv-mate-primera-misa-sudamerica-compartir-2026117141156",
-      "detectado": "2026-11-07T17:20:12.066Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
-      "sitio": "Ignacio Online",
-      "titulo": "F.U.T.U.R.O.: otra declaración jurada y el mismo cansancio",
-      "url": "https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
-      "detectado": "2026-11-07T11:58:23.047Z"
     }
   ]
 }
