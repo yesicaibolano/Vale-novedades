@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-10T22:36:18.926Z",
+  "actualizado": "2026-11-11T03:21:29.185Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-despide-argentina-lujan-misa-multitudinaria-enfocada-humildes-20261111052",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/politica/papa-despide-argentina-lujan-misa-multitudinaria-enfocada-humildes-20261111052",
+      "detectado": "2026-11-11T03:21:27.946Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-11T03:21:27.946Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
+      "sitio": "El Destape",
+      "titulo": "El lenguaje prohibido de León XIV",
+      "url": "https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
+      "detectado": "2026-11-11T03:21:27.946Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/papa-leon-xiv-argentina-discurso-economico-combate-ideas-milei-20261111052",
+      "sitio": "El Destape",
+      "titulo": "Paliza política a las ideas de Milei",
+      "url": "https://www.eldestapeweb.com/economia/papa-leon-xiv-argentina-discurso-economico-combate-ideas-milei-20261111052",
+      "detectado": "2026-11-11T03:21:27.946Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mauricio-macri-salvo-papelon-vip-bullrichismo-disparo-timida-indirecta-santilli-va-lujan-20261111052",
+      "sitio": "El Destape",
+      "titulo": "Mauricio Macri esquivó el papelón VIP, indirecta del bullrichismo y Santilli va a Luján",
+      "url": "https://www.eldestapeweb.com/politica/mauricio-macri-salvo-papelon-vip-bullrichismo-disparo-timida-indirecta-santilli-va-lujan-20261111052",
+      "detectado": "2026-11-11T03:21:27.946Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
       "sitio": "CPBA (Buenos Aires)",
@@ -385,41 +420,6 @@
       "titulo": "Por Jonathan Heguier",
       "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-11-07T03:24:51.770Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/cnv-crea-una-tasa-para-los-ff-fal-y-los-exime-del-arancel/",
-      "sitio": "Contadores en Red",
-      "titulo": "CNV crea una tasa para los FF FAL y los exime del arancel",
-      "url": "https://contadoresenred.com/cnv-crea-una-tasa-para-los-ff-fal-y-los-exime-del-arancel/",
-      "detectado": "2026-11-06T22:27:28.893Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-prorrogan-por-6-meses-el-25-de-aporte-solidario-y-ultraactividad/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: prorrogan por 6 meses el 2,5% de aporte solidario y ultraactividad",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-prorrogan-por-6-meses-el-25-de-aporte-solidario-y-ultraactividad/",
-      "detectado": "2026-11-06T22:27:30.834Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/f-u-t-u-r-o-nueva-declaracion-jurada-laboral-obligatoria-en-buenos-aires-desde-enero-de-2027/",
-      "sitio": "Ignacio Online",
-      "titulo": "F.U.T.U.R.O.: nueva declaración jurada laboral obligatoria en Buenos Aires desde enero de 2027",
-      "url": "https://www.ignacioonline.com.ar/f-u-t-u-r-o-nueva-declaracion-jurada-laboral-obligatoria-en-buenos-aires-desde-enero-de-2027/",
-      "detectado": "2026-11-06T22:27:30.834Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16045-se-reunio-la-comision-consultiva-de-la-caja-de-seguridad-social",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se reunió la Comisión Consultiva de la Caja de Seguridad Social",
-      "url": "https://www.cpba.com.ar/noticias/item/16045-se-reunio-la-comision-consultiva-de-la-caja-de-seguridad-social",
-      "detectado": "2026-11-06T22:27:34.317Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16042-encuentro-de-delegados-presidentes-en-mar-del-plata",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Encuentro de Delegados Presidentes en Mar del Plata",
-      "url": "https://www.cpba.com.ar/noticias/item/16042-encuentro-de-delegados-presidentes-en-mar-del-plata",
-      "detectado": "2026-11-06T22:27:34.317Z"
     }
   ]
 }
