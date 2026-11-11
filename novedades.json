@@ -1,6 +1,27 @@
 {
-  "actualizado": "2026-11-11T03:21:29.185Z",
+  "actualizado": "2026-11-11T13:01:40.973Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-dia-4-vivo-carcel-devoto-misa-lujan-despedida-ezeiza-202611116302",
+      "sitio": "El Destape",
+      "titulo": "Último día de la visita histórica",
+      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-dia-4-vivo-carcel-devoto-misa-lujan-despedida-ezeiza-202611116302",
+      "detectado": "2026-11-11T13:01:40.434Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-carcel-devoto-les-dijo-papa-presos-discurso-cargado-emocion-2026111191335",
+      "sitio": "El Destape",
+      "titulo": "León escuchó a presos de Devoto: \"La impunidad es fruto de la corrupción\"",
+      "url": "https://www.eldestapeweb.com/politica/leon-xiv-carcel-devoto-les-dijo-papa-presos-discurso-cargado-emocion-2026111191335",
+      "detectado": "2026-11-11T13:01:40.434Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/iran-declaro-terroristas-fuerzas-armadas-argentina-respuesta-javier-milei-202611117163",
+      "sitio": "El Destape",
+      "titulo": "Irán designó como terroristas a las Fuerzas Armadas argentinas en respuesta a Milei",
+      "url": "https://www.eldestapeweb.com/internacionales/iran-declaro-terroristas-fuerzas-armadas-argentina-respuesta-javier-milei-202611117163",
+      "detectado": "2026-11-11T13:01:40.434Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/papa-despide-argentina-lujan-misa-multitudinaria-enfocada-humildes-20261111052",
       "sitio": "El Destape",
@@ -399,27 +420,6 @@
       "titulo": "F.U.T.U.R.O.: otra declaración jurada y el mismo cansancio",
       "url": "https://www.ignacioonline.com.ar/f-u-t-u-r-o-otra-declaracion-jurada-y-el-mismo-cansancio/",
       "detectado": "2026-11-07T11:58:23.047Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
-      "sitio": "El Destape",
-      "titulo": "“El Niño” en la era Milei: obras paralizadas y fondos para infraestructura subejecutados",
-      "url": "https://www.eldestapeweb.com/economia/nino-era-milei-obras-paralizadas-fondos-prevenir-inundaciones-subejecutados-2026117058",
-      "detectado": "2026-11-07T03:24:51.770Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/nos-van-cagar-milei-tiene-otra-vice-bullrich-va-presidencia-2026117058",
-      "sitio": "El Destape",
-      "titulo": "“Nos van a cagar”: Milei ya tiene otra vice y Bullrich va por la presidencia",
-      "url": "https://www.eldestapeweb.com/politica/nos-van-cagar-milei-tiene-otra-vice-bullrich-va-presidencia-2026117058",
-      "detectado": "2026-11-07T03:24:51.770Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-07T03:24:51.770Z"
     }
   ]
 }
