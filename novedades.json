@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-11-12T04:31:38.839Z",
+  "actualizado": "2026-11-12T14:04:08.780Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
+      "sitio": "Contadores en Red",
+      "titulo": "Régimen Especial de Reducción de Multas al 50%. Plazos y requisitos para aplicarlo.",
+      "url": "https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
+      "detectado": "2026-11-12T14:04:03.114Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/blanqueo-laboral-per-entra-en-su-etapa-final-las-fechas-que-hay-que-tener-en-cuenta/",
+      "sitio": "Ignacio Online",
+      "titulo": "Blanqueo laboral PER entra en su etapa final, las fechas que hay que tener en cuenta",
+      "url": "https://www.ignacioonline.com.ar/blanqueo-laboral-per-entra-en-su-etapa-final-las-fechas-que-hay-que-tener-en-cuenta/",
+      "detectado": "2026-11-12T14:04:03.829Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reglamento-la-reduccion-del-50-de-multas-formales-como-acceder-y-hasta-cuando/",
+      "sitio": "Ignacio Online",
+      "titulo": "ARCA reglamentó la reducción del 50% de multas formales: cómo acceder y hasta cuándo",
+      "url": "https://www.ignacioonline.com.ar/arca-reglamento-la-reduccion-del-50-de-multas-formales-como-acceder-y-hasta-cuando/",
+      "detectado": "2026-11-12T14:04:03.829Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16040-participa-de-la-capacitacion-sobre-endeudamiento-publico",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Participá de la capacitación sobre Endeudamiento Público",
+      "url": "https://www.cpba.com.ar/noticias/item/16040-participa-de-la-capacitacion-sobre-endeudamiento-publico",
+      "detectado": "2026-11-12T14:04:06.929Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-santa-cruz",
+      "sitio": "El Destape",
+      "titulo": "Provincia De Santa Cruz",
+      "url": "https://www.eldestapeweb.com/tag/provincia-de-santa-cruz",
+      "detectado": "2026-11-12T14:04:08.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/brutal-ataque-balazos-fachada-radio-caletense-santa-cruz-2026111210218",
+      "sitio": "El Destape",
+      "titulo": "Brutal ataque: dispararon 16 balazos en la fachada de una radio en Santa Cruz",
+      "url": "https://www.eldestapeweb.com/sociedad/brutal-ataque-balazos-fachada-radio-caletense-santa-cruz-2026111210218",
+      "detectado": "2026-11-12T14:04:08.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-avanza-privatizacion-tercer-paso-fronterizo-importante-pais-2026111282632",
+      "sitio": "El Destape",
+      "titulo": "Milei avanza en la privatización del tercer principal paso fronterizo del país",
+      "url": "https://www.eldestapeweb.com/politica/milei-avanza-privatizacion-tercer-paso-fronterizo-importante-pais-2026111282632",
+      "detectado": "2026-11-12T14:04:08.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-12T14:04:08.257Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-abre-retiro-voluntario-iosfa-antes-disolucion-202611128020",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno abre retiros voluntarios en la obra social de las Fuerzas Armadas",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-abre-retiro-voluntario-iosfa-antes-disolucion-202611128020",
+      "detectado": "2026-11-12T14:04:08.257Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
       "sitio": "El Destape",
@@ -254,13 +317,6 @@
       "detectado": "2026-11-10T00:54:14.476Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-10T00:54:14.476Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
       "sitio": "El Destape",
       "titulo": "León XIV: \"El progreso se mide por cómo se acoge a las personas con discapacidad\"",
@@ -364,62 +420,6 @@
       "titulo": "León XIV en Argentina",
       "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
       "detectado": "2026-11-08T12:17:39.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-llega-argentina-agenda-desafia-gobierno-milei-20261180525",
-      "sitio": "El Destape",
-      "titulo": "El Papa León XIV llega a la Argentina con una agenda que desafía al gobierno de Milei",
-      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-llega-argentina-agenda-desafia-gobierno-milei-20261180525",
-      "detectado": "2026-11-08T12:17:39.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/milei-nuevos-duenos-economia-empresas-extranjeras-van-20261180525",
-      "sitio": "El Destape",
-      "titulo": "Quiénes ganan con el modelo de Milei",
-      "url": "https://www.eldestapeweb.com/economia/milei-nuevos-duenos-economia-empresas-extranjeras-van-20261180525",
-      "detectado": "2026-11-08T12:17:39.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
-      "sitio": "El Destape",
-      "titulo": "El Riesgo Pato acelera la fuga, trampa fallida al Papa y la Argentina \"aislada del mundo\"",
-      "url": "https://www.eldestapeweb.com/politica/riesgo-pato-acelera-fuga-trampa-fallida-papa-leon-xiv-argentina-aislada-mundo-derrota-trump-20261171008",
-      "detectado": "2026-11-08T12:17:39.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/triunfos-lula-partido-democrata-giro-global-impone-nueva-agenda-politica-2026117214525",
-      "sitio": "El Destape",
-      "titulo": "¿La hora de los pueblos? Los límites del poder del dinero",
-      "url": "https://www.eldestapeweb.com/politica/triunfos-lula-partido-democrata-giro-global-impone-nueva-agenda-politica-2026117214525",
-      "detectado": "2026-11-08T02:53:21.025Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-11-08T02:53:21.025Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-campeon-triunfo-agonico-bombonera-abrochar-tabla-anual-2026117193729",
-      "sitio": "El Destape",
-      "titulo": "¡Boca campeón! Triunfo agónico en La Bombonera para ganar la Tabla Anual",
-      "url": "https://www.eldestapeweb.com/deportes/boca-campeon-triunfo-agonico-bombonera-abrochar-tabla-anual-2026117193729",
-      "detectado": "2026-11-08T02:53:21.025Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
-      "sitio": "El Destape",
-      "titulo": "Elecciones en Estados Unidos",
-      "url": "https://www.eldestapeweb.com/tag/elecciones-en-estados-unidos",
-      "detectado": "2026-11-08T02:53:21.025Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trump-bolsonaro-netanyahu-10-dias-estremecieron-mundo-milei-202611718025",
-      "sitio": "El Destape",
-      "titulo": "Trump, Bolsonaro, Netanyahu: 10 días que estremecieron el mundo de Milei",
-      "url": "https://www.eldestapeweb.com/politica/trump-bolsonaro-netanyahu-10-dias-estremecieron-mundo-milei-202611718025",
-      "detectado": "2026-11-08T02:53:21.025Z"
     }
   ]
 }
