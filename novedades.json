@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-12T14:04:08.780Z",
+  "actualizado": "2026-11-12T22:55:17.491Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
+      "sitio": "El Destape",
+      "titulo": "Milei apura el tema PASO para acorralar a Bullrich y la dejaron al borde de la cornisa",
+      "url": "https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
+      "detectado": "2026-11-12T22:55:16.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-12T22:55:16.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-octubre-llego-2-servicios-explican-suba-2026111216541",
+      "sitio": "El Destape",
+      "titulo": "La inflación se aceleró en octubre y arrojó un 2,2% impulsado por el alza de servicios",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-octubre-llego-2-servicios-explican-suba-2026111216541",
+      "detectado": "2026-11-12T22:55:16.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-admitio-factores-domesticos-disparada-riesgo-pais-argentino-aun-no-puso-fecha-destrabar-us-900-millones-2026111214516",
+      "sitio": "El Destape",
+      "titulo": "El FMI advirtió que hay \"factores domésticos\" en la volatilidad de los mercados",
+      "url": "https://www.eldestapeweb.com/economia/fmi-admitio-factores-domesticos-disparada-riesgo-pais-argentino-aun-no-puso-fecha-destrabar-us-900-millones-2026111214516",
+      "detectado": "2026-11-12T22:55:16.924Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-11-12T22:55:16.924Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
       "sitio": "Contadores en Red",
@@ -385,41 +420,6 @@
       "titulo": "El Coro del Consejo celebra 35 años de música",
       "url": "https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
       "detectado": "2026-11-08T21:24:32.183Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-1-llegada-aeroparque-milei-cronograma-hoy-202611815026",
-      "sitio": "El Destape",
-      "titulo": "Histórica visita del Papa: Milei lo recibe en la Casa Rosada",
-      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-1-llegada-aeroparque-milei-cronograma-hoy-202611815026",
-      "detectado": "2026-11-08T21:24:33.591Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/cinco-monjas-volcaron-camino-lujan-cuando-viajaban-ver-papa-leon-xiv-2026118171151",
-      "sitio": "El Destape",
-      "titulo": "Cinco monjas volcaron camino a Luján cuando viajaban para ver al Papa León XIV",
-      "url": "https://www.eldestapeweb.com/sociedad/cinco-monjas-volcaron-camino-lujan-cuando-viajaban-ver-papa-leon-xiv-2026118171151",
-      "detectado": "2026-11-08T21:24:33.591Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/ventas-minoristas-cayeron-1-6-octubre-acumulan-retroceso-2-ano-2026118124617",
-      "sitio": "El Destape",
-      "titulo": "Las ventas minoristas cayeron 1,6% en octubre y el retroceso sigue en lo que va el año",
-      "url": "https://www.eldestapeweb.com/economia/ventas-minoristas-cayeron-1-6-octubre-acumulan-retroceso-2-ano-2026118124617",
-      "detectado": "2026-11-08T21:24:33.591Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/franco-colapinto-lucho-brasil-hizo-carrera-digna-acabo-13-puntos-202611815410",
-      "sitio": "El Destape",
-      "titulo": "Colapinto luchó e hizo una carrera digna, pero acabó 13° y sin puntos",
-      "url": "https://www.eldestapeweb.com/deportes/franco-colapinto-lucho-brasil-hizo-carrera-digna-acabo-13-puntos-202611815410",
-      "detectado": "2026-11-08T21:24:33.591Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "detectado": "2026-11-08T12:17:39.257Z"
     }
   ]
 }
