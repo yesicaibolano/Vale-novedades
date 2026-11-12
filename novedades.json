@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-11T23:45:36.562Z",
+  "actualizado": "2026-11-12T04:31:38.839Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
+      "sitio": "El Destape",
+      "titulo": "Jóvenes entre el desempleo y el rebusque: 6 de cada 10 cuentapropistas están subocupados",
+      "url": "https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
+      "detectado": "2026-11-12T04:31:38.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-12T04:31:38.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/motosierra-vs-iglesia-contradiccion-defender-equilibrio-fiscal-milei-emocionarse-papa-leon-xiv-202611120538",
+      "sitio": "El Destape",
+      "titulo": "La biblia y el calefón",
+      "url": "https://www.eldestapeweb.com/opinion/motosierra-vs-iglesia-contradiccion-defender-equilibrio-fiscal-milei-emocionarse-papa-leon-xiv-202611120538",
+      "detectado": "2026-11-12T04:31:38.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-11-12T04:31:38.428Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/estamos-preparados-fin-tregua-papal-bullrichismo-advierte-rosada-202611120538",
+      "sitio": "El Destape",
+      "titulo": "\"Estamos preparados\": tras el fin de la tregua papal, bullrichismo advierte a la Rosada",
+      "url": "https://www.eldestapeweb.com/politica/estamos-preparados-fin-tregua-papal-bullrichismo-advierte-rosada-202611120538",
+      "detectado": "2026-11-12T04:31:38.428Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
       "sitio": "El Destape",
@@ -289,13 +324,6 @@
       "detectado": "2026-11-09T03:13:47.767Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-09T03:13:47.767Z"
-    },
-    {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
       "sitio": "CPBA (Buenos Aires)",
       "titulo": "El Coro del Consejo celebra 35 años de música",
@@ -392,34 +420,6 @@
       "titulo": "Trump, Bolsonaro, Netanyahu: 10 días que estremecieron el mundo de Milei",
       "url": "https://www.eldestapeweb.com/politica/trump-bolsonaro-netanyahu-10-dias-estremecieron-mundo-milei-202611718025",
       "detectado": "2026-11-08T02:53:21.025Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/insolitas-razones-justicia-sobreseyo-manuel-adorni-enriquecimiento-ilicito-202611716108",
-      "sitio": "El Destape",
-      "titulo": "Las insólitas razones del fiscal para sostener que Adorni no se enriqueció ilegalmente",
-      "url": "https://www.eldestapeweb.com/politica/insolitas-razones-justicia-sobreseyo-manuel-adorni-enriquecimiento-ilicito-202611716108",
-      "detectado": "2026-11-07T21:08:14.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "sitio": "El Destape",
-      "titulo": "Por Franco Mizrahi",
-      "url": "https://www.eldestapeweb.com/perfil/franco-mizrahi",
-      "detectado": "2026-11-07T21:08:14.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/pena-preso-quedo-imputado-junto-ex-titular-banco-central-202611715284",
-      "sitio": "El Destape",
-      "titulo": "Juicio político: pidieron la prisión preventiva de Santiago Peña",
-      "url": "https://www.eldestapeweb.com/internacionales/pena-preso-quedo-imputado-junto-ex-titular-banco-central-202611715284",
-      "detectado": "2026-11-07T21:08:14.075Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/camino-2027-trastienda-estrategia-politica-estructura-propia-monta-patricia-bullrich-202611717162",
-      "sitio": "El Destape",
-      "titulo": "Bullrich, camino al 2027: asesora de imagen propia, ejército militante y \"buenas formas\"",
-      "url": "https://www.eldestapeweb.com/politica/camino-2027-trastienda-estrategia-politica-estructura-propia-monta-patricia-bullrich-202611717162",
-      "detectado": "2026-11-07T21:08:14.075Z"
     }
   ]
 }
