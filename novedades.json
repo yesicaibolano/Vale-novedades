@@ -1,6 +1,69 @@
 {
-  "actualizado": "2026-11-13T13:29:56.465Z",
+  "actualizado": "2026-11-13T22:57:10.814Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ajuste por Inflación contable e impositivo. Índices Octubre 2026.",
+      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
+      "detectado": "2026-11-13T22:57:04.195Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16052-implementacion-del-formulario-futuro-verificacion-virtual",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Implementación del Formulario FUTURO: Verificación virtual",
+      "url": "https://www.cpba.com.ar/noticias/item/16052-implementacion-del-formulario-futuro-verificacion-virtual",
+      "detectado": "2026-11-13T22:57:08.633Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16054-novedades-de-arca-facilidades-de-pago-ejecuciones-fiscales-y-recupero-de-iva",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Novedades de ARCA: facilidades de pago, ejecuciones fiscales y recupero de IVA",
+      "url": "https://www.cpba.com.ar/noticias/item/16054-novedades-de-arca-facilidades-de-pago-ejecuciones-fiscales-y-recupero-de-iva",
+      "detectado": "2026-11-13T22:57:08.633Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16053-ahora-en-repro-federalismo-fiscal-y-coparticipacion-repartir-sin-medir",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Federalismo fiscal y coparticipación: Repartir sin medir",
+      "url": "https://www.cpba.com.ar/noticias/item/16053-ahora-en-repro-federalismo-fiscal-y-coparticipacion-repartir-sin-medir",
+      "detectado": "2026-11-13T22:57:08.633Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbo-nuevo-consumo-carne-cuantos-menos-kilos-comen-argentinos-milei-pais-van-cortes-2026111316380",
+      "sitio": "El Destape",
+      "titulo": "El consumo de carne volvió a caer en octubre: los argentinos comen casi 6 kilos menos",
+      "url": "https://www.eldestapeweb.com/economia/derrumbo-nuevo-consumo-carne-cuantos-menos-kilos-comen-argentinos-milei-pais-van-cortes-2026111316380",
+      "detectado": "2026-11-13T22:57:10.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/reforma-electoral-podrian-habilitar-colectoras-formulas-presidenciales-2026111316161",
+      "sitio": "El Destape",
+      "titulo": "Reforma electoral: el Gobierno busca habilitar las colectoras para fórmulas presidenciales",
+      "url": "https://www.eldestapeweb.com/politica/reforma-electoral-podrian-habilitar-colectoras-formulas-presidenciales-2026111316161",
+      "detectado": "2026-11-13T22:57:10.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/alerta-estados-unidos-suspendieron-todos-vuelos-pais-nuevo-aviso-razones-seguridad-20261113181915",
+      "sitio": "El Destape",
+      "titulo": "Alerta en Estados Unidos: suspendieron todos los vuelos en el país hasta nuevo aviso",
+      "url": "https://www.eldestapeweb.com/internacionales/alerta-estados-unidos-suspendieron-todos-vuelos-pais-nuevo-aviso-razones-seguridad-20261113181915",
+      "detectado": "2026-11-13T22:57:10.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/fuerte-explosion-incendio-escalada-causo-conmocion-obligo-evacuar-zona-20261113115342",
+      "sitio": "El Destape",
+      "titulo": "Emergencia en Lanús",
+      "url": "https://www.eldestapeweb.com/sociedad/fuerte-explosion-incendio-escalada-causo-conmocion-obligo-evacuar-zona-20261113115342",
+      "detectado": "2026-11-13T22:57:10.332Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
+      "detectado": "2026-11-13T22:57:10.332Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
       "sitio": "CPBA (Buenos Aires)",
@@ -357,69 +420,6 @@
       "titulo": "De Juan Pablo II a León XIV: la fábrica en crisis donde el Papa dará misa en Córdoba",
       "url": "https://www.eldestapeweb.com/politica/juan-pablo-ii-leon-xiv-fabrica-aviones-crisis-donde-papa-dara-misa-cordoba-2026117111919",
       "detectado": "2026-11-10T13:50:54.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/paro-cgt-adelanto-central-obrera-reunion-papa-leon-xiv-uca-20261110101844",
-      "sitio": "El Destape",
-      "titulo": "El mensaje del Papa revitalizó a la CGT, pero no hay paro a la vista",
-      "url": "https://www.eldestapeweb.com/internacionales/paro-cgt-adelanto-central-obrera-reunion-papa-leon-xiv-uca-20261110101844",
-      "detectado": "2026-11-10T13:50:54.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trastienda-misa-papal-guerra-fotos-faltazo-macri-tensiones-bullrich-2026119215426",
-      "sitio": "El Destape",
-      "titulo": "La trastienda de la misa papal: guerra de fotos, faltazo de Macri y tensiones con Bullrich",
-      "url": "https://www.eldestapeweb.com/politica/trastienda-misa-papal-guerra-fotos-faltazo-macri-tensiones-bullrich-2026119215426",
-      "detectado": "2026-11-10T13:50:54.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/duro-reclamo-milei-mujer-paralisis-cerebral-conmovio-papa-tendria-tener-corazon-blando-20261110103840",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/sociedad/duro-reclamo-milei-mujer-paralisis-cerebral-conmovio-papa-tendria-tener-corazon-blando-20261110103840",
-      "detectado": "2026-11-10T13:50:54.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/otra-dura-critica-papa-gobierno-ahora-apunto-tierra-techo-trabajo-2026119172819",
-      "sitio": "El Destape",
-      "titulo": "Otra dura crítica del Papa al Gobierno: ahora apuntó a \"Tierra, techo y trabajo\"",
-      "url": "https://www.eldestapeweb.com/sociedad/otra-dura-critica-papa-gobierno-ahora-apunto-tierra-techo-trabajo-2026119172819",
-      "detectado": "2026-11-10T00:54:14.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-testigo-nuevo-capitulo-pelea-milei-villarruel-2026119192358",
-      "sitio": "El Destape",
-      "titulo": "León XIV, testigo de un nuevo capítulo en la pelea entre Milei y Villarruel",
-      "url": "https://www.eldestapeweb.com/politica/leon-xiv-testigo-nuevo-capitulo-pelea-milei-villarruel-2026119192358",
-      "detectado": "2026-11-10T00:54:14.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-11-10T00:54:14.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-reunio-victimas-abuso-dentro-iglesia-2026119163435",
-      "sitio": "El Destape",
-      "titulo": "El papa León XIV se reunió con víctimas de abuso dentro de la Iglesia",
-      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-reunio-victimas-abuso-dentro-iglesia-2026119163435",
-      "detectado": "2026-11-10T00:54:14.476Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
-      "sitio": "El Destape",
-      "titulo": "León XIV: \"El progreso se mide por cómo se acoge a las personas con discapacidad\"",
-      "url": "https://www.eldestapeweb.com/politica/5-frases-importantes-papa-leon-xiv-cottolengo-don-orione-202611910108",
-      "detectado": "2026-11-09T14:29:08.367Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-vivo-dia-2-misa-monumento-espanoles-visita-cottolengo-don-orione-agenda-hoy-202611963052",
-      "sitio": "El Destape",
-      "titulo": "El Papa viaja al Monumento a los Españoles para dar una misa por cadena nacional",
-      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-vivo-dia-2-misa-monumento-espanoles-visita-cottolengo-don-orione-agenda-hoy-202611963052",
-      "detectado": "2026-11-09T14:29:08.368Z"
     }
   ]
 }
