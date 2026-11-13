@@ -1,6 +1,34 @@
 {
-  "actualizado": "2026-11-13T03:46:20.377Z",
+  "actualizado": "2026-11-13T13:29:56.465Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El Consejo dio la bienvenida a sus nuevos matriculados",
+      "url": "https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
+      "detectado": "2026-11-13T13:29:54.363Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-firmo-decreto-1358-2026-habilito-poner-peajes-27-rutas-claves-20261113990",
+      "sitio": "El Destape",
+      "titulo": "Milei habilitó poner peajes en 27 rutas claves y se deberá pagar pese al deplorable estado",
+      "url": "https://www.eldestapeweb.com/politica/milei-firmo-decreto-1358-2026-habilito-poner-peajes-27-rutas-claves-20261113990",
+      "detectado": "2026-11-13T13:29:55.951Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-dio-marcha-atras-firmo-resolucion-83-2026-deja-premiar-colectivos-energia-limpia-202611139270",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno dio marcha atrás y eliminó incentivos para colectivos con energía limpia",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-dio-marcha-atras-firmo-resolucion-83-2026-deja-premiar-colectivos-energia-limpia-202611139270",
+      "detectado": "2026-11-13T13:29:55.951Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/agoto-libro-marta-torres-mujer-encontro-papa-leon-xiv-2026111384155",
+      "sitio": "El Destape",
+      "titulo": "Se agotó el libro de Marta Torres, la mujer que se encontró con el papa León XIV",
+      "url": "https://www.eldestapeweb.com/sociedad/agoto-libro-marta-torres-mujer-encontro-papa-leon-xiv-2026111384155",
+      "detectado": "2026-11-13T13:29:55.951Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
       "sitio": "El Destape",
@@ -392,34 +420,6 @@
       "titulo": "El Papa viaja al Monumento a los Españoles para dar una misa por cadena nacional",
       "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-vivo-dia-2-misa-monumento-espanoles-visita-cottolengo-don-orione-agenda-hoy-202611963052",
       "detectado": "2026-11-09T14:29:08.368Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/mejores-fotos-llegada-papa-leon-xiv-claypole-visitar-cottolengo-don-orione-2026119105247",
-      "sitio": "El Destape",
-      "titulo": "Las mejores fotos de la llegada del papa León XIV al Cottolengo Don Orione",
-      "url": "https://www.eldestapeweb.com/sociedad/mejores-fotos-llegada-papa-leon-xiv-claypole-visitar-cottolengo-don-orione-2026119105247",
-      "detectado": "2026-11-09T14:29:08.368Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cayo-mal-primer-discurso-papa-intentan-matizarlo-202611993949",
-      "sitio": "El Destape",
-      "titulo": "En el Gobierno cayó mal el primer discurso del Papa, pero intentan matizarlo",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-cayo-mal-primer-discurso-papa-intentan-matizarlo-202611993949",
-      "detectado": "2026-11-09T14:29:08.368Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-argentina-policia-detuvo-dos-personas-amenaza-muerte-papa-2026119105810",
-      "sitio": "El Destape",
-      "titulo": "Detuvieron a Tomás Natenzon y a otro hombre por amenazas durante la visita del Papa",
-      "url": "https://www.eldestapeweb.com/politica/leon-xiv-argentina-policia-detuvo-dos-personas-amenaza-muerte-papa-2026119105810",
-      "detectado": "2026-11-09T14:29:08.368Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
-      "detectado": "2026-11-09T03:13:47.767Z"
     }
   ]
 }
