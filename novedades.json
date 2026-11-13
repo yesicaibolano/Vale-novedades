@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-12T22:55:17.491Z",
+  "actualizado": "2026-11-13T03:46:20.377Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
+      "sitio": "El Destape",
+      "titulo": "De espaldas al Papa: Milei sigue frenando la ley de ludopatía",
+      "url": "https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
+      "detectado": "2026-11-13T03:45:57.955Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/visita-papa-fue-historica-redes-carpa-vip-marco-pico-negatividad-202611130510",
+      "sitio": "El Destape",
+      "titulo": "León XIV en Argentina",
+      "url": "https://www.eldestapeweb.com/politica/visita-papa-fue-historica-redes-carpa-vip-marco-pico-negatividad-202611130510",
+      "detectado": "2026-11-13T03:45:57.955Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-13T03:45:57.955Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-papista-patricia-bullrich-desafiar-ataques-javier-milei-luis-caputo-20261112233657",
+      "sitio": "El Destape",
+      "titulo": "\"Papistas\": la respuesta bullrichista a los ataques de Milei y la apuesta por el diálogo",
+      "url": "https://www.eldestapeweb.com/politica/giro-papista-patricia-bullrich-desafiar-ataques-javier-milei-luis-caputo-20261112233657",
+      "detectado": "2026-11-13T03:45:57.955Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-sorprendio-mercado-acelero-2-2-octubre-20261112223213",
+      "sitio": "El Destape",
+      "titulo": "La inflación sorprendió al mercado y se aceleró al 2,2% en octubre",
+      "url": "https://www.eldestapeweb.com/economia/inflacion-sorprendio-mercado-acelero-2-2-octubre-20261112223213",
+      "detectado": "2026-11-13T03:45:57.955Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
       "sitio": "El Destape",
@@ -198,13 +233,6 @@
       "detectado": "2026-11-11T03:21:27.946Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-11T03:21:27.946Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
       "sitio": "El Destape",
       "titulo": "El lenguaje prohibido de León XIV",
@@ -392,34 +420,6 @@
       "titulo": "León XIV en Argentina",
       "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-cruzo-milei-todo-arco-politico-desempleo-universidades-jubilados-202611823636",
       "detectado": "2026-11-09T03:13:47.767Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/noche-anterior-miles-fieles-hacen-fila-misa-papa-leon-xiv-202611821553",
-      "sitio": "El Destape",
-      "titulo": "Desde la noche del domingo, miles de fieles hacen fila para la misa del papa León XIV",
-      "url": "https://www.eldestapeweb.com/sociedad/noche-anterior-miles-fieles-hacen-fila-misa-papa-leon-xiv-202611821553",
-      "detectado": "2026-11-09T03:13:47.767Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-presentacion-leon-xiv-no-quiero-meterme-barro-usar-politicamente-discurso-2026118204635",
-      "sitio": "El Destape",
-      "titulo": "Milei, sobre León XIV: \"No quiero meterme en el barro de usar políticamente su discurso\"",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-presentacion-leon-xiv-no-quiero-meterme-barro-usar-politicamente-discurso-2026118204635",
-      "detectado": "2026-11-09T03:13:47.767Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/golpe-gastronomia-61-argentinos-no-sale-comer-afuera-caida-ingreso-20261190551",
-      "sitio": "El Destape",
-      "titulo": "El ajuste al disfrute: el 61% de los argentinos ya no sale nunca a comer",
-      "url": "https://www.eldestapeweb.com/economia/golpe-gastronomia-61-argentinos-no-sale-comer-afuera-caida-ingreso-20261190551",
-      "detectado": "2026-11-09T03:13:47.767Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Coro del Consejo celebra 35 años de música",
-      "url": "https://www.cpba.com.ar/noticias/item/16039-el-coro-del-consejo-celebra-35-anos-de-musica",
-      "detectado": "2026-11-08T21:24:32.183Z"
     }
   ]
 }
