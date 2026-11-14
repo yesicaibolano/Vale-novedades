@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-14T03:44:37.255Z",
+  "actualizado": "2026-11-14T12:35:22.280Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525",
+      "sitio": "El Destape",
+      "titulo": "La encuesta que más incomoda a Milei: pierde el balotaje por 5 puntos",
+      "url": "https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525",
+      "detectado": "2026-11-14T12:35:21.768Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "CPBA (Buenos Aires)",
       "titulo": "Nueva jura en General Pueyrredon",
       "url": "https://www.cpba.com.ar/noticias/item/16049-nueva-jura-en-general-pueyrredon",
-      "detectado": "2026-11-10T13:50:53.434Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16048-ahora-en-repro-ciberseguridad-en-estudios-contables-como-cambian-las-amenazas-en-tiempos-de-ia",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Ciberseguridad en estudios contables: Cómo cambian las amenazas en tiempos de…",
-      "url": "https://www.cpba.com.ar/noticias/item/16048-ahora-en-repro-ciberseguridad-en-estudios-contables-como-cambian-las-amenazas-en-tiempos-de-ia",
       "detectado": "2026-11-10T13:50:53.434Z"
     }
   ]
