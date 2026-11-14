@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-13T22:57:10.814Z",
+  "actualizado": "2026-11-14T03:44:37.255Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
+      "sitio": "El Destape",
+      "titulo": "Multinacionales, sacan más dólares de los que traen: saldo negativo de USD 4.500 millones",
+      "url": "https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
+      "detectado": "2026-11-14T03:44:36.576Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-14T03:44:36.577Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-14T03:44:36.577Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno se unió contra Bullrich y Milei se juega la reelección en los próximos 30 días",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
+      "detectado": "2026-11-14T03:44:36.577Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-14T03:44:36.577Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
       "sitio": "Contadores en Red",
@@ -135,13 +170,6 @@
       "detectado": "2026-11-12T22:55:16.924Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-12T22:55:16.924Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-octubre-llego-2-servicios-explican-suba-2026111216541",
       "sitio": "El Destape",
       "titulo": "La inflación se aceleró en octubre y arrojó un 2,2% impulsado por el alza de servicios",
@@ -212,13 +240,6 @@
       "detectado": "2026-11-12T14:04:08.257Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-12T14:04:08.257Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-abre-retiro-voluntario-iosfa-antes-disolucion-202611128020",
       "sitio": "El Destape",
       "titulo": "El Gobierno abre retiros voluntarios en la obra social de las Fuerzas Armadas",
@@ -230,13 +251,6 @@
       "sitio": "El Destape",
       "titulo": "Jóvenes entre el desempleo y el rebusque: 6 de cada 10 cuentapropistas están subocupados",
       "url": "https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
-      "detectado": "2026-11-12T04:31:38.428Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-11-12T04:31:38.428Z"
     },
     {
@@ -406,20 +420,6 @@
       "titulo": "Ahora en RePro | Ciberseguridad en estudios contables: Cómo cambian las amenazas en tiempos de…",
       "url": "https://www.cpba.com.ar/noticias/item/16048-ahora-en-repro-ciberseguridad-en-estudios-contables-como-cambian-las-amenazas-en-tiempos-de-ia",
       "detectado": "2026-11-10T13:50:53.434Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-3-misa-cordoba-papamovil-vigilia-jovenes-palermo-202611106303",
-      "sitio": "El Destape",
-      "titulo": "El Papa recorre el Interior del país",
-      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-argentina-vivo-dia-3-misa-cordoba-papamovil-vigilia-jovenes-palermo-202611106303",
-      "detectado": "2026-11-10T13:50:54.791Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/juan-pablo-ii-leon-xiv-fabrica-aviones-crisis-donde-papa-dara-misa-cordoba-2026117111919",
-      "sitio": "El Destape",
-      "titulo": "De Juan Pablo II a León XIV: la fábrica en crisis donde el Papa dará misa en Córdoba",
-      "url": "https://www.eldestapeweb.com/politica/juan-pablo-ii-leon-xiv-fabrica-aviones-crisis-donde-papa-dara-misa-cordoba-2026117111919",
-      "detectado": "2026-11-10T13:50:54.791Z"
     }
   ]
 }
