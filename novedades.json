@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-14T12:35:22.280Z",
+  "actualizado": "2026-11-14T21:43:39.821Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
+      "sitio": "El Destape",
+      "titulo": "León XIV recibió un informe sobre la violencia estatal contra las niñeces en la era Milei",
+      "url": "https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
+      "detectado": "2026-11-14T21:43:39.420Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/jubilaciones-sentencia-clave-anulo-movilidad-alberto-ordeno-pagar-formula-macri-20261114171435",
+      "sitio": "El Destape",
+      "titulo": "Un fallo anuló la movilidad jubilatoria de Alberto y ordenó pagar con la fórmula de Macri",
+      "url": "https://www.eldestapeweb.com/politica/jubilaciones-sentencia-clave-anulo-movilidad-alberto-ordeno-pagar-formula-macri-20261114171435",
+      "detectado": "2026-11-14T21:43:39.420Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-exclusiva-milei-hunde-kicillof-consolida-crece-apatia-electoral-2026111410032",
+      "sitio": "El Destape",
+      "titulo": "Encuesta exclusiva: Milei se hunde, Kicillof se consolida y crece la apatía electoral",
+      "url": "https://www.eldestapeweb.com/politica/encuesta-exclusiva-milei-hunde-kicillof-consolida-crece-apatia-electoral-2026111410032",
+      "detectado": "2026-11-14T21:43:39.420Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/formacion-confirmada-boca-juniors-vs-banfield-copa-argentina-hora-donde-verlo-20261114171925",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Boca enfenta a Banfield por Copa Argentina",
+      "url": "https://www.eldestapeweb.com/deportes/formacion-confirmada-boca-juniors-vs-banfield-copa-argentina-hora-donde-verlo-20261114171925",
+      "detectado": "2026-11-14T21:43:39.420Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/explosion-escalada-metrogas-corto-fuga-gas-bomberos-extinguieron-fuego-20261114123234",
+      "sitio": "El Destape",
+      "titulo": "Emergencia en Lanús",
+      "url": "https://www.eldestapeweb.com/sociedad/explosion-escalada-metrogas-corto-fuga-gas-bomberos-extinguieron-fuego-20261114123234",
+      "detectado": "2026-11-14T21:43:39.420Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "El detrás del diálogo sobre el desguace de Milei entre León XIV y una referenta",
       "url": "https://www.eldestapeweb.com/politica/revelador-cara-cara-cordoba-trastienda-dialogo-desguace-milei-leon-xiv-referenta-social-2026111015474",
       "detectado": "2026-11-10T22:36:18.188Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "sitio": "El Destape",
-      "titulo": "Por Javier Peverelli",
-      "url": "https://www.eldestapeweb.com/perfil/javier-peverelli",
-      "detectado": "2026-11-10T22:36:18.188Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/desploman-acciones-argentina-wall-street-otro-dia-negro-mercados-2026111013491",
-      "sitio": "El Destape",
-      "titulo": "Desplome de las acciones argentinas en Wall Street en otro día negro en los mercados",
-      "url": "https://www.eldestapeweb.com/economia/desploman-acciones-argentina-wall-street-otro-dia-negro-mercados-2026111013491",
-      "detectado": "2026-11-10T22:36:18.188Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/visita-papa-leon-xiv-argentina-60-menciones-milei-redes-fue-negativa-nueva-encuesta-20261110124113",
-      "sitio": "El Destape",
-      "titulo": "Informe revela que la visita del Papa complicó a Milei en las redes sociales",
-      "url": "https://www.eldestapeweb.com/sociedad/visita-papa-leon-xiv-argentina-60-menciones-milei-redes-fue-negativa-nueva-encuesta-20261110124113",
-      "detectado": "2026-11-10T22:36:18.188Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Se acerca el vencimiento del 5to Anticipo del DEP",
-      "url": "https://www.cpba.com.ar/noticias/item/15906-derecho-de-ejercicio-profesional-5-anticipo-de-2026",
-      "detectado": "2026-11-10T13:50:53.433Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16049-nueva-jura-en-general-pueyrredon",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Nueva jura en General Pueyrredon",
-      "url": "https://www.cpba.com.ar/noticias/item/16049-nueva-jura-en-general-pueyrredon",
-      "detectado": "2026-11-10T13:50:53.434Z"
     }
   ]
 }
