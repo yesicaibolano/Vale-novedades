@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-15T13:01:23.369Z",
+  "actualizado": "2026-11-15T22:09:49.020Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/pronostico-jefe-bloque-peronismo-elecciones-2027-primera-vuelta-20261115132311",
+      "sitio": "El Destape",
+      "titulo": "Martínez vaticinó un triunfo del peronismo en 2027: \"Vamos a ganar en primera vuelta\"",
+      "url": "https://www.eldestapeweb.com/politica/pronostico-jefe-bloque-peronismo-elecciones-2027-primera-vuelta-20261115132311",
+      "detectado": "2026-11-15T22:09:48.624Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/trampa-electoral-esquiva-patricia-bullrich-silencioso-plan-captar-desencantados-javier-milei-2026111512026",
+      "sitio": "El Destape",
+      "titulo": "La \"trampa\" de las PASO, campaña limitada y caza de desencantados: el juego de Bullrich",
+      "url": "https://www.eldestapeweb.com/politica/trampa-electoral-esquiva-patricia-bullrich-silencioso-plan-captar-desencantados-javier-milei-2026111512026",
+      "detectado": "2026-11-15T22:09:48.625Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-suba-riesgo-pais-impacta-financiamiento-empresas-20261115162812",
+      "sitio": "El Destape",
+      "titulo": "Advierten que la suba del riesgo país dificulta el financiamiento de las empresas",
+      "url": "https://www.eldestapeweb.com/economia/advierten-suba-riesgo-pais-impacta-financiamiento-empresas-20261115162812",
+      "detectado": "2026-11-15T22:09:48.625Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "sitio": "El Destape",
+      "titulo": "Endeudamiento Familiar",
+      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
+      "detectado": "2026-11-15T22:09:48.625Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-70-hogares-no-llega-dia-20-mes-20261115174125",
+      "sitio": "El Destape",
+      "titulo": "Casi el 70% de los hogares no llega al día 20 del mes",
+      "url": "https://www.eldestapeweb.com/economia/casi-70-hogares-no-llega-dia-20-mes-20261115174125",
+      "detectado": "2026-11-15T22:09:48.625Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Se fue el Papa y los Milei arrancan el operativo “tolerancia cero con Bullrich”",
       "url": "https://www.eldestapeweb.com/politica/interna-feroz-milei-aplicaran-tolerancia-cero-bullrich-suena-reemplazo-2027-20261111161439",
       "detectado": "2026-11-11T23:45:36.008Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/papa-leon-xiv-dia-4-vivo-carcel-devoto-misa-lujan-despedida-ezeiza-202611116302",
-      "sitio": "El Destape",
-      "titulo": "Último día de la visita histórica",
-      "url": "https://www.eldestapeweb.com/sociedad/papa-leon-xiv-dia-4-vivo-carcel-devoto-misa-lujan-despedida-ezeiza-202611116302",
-      "detectado": "2026-11-11T13:01:40.434Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-carcel-devoto-les-dijo-papa-presos-discurso-cargado-emocion-2026111191335",
-      "sitio": "El Destape",
-      "titulo": "León escuchó a presos de Devoto: \"La impunidad es fruto de la corrupción\"",
-      "url": "https://www.eldestapeweb.com/politica/leon-xiv-carcel-devoto-les-dijo-papa-presos-discurso-cargado-emocion-2026111191335",
-      "detectado": "2026-11-11T13:01:40.434Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/iran-declaro-terroristas-fuerzas-armadas-argentina-respuesta-javier-milei-202611117163",
-      "sitio": "El Destape",
-      "titulo": "Irán designó como terroristas a las Fuerzas Armadas argentinas en respuesta a Milei",
-      "url": "https://www.eldestapeweb.com/internacionales/iran-declaro-terroristas-fuerzas-armadas-argentina-respuesta-javier-milei-202611117163",
-      "detectado": "2026-11-11T13:01:40.434Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-despide-argentina-lujan-misa-multitudinaria-enfocada-humildes-20261111052",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/politica/papa-despide-argentina-lujan-misa-multitudinaria-enfocada-humildes-20261111052",
-      "detectado": "2026-11-11T03:21:27.946Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
-      "sitio": "El Destape",
-      "titulo": "El lenguaje prohibido de León XIV",
-      "url": "https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
-      "detectado": "2026-11-11T03:21:27.946Z"
     }
   ]
 }
