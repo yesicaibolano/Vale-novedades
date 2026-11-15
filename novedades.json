@@ -1,6 +1,13 @@
 {
-  "actualizado": "2026-11-15T03:22:47.058Z",
+  "actualizado": "2026-11-15T13:01:23.369Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
+      "sitio": "El Destape",
+      "titulo": "La profecía de León XIV: extremaunción para Milei y el país de los grandes empresarios",
+      "url": "https://www.eldestapeweb.com/politica/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
+      "detectado": "2026-11-15T13:01:22.923Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica-y-economia/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
       "sitio": "El Destape",
@@ -412,13 +419,6 @@
       "sitio": "El Destape",
       "titulo": "El lenguaje prohibido de León XIV",
       "url": "https://www.eldestapeweb.com/politica/lenguaje-prohibido-leon-xiv-20261111052",
-      "detectado": "2026-11-11T03:21:27.946Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/papa-leon-xiv-argentina-discurso-economico-combate-ideas-milei-20261111052",
-      "sitio": "El Destape",
-      "titulo": "Paliza política a las ideas de Milei",
-      "url": "https://www.eldestapeweb.com/economia/papa-leon-xiv-argentina-discurso-economico-combate-ideas-milei-20261111052",
       "detectado": "2026-11-11T03:21:27.946Z"
     }
   ]
