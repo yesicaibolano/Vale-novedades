@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-14T21:43:39.821Z",
+  "actualizado": "2026-11-15T03:22:47.058Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica-y-economia/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
+      "sitio": "El Destape",
+      "titulo": "La profecía de León XIV: extremaunción para Milei y el país de los grandes empresarios",
+      "url": "https://www.eldestapeweb.com/politica-y-economia/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
+      "detectado": "2026-11-15T03:22:45.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-equivoca-pronosticos-crecimiento-economico-202611150526",
+      "sitio": "El Destape",
+      "titulo": "¿Por qué el FMI siempre se equivoca?",
+      "url": "https://www.eldestapeweb.com/economia/fmi-equivoca-pronosticos-crecimiento-economico-202611150526",
+      "detectado": "2026-11-15T03:22:45.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/dolares-deuda-fin-balas-plata-202611150526",
+      "sitio": "El Destape",
+      "titulo": "Dólares y deuda: El fin de las balas de plata",
+      "url": "https://www.eldestapeweb.com/opinion/dolares-deuda-fin-balas-plata-202611150526",
+      "detectado": "2026-11-15T03:22:45.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-11-15T03:22:45.643Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/inflacion-casta-promesas-rotas-milei-2026111420026",
+      "sitio": "El Destape",
+      "titulo": "Inflación y casta: las promesas rotas de Milei",
+      "url": "https://www.eldestapeweb.com/politica/inflacion-casta-promesas-rotas-milei-2026111420026",
+      "detectado": "2026-11-15T03:22:45.643Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
       "sitio": "El Destape",
@@ -303,13 +338,6 @@
       "detectado": "2026-11-12T04:31:38.428Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-11-12T04:31:38.428Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/estamos-preparados-fin-tregua-papal-bullrichismo-advierte-rosada-202611120538",
       "sitio": "El Destape",
       "titulo": "\"Estamos preparados\": tras el fin de la tregua papal, bullrichismo advierte a la Rosada",
@@ -392,34 +420,6 @@
       "titulo": "Paliza política a las ideas de Milei",
       "url": "https://www.eldestapeweb.com/economia/papa-leon-xiv-argentina-discurso-economico-combate-ideas-milei-20261111052",
       "detectado": "2026-11-11T03:21:27.946Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mauricio-macri-salvo-papelon-vip-bullrichismo-disparo-timida-indirecta-santilli-va-lujan-20261111052",
-      "sitio": "El Destape",
-      "titulo": "Mauricio Macri esquivó el papelón VIP, indirecta del bullrichismo y Santilli va a Luján",
-      "url": "https://www.eldestapeweb.com/politica/mauricio-macri-salvo-papelon-vip-bullrichismo-disparo-timida-indirecta-santilli-va-lujan-20261111052",
-      "detectado": "2026-11-11T03:21:27.946Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Falta poco para la 2ª Jornada Provincial de Actuación Laboral y Previsional",
-      "url": "https://www.cpba.com.ar/noticias/item/16021-participa-de-la-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "detectado": "2026-11-10T22:36:16.818Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/leon-xiv-parafraseo-francisco-pidio-suenen-iglesia-siga-haciendo-lio-2026111016620",
-      "sitio": "El Destape",
-      "titulo": "León XIV parafraseó a Francisco y pidió: \"Sueñen con una Iglesia que siga haciendo lío\"",
-      "url": "https://www.eldestapeweb.com/politica/leon-xiv-parafraseo-francisco-pidio-suenen-iglesia-siga-haciendo-lio-2026111016620",
-      "detectado": "2026-11-10T22:36:18.188Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/revelador-cara-cara-cordoba-trastienda-dialogo-desguace-milei-leon-xiv-referenta-social-2026111015474",
-      "sitio": "El Destape",
-      "titulo": "El detrás del diálogo sobre el desguace de Milei entre León XIV y una referenta",
-      "url": "https://www.eldestapeweb.com/politica/revelador-cara-cara-cordoba-trastienda-dialogo-desguace-milei-leon-xiv-referenta-social-2026111015474",
-      "detectado": "2026-11-10T22:36:18.188Z"
     }
   ]
 }
