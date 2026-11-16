@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-11-16T03:24:20.140Z",
+  "actualizado": "2026-11-16T14:05:32.482Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/ingresos-brutos-simplificado-en-buenos-aires-como-consultar-y-pagar-la-deuda-del-monotributo-unificado/",
+      "sitio": "Contadores en Red",
+      "titulo": "Ingresos Brutos Simplificado en Buenos Aires: ¿Cómo consultar y pagar la deuda del Monotributo Unificado?",
+      "url": "https://contadoresenred.com/ingresos-brutos-simplificado-en-buenos-aires-como-consultar-y-pagar-la-deuda-del-monotributo-unificado/",
+      "detectado": "2026-11-16T14:05:25.070Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/autonomos-noviembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-11-2026/",
+      "sitio": "Contadores en Red",
+      "titulo": "Autónomos Noviembre 2026. ¿Cuánto se paga por categoría a partir del 15-11-2026?",
+      "url": "https://contadoresenred.com/autonomos-noviembre-2026-cuanto-se-paga-por-categoria-a-partir-del-15-11-2026/",
+      "detectado": "2026-11-16T14:05:25.070Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/rigi-cambios-en-la-reglamentacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "RIGI. Cambios en la reglamentación",
+      "url": "https://contadoresenred.com/rigi-cambios-en-la-reglamentacion/",
+      "detectado": "2026-11-16T14:05:25.070Z"
+    },
+    {
+      "id": "jorgevega|https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
+      "sitio": "Jorge Vega",
+      "titulo": "Autónomos y dependientes: Categorías, aportes y topes - NOVIEMBRE 2026",
+      "url": "https://jorgevega.com.ar/laboral/419-autonomos-aportes-categorias-2026-octubre.html",
+      "detectado": "2026-11-16T14:05:25.687Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/autonomos-2026-valores-vigentes-desde-noviembre/",
+      "sitio": "Ignacio Online",
+      "titulo": "Autónomos noviembre 2026: nuevos valores de los aportes por categoría",
+      "url": "https://www.ignacioonline.com.ar/autonomos-2026-valores-vigentes-desde-noviembre/",
+      "detectado": "2026-11-16T14:05:26.675Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16055-asueto-administrativo-en-sede-provincial",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Asueto administrativo en Sede Provincial",
+      "url": "https://www.cpba.com.ar/noticias/item/16055-asueto-administrativo-en-sede-provincial",
+      "detectado": "2026-11-16T14:05:30.433Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/uca-advierte-pobreza-no-incluso-subio-javier-milei-2026111693923",
+      "sitio": "El Destape",
+      "titulo": "La UCA desmiente a Milei y advierte que la pobreza aumentó con el gobierno libertario",
+      "url": "https://www.eldestapeweb.com/economia/uca-advierte-pobreza-no-incluso-subio-javier-milei-2026111693923",
+      "detectado": "2026-11-16T14:05:31.901Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-16T14:05:31.901Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-lunes-16-noviembre-minuto-minuto-2026111675533",
+      "sitio": "El Destape",
+      "titulo": "Operan a la ministra de Seguridad Monteoliva",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-lunes-16-noviembre-minuto-minuto-2026111675533",
+      "detectado": "2026-11-16T14:05:31.901Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "sitio": "El Destape",
+      "titulo": "Selección Argentina",
+      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
+      "detectado": "2026-11-16T14:05:31.901Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/seleccion-argentina-cierra-2026-costa-rica-cambios-forzados-ultima-hora-20261116104139",
+      "sitio": "El Destape",
+      "titulo": "La Selección cierra el año ante Costa Rica con cambios forzados de última hora",
+      "url": "https://www.eldestapeweb.com/deportes/seleccion-argentina-cierra-2026-costa-rica-cambios-forzados-ultima-hora-20261116104139",
+      "detectado": "2026-11-16T14:05:31.901Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/vender-pertenencias-llegar-fin-mes-alcanzo-mayor-nivel-pandemia-20261116050",
       "sitio": "El Destape",
@@ -161,13 +238,6 @@
       "titulo": "Multinacionales, sacan más dólares de los que traen: saldo negativo de USD 4.500 millones",
       "url": "https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
       "detectado": "2026-11-14T03:44:36.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-14T03:44:36.577Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
@@ -331,13 +401,6 @@
       "detectado": "2026-11-12T22:55:16.924Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-11-12T22:55:16.924Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
       "sitio": "Contadores en Red",
       "titulo": "Régimen Especial de Reducción de Multas al 50%. Plazos y requisitos para aplicarlo.",
@@ -357,69 +420,6 @@
       "titulo": "ARCA reglamentó la reducción del 50% de multas formales: cómo acceder y hasta cuándo",
       "url": "https://www.ignacioonline.com.ar/arca-reglamento-la-reduccion-del-50-de-multas-formales-como-acceder-y-hasta-cuando/",
       "detectado": "2026-11-12T14:04:03.829Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16040-participa-de-la-capacitacion-sobre-endeudamiento-publico",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Participá de la capacitación sobre Endeudamiento Público",
-      "url": "https://www.cpba.com.ar/noticias/item/16040-participa-de-la-capacitacion-sobre-endeudamiento-publico",
-      "detectado": "2026-11-12T14:04:06.929Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/provincia-de-santa-cruz",
-      "sitio": "El Destape",
-      "titulo": "Provincia De Santa Cruz",
-      "url": "https://www.eldestapeweb.com/tag/provincia-de-santa-cruz",
-      "detectado": "2026-11-12T14:04:08.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/brutal-ataque-balazos-fachada-radio-caletense-santa-cruz-2026111210218",
-      "sitio": "El Destape",
-      "titulo": "Brutal ataque: dispararon 16 balazos en la fachada de una radio en Santa Cruz",
-      "url": "https://www.eldestapeweb.com/sociedad/brutal-ataque-balazos-fachada-radio-caletense-santa-cruz-2026111210218",
-      "detectado": "2026-11-12T14:04:08.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-avanza-privatizacion-tercer-paso-fronterizo-importante-pais-2026111282632",
-      "sitio": "El Destape",
-      "titulo": "Milei avanza en la privatización del tercer principal paso fronterizo del país",
-      "url": "https://www.eldestapeweb.com/politica/milei-avanza-privatizacion-tercer-paso-fronterizo-importante-pais-2026111282632",
-      "detectado": "2026-11-12T14:04:08.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-abre-retiro-voluntario-iosfa-antes-disolucion-202611128020",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno abre retiros voluntarios en la obra social de las Fuerzas Armadas",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-abre-retiro-voluntario-iosfa-antes-disolucion-202611128020",
-      "detectado": "2026-11-12T14:04:08.257Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
-      "sitio": "El Destape",
-      "titulo": "Jóvenes entre el desempleo y el rebusque: 6 de cada 10 cuentapropistas están subocupados",
-      "url": "https://www.eldestapeweb.com/economia/rebusque-no-alcanza-era-milei-dura-radiografia-expone-crisis-economia-popular-aviso-papa-202611120538",
-      "detectado": "2026-11-12T04:31:38.428Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/motosierra-vs-iglesia-contradiccion-defender-equilibrio-fiscal-milei-emocionarse-papa-leon-xiv-202611120538",
-      "sitio": "El Destape",
-      "titulo": "La biblia y el calefón",
-      "url": "https://www.eldestapeweb.com/opinion/motosierra-vs-iglesia-contradiccion-defender-equilibrio-fiscal-milei-emocionarse-papa-leon-xiv-202611120538",
-      "detectado": "2026-11-12T04:31:38.428Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/estamos-preparados-fin-tregua-papal-bullrichismo-advierte-rosada-202611120538",
-      "sitio": "El Destape",
-      "titulo": "\"Estamos preparados\": tras el fin de la tregua papal, bullrichismo advierte a la Rosada",
-      "url": "https://www.eldestapeweb.com/politica/estamos-preparados-fin-tregua-papal-bullrichismo-advierte-rosada-202611120538",
-      "detectado": "2026-11-12T04:31:38.428Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
-      "detectado": "2026-11-11T23:45:36.008Z"
     }
   ]
 }
