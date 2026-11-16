@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-15T22:09:49.020Z",
+  "actualizado": "2026-11-16T03:24:20.140Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/vender-pertenencias-llegar-fin-mes-alcanzo-mayor-nivel-pandemia-20261116050",
+      "sitio": "El Destape",
+      "titulo": "Cada vez más familias venden sus pertenencias para intentar llegar a fin de mes",
+      "url": "https://www.eldestapeweb.com/economia/vender-pertenencias-llegar-fin-mes-alcanzo-mayor-nivel-pandemia-20261116050",
+      "detectado": "2026-11-16T03:24:19.686Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-16T03:24:19.686Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dato-inedito-indec-salarios-informales-cayeron-0-8-terminos-nominales-primera-vez-2020-expone-golpe-real-recesion-bolsillo-20261116050",
+      "sitio": "El Destape",
+      "titulo": "La recesión llegó a los informales: la crisis detrás del inédito dato del Indec",
+      "url": "https://www.eldestapeweb.com/economia/dato-inedito-indec-salarios-informales-cayeron-0-8-terminos-nominales-primera-vez-2020-expone-golpe-real-recesion-bolsillo-20261116050",
+      "detectado": "2026-11-16T03:24:19.686Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cede-cambia-reforma-electoral-suspender-paso-antes-2027-20261116050",
+      "sitio": "El Destape",
+      "titulo": "LUNES LLA va a fondo, para abrochar la reforma electoral y presupuesto 2027",
+      "url": "https://www.eldestapeweb.com/politica/gobierno-cede-cambia-reforma-electoral-suspender-paso-antes-2027-20261116050",
+      "detectado": "2026-11-16T03:24:19.686Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-16T03:24:19.686Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/pronostico-jefe-bloque-peronismo-elecciones-2027-primera-vuelta-20261115132311",
       "sitio": "El Destape",
@@ -126,13 +161,6 @@
       "titulo": "Multinacionales, sacan más dólares de los que traen: saldo negativo de USD 4.500 millones",
       "url": "https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
       "detectado": "2026-11-14T03:44:36.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-14T03:44:36.577Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
@@ -391,34 +419,6 @@
       "sitio": "El Destape",
       "titulo": "León XIV en Argentina",
       "url": "https://www.eldestapeweb.com/politica/discursos-papa-argentina-temas-incomodos-milei-diferencias-uruguay-20261111182551",
-      "detectado": "2026-11-11T23:45:36.008Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/gabriel-santana",
-      "sitio": "El Destape",
-      "titulo": "Por Gabriel Santana",
-      "url": "https://www.eldestapeweb.com/perfil/gabriel-santana",
-      "detectado": "2026-11-11T23:45:36.008Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/hora-descartados-ecos-politicos-visita-papa-leon-xiv-argentina-20261111201323",
-      "sitio": "El Destape",
-      "titulo": "¿La hora de los descartados? Ecos políticos de la visita del Papa León XIV",
-      "url": "https://www.eldestapeweb.com/politica/hora-descartados-ecos-politicos-visita-papa-leon-xiv-argentina-20261111201323",
-      "detectado": "2026-11-11T23:45:36.008Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/leon-xiv-argentina-este-pais-tiene-dos-papas-2026111115114",
-      "sitio": "El Destape",
-      "titulo": "El emotivo último mensaje de León XIV en Argentina: \"Este país tiene dos Papas\"",
-      "url": "https://www.eldestapeweb.com/sociedad/leon-xiv-argentina-este-pais-tiene-dos-papas-2026111115114",
-      "detectado": "2026-11-11T23:45:36.008Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/interna-feroz-milei-aplicaran-tolerancia-cero-bullrich-suena-reemplazo-2027-20261111161439",
-      "sitio": "El Destape",
-      "titulo": "Se fue el Papa y los Milei arrancan el operativo “tolerancia cero con Bullrich”",
-      "url": "https://www.eldestapeweb.com/politica/interna-feroz-milei-aplicaran-tolerancia-cero-bullrich-suena-reemplazo-2027-20261111161439",
       "detectado": "2026-11-11T23:45:36.008Z"
     }
   ]
