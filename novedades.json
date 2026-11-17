@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-16T14:05:32.482Z",
+  "actualizado": "2026-11-17T01:10:16.468Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Exitosa 2ª Jornada Provincial de Actuación Laboral y Previsional",
+      "url": "https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
+      "detectado": "2026-11-17T01:10:12.945Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/javier-milei-trabajo-32-429-empresas-dato-deja-peor-rua-nestor-cristina-alberto-macri-2026111617411",
+      "sitio": "El Destape",
+      "titulo": "Con Milei cerraron 33 mil empresas, la mayor baja en 30 años",
+      "url": "https://www.eldestapeweb.com/economia/javier-milei-trabajo-32-429-empresas-dato-deja-peor-rua-nestor-cristina-alberto-macri-2026111617411",
+      "detectado": "2026-11-17T01:10:15.627Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/terremoto-gobierno-karina-milei-reencuentra-patricia-bullrich-casa-rosada-medio-fuertes-tensiones-internas-20261116191546",
+      "sitio": "El Destape",
+      "titulo": "Karina Milei y Bullrich se reencuentran en Casa Rosada en medio del terremoto político",
+      "url": "https://www.eldestapeweb.com/politica/terremoto-gobierno-karina-milei-reencuentra-patricia-bullrich-casa-rosada-medio-fuertes-tensiones-internas-20261116191546",
+      "detectado": "2026-11-17T01:10:15.627Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-17T01:10:15.627Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/informe-revela-salarios-jubilaciones-volvieron-perder-inflacion-casi-68-argentinos-no-llega-dia-20-20261116163235",
+      "sitio": "El Destape",
+      "titulo": "El ingreso disponible cayó en septiembre y ya está casi 20% abajo de 2023",
+      "url": "https://www.eldestapeweb.com/economia/informe-revela-salarios-jubilaciones-volvieron-perder-inflacion-casi-68-argentinos-no-llega-dia-20-20261116163235",
+      "detectado": "2026-11-17T01:10:15.627Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/radicales-ven-posible-alianza-peronismo-enfrentar-lla-pro-capital-federal-2026111612630",
+      "sitio": "El Destape",
+      "titulo": "CABA: radicales ven posible una alianza con el peronismo para enfrentar a LLA y el PRO",
+      "url": "https://www.eldestapeweb.com/politica/radicales-ven-posible-alianza-peronismo-enfrentar-lla-pro-capital-federal-2026111612630",
+      "detectado": "2026-11-17T01:10:15.627Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/ingresos-brutos-simplificado-en-buenos-aires-como-consultar-y-pagar-la-deuda-del-monotributo-unificado/",
       "sitio": "Contadores en Red",
@@ -247,13 +289,6 @@
       "detectado": "2026-11-14T03:44:36.577Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-14T03:44:36.577Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
       "sitio": "Contadores en Red",
       "titulo": "Ajuste por Inflación contable e impositivo. Índices Octubre 2026.",
@@ -385,41 +420,6 @@
       "titulo": "Milei apura el tema PASO para acorralar a Bullrich y la dejaron al borde de la cornisa",
       "url": "https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
       "detectado": "2026-11-12T22:55:16.924Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-octubre-llego-2-servicios-explican-suba-2026111216541",
-      "sitio": "El Destape",
-      "titulo": "La inflación se aceleró en octubre y arrojó un 2,2% impulsado por el alza de servicios",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-octubre-llego-2-servicios-explican-suba-2026111216541",
-      "detectado": "2026-11-12T22:55:16.924Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-admitio-factores-domesticos-disparada-riesgo-pais-argentino-aun-no-puso-fecha-destrabar-us-900-millones-2026111214516",
-      "sitio": "El Destape",
-      "titulo": "El FMI advirtió que hay \"factores domésticos\" en la volatilidad de los mercados",
-      "url": "https://www.eldestapeweb.com/economia/fmi-admitio-factores-domesticos-disparada-riesgo-pais-argentino-aun-no-puso-fecha-destrabar-us-900-millones-2026111214516",
-      "detectado": "2026-11-12T22:55:16.924Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
-      "sitio": "Contadores en Red",
-      "titulo": "Régimen Especial de Reducción de Multas al 50%. Plazos y requisitos para aplicarlo.",
-      "url": "https://contadoresenred.com/regimen-especial-de-reduccion-de-multas-al-50-plazos-y-requisitos-para-aplicarlo/",
-      "detectado": "2026-11-12T14:04:03.114Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/blanqueo-laboral-per-entra-en-su-etapa-final-las-fechas-que-hay-que-tener-en-cuenta/",
-      "sitio": "Ignacio Online",
-      "titulo": "Blanqueo laboral PER entra en su etapa final, las fechas que hay que tener en cuenta",
-      "url": "https://www.ignacioonline.com.ar/blanqueo-laboral-per-entra-en-su-etapa-final-las-fechas-que-hay-que-tener-en-cuenta/",
-      "detectado": "2026-11-12T14:04:03.829Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/arca-reglamento-la-reduccion-del-50-de-multas-formales-como-acceder-y-hasta-cuando/",
-      "sitio": "Ignacio Online",
-      "titulo": "ARCA reglamentó la reducción del 50% de multas formales: cómo acceder y hasta cuándo",
-      "url": "https://www.ignacioonline.com.ar/arca-reglamento-la-reduccion-del-50-de-multas-formales-como-acceder-y-hasta-cuando/",
-      "detectado": "2026-11-12T14:04:03.829Z"
     }
   ]
 }
