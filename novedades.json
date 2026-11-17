@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-17T01:10:16.468Z",
+  "actualizado": "2026-11-17T14:58:56.074Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-suterh-de-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Encargados de edificios: nueva escala salarial SUTERH de noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-suterh-de-noviembre-2026/",
+      "detectado": "2026-11-17T14:58:51.143Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16056-forma-parte-de-la-mesa-de-intercambios-y-consultas-del-sector-publico",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Formá parte del Encuentro de Intercambios y Consultas del Sector Público",
+      "url": "https://www.cpba.com.ar/noticias/item/16056-forma-parte-de-la-mesa-de-intercambios-y-consultas-del-sector-publico",
+      "detectado": "2026-11-17T14:58:54.007Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Falta poco para el 41° Encuentro Anual de Profesionales en Ciencias Económicas del Ámbito Municipal",
+      "url": "https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
+      "detectado": "2026-11-17T14:58:54.007Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-revelo-charla-milei-alerto-dificil-situacion-pais-2026111785917",
+      "sitio": "El Destape",
+      "titulo": "Visita papal en Argentina",
+      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-revelo-charla-milei-alerto-dificil-situacion-pais-2026111785917",
+      "detectado": "2026-11-17T14:58:55.527Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/macri-gobernadores-acompanaran-milei-suspension-paso-20261117102535",
+      "sitio": "El Destape",
+      "titulo": "Macri y los gobernadores acompañarán a Milei en la suspensión de las PASO",
+      "url": "https://www.eldestapeweb.com/politica/macri-gobernadores-acompanaran-milei-suspension-paso-20261117102535",
+      "detectado": "2026-11-17T14:58:55.527Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/suspension-paso-colectoras-condicionan-apoyo-bullrich-pro-202611170538",
+      "sitio": "El Destape",
+      "titulo": "Suspensión de las PASO: las colectoras condicionan el apoyo de Bullrich y el PRO",
+      "url": "https://www.eldestapeweb.com/politica/suspension-paso-colectoras-condicionan-apoyo-bullrich-pro-202611170538",
+      "detectado": "2026-11-17T14:58:55.527Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuentro-pj-alienta-nueva-candidatura-sergio-massa-202611170538",
+      "sitio": "El Destape",
+      "titulo": "Día de la Militancia",
+      "url": "https://www.eldestapeweb.com/politica/encuentro-pj-alienta-nueva-candidatura-sergio-massa-202611170538",
+      "detectado": "2026-11-17T14:58:55.527Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-17T14:58:55.527Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
       "sitio": "CPBA (Buenos Aires)",
@@ -364,62 +420,6 @@
       "titulo": "Milei habilitó poner peajes en 27 rutas claves y se deberá pagar pese al deplorable estado",
       "url": "https://www.eldestapeweb.com/politica/milei-firmo-decreto-1358-2026-habilito-poner-peajes-27-rutas-claves-20261113990",
       "detectado": "2026-11-13T13:29:55.951Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-dio-marcha-atras-firmo-resolucion-83-2026-deja-premiar-colectivos-energia-limpia-202611139270",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno dio marcha atrás y eliminó incentivos para colectivos con energía limpia",
-      "url": "https://www.eldestapeweb.com/economia/gobierno-dio-marcha-atras-firmo-resolucion-83-2026-deja-premiar-colectivos-energia-limpia-202611139270",
-      "detectado": "2026-11-13T13:29:55.951Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/agoto-libro-marta-torres-mujer-encontro-papa-leon-xiv-2026111384155",
-      "sitio": "El Destape",
-      "titulo": "Se agotó el libro de Marta Torres, la mujer que se encontró con el papa León XIV",
-      "url": "https://www.eldestapeweb.com/sociedad/agoto-libro-marta-torres-mujer-encontro-papa-leon-xiv-2026111384155",
-      "detectado": "2026-11-13T13:29:55.951Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
-      "sitio": "El Destape",
-      "titulo": "De espaldas al Papa: Milei sigue frenando la ley de ludopatía",
-      "url": "https://www.eldestapeweb.com/politica/mensaje-papa-leon-xiv-destrabo-debate-milei-sigue-frenando-ley-ludopatia-202611130510",
-      "detectado": "2026-11-13T03:45:57.955Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/visita-papa-fue-historica-redes-carpa-vip-marco-pico-negatividad-202611130510",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/politica/visita-papa-fue-historica-redes-carpa-vip-marco-pico-negatividad-202611130510",
-      "detectado": "2026-11-13T03:45:57.955Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-13T03:45:57.955Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/giro-papista-patricia-bullrich-desafiar-ataques-javier-milei-luis-caputo-20261112233657",
-      "sitio": "El Destape",
-      "titulo": "\"Papistas\": la respuesta bullrichista a los ataques de Milei y la apuesta por el diálogo",
-      "url": "https://www.eldestapeweb.com/politica/giro-papista-patricia-bullrich-desafiar-ataques-javier-milei-luis-caputo-20261112233657",
-      "detectado": "2026-11-13T03:45:57.955Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inflacion-sorprendio-mercado-acelero-2-2-octubre-20261112223213",
-      "sitio": "El Destape",
-      "titulo": "La inflación sorprendió al mercado y se aceleró al 2,2% en octubre",
-      "url": "https://www.eldestapeweb.com/economia/inflacion-sorprendio-mercado-acelero-2-2-octubre-20261112223213",
-      "detectado": "2026-11-13T03:45:57.955Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
-      "sitio": "El Destape",
-      "titulo": "Milei apura el tema PASO para acorralar a Bullrich y la dejaron al borde de la cornisa",
-      "url": "https://www.eldestapeweb.com/politica/interna-rojo-vivo-oficialismo-hay-detras-apuro-casa-rosada-eliminar-paso-ultimatum-bullrich-20261112151048",
-      "detectado": "2026-11-12T22:55:16.924Z"
     }
   ]
 }
