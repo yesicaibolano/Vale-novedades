@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-17T14:58:56.074Z",
+  "actualizado": "2026-11-18T00:05:13.194Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16058-el-30-seminario-provincial-de-jovenes-graduados-copo-mar-del-plata",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "El 30° Seminario Provincial de Jóvenes Graduados copó Mar del Plata",
+      "url": "https://www.cpba.com.ar/noticias/item/16058-el-30-seminario-provincial-de-jovenes-graduados-copo-mar-del-plata",
+      "detectado": "2026-11-18T00:05:10.982Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
+      "sitio": "El Destape",
+      "titulo": "LLA emparchó la reforma electoral y buscará dictaminar este miércoles",
+      "url": "https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
+      "detectado": "2026-11-18T00:05:12.865Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-18T00:05:12.865Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fuego-cruzado-rosada-gobierno-responsabiliza-patricia-bullrich-si-cae-reforma-electoral-20261117162915",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno ya culpa a Bullrich si se llega a caer la reforma electoral",
+      "url": "https://www.eldestapeweb.com/politica/fuego-cruzado-rosada-gobierno-responsabiliza-patricia-bullrich-si-cae-reforma-electoral-20261117162915",
+      "detectado": "2026-11-18T00:05:12.865Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-18T00:05:12.865Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/ajuste-universitario-recortes-libertad-avanza-consiguio-dictamen-presupuesto-2027-apoyo-aliados-20261117182649",
+      "sitio": "El Destape",
+      "titulo": "Desfinanciamiento universitario: LLA logró dictamen para debatir el Presupuesto 2027",
+      "url": "https://www.eldestapeweb.com/politica/ajuste-universitario-recortes-libertad-avanza-consiguio-dictamen-presupuesto-2027-apoyo-aliados-20261117182649",
+      "detectado": "2026-11-18T00:05:12.865Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-suterh-de-noviembre-2026/",
       "sitio": "Ignacio Online",
@@ -76,13 +118,6 @@
       "sitio": "El Destape",
       "titulo": "Karina Milei y Bullrich se reencuentran en Casa Rosada en medio del terremoto político",
       "url": "https://www.eldestapeweb.com/politica/terremoto-gobierno-karina-milei-reencuentra-patricia-bullrich-casa-rosada-medio-fuertes-tensiones-internas-20261116191546",
-      "detectado": "2026-11-17T01:10:15.627Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
       "detectado": "2026-11-17T01:10:15.627Z"
     },
     {
@@ -202,13 +237,6 @@
       "sitio": "El Destape",
       "titulo": "LUNES LLA va a fondo, para abrochar la reforma electoral y presupuesto 2027",
       "url": "https://www.eldestapeweb.com/politica/gobierno-cede-cambia-reforma-electoral-suspender-paso-antes-2027-20261116050",
-      "detectado": "2026-11-16T03:24:19.686Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-11-16T03:24:19.686Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Alerta en Estados Unidos: suspendieron todos los vuelos en el país hasta nuevo aviso",
       "url": "https://www.eldestapeweb.com/internacionales/alerta-estados-unidos-suspendieron-todos-vuelos-pais-nuevo-aviso-razones-seguridad-20261113181915",
       "detectado": "2026-11-13T22:57:10.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/fuerte-explosion-incendio-escalada-causo-conmocion-obligo-evacuar-zona-20261113115342",
-      "sitio": "El Destape",
-      "titulo": "Emergencia en Lanús",
-      "url": "https://www.eldestapeweb.com/sociedad/fuerte-explosion-incendio-escalada-causo-conmocion-obligo-evacuar-zona-20261113115342",
-      "detectado": "2026-11-13T22:57:10.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "sitio": "El Destape",
-      "titulo": "León XIV en Argentina",
-      "url": "https://www.eldestapeweb.com/tag/leon-xiv-en-argentina",
-      "detectado": "2026-11-13T22:57:10.332Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El Consejo dio la bienvenida a sus nuevos matriculados",
-      "url": "https://www.cpba.com.ar/noticias/item/16038-el-consejo-dio-la-bienvenida-a-sus-nuevos-matriculados",
-      "detectado": "2026-11-13T13:29:54.363Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-firmo-decreto-1358-2026-habilito-poner-peajes-27-rutas-claves-20261113990",
-      "sitio": "El Destape",
-      "titulo": "Milei habilitó poner peajes en 27 rutas claves y se deberá pagar pese al deplorable estado",
-      "url": "https://www.eldestapeweb.com/politica/milei-firmo-decreto-1358-2026-habilito-poner-peajes-27-rutas-claves-20261113990",
-      "detectado": "2026-11-13T13:29:55.951Z"
     }
   ]
 }
