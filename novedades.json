@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-18T14:40:00.421Z",
+  "actualizado": "2026-11-18T23:38:35.298Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
+      "sitio": "Ignacio Online",
+      "titulo": "Formulario FUTURO: el Consejo y Trabajo bonaerense acordaron una mesa para abordar las dificultades de implementación",
+      "url": "https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
+      "detectado": "2026-11-18T23:38:29.853Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16061-formulario-futuro-reunion-con-el-ministerio-y-charla-sobre-su-implementacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Formulario FUTURO: Reunión con el Ministerio y charla sobre su implementación",
+      "url": "https://www.cpba.com.ar/noticias/item/16061-formulario-futuro-reunion-con-el-ministerio-y-charla-sobre-su-implementacion",
+      "detectado": "2026-11-18T23:38:33.232Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16060-profesionales-prestaron-juramento-y-se-incorporaron-a-la-matricula-del-consejo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Profesionales prestaron juramento y se incorporaron a la matrícula del Consejo",
+      "url": "https://www.cpba.com.ar/noticias/item/16060-profesionales-prestaron-juramento-y-se-incorporaron-a-la-matricula-del-consejo",
+      "detectado": "2026-11-18T23:38:33.232Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/dos-firmas-ponen-suspenso-emparchada-reforma-electoral-lla-20261118194113",
+      "sitio": "El Destape",
+      "titulo": "Con suspenso, los aliados dieron las firmas para la emparchada reforma electoral de LLA",
+      "url": "https://www.eldestapeweb.com/politica/dos-firmas-ponen-suspenso-emparchada-reforma-electoral-lla-20261118194113",
+      "detectado": "2026-11-18T23:38:34.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-18T23:38:34.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-le-puso-precio-dolar-medio-suba-riesgo-pais-20261118115825",
+      "sitio": "El Destape",
+      "titulo": "Caputo le puso precio al dólar en medio de la suba del riesgo país",
+      "url": "https://www.eldestapeweb.com/economia/caputo-le-puso-precio-dolar-medio-suba-riesgo-pais-20261118115825",
+      "detectado": "2026-11-18T23:38:34.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/derrota-milei-diputados-cayo-sesion-malvinas-reforma-bcra-20261118143221",
+      "sitio": "El Destape",
+      "titulo": "Derrota libertaria en Diputados: se cayó la sesión de Malvinas y la reforma del BCRA",
+      "url": "https://www.eldestapeweb.com/politica/derrota-milei-diputados-cayo-sesion-malvinas-reforma-bcra-20261118143221",
+      "detectado": "2026-11-18T23:38:34.768Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bate-record-exportaciones-industria-local-hunde-informe-revela-profunda-disparidad-economia-argentina-2026111819450",
+      "sitio": "El Destape",
+      "titulo": "Una economía mareada: las exportaciones no derraman y el mercado interno sigue en rojo",
+      "url": "https://www.eldestapeweb.com/economia/bate-record-exportaciones-industria-local-hunde-informe-revela-profunda-disparidad-economia-argentina-2026111819450",
+      "detectado": "2026-11-18T23:38:34.768Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/pago-electronico-comarb-que-medios-de-pago-podran-usar-contribuyentes-y-agentes/",
       "sitio": "Contadores en Red",
@@ -62,13 +118,6 @@
       "sitio": "El Destape",
       "titulo": "LLA emparchó la reforma electoral y buscará dictaminar este miércoles",
       "url": "https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
-      "detectado": "2026-11-18T00:05:12.865Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-11-18T00:05:12.865Z"
     },
     {
@@ -371,55 +420,6 @@
       "titulo": "León XIV recibió un informe sobre la violencia estatal contra las niñeces en la era Milei",
       "url": "https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
       "detectado": "2026-11-14T21:43:39.420Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/jubilaciones-sentencia-clave-anulo-movilidad-alberto-ordeno-pagar-formula-macri-20261114171435",
-      "sitio": "El Destape",
-      "titulo": "Un fallo anuló la movilidad jubilatoria de Alberto y ordenó pagar con la fórmula de Macri",
-      "url": "https://www.eldestapeweb.com/politica/jubilaciones-sentencia-clave-anulo-movilidad-alberto-ordeno-pagar-formula-macri-20261114171435",
-      "detectado": "2026-11-14T21:43:39.420Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-exclusiva-milei-hunde-kicillof-consolida-crece-apatia-electoral-2026111410032",
-      "sitio": "El Destape",
-      "titulo": "Encuesta exclusiva: Milei se hunde, Kicillof se consolida y crece la apatía electoral",
-      "url": "https://www.eldestapeweb.com/politica/encuesta-exclusiva-milei-hunde-kicillof-consolida-crece-apatia-electoral-2026111410032",
-      "detectado": "2026-11-14T21:43:39.420Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/formacion-confirmada-boca-juniors-vs-banfield-copa-argentina-hora-donde-verlo-20261114171925",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Boca enfenta a Banfield por Copa Argentina",
-      "url": "https://www.eldestapeweb.com/deportes/formacion-confirmada-boca-juniors-vs-banfield-copa-argentina-hora-donde-verlo-20261114171925",
-      "detectado": "2026-11-14T21:43:39.420Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/explosion-escalada-metrogas-corto-fuga-gas-bomberos-extinguieron-fuego-20261114123234",
-      "sitio": "El Destape",
-      "titulo": "Emergencia en Lanús",
-      "url": "https://www.eldestapeweb.com/sociedad/explosion-escalada-metrogas-corto-fuga-gas-bomberos-extinguieron-fuego-20261114123234",
-      "detectado": "2026-11-14T21:43:39.420Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525",
-      "sitio": "El Destape",
-      "titulo": "La encuesta que más incomoda a Milei: pierde el balotaje por 5 puntos",
-      "url": "https://www.eldestapeweb.com/politica/encuesta-presidencial-axel-kicillof-le-gana-javier-milei-balotaje-diferencia-nunca-registrada-2026111491525",
-      "detectado": "2026-11-14T12:35:21.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
-      "sitio": "El Destape",
-      "titulo": "Multinacionales, sacan más dólares de los que traen: saldo negativo de USD 4.500 millones",
-      "url": "https://www.eldestapeweb.com/economia/multinacionales-sacan-dolares-traen-saldo-negativo-usd-4-500-millones-202611140532",
-      "detectado": "2026-11-14T03:44:36.576Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno se unió contra Bullrich y Milei se juega la reelección en los próximos 30 días",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
-      "detectado": "2026-11-14T03:44:36.577Z"
     }
   ]
 }
