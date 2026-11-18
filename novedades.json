@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-11-18T00:05:13.194Z",
+  "actualizado": "2026-11-18T14:40:00.421Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/pago-electronico-comarb-que-medios-de-pago-podran-usar-contribuyentes-y-agentes/",
+      "sitio": "Contadores en Red",
+      "titulo": "Pago Electrónico COMARB: ¿Qué medios de pago podrán usar contribuyentes y agentes",
+      "url": "https://contadoresenred.com/pago-electronico-comarb-que-medios-de-pago-podran-usar-contribuyentes-y-agentes/",
+      "detectado": "2026-11-18T14:39:54.283Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/pago-electronico-comarb-habilitan-un-marco-comun-para-interbanking-pagos-360-y-pagaca/",
+      "sitio": "Ignacio Online",
+      "titulo": "Pago Electrónico COMARB: habilitan un marco común para Interbanking, Pagos 360 y Pagacá",
+      "url": "https://www.ignacioonline.com.ar/pago-electronico-comarb-habilitan-un-marco-comun-para-interbanking-pagos-360-y-pagaca/",
+      "detectado": "2026-11-18T14:39:55.230Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sistemas-shock-cuatro-hipotesis-crisis-informatica-estados-unidos-2026111810650",
+      "sitio": "El Destape",
+      "titulo": "Sistemas en shock: cuatro hipótesis sobre la crisis informática en Estados Unidos",
+      "url": "https://www.eldestapeweb.com/politica/sistemas-shock-cuatro-hipotesis-crisis-informatica-estados-unidos-2026111810650",
+      "detectado": "2026-11-18T14:40:00.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "sitio": "El Destape",
+      "titulo": "Por Nicolás Lantos",
+      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
+      "detectado": "2026-11-18T14:40:00.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-idea-justicia-social-nos-hunde-2026111811844",
+      "sitio": "El Destape",
+      "titulo": "Milei cuestionó el mensaje del Papa: \"La idea de la justicia social nos hunde\"",
+      "url": "https://www.eldestapeweb.com/politica/milei-idea-justicia-social-nos-hunde-2026111811844",
+      "detectado": "2026-11-18T14:40:00.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-18-noviembre-minuto-minuto-2026111871037",
+      "sitio": "El Destape",
+      "titulo": "El Gobierno ya tiene dictamen para el Presupuesto 2027 y negocia la suspensión de las PASO",
+      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-18-noviembre-minuto-minuto-2026111871037",
+      "detectado": "2026-11-18T14:40:00.000Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica-y-economia/milei-peor-menem-escandalosa-entrega-belgrano-cargas-medio-siglo-20261117215712",
+      "sitio": "El Destape",
+      "titulo": "Milei peor que Menem: la letra oculta de la privatización del tren exportador",
+      "url": "https://www.eldestapeweb.com/politica-y-economia/milei-peor-menem-escandalosa-entrega-belgrano-cargas-medio-siglo-20261117215712",
+      "detectado": "2026-11-18T14:40:00.000Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16058-el-30-seminario-provincial-de-jovenes-graduados-copo-mar-del-plata",
       "sitio": "CPBA (Buenos Aires)",
@@ -371,55 +420,6 @@
       "titulo": "El Gobierno se unió contra Bullrich y Milei se juega la reelección en los próximos 30 días",
       "url": "https://www.eldestapeweb.com/politica/gobierno-unio-bullrich-milei-juega-reeleccion-proximos-30-dias-202611140532",
       "detectado": "2026-11-14T03:44:36.577Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
-      "sitio": "Contadores en Red",
-      "titulo": "Ajuste por Inflación contable e impositivo. Índices Octubre 2026.",
-      "url": "https://contadoresenred.com/ajuste-por-inflacion-contable-e-impositivo-indices-octubre-2026/",
-      "detectado": "2026-11-13T22:57:04.195Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16052-implementacion-del-formulario-futuro-verificacion-virtual",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Implementación del Formulario FUTURO: Verificación virtual",
-      "url": "https://www.cpba.com.ar/noticias/item/16052-implementacion-del-formulario-futuro-verificacion-virtual",
-      "detectado": "2026-11-13T22:57:08.633Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16054-novedades-de-arca-facilidades-de-pago-ejecuciones-fiscales-y-recupero-de-iva",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Novedades de ARCA: facilidades de pago, ejecuciones fiscales y recupero de IVA",
-      "url": "https://www.cpba.com.ar/noticias/item/16054-novedades-de-arca-facilidades-de-pago-ejecuciones-fiscales-y-recupero-de-iva",
-      "detectado": "2026-11-13T22:57:08.633Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16053-ahora-en-repro-federalismo-fiscal-y-coparticipacion-repartir-sin-medir",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Ahora en RePro | Federalismo fiscal y coparticipación: Repartir sin medir",
-      "url": "https://www.cpba.com.ar/noticias/item/16053-ahora-en-repro-federalismo-fiscal-y-coparticipacion-repartir-sin-medir",
-      "detectado": "2026-11-13T22:57:08.633Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/derrumbo-nuevo-consumo-carne-cuantos-menos-kilos-comen-argentinos-milei-pais-van-cortes-2026111316380",
-      "sitio": "El Destape",
-      "titulo": "El consumo de carne volvió a caer en octubre: los argentinos comen casi 6 kilos menos",
-      "url": "https://www.eldestapeweb.com/economia/derrumbo-nuevo-consumo-carne-cuantos-menos-kilos-comen-argentinos-milei-pais-van-cortes-2026111316380",
-      "detectado": "2026-11-13T22:57:10.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/reforma-electoral-podrian-habilitar-colectoras-formulas-presidenciales-2026111316161",
-      "sitio": "El Destape",
-      "titulo": "Reforma electoral: el Gobierno busca habilitar las colectoras para fórmulas presidenciales",
-      "url": "https://www.eldestapeweb.com/politica/reforma-electoral-podrian-habilitar-colectoras-formulas-presidenciales-2026111316161",
-      "detectado": "2026-11-13T22:57:10.332Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/alerta-estados-unidos-suspendieron-todos-vuelos-pais-nuevo-aviso-razones-seguridad-20261113181915",
-      "sitio": "El Destape",
-      "titulo": "Alerta en Estados Unidos: suspendieron todos los vuelos en el país hasta nuevo aviso",
-      "url": "https://www.eldestapeweb.com/internacionales/alerta-estados-unidos-suspendieron-todos-vuelos-pais-nuevo-aviso-razones-seguridad-20261113181915",
-      "detectado": "2026-11-13T22:57:10.332Z"
     }
   ]
 }
