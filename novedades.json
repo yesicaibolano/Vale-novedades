@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-19T04:42:22.479Z",
+  "actualizado": "2026-11-19T14:46:26.840Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/fal-como-se-validara-el-id-fal-en-simplificacion-registral-desde-el-1-de-diciembre/",
+      "sitio": "Contadores en Red",
+      "titulo": "FAL ¿Cómo se validará el ID FAL en Simplificación Registral desde el 1° de diciembre?",
+      "url": "https://contadoresenred.com/fal-como-se-validara-el-id-fal-en-simplificacion-registral-desde-el-1-de-diciembre/",
+      "detectado": "2026-11-19T14:46:18.804Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fondos-side-milei-amplio-presupuesto-6-100-millones-2026111995240",
+      "sitio": "El Destape",
+      "titulo": "Más fondos para la SIDE: Milei amplió su presupuesto en $6.100 millones",
+      "url": "https://www.eldestapeweb.com/politica/fondos-side-milei-amplio-presupuesto-6-100-millones-2026111995240",
+      "detectado": "2026-11-19T14:46:26.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/xi-trump-putin-reunieron-historica-cumbre-desarme-nuclear-conflictos-globales-2026111984931",
+      "sitio": "El Destape",
+      "titulo": "Encuentro inédito en China",
+      "url": "https://www.eldestapeweb.com/internacionales/xi-trump-putin-reunieron-historica-cumbre-desarme-nuclear-conflictos-globales-2026111984931",
+      "detectado": "2026-11-19T14:46:26.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/explosion-remedios-escalada-murio-trabajador-metrogas-dos-victimas-2026111991457",
+      "sitio": "El Destape",
+      "titulo": "Emergencia en Lanús",
+      "url": "https://www.eldestapeweb.com/sociedad/explosion-remedios-escalada-murio-trabajador-metrogas-dos-victimas-2026111991457",
+      "detectado": "2026-11-19T14:46:26.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
+      "sitio": "El Destape",
+      "titulo": "Boca llegó a Barranquilla, con cambios por el calor y formación casi definida",
+      "url": "https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
+      "detectado": "2026-11-19T14:46:26.319Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-11-19T14:46:26.319Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/inquilinos-trabajan-horas-enfrentan-gastos-desigualdad-detras-crisis-alquileres-20261119058",
       "sitio": "El Destape",
@@ -378,48 +420,6 @@
       "titulo": "La \"trampa\" de las PASO, campaña limitada y caza de desencantados: el juego de Bullrich",
       "url": "https://www.eldestapeweb.com/politica/trampa-electoral-esquiva-patricia-bullrich-silencioso-plan-captar-desencantados-javier-milei-2026111512026",
       "detectado": "2026-11-15T22:09:48.625Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/advierten-suba-riesgo-pais-impacta-financiamiento-empresas-20261115162812",
-      "sitio": "El Destape",
-      "titulo": "Advierten que la suba del riesgo país dificulta el financiamiento de las empresas",
-      "url": "https://www.eldestapeweb.com/economia/advierten-suba-riesgo-pais-impacta-financiamiento-empresas-20261115162812",
-      "detectado": "2026-11-15T22:09:48.625Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "sitio": "El Destape",
-      "titulo": "Endeudamiento Familiar",
-      "url": "https://www.eldestapeweb.com/tag/endeudamiento-familiar",
-      "detectado": "2026-11-15T22:09:48.625Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/casi-70-hogares-no-llega-dia-20-mes-20261115174125",
-      "sitio": "El Destape",
-      "titulo": "Casi el 70% de los hogares no llega al día 20 del mes",
-      "url": "https://www.eldestapeweb.com/economia/casi-70-hogares-no-llega-dia-20-mes-20261115174125",
-      "detectado": "2026-11-15T22:09:48.625Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
-      "sitio": "El Destape",
-      "titulo": "La profecía de León XIV: extremaunción para Milei y el país de los grandes empresarios",
-      "url": "https://www.eldestapeweb.com/politica/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
-      "detectado": "2026-11-15T13:01:22.923Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica-y-economia/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
-      "sitio": "El Destape",
-      "titulo": "La profecía de León XIV: extremaunción para Milei y el país de los grandes empresarios",
-      "url": "https://www.eldestapeweb.com/politica-y-economia/mensaje-cifrado-papa-circulo-rojo-radiografia-poder-francisco-202611150526",
-      "detectado": "2026-11-15T03:22:45.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/fmi-equivoca-pronosticos-crecimiento-economico-202611150526",
-      "sitio": "El Destape",
-      "titulo": "¿Por qué el FMI siempre se equivoca?",
-      "url": "https://www.eldestapeweb.com/economia/fmi-equivoca-pronosticos-crecimiento-economico-202611150526",
-      "detectado": "2026-11-15T03:22:45.643Z"
     }
   ]
 }
