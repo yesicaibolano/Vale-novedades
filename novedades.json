@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-19T14:46:26.840Z",
+  "actualizado": "2026-11-19T23:57:12.623Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-aprobo-emergencia-discapacidad-postergo-proyecto-ludopatia-20261119194958",
+      "sitio": "El Destape",
+      "titulo": "El Senado aprobó la ley de Discapacidad, pero postergó el proyecto de ludopatía",
+      "url": "https://www.eldestapeweb.com/politica/senado-aprobo-emergencia-discapacidad-postergo-proyecto-ludopatia-20261119194958",
+      "detectado": "2026-11-19T23:57:12.175Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/intervenciones-bcra-tesoro-no-frenan-disparada-dolar-20261119202315",
+      "sitio": "El Destape",
+      "titulo": "Las intervenciones del BCRA y el Tesoro no frenan la disparada del dólar",
+      "url": "https://www.eldestapeweb.com/economia/intervenciones-bcra-tesoro-no-frenan-disparada-dolar-20261119202315",
+      "detectado": "2026-11-19T23:57:12.176Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-11-19T23:57:12.176Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
+      "sitio": "El Destape",
+      "titulo": "Transporte público",
+      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
+      "detectado": "2026-11-19T23:57:12.176Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-transporte-publico-cuantos-pasajeros-viajan-trenes-no-pagan-boleto-lineas-peor-20261119165436",
+      "sitio": "El Destape",
+      "titulo": "Crisis en los trenes: los pasajeros pagos cayeron 12,8% en 2026 y crece la evasión",
+      "url": "https://www.eldestapeweb.com/economia/crisis-transporte-publico-cuantos-pasajeros-viajan-trenes-no-pagan-boleto-lineas-peor-20261119165436",
+      "detectado": "2026-11-19T23:57:12.176Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/fal-como-se-validara-el-id-fal-en-simplificacion-registral-desde-el-1-de-diciembre/",
       "sitio": "Contadores en Red",
@@ -385,41 +420,6 @@
       "titulo": "La Selección cierra el año ante Costa Rica con cambios forzados de última hora",
       "url": "https://www.eldestapeweb.com/deportes/seleccion-argentina-cierra-2026-costa-rica-cambios-forzados-ultima-hora-20261116104139",
       "detectado": "2026-11-16T14:05:31.901Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/vender-pertenencias-llegar-fin-mes-alcanzo-mayor-nivel-pandemia-20261116050",
-      "sitio": "El Destape",
-      "titulo": "Cada vez más familias venden sus pertenencias para intentar llegar a fin de mes",
-      "url": "https://www.eldestapeweb.com/economia/vender-pertenencias-llegar-fin-mes-alcanzo-mayor-nivel-pandemia-20261116050",
-      "detectado": "2026-11-16T03:24:19.686Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dato-inedito-indec-salarios-informales-cayeron-0-8-terminos-nominales-primera-vez-2020-expone-golpe-real-recesion-bolsillo-20261116050",
-      "sitio": "El Destape",
-      "titulo": "La recesión llegó a los informales: la crisis detrás del inédito dato del Indec",
-      "url": "https://www.eldestapeweb.com/economia/dato-inedito-indec-salarios-informales-cayeron-0-8-terminos-nominales-primera-vez-2020-expone-golpe-real-recesion-bolsillo-20261116050",
-      "detectado": "2026-11-16T03:24:19.686Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/gobierno-cede-cambia-reforma-electoral-suspender-paso-antes-2027-20261116050",
-      "sitio": "El Destape",
-      "titulo": "LUNES LLA va a fondo, para abrochar la reforma electoral y presupuesto 2027",
-      "url": "https://www.eldestapeweb.com/politica/gobierno-cede-cambia-reforma-electoral-suspender-paso-antes-2027-20261116050",
-      "detectado": "2026-11-16T03:24:19.686Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/pronostico-jefe-bloque-peronismo-elecciones-2027-primera-vuelta-20261115132311",
-      "sitio": "El Destape",
-      "titulo": "Martínez vaticinó un triunfo del peronismo en 2027: \"Vamos a ganar en primera vuelta\"",
-      "url": "https://www.eldestapeweb.com/politica/pronostico-jefe-bloque-peronismo-elecciones-2027-primera-vuelta-20261115132311",
-      "detectado": "2026-11-15T22:09:48.624Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/trampa-electoral-esquiva-patricia-bullrich-silencioso-plan-captar-desencantados-javier-milei-2026111512026",
-      "sitio": "El Destape",
-      "titulo": "La \"trampa\" de las PASO, campaña limitada y caza de desencantados: el juego de Bullrich",
-      "url": "https://www.eldestapeweb.com/politica/trampa-electoral-esquiva-patricia-bullrich-silencioso-plan-captar-desencantados-javier-milei-2026111512026",
-      "detectado": "2026-11-15T22:09:48.625Z"
     }
   ]
 }
