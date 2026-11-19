@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-18T23:38:35.298Z",
+  "actualizado": "2026-11-19T04:42:22.479Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/inquilinos-trabajan-horas-enfrentan-gastos-desigualdad-detras-crisis-alquileres-20261119058",
+      "sitio": "El Destape",
+      "titulo": "Los inquilinos trabajan hasta 15 horas más por semana que quienes cobran alquileres",
+      "url": "https://www.eldestapeweb.com/economia/inquilinos-trabajan-horas-enfrentan-gastos-desigualdad-detras-crisis-alquileres-20261119058",
+      "detectado": "2026-11-19T04:42:21.958Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-19T04:42:21.959Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/paso-colectoras-ficha-limpia-campana-limitada-dice-proyecto-reforma-electoral-tratara-senado-202611190531",
+      "sitio": "El Destape",
+      "titulo": "Sin PASO, con Ficha Limpia y campaña acotada: letra de una ley que limita la democracia",
+      "url": "https://www.eldestapeweb.com/politica/paso-colectoras-ficha-limpia-campana-limitada-dice-proyecto-reforma-electoral-tratara-senado-202611190531",
+      "detectado": "2026-11-19T04:42:21.959Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/economia-posverdad-20261118231140",
+      "sitio": "El Destape",
+      "titulo": "La economía de la posverdad",
+      "url": "https://www.eldestapeweb.com/economia/economia-posverdad-20261118231140",
+      "detectado": "2026-11-19T04:42:21.959Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-11-19T04:42:21.959Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
       "sitio": "Ignacio Online",
@@ -317,13 +352,6 @@
       "detectado": "2026-11-16T03:24:19.686Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-16T03:24:19.686Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/dato-inedito-indec-salarios-informales-cayeron-0-8-terminos-nominales-primera-vez-2020-expone-golpe-real-recesion-bolsillo-20261116050",
       "sitio": "El Destape",
       "titulo": "La recesión llegó a los informales: la crisis detrás del inédito dato del Indec",
@@ -392,34 +420,6 @@
       "titulo": "¿Por qué el FMI siempre se equivoca?",
       "url": "https://www.eldestapeweb.com/economia/fmi-equivoca-pronosticos-crecimiento-economico-202611150526",
       "detectado": "2026-11-15T03:22:45.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/dolares-deuda-fin-balas-plata-202611150526",
-      "sitio": "El Destape",
-      "titulo": "Dólares y deuda: El fin de las balas de plata",
-      "url": "https://www.eldestapeweb.com/opinion/dolares-deuda-fin-balas-plata-202611150526",
-      "detectado": "2026-11-15T03:22:45.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-11-15T03:22:45.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/inflacion-casta-promesas-rotas-milei-2026111420026",
-      "sitio": "El Destape",
-      "titulo": "Inflación y casta: las promesas rotas de Milei",
-      "url": "https://www.eldestapeweb.com/politica/inflacion-casta-promesas-rotas-milei-2026111420026",
-      "detectado": "2026-11-15T03:22:45.643Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
-      "sitio": "El Destape",
-      "titulo": "León XIV recibió un informe sobre la violencia estatal contra las niñeces en la era Milei",
-      "url": "https://www.eldestapeweb.com/economia/leon-xiv-recibio-informe-violencia-estatal-nineces-era-milei-2026111416460",
-      "detectado": "2026-11-14T21:43:39.420Z"
     }
   ]
 }
