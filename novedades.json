@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-20T14:27:49.540Z",
+  "actualizado": "2026-11-20T23:26:22.535Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16065-arca-sera-obligatorio-informar-la-condicion-frente-al-iva-del-receptor",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "ARCA: Será obligatorio informar la condición frente al IVA del receptor",
+      "url": "https://www.cpba.com.ar/noticias/item/16065-arca-sera-obligatorio-informar-la-condicion-frente-al-iva-del-receptor",
+      "detectado": "2026-11-20T23:26:20.804Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16064-nuevo-valor-del-modulo",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevo valor del Módulo",
+      "url": "https://www.cpba.com.ar/noticias/item/16064-nuevo-valor-del-modulo",
+      "detectado": "2026-11-20T23:26:20.804Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16063-ahora-en-repro-prevencion-de-lavado-e-ia-como-asegurar-la-trazabilidad-de-las-decisiones",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Prevención de lavado e IA: Cómo asegurar la trazabilidad de las…",
+      "url": "https://www.cpba.com.ar/noticias/item/16063-ahora-en-repro-prevencion-de-lavado-e-ia-como-asegurar-la-trazabilidad-de-las-decisiones",
+      "detectado": "2026-11-20T23:26:20.804Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-crecen-dudas-deuda-milei-20261120115816",
+      "sitio": "El Destape",
+      "titulo": "Se desplomaron los bonos y las acciones: crecen las dudas sobre la deuda",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-caen-bonos-acciones-crecen-dudas-deuda-milei-20261120115816",
+      "detectado": "2026-11-20T23:26:22.081Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/servicios-publicos-amba-cuanto-paga-familia-noviembre-2026-20261120142419",
+      "sitio": "El Destape",
+      "titulo": "Servicios públicos: una familia del AMBA necesita casi $300.000 por mes para pagarlos",
+      "url": "https://www.eldestapeweb.com/economia/servicios-publicos-amba-cuanto-paga-familia-noviembre-2026-20261120142419",
+      "detectado": "2026-11-20T23:26:22.081Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "sitio": "El Destape",
+      "titulo": "Por Cristian Carrillo",
+      "url": "https://www.eldestapeweb.com/perfil/cristian-carrillo",
+      "detectado": "2026-11-20T23:26:22.081Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-riesgo-pais-dispara-1038-puntos-marca-record-20261120113630",
+      "sitio": "El Destape",
+      "titulo": "Crisis financiera: el Riesgo País se dispara a casi 1100 puntos y marca un nuevo récord",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-riesgo-pais-dispara-1038-puntos-marca-record-20261120113630",
+      "detectado": "2026-11-20T23:26:22.081Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-viernes-20-de-noviembre-20261120306",
+      "sitio": "El Destape",
+      "titulo": "Dólar caliente: se dispararon el oficial, blue y CCL en medio del temblor en los mercados",
+      "url": "https://www.eldestapeweb.com/economia/precio-del-dolar-hoy-y-dolar-blue-hoy-en-vivo-cual-es-su-cotizacion-este-viernes-20-de-noviembre-20261120306",
+      "detectado": "2026-11-20T23:26:22.081Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/doble-imposicion-internacional-economia-reglamento-como-tramitar-los-acuerdos-mutuos/",
       "sitio": "Contadores en Red",
@@ -364,62 +420,6 @@
       "titulo": "Desfinanciamiento universitario: LLA logró dictamen para debatir el Presupuesto 2027",
       "url": "https://www.eldestapeweb.com/politica/ajuste-universitario-recortes-libertad-avanza-consiguio-dictamen-presupuesto-2027-apoyo-aliados-20261117182649",
       "detectado": "2026-11-18T00:05:12.865Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-suterh-de-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Encargados de edificios: nueva escala salarial SUTERH de noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/encargados-de-edificios-nueva-escala-salarial-suterh-de-noviembre-2026/",
-      "detectado": "2026-11-17T14:58:51.143Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16056-forma-parte-de-la-mesa-de-intercambios-y-consultas-del-sector-publico",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Formá parte del Encuentro de Intercambios y Consultas del Sector Público",
-      "url": "https://www.cpba.com.ar/noticias/item/16056-forma-parte-de-la-mesa-de-intercambios-y-consultas-del-sector-publico",
-      "detectado": "2026-11-17T14:58:54.007Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Falta poco para el 41° Encuentro Anual de Profesionales en Ciencias Económicas del Ámbito Municipal",
-      "url": "https://www.cpba.com.ar/noticias/item/15998-el-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal-celebra-su-41-edicion",
-      "detectado": "2026-11-17T14:58:54.007Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/papa-leon-xiv-revelo-charla-milei-alerto-dificil-situacion-pais-2026111785917",
-      "sitio": "El Destape",
-      "titulo": "Visita papal en Argentina",
-      "url": "https://www.eldestapeweb.com/politica/papa-leon-xiv-revelo-charla-milei-alerto-dificil-situacion-pais-2026111785917",
-      "detectado": "2026-11-17T14:58:55.527Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/macri-gobernadores-acompanaran-milei-suspension-paso-20261117102535",
-      "sitio": "El Destape",
-      "titulo": "Macri y los gobernadores acompañarán a Milei en la suspensión de las PASO",
-      "url": "https://www.eldestapeweb.com/politica/macri-gobernadores-acompanaran-milei-suspension-paso-20261117102535",
-      "detectado": "2026-11-17T14:58:55.527Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/suspension-paso-colectoras-condicionan-apoyo-bullrich-pro-202611170538",
-      "sitio": "El Destape",
-      "titulo": "Suspensión de las PASO: las colectoras condicionan el apoyo de Bullrich y el PRO",
-      "url": "https://www.eldestapeweb.com/politica/suspension-paso-colectoras-condicionan-apoyo-bullrich-pro-202611170538",
-      "detectado": "2026-11-17T14:58:55.527Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuentro-pj-alienta-nueva-candidatura-sergio-massa-202611170538",
-      "sitio": "El Destape",
-      "titulo": "Día de la Militancia",
-      "url": "https://www.eldestapeweb.com/politica/encuentro-pj-alienta-nueva-candidatura-sergio-massa-202611170538",
-      "detectado": "2026-11-17T14:58:55.527Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Exitosa 2ª Jornada Provincial de Actuación Laboral y Previsional",
-      "url": "https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
-      "detectado": "2026-11-17T01:10:12.945Z"
     }
   ]
 }
