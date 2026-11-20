@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-19T23:57:12.623Z",
+  "actualizado": "2026-11-20T05:03:45.907Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/onu-comedores-advertencia-gobierno-milei-asistencia-alimentaria-20261120057",
+      "sitio": "El Destape",
+      "titulo": "Dura advertencia de la ONU a Milei por el recorte en alimentos",
+      "url": "https://www.eldestapeweb.com/politica/onu-comedores-advertencia-gobierno-milei-asistencia-alimentaria-20261120057",
+      "detectado": "2026-11-20T05:03:45.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/paso-surgen-planteos-peronismo-resuelva-candidaturas-interna-20261120057",
+      "sitio": "El Destape",
+      "titulo": "Sin PASO, surgen planteos para que el peronismo resuelva sus candidaturas en una interna",
+      "url": "https://www.eldestapeweb.com/politica/paso-surgen-planteos-peronismo-resuelva-candidaturas-interna-20261120057",
+      "detectado": "2026-11-20T05:03:45.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-20T05:03:45.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/transporte-amba-perdio-176-trenes-diarios-3-000-colectivos-asuncion-milei-2026111921028",
+      "sitio": "El Destape",
+      "titulo": "Con Milei hay casi 200 trenes menos por día y 3.000 colectivos menos en la calle",
+      "url": "https://www.eldestapeweb.com/economia/transporte-amba-perdio-176-trenes-diarios-3-000-colectivos-asuncion-milei-2026111921028",
+      "detectado": "2026-11-20T05:03:45.391Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "sitio": "El Destape",
+      "titulo": "Seguimiento Minuto A Minuto",
+      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
+      "detectado": "2026-11-20T05:03:45.391Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/senado-aprobo-emergencia-discapacidad-postergo-proyecto-ludopatia-20261119194958",
       "sitio": "El Destape",
@@ -69,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "Boca llegó a Barranquilla, con cambios por el calor y formación casi definida",
       "url": "https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
-      "detectado": "2026-11-19T14:46:26.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "detectado": "2026-11-19T14:46:26.319Z"
     },
     {
@@ -303,13 +331,6 @@
       "detectado": "2026-11-17T14:58:55.527Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-17T14:58:55.527Z"
-    },
-    {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16057-exitosa-2-jornada-provincial-de-actuacion-laboral-y-previsional",
       "sitio": "CPBA (Buenos Aires)",
       "titulo": "Exitosa 2ª Jornada Provincial de Actuación Laboral y Previsional",
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Javier Milei presidente",
       "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-16T14:05:31.901Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-lunes-16-noviembre-minuto-minuto-2026111675533",
-      "sitio": "El Destape",
-      "titulo": "Operan a la ministra de Seguridad Monteoliva",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-lunes-16-noviembre-minuto-minuto-2026111675533",
-      "detectado": "2026-11-16T14:05:31.901Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "sitio": "El Destape",
-      "titulo": "Selección Argentina",
-      "url": "https://www.eldestapeweb.com/tag/seleccion-argentina",
-      "detectado": "2026-11-16T14:05:31.901Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/seleccion-argentina-cierra-2026-costa-rica-cambios-forzados-ultima-hora-20261116104139",
-      "sitio": "El Destape",
-      "titulo": "La Selección cierra el año ante Costa Rica con cambios forzados de última hora",
-      "url": "https://www.eldestapeweb.com/deportes/seleccion-argentina-cierra-2026-costa-rica-cambios-forzados-ultima-hora-20261116104139",
       "detectado": "2026-11-16T14:05:31.901Z"
     }
   ]
