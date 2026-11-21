@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-20T23:26:22.535Z",
+  "actualizado": "2026-11-21T04:27:11.353Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-21T04:27:10.731Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/acv-economico-dolarizacion-cepo-bessent-laberinto-salida-metieron-milei-caputo-20261120233239",
+      "sitio": "El Destape",
+      "titulo": "ACV económico, dolarización, cepo y Bessent: el laberinto sin salida en el que entró Milei",
+      "url": "https://www.eldestapeweb.com/politica/acv-economico-dolarizacion-cepo-bessent-laberinto-salida-metieron-milei-caputo-20261120233239",
+      "detectado": "2026-11-21T04:27:10.731Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "sitio": "El Destape",
+      "titulo": "Por Jonathan Heguier",
+      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
+      "detectado": "2026-11-21T04:27:10.731Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/precarizacion-laboral-desfinancia-jubilaciones-hacen-falta-30-monotributistas-igualar-aporte-20261120233324",
+      "sitio": "El Destape",
+      "titulo": "Menos empleo registrado, menos aportes: la precarización también golpea a las jubilaciones",
+      "url": "https://www.eldestapeweb.com/economia/precarizacion-laboral-desfinancia-jubilaciones-hacen-falta-30-monotributistas-igualar-aporte-20261120233324",
+      "detectado": "2026-11-21T04:27:10.731Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-21T04:27:10.731Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16065-arca-sera-obligatorio-informar-la-condicion-frente-al-iva-del-receptor",
       "sitio": "CPBA (Buenos Aires)",
@@ -105,13 +140,6 @@
       "titulo": "Emotivo acto de entrega de medallas en Pergamino",
       "url": "https://www.cpba.com.ar/noticias/item/16062-emotivo-acto-de-entrega-de-medallas-en-pergamino",
       "detectado": "2026-11-20T14:27:47.610Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-20T14:27:48.977Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/tarifazo-aysa-agua-aumentara-millones-usuarios-amba-febrero-2027-2026112093024",
@@ -254,13 +282,6 @@
       "detectado": "2026-11-19T04:42:21.958Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-19T04:42:21.959Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/paso-colectoras-ficha-limpia-campana-limitada-dice-proyecto-reforma-electoral-tratara-senado-202611190531",
       "sitio": "El Destape",
       "titulo": "Sin PASO, con Ficha Limpia y campaña acotada: letra de una ley que limita la democracia",
@@ -398,27 +419,6 @@
       "sitio": "El Destape",
       "titulo": "LLA emparchó la reforma electoral y buscará dictaminar este miércoles",
       "url": "https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
-      "detectado": "2026-11-18T00:05:12.865Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fuego-cruzado-rosada-gobierno-responsabiliza-patricia-bullrich-si-cae-reforma-electoral-20261117162915",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno ya culpa a Bullrich si se llega a caer la reforma electoral",
-      "url": "https://www.eldestapeweb.com/politica/fuego-cruzado-rosada-gobierno-responsabiliza-patricia-bullrich-si-cae-reforma-electoral-20261117162915",
-      "detectado": "2026-11-18T00:05:12.865Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-18T00:05:12.865Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/ajuste-universitario-recortes-libertad-avanza-consiguio-dictamen-presupuesto-2027-apoyo-aliados-20261117182649",
-      "sitio": "El Destape",
-      "titulo": "Desfinanciamiento universitario: LLA logró dictamen para debatir el Presupuesto 2027",
-      "url": "https://www.eldestapeweb.com/politica/ajuste-universitario-recortes-libertad-avanza-consiguio-dictamen-presupuesto-2027-apoyo-aliados-20261117182649",
       "detectado": "2026-11-18T00:05:12.865Z"
     }
   ]
