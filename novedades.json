@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-11-21T04:27:11.353Z",
+  "actualizado": "2026-11-21T13:46:42.478Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
+      "sitio": "El Destape",
+      "titulo": "Internas en tiempos de crisis",
+      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
+      "detectado": "2026-11-21T13:46:41.930Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-espana-pedro-sanchez-busca-remontada-lula-frenar-ultraderecha-propia-coalicion-desarticulada-2026112110314",
+      "sitio": "El Destape",
+      "titulo": "Sin coalición firme, Pedro Sánchez intenta una remontada “a lo Lula” en España",
+      "url": "https://www.eldestapeweb.com/internacionales/elecciones-espana-pedro-sanchez-busca-remontada-lula-frenar-ultraderecha-propia-coalicion-desarticulada-2026112110314",
+      "detectado": "2026-11-21T13:46:41.930Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "sitio": "El Destape",
@@ -406,20 +420,6 @@
       "titulo": "Milei peor que Menem: la letra oculta de la privatización del tren exportador",
       "url": "https://www.eldestapeweb.com/politica-y-economia/milei-peor-menem-escandalosa-entrega-belgrano-cargas-medio-siglo-20261117215712",
       "detectado": "2026-11-18T14:40:00.000Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16058-el-30-seminario-provincial-de-jovenes-graduados-copo-mar-del-plata",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "El 30° Seminario Provincial de Jóvenes Graduados copó Mar del Plata",
-      "url": "https://www.cpba.com.ar/noticias/item/16058-el-30-seminario-provincial-de-jovenes-graduados-copo-mar-del-plata",
-      "detectado": "2026-11-18T00:05:10.982Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
-      "sitio": "El Destape",
-      "titulo": "LLA emparchó la reforma electoral y buscará dictaminar este miércoles",
-      "url": "https://www.eldestapeweb.com/politica/lla-emparcho-reforma-electoral-insistira-negociacion-aliados-2026111718144",
-      "detectado": "2026-11-18T00:05:12.865Z"
     }
   ]
 }
