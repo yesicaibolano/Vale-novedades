@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-21T13:46:42.478Z",
+  "actualizado": "2026-11-21T22:29:54.170Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339",
+      "sitio": "El Destape",
+      "titulo": "Quince encuestas, un mismo patrón: el dato que se repite rumbo a 2027",
+      "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339",
+      "detectado": "2026-11-21T22:29:53.782Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/fallo-corte-caso-prepagas-tambalea-todo-dnu-70-23-2026112115380",
+      "sitio": "El Destape",
+      "titulo": "Tras el fallo de la Corte en el caso prepagas ¿tambalea todo el DNU 70/23?",
+      "url": "https://www.eldestapeweb.com/politica/fallo-corte-caso-prepagas-tambalea-todo-dnu-70-23-2026112115380",
+      "detectado": "2026-11-21T22:29:53.782Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/boca-va-nuevo-titulo-copa-sudamericana-cortar-racha-copas-internacionales-20261121184757",
+      "sitio": "El Destape",
+      "titulo": "Boca va por un nuevo titulo en Copa Sudamericana para cortar su racha internacional",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/boca-va-nuevo-titulo-copa-sudamericana-cortar-racha-copas-internacionales-20261121184757",
+      "detectado": "2026-11-21T22:29:53.782Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/indignante-saco-2-mil-dolares-ahorros-abuela-le-mintio-uso-ir-ver-boca-2026112114199",
+      "sitio": "El Destape",
+      "titulo": "Indignante: le sacó 2 mil dólares a su abuela, le mintió y fue a la final de Boca",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/indignante-saco-2-mil-dolares-ahorros-abuela-le-mintio-uso-ir-ver-boca-2026112114199",
+      "detectado": "2026-11-21T22:29:53.782Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-sigue-cayendo-encuestas-conocio-ultimo-ranking-imagen-20261120165830",
+      "sitio": "El Destape",
+      "titulo": "Nueva encuesta: Milei quedó tercero en imagen positiva",
+      "url": "https://www.eldestapeweb.com/politica/milei-sigue-cayendo-encuestas-conocio-ultimo-ranking-imagen-20261120165830",
+      "detectado": "2026-11-21T22:29:53.782Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
       "sitio": "El Destape",
@@ -385,41 +420,6 @@
       "titulo": "Pago Electrónico COMARB: habilitan un marco común para Interbanking, Pagos 360 y Pagacá",
       "url": "https://www.ignacioonline.com.ar/pago-electronico-comarb-habilitan-un-marco-comun-para-interbanking-pagos-360-y-pagaca/",
       "detectado": "2026-11-18T14:39:55.230Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/sistemas-shock-cuatro-hipotesis-crisis-informatica-estados-unidos-2026111810650",
-      "sitio": "El Destape",
-      "titulo": "Sistemas en shock: cuatro hipótesis sobre la crisis informática en Estados Unidos",
-      "url": "https://www.eldestapeweb.com/politica/sistemas-shock-cuatro-hipotesis-crisis-informatica-estados-unidos-2026111810650",
-      "detectado": "2026-11-18T14:40:00.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "sitio": "El Destape",
-      "titulo": "Por Nicolás Lantos",
-      "url": "https://www.eldestapeweb.com/perfil/nicolas-lantos",
-      "detectado": "2026-11-18T14:40:00.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-idea-justicia-social-nos-hunde-2026111811844",
-      "sitio": "El Destape",
-      "titulo": "Milei cuestionó el mensaje del Papa: \"La idea de la justicia social nos hunde\"",
-      "url": "https://www.eldestapeweb.com/politica/milei-idea-justicia-social-nos-hunde-2026111811844",
-      "detectado": "2026-11-18T14:40:00.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-18-noviembre-minuto-minuto-2026111871037",
-      "sitio": "El Destape",
-      "titulo": "El Gobierno ya tiene dictamen para el Presupuesto 2027 y negocia la suspensión de las PASO",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-miercoles-18-noviembre-minuto-minuto-2026111871037",
-      "detectado": "2026-11-18T14:40:00.000Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica-y-economia/milei-peor-menem-escandalosa-entrega-belgrano-cargas-medio-siglo-20261117215712",
-      "sitio": "El Destape",
-      "titulo": "Milei peor que Menem: la letra oculta de la privatización del tren exportador",
-      "url": "https://www.eldestapeweb.com/politica-y-economia/milei-peor-menem-escandalosa-entrega-belgrano-cargas-medio-siglo-20261117215712",
-      "detectado": "2026-11-18T14:40:00.000Z"
     }
   ]
 }
