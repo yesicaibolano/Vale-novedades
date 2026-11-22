@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-22T13:40:23.880Z",
+  "actualizado": "2026-11-22T22:53:29.319Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Cibeira",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
+      "detectado": "2026-11-22T22:53:28.762Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-22T22:53:28.762Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-milei-financial-times-advierte-deficit-vencimientos-deuda-2027-2026112216212",
+      "sitio": "El Destape",
+      "titulo": "El Financial Times advierte un déficit por los vencimientos de deuda en 2027",
+      "url": "https://www.eldestapeweb.com/economia/alerta-milei-financial-times-advierte-deficit-vencimientos-deuda-2027-2026112216212",
+      "detectado": "2026-11-22T22:53:28.762Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/river-enfrenta-lanus-local-clima-enrarecido-triunfo-boca-sudamericana-20261122183112",
+      "sitio": "El Destape",
+      "titulo": "Vivo | Con poco, Lanús le empata a River en el Monumental",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/river-enfrenta-lanus-local-clima-enrarecido-triunfo-boca-sudamericana-20261122183112",
+      "detectado": "2026-11-22T22:53:28.762Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/arruabarrena-adelanto-sigue-boca-ser-campeon-copa-sudamericana-wachiturros-liderazgo-paredes-20261122151043",
+      "sitio": "El Destape",
+      "titulo": "Arruabarrena adelantó cómo sigue Boca, el liderazgo de Paredes y \"los Wachiturros\"",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/arruabarrena-adelanto-sigue-boca-ser-campeon-copa-sudamericana-wachiturros-liderazgo-paredes-20261122151043",
+      "detectado": "2026-11-22T22:53:28.762Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
       "sitio": "El Destape",
@@ -98,13 +133,6 @@
       "titulo": "Sin coalición firme, Pedro Sánchez intenta una remontada “a lo Lula” en España",
       "url": "https://www.eldestapeweb.com/internacionales/elecciones-espana-pedro-sanchez-busca-remontada-lula-frenar-ultraderecha-propia-coalicion-desarticulada-2026112110314",
       "detectado": "2026-11-21T13:46:41.930Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-21T04:27:10.731Z"
     },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/acv-economico-dolarizacion-cepo-bessent-laberinto-salida-metieron-milei-caputo-20261120233239",
@@ -282,13 +310,6 @@
       "detectado": "2026-11-20T05:03:45.391Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-20T05:03:45.391Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/transporte-amba-perdio-176-trenes-diarios-3-000-colectivos-asuncion-milei-2026111921028",
       "sitio": "El Destape",
       "titulo": "Con Milei hay casi 200 trenes menos por día y 3.000 colectivos menos en la calle",
@@ -399,27 +420,6 @@
       "titulo": "Formulario FUTURO: el Consejo y Trabajo bonaerense acordaron una mesa para abordar las dificultades de implementación",
       "url": "https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
       "detectado": "2026-11-18T23:38:29.853Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16061-formulario-futuro-reunion-con-el-ministerio-y-charla-sobre-su-implementacion",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Formulario FUTURO: Reunión con el Ministerio y charla sobre su implementación",
-      "url": "https://www.cpba.com.ar/noticias/item/16061-formulario-futuro-reunion-con-el-ministerio-y-charla-sobre-su-implementacion",
-      "detectado": "2026-11-18T23:38:33.232Z"
-    },
-    {
-      "id": "cpba|https://www.cpba.com.ar/noticias/item/16060-profesionales-prestaron-juramento-y-se-incorporaron-a-la-matricula-del-consejo",
-      "sitio": "CPBA (Buenos Aires)",
-      "titulo": "Profesionales prestaron juramento y se incorporaron a la matrícula del Consejo",
-      "url": "https://www.cpba.com.ar/noticias/item/16060-profesionales-prestaron-juramento-y-se-incorporaron-a-la-matricula-del-consejo",
-      "detectado": "2026-11-18T23:38:33.232Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/dos-firmas-ponen-suspenso-emparchada-reforma-electoral-lla-20261118194113",
-      "sitio": "El Destape",
-      "titulo": "Con suspenso, los aliados dieron las firmas para la emparchada reforma electoral de LLA",
-      "url": "https://www.eldestapeweb.com/politica/dos-firmas-ponen-suspenso-emparchada-reforma-electoral-lla-20261118194113",
-      "detectado": "2026-11-18T23:38:34.768Z"
     }
   ]
 }
