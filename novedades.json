@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-21T22:29:54.170Z",
+  "actualizado": "2026-11-22T03:42:00.413Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
+      "sitio": "El Destape",
+      "titulo": "Milei y el peronismo: tiempo de descuento para un choque en la montaña rusa",
+      "url": "https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
+      "detectado": "2026-11-22T03:41:12.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-gobierno-milei-recesion-dolar-riesgo-pais-conflictos-politicos-202611220551",
+      "sitio": "El Destape",
+      "titulo": "Riesgo país de 1000 puntos y recesión",
+      "url": "https://www.eldestapeweb.com/economia/crisis-gobierno-milei-recesion-dolar-riesgo-pais-conflictos-politicos-202611220551",
+      "detectado": "2026-11-22T03:41:12.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/opinion/alto-costo-populismo-cambiario-20261121235854",
+      "sitio": "El Destape",
+      "titulo": "El alto costo del populismo cambiario",
+      "url": "https://www.eldestapeweb.com/opinion/alto-costo-populismo-cambiario-20261121235854",
+      "detectado": "2026-11-22T03:41:12.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "sitio": "El Destape",
+      "titulo": "Por Claudio Scaletta",
+      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
+      "detectado": "2026-11-22T03:41:12.666Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/boca-campeon-copa-sudamericana-volvio-ganar-titulo-internacional-despues-18-anos-20261121212953",
+      "sitio": "El Destape",
+      "titulo": "Boca bailó al Atlético Mineiro y es campeón de la Copa Sudamericana",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/boca-campeon-copa-sudamericana-volvio-ganar-titulo-internacional-despues-18-anos-20261121212953",
+      "detectado": "2026-11-22T03:41:12.666Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339",
       "sitio": "El Destape",
@@ -345,13 +380,6 @@
       "detectado": "2026-11-19T04:42:21.959Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-11-19T04:42:21.959Z"
-    },
-    {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
       "sitio": "Ignacio Online",
       "titulo": "Formulario FUTURO: el Consejo y Trabajo bonaerense acordaron una mesa para abordar las dificultades de implementación",
@@ -392,34 +420,6 @@
       "titulo": "Caputo le puso precio al dólar en medio de la suba del riesgo país",
       "url": "https://www.eldestapeweb.com/economia/caputo-le-puso-precio-dolar-medio-suba-riesgo-pais-20261118115825",
       "detectado": "2026-11-18T23:38:34.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/derrota-milei-diputados-cayo-sesion-malvinas-reforma-bcra-20261118143221",
-      "sitio": "El Destape",
-      "titulo": "Derrota libertaria en Diputados: se cayó la sesión de Malvinas y la reforma del BCRA",
-      "url": "https://www.eldestapeweb.com/politica/derrota-milei-diputados-cayo-sesion-malvinas-reforma-bcra-20261118143221",
-      "detectado": "2026-11-18T23:38:34.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/bate-record-exportaciones-industria-local-hunde-informe-revela-profunda-disparidad-economia-argentina-2026111819450",
-      "sitio": "El Destape",
-      "titulo": "Una economía mareada: las exportaciones no derraman y el mercado interno sigue en rojo",
-      "url": "https://www.eldestapeweb.com/economia/bate-record-exportaciones-industria-local-hunde-informe-revela-profunda-disparidad-economia-argentina-2026111819450",
-      "detectado": "2026-11-18T23:38:34.768Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/pago-electronico-comarb-que-medios-de-pago-podran-usar-contribuyentes-y-agentes/",
-      "sitio": "Contadores en Red",
-      "titulo": "Pago Electrónico COMARB: ¿Qué medios de pago podrán usar contribuyentes y agentes",
-      "url": "https://contadoresenred.com/pago-electronico-comarb-que-medios-de-pago-podran-usar-contribuyentes-y-agentes/",
-      "detectado": "2026-11-18T14:39:54.283Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/pago-electronico-comarb-habilitan-un-marco-comun-para-interbanking-pagos-360-y-pagaca/",
-      "sitio": "Ignacio Online",
-      "titulo": "Pago Electrónico COMARB: habilitan un marco común para Interbanking, Pagos 360 y Pagacá",
-      "url": "https://www.ignacioonline.com.ar/pago-electronico-comarb-habilitan-un-marco-comun-para-interbanking-pagos-360-y-pagaca/",
-      "detectado": "2026-11-18T14:39:55.230Z"
     }
   ]
 }
