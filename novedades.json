@@ -1,6 +1,20 @@
 {
-  "actualizado": "2026-11-22T03:42:00.413Z",
+  "actualizado": "2026-11-22T13:40:23.880Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
+      "sitio": "El Destape",
+      "titulo": "Colapinto igualó su mejor resultado en la F1 y terminó 6° en Las Vegas",
+      "url": "https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
+      "detectado": "2026-11-22T13:40:21.694Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/leandro-paredes-conto-esta-clinica-boca-dio-parte-medico-2026112293225",
+      "sitio": "El Destape",
+      "titulo": "Paredes y Boca tranquilizaron a los hinchas luego del desmayo: \"Todo ok\"",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/leandro-paredes-conto-esta-clinica-boca-dio-parte-medico-2026112293225",
+      "detectado": "2026-11-22T13:40:21.694Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
       "sitio": "El Destape",
@@ -405,20 +419,6 @@
       "sitio": "El Destape",
       "titulo": "Con suspenso, los aliados dieron las firmas para la emparchada reforma electoral de LLA",
       "url": "https://www.eldestapeweb.com/politica/dos-firmas-ponen-suspenso-emparchada-reforma-electoral-lla-20261118194113",
-      "detectado": "2026-11-18T23:38:34.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-11-18T23:38:34.768Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/caputo-le-puso-precio-dolar-medio-suba-riesgo-pais-20261118115825",
-      "sitio": "El Destape",
-      "titulo": "Caputo le puso precio al dólar en medio de la suba del riesgo país",
-      "url": "https://www.eldestapeweb.com/economia/caputo-le-puso-precio-dolar-medio-suba-riesgo-pais-20261118115825",
       "detectado": "2026-11-18T23:38:34.768Z"
     }
   ]
