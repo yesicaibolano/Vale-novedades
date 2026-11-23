@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-23T04:17:20.595Z",
+  "actualizado": "2026-11-23T16:37:48.766Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Empleados de Comercio: liquidación noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-noviembre-2026/",
+      "detectado": "2026-11-23T16:37:43.234Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/industria-metalurgica-piso-volvio-caer-octubre-desploma-5-2026-20261123102549",
+      "sitio": "El Destape",
+      "titulo": "La industria metalúrgica sin piso: volvió a caer en octubre y se desploma 5% en 2026",
+      "url": "https://www.eldestapeweb.com/economia/industria-metalurgica-piso-volvio-caer-octubre-desploma-5-2026-20261123102549",
+      "detectado": "2026-11-23T16:37:48.134Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/dato-llego-campos-puede-adelantar-nueva-suba-precio-carne-20261123114351",
+      "sitio": "El Destape",
+      "titulo": "Ganadería en crisis: los precios están atrasados frente a una inflación que acumula 26%",
+      "url": "https://www.eldestapeweb.com/economia/dato-llego-campos-puede-adelantar-nueva-suba-precio-carne-20261123114351",
+      "detectado": "2026-11-23T16:37:48.134Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
+      "sitio": "El Destape",
+      "titulo": "Los dos mano a mano que inquietan a Milei de cara a una segunda vuelta",
+      "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
+      "detectado": "2026-11-23T16:37:48.135Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/mala-noticia-le-llego-gobierno-medio-feriado-soberania-nacional-salio-luz-nuevo-dato-refleja-crisis-20261123132829",
+      "sitio": "El Destape",
+      "titulo": "Fin de semana largo: viajaron 17,4% menos turistas y el gasto cayó 30,3%",
+      "url": "https://www.eldestapeweb.com/economia/mala-noticia-le-llego-gobierno-medio-feriado-soberania-nacional-salio-luz-nuevo-dato-refleja-crisis-20261123132829",
+      "detectado": "2026-11-23T16:37:48.135Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/sociedad/cierra-fabrica-calzado-argentina-traslada-produccion-brasil-pasara-trabajadores-20261123122732",
+      "sitio": "El Destape",
+      "titulo": "Cierra otra histórica fábrica de calzado y muda su producción a Brasil",
+      "url": "https://www.eldestapeweb.com/sociedad/cierra-fabrica-calzado-argentina-traslada-produccion-brasil-pasara-trabajadores-20261123122732",
+      "detectado": "2026-11-23T16:37:48.135Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-recorte-ciencia-afecta-agro-industria-amenaza-modelo-exportador-202611230555",
       "sitio": "El Destape",
@@ -378,48 +420,6 @@
       "titulo": "Transporte público",
       "url": "https://www.eldestapeweb.com/tag/transporte-publico",
       "detectado": "2026-11-19T23:57:12.176Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-transporte-publico-cuantos-pasajeros-viajan-trenes-no-pagan-boleto-lineas-peor-20261119165436",
-      "sitio": "El Destape",
-      "titulo": "Crisis en los trenes: los pasajeros pagos cayeron 12,8% en 2026 y crece la evasión",
-      "url": "https://www.eldestapeweb.com/economia/crisis-transporte-publico-cuantos-pasajeros-viajan-trenes-no-pagan-boleto-lineas-peor-20261119165436",
-      "detectado": "2026-11-19T23:57:12.176Z"
-    },
-    {
-      "id": "contadoresenred|https://contadoresenred.com/fal-como-se-validara-el-id-fal-en-simplificacion-registral-desde-el-1-de-diciembre/",
-      "sitio": "Contadores en Red",
-      "titulo": "FAL ¿Cómo se validará el ID FAL en Simplificación Registral desde el 1° de diciembre?",
-      "url": "https://contadoresenred.com/fal-como-se-validara-el-id-fal-en-simplificacion-registral-desde-el-1-de-diciembre/",
-      "detectado": "2026-11-19T14:46:18.804Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fondos-side-milei-amplio-presupuesto-6-100-millones-2026111995240",
-      "sitio": "El Destape",
-      "titulo": "Más fondos para la SIDE: Milei amplió su presupuesto en $6.100 millones",
-      "url": "https://www.eldestapeweb.com/politica/fondos-side-milei-amplio-presupuesto-6-100-millones-2026111995240",
-      "detectado": "2026-11-19T14:46:26.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/xi-trump-putin-reunieron-historica-cumbre-desarme-nuclear-conflictos-globales-2026111984931",
-      "sitio": "El Destape",
-      "titulo": "Encuentro inédito en China",
-      "url": "https://www.eldestapeweb.com/internacionales/xi-trump-putin-reunieron-historica-cumbre-desarme-nuclear-conflictos-globales-2026111984931",
-      "detectado": "2026-11-19T14:46:26.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/explosion-remedios-escalada-murio-trabajador-metrogas-dos-victimas-2026111991457",
-      "sitio": "El Destape",
-      "titulo": "Emergencia en Lanús",
-      "url": "https://www.eldestapeweb.com/sociedad/explosion-remedios-escalada-murio-trabajador-metrogas-dos-victimas-2026111991457",
-      "detectado": "2026-11-19T14:46:26.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
-      "sitio": "El Destape",
-      "titulo": "Boca llegó a Barranquilla, con cambios por el calor y formación casi definida",
-      "url": "https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
-      "detectado": "2026-11-19T14:46:26.319Z"
     }
   ]
 }
