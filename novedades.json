@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-22T22:53:29.319Z",
+  "actualizado": "2026-11-23T04:17:20.595Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-recorte-ciencia-afecta-agro-industria-amenaza-modelo-exportador-202611230555",
+      "sitio": "El Destape",
+      "titulo": "Menos ciencia pública, más dependencia privada: el ajuste amenaza el modelo exportador",
+      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-recorte-ciencia-afecta-agro-industria-amenaza-modelo-exportador-202611230555",
+      "detectado": "2026-11-23T04:17:19.867Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "sitio": "El Destape",
+      "titulo": "Por Eugenia Rodríguez",
+      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
+      "detectado": "2026-11-23T04:17:19.867Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-supero-1-070-puntos-subio-dolar-pega-crisis-financiera-empresas-pymes-202611230555",
+      "sitio": "El Destape",
+      "titulo": "No son solo los mercados: el sector productivo sufre la suba del riesgo país",
+      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-1-070-puntos-subio-dolar-pega-crisis-financiera-empresas-pymes-202611230555",
+      "detectado": "2026-11-23T04:17:19.867Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/poroteo-voto-voto-senado-reforma-electoral-reproches-ponen-jaque-presupuesto-2027-diputados-202611230555",
+      "sitio": "El Destape",
+      "titulo": "Dudas y frentes abiertos para LLA en la última semana ordinaria del Congreso",
+      "url": "https://www.eldestapeweb.com/politica/poroteo-voto-voto-senado-reforma-electoral-reproches-ponen-jaque-presupuesto-2027-diputados-202611230555",
+      "detectado": "2026-11-23T04:17:19.867Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-23T04:17:19.867Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
       "sitio": "El Destape",
@@ -153,13 +188,6 @@
       "sitio": "El Destape",
       "titulo": "Menos empleo registrado, menos aportes: la precarización también golpea a las jubilaciones",
       "url": "https://www.eldestapeweb.com/economia/precarizacion-laboral-desfinancia-jubilaciones-hacen-falta-30-monotributistas-igualar-aporte-20261120233324",
-      "detectado": "2026-11-21T04:27:10.731Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
       "detectado": "2026-11-21T04:27:10.731Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Boca llegó a Barranquilla, con cambios por el calor y formación casi definida",
       "url": "https://www.eldestapeweb.com/deportes/boca-llego-barranquilla-cambios-calor-formacion-casi-definida-ir-copa-sudamericana-2026111911011",
       "detectado": "2026-11-19T14:46:26.319Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/inquilinos-trabajan-horas-enfrentan-gastos-desigualdad-detras-crisis-alquileres-20261119058",
-      "sitio": "El Destape",
-      "titulo": "Los inquilinos trabajan hasta 15 horas más por semana que quienes cobran alquileres",
-      "url": "https://www.eldestapeweb.com/economia/inquilinos-trabajan-horas-enfrentan-gastos-desigualdad-detras-crisis-alquileres-20261119058",
-      "detectado": "2026-11-19T04:42:21.958Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/paso-colectoras-ficha-limpia-campana-limitada-dice-proyecto-reforma-electoral-tratara-senado-202611190531",
-      "sitio": "El Destape",
-      "titulo": "Sin PASO, con Ficha Limpia y campaña acotada: letra de una ley que limita la democracia",
-      "url": "https://www.eldestapeweb.com/politica/paso-colectoras-ficha-limpia-campana-limitada-dice-proyecto-reforma-electoral-tratara-senado-202611190531",
-      "detectado": "2026-11-19T04:42:21.959Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/economia-posverdad-20261118231140",
-      "sitio": "El Destape",
-      "titulo": "La economía de la posverdad",
-      "url": "https://www.eldestapeweb.com/economia/economia-posverdad-20261118231140",
-      "detectado": "2026-11-19T04:42:21.959Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
-      "sitio": "Ignacio Online",
-      "titulo": "Formulario FUTURO: el Consejo y Trabajo bonaerense acordaron una mesa para abordar las dificultades de implementación",
-      "url": "https://www.ignacioonline.com.ar/formulario-futuro-mesa-de-trabajo-por-su-implementacion/",
-      "detectado": "2026-11-18T23:38:29.853Z"
     }
   ]
 }
