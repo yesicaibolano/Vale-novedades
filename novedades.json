@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-11-24T03:31:10.308Z",
+  "actualizado": "2026-11-24T16:34:00.462Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/f-u-t-u-r-o-suma-cuestionamientos-empresariales-y-pedidos-de-revision/",
+      "sitio": "Ignacio Online",
+      "titulo": "F.U.T.U.R.O. suma cuestionamientos empresariales y pedidos de revisión",
+      "url": "https://www.ignacioonline.com.ar/f-u-t-u-r-o-suma-cuestionamientos-empresariales-y-pedidos-de-revision/",
+      "detectado": "2026-11-24T16:33:55.081Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/rubrica-de-libros-de-sueldos-en-caba-plazo-hasta-el-31-de-diciembre-para-regularizar-periodos-pendientes/",
+      "sitio": "Ignacio Online",
+      "titulo": "Rúbrica de libros de sueldos en CABA: plazo hasta el 31 de diciembre para regularizar períodos pendientes",
+      "url": "https://www.ignacioonline.com.ar/rubrica-de-libros-de-sueldos-en-caba-plazo-hasta-el-31-de-diciembre-para-regularizar-periodos-pendientes/",
+      "detectado": "2026-11-24T16:33:55.081Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/arcor-aumenta-6-9-precios-nueva-lista-trae-subas-20-20261124123841",
+      "sitio": "El Destape",
+      "titulo": "Empresa líder alimenticia envió listas con subas que más que cuadruplican la inflación",
+      "url": "https://www.eldestapeweb.com/economia/arcor-aumenta-6-9-precios-nueva-lista-trae-subas-20-20261124123841",
+      "detectado": "2026-11-24T16:33:59.855Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-financiera-dispara-riesgo-pais-dolar-no-subir-20261124105642",
+      "sitio": "El Destape",
+      "titulo": "Crisis financiera: se dispara el riesgo país y sube el dólar tras el feriado",
+      "url": "https://www.eldestapeweb.com/economia/crisis-financiera-dispara-riesgo-pais-dolar-no-subir-20261124105642",
+      "detectado": "2026-11-24T16:33:59.855Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/resolucion-354-2026-milei-reconoce-60-personas-situacion-calle-llego-esa-condicion-gobierno-libertario-20261124101149",
+      "sitio": "El Destape",
+      "titulo": "El 60% de las personas en situación de calle llegó a esa condición con Milei",
+      "url": "https://www.eldestapeweb.com/politica/resolucion-354-2026-milei-reconoce-60-personas-situacion-calle-llego-esa-condicion-gobierno-libertario-20261124101149",
+      "detectado": "2026-11-24T16:33:59.855Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/diario-intimo-papa-francisco-visiones-diablo-crisis-espiritual-202611249756",
+      "sitio": "El Destape",
+      "titulo": "Francisco reveló que vio al diablo dos veces: \"Sus ojos amenazantes\"",
+      "url": "https://www.eldestapeweb.com/politica/diario-intimo-papa-francisco-visiones-diablo-crisis-espiritual-202611249756",
+      "detectado": "2026-11-24T16:33:59.855Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-24T16:33:59.855Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-ira-miercoles-senado-dar-primer-informe-gestion-recibir-1-287-preguntas-2026112318207",
       "sitio": "El Destape",
@@ -111,13 +160,6 @@
       "sitio": "El Destape",
       "titulo": "Por Fernando Cibeira",
       "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-22T22:53:28.762Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-11-22T22:53:28.762Z"
     },
     {
@@ -378,48 +420,6 @@
       "titulo": "Ley de Inviolabilidad de la Propiedad Privada",
       "url": "https://www.eldestapeweb.com/tag/ley-de-inviolabilidad-de-la-propiedad-privada",
       "detectado": "2026-11-20T14:27:48.977Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-acelera-desalojos-expres-plena-crisis-habitacional-caida-empleo-formal-2026112094925",
-      "sitio": "El Destape",
-      "titulo": "El Congreso aprobó los desalojos exprés en plena crisis habitacional y caída del empleo",
-      "url": "https://www.eldestapeweb.com/politica/milei-acelera-desalojos-expres-plena-crisis-habitacional-caida-empleo-formal-2026112094925",
-      "detectado": "2026-11-20T14:27:48.977Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-viernes-20-noviembre-minuto-minuto-2026112073539",
-      "sitio": "El Destape",
-      "titulo": "Milei suspendió a último momento una reunión en medio de la crisis de mercados",
-      "url": "https://www.eldestapeweb.com/politica/javier-milei-medidas-gobierno-vivo-ultimas-noticias-viernes-20-noviembre-minuto-minuto-2026112073539",
-      "detectado": "2026-11-20T14:27:48.977Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/onu-comedores-advertencia-gobierno-milei-asistencia-alimentaria-20261120057",
-      "sitio": "El Destape",
-      "titulo": "Dura advertencia de la ONU a Milei por el recorte en alimentos",
-      "url": "https://www.eldestapeweb.com/politica/onu-comedores-advertencia-gobierno-milei-asistencia-alimentaria-20261120057",
-      "detectado": "2026-11-20T05:03:45.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/paso-surgen-planteos-peronismo-resuelva-candidaturas-interna-20261120057",
-      "sitio": "El Destape",
-      "titulo": "Sin PASO, surgen planteos para que el peronismo resuelva sus candidaturas en una interna",
-      "url": "https://www.eldestapeweb.com/politica/paso-surgen-planteos-peronismo-resuelva-candidaturas-interna-20261120057",
-      "detectado": "2026-11-20T05:03:45.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/transporte-amba-perdio-176-trenes-diarios-3-000-colectivos-asuncion-milei-2026111921028",
-      "sitio": "El Destape",
-      "titulo": "Con Milei hay casi 200 trenes menos por día y 3.000 colectivos menos en la calle",
-      "url": "https://www.eldestapeweb.com/economia/transporte-amba-perdio-176-trenes-diarios-3-000-colectivos-asuncion-milei-2026111921028",
-      "detectado": "2026-11-20T05:03:45.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "sitio": "El Destape",
-      "titulo": "Seguimiento Minuto A Minuto",
-      "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
-      "detectado": "2026-11-20T05:03:45.391Z"
     }
   ]
 }
