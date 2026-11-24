@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-23T16:37:48.766Z",
+  "actualizado": "2026-11-24T03:31:10.308Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-ira-miercoles-senado-dar-primer-informe-gestion-recibir-1-287-preguntas-2026112318207",
+      "sitio": "El Destape",
+      "titulo": "Con mas de 1200 preguntas por responder, Santilli debutará ante el Congreso",
+      "url": "https://www.eldestapeweb.com/politica/santilli-ira-miercoles-senado-dar-primer-informe-gestion-recibir-1-287-preguntas-2026112318207",
+      "detectado": "2026-11-24T03:31:09.809Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-24T03:31:09.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/bonos-acciones-argentinas-suben-wall-street-riesgo-pais-sigue-1-037-puntos-viene-vencimiento-20-billones-20261123142452",
+      "sitio": "El Destape",
+      "titulo": "Pese al rebote de las acciones argentinas, el riesgo país no bajó de los 1.000 puntos",
+      "url": "https://www.eldestapeweb.com/economia/bonos-acciones-argentinas-suben-wall-street-riesgo-pais-sigue-1-037-puntos-viene-vencimiento-20-billones-20261123142452",
+      "detectado": "2026-11-24T03:31:09.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
+      "sitio": "El Destape",
+      "titulo": "Se consolida la tendencia: qué dicen todas las encuestas de noviembre",
+      "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
+      "detectado": "2026-11-24T03:31:09.810Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/internacionales/encuestas-espana-pp-lidera-vox-crece-derecha-supera-mayoria-176-escanos-casi-todos-sondeos-20261123173654",
+      "sitio": "El Destape",
+      "titulo": "Encuestas en España: la ultraderecha crece y el PSOE busca el liderazgo",
+      "url": "https://www.eldestapeweb.com/internacionales/encuestas-espana-pp-lidera-vox-crece-derecha-supera-mayoria-176-escanos-casi-todos-sondeos-20261123173654",
+      "detectado": "2026-11-24T03:31:09.810Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-noviembre-2026/",
       "sitio": "Ignacio Online",
@@ -69,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "Dudas y frentes abiertos para LLA en la última semana ordinaria del Congreso",
       "url": "https://www.eldestapeweb.com/politica/poroteo-voto-voto-senado-reforma-electoral-reproches-ponen-jaque-presupuesto-2027-diputados-202611230555",
-      "detectado": "2026-11-23T04:17:19.867Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-11-23T04:17:19.867Z"
     },
     {
@@ -392,34 +420,6 @@
       "titulo": "Seguimiento Minuto A Minuto",
       "url": "https://www.eldestapeweb.com/tag/seguimiento-minuto-a-minuto",
       "detectado": "2026-11-20T05:03:45.391Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/senado-aprobo-emergencia-discapacidad-postergo-proyecto-ludopatia-20261119194958",
-      "sitio": "El Destape",
-      "titulo": "El Senado aprobó la ley de Discapacidad, pero postergó el proyecto de ludopatía",
-      "url": "https://www.eldestapeweb.com/politica/senado-aprobo-emergencia-discapacidad-postergo-proyecto-ludopatia-20261119194958",
-      "detectado": "2026-11-19T23:57:12.175Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/intervenciones-bcra-tesoro-no-frenan-disparada-dolar-20261119202315",
-      "sitio": "El Destape",
-      "titulo": "Las intervenciones del BCRA y el Tesoro no frenan la disparada del dólar",
-      "url": "https://www.eldestapeweb.com/economia/intervenciones-bcra-tesoro-no-frenan-disparada-dolar-20261119202315",
-      "detectado": "2026-11-19T23:57:12.176Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-11-19T23:57:12.176Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
-      "sitio": "El Destape",
-      "titulo": "Transporte público",
-      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
-      "detectado": "2026-11-19T23:57:12.176Z"
     }
   ]
 }
