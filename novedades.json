@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-26T01:13:19.413Z",
+  "actualizado": "2026-11-26T15:53:25.523Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-2-010-para-noviembre-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "SRT: la suma fija del FFEP será de $2.010 para noviembre 2026",
+      "url": "https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-2-010-para-noviembre-2026/",
+      "detectado": "2026-11-26T15:53:21.042Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/corrida-cambiaria-posible-derrota-milei-estados-unidos-lanzaron-alerta-descuentan-este-resultado-elecciones-2027-20261126111842",
+      "sitio": "El Destape",
+      "titulo": "El JP Morgan afirma que los bonos ya anticipan un 50% de chances de derrota de Milei",
+      "url": "https://www.eldestapeweb.com/economia/corrida-cambiaria-posible-derrota-milei-estados-unidos-lanzaron-alerta-descuentan-este-resultado-elecciones-2027-20261126111842",
+      "detectado": "2026-11-26T15:53:25.052Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-medidas-gobierno-vivo-arranca-semana-clave-futuro-paso-elecciones-2027-2026112651552",
+      "sitio": "El Destape",
+      "titulo": "El Senado debate la suspensión de las PASO y modificó el temario de la sesión",
+      "url": "https://www.eldestapeweb.com/politica/milei-medidas-gobierno-vivo-arranca-semana-clave-futuro-paso-elecciones-2027-2026112651552",
+      "detectado": "2026-11-26T15:53:25.052Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/nueva-marcha-universitaria-corre-riesgo-presupuesto-convocan-urgente-medida-fuerza-20261126121846",
+      "sitio": "El Destape",
+      "titulo": "Corre riesgo el presupuesto universitario y convocan a marcha urgente al Congreso",
+      "url": "https://www.eldestapeweb.com/politica/nueva-marcha-universitaria-corre-riesgo-presupuesto-convocan-urgente-medida-fuerza-20261126121846",
+      "detectado": "2026-11-26T15:53:25.052Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/gobierno-emite-deuda-182-000-millones-pagos-transporte-obra-publica-2026112685157",
+      "sitio": "El Destape",
+      "titulo": "Milei emite deuda por $182.000 millones para pagos en transporte y obra pública",
+      "url": "https://www.eldestapeweb.com/economia/gobierno-emite-deuda-182-000-millones-pagos-transporte-obra-publica-2026112685157",
+      "detectado": "2026-11-26T15:53:25.052Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/golpe-milei-corte-vuelven-controles-prepagas-aumento-512-dejo-1-3-millones-cobertura-202611260519",
+      "sitio": "El Destape",
+      "titulo": "Prepagas: la desregulación disparó las cuotas 500% y dejó a 1,3 millones sin cobertura",
+      "url": "https://www.eldestapeweb.com/economia/golpe-milei-corte-vuelven-controles-prepagas-aumento-512-dejo-1-3-millones-cobertura-202611260519",
+      "detectado": "2026-11-26T15:53:25.052Z"
+    },
     {
       "id": "eldestape|https://www.eldestapeweb.com/economia/recesion-apuesta-caputo-feriado-ee-uu-jugar-bala-plata-llegar-lunes-20261125211254",
       "sitio": "El Destape",
@@ -378,48 +420,6 @@
       "titulo": "Boca bailó al Atlético Mineiro y es campeón de la Copa Sudamericana",
       "url": "https://www.eldestapeweb.com/centroatras/futbol/boca-campeon-copa-sudamericana-volvio-ganar-titulo-internacional-despues-18-anos-20261121212953",
       "detectado": "2026-11-22T03:41:12.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339",
-      "sitio": "El Destape",
-      "titulo": "Quince encuestas, un mismo patrón: el dato que se repite rumbo a 2027",
-      "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-2027-dicen-sondeos-octubre-noviembre-milei-kicillof-bullrich-2026112118339",
-      "detectado": "2026-11-21T22:29:53.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/fallo-corte-caso-prepagas-tambalea-todo-dnu-70-23-2026112115380",
-      "sitio": "El Destape",
-      "titulo": "Tras el fallo de la Corte en el caso prepagas ¿tambalea todo el DNU 70/23?",
-      "url": "https://www.eldestapeweb.com/politica/fallo-corte-caso-prepagas-tambalea-todo-dnu-70-23-2026112115380",
-      "detectado": "2026-11-21T22:29:53.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/boca-va-nuevo-titulo-copa-sudamericana-cortar-racha-copas-internacionales-20261121184757",
-      "sitio": "El Destape",
-      "titulo": "Boca va por un nuevo titulo en Copa Sudamericana para cortar su racha internacional",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/boca-va-nuevo-titulo-copa-sudamericana-cortar-racha-copas-internacionales-20261121184757",
-      "detectado": "2026-11-21T22:29:53.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/indignante-saco-2-mil-dolares-ahorros-abuela-le-mintio-uso-ir-ver-boca-2026112114199",
-      "sitio": "El Destape",
-      "titulo": "Indignante: le sacó 2 mil dólares a su abuela, le mintió y fue a la final de Boca",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/indignante-saco-2-mil-dolares-ahorros-abuela-le-mintio-uso-ir-ver-boca-2026112114199",
-      "detectado": "2026-11-21T22:29:53.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-sigue-cayendo-encuestas-conocio-ultimo-ranking-imagen-20261120165830",
-      "sitio": "El Destape",
-      "titulo": "Nueva encuesta: Milei quedó tercero en imagen positiva",
-      "url": "https://www.eldestapeweb.com/politica/milei-sigue-cayendo-encuestas-conocio-ultimo-ranking-imagen-20261120165830",
-      "detectado": "2026-11-21T22:29:53.782Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
-      "sitio": "El Destape",
-      "titulo": "Internas en tiempos de crisis",
-      "url": "https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
-      "detectado": "2026-11-21T13:46:41.930Z"
     }
   ]
 }
