@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-25T16:16:47.586Z",
+  "actualizado": "2026-11-26T01:13:19.413Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/recesion-apuesta-caputo-feriado-ee-uu-jugar-bala-plata-llegar-lunes-20261125211254",
+      "sitio": "El Destape",
+      "titulo": "Caputo usó la “bala de plata” y apuesta al feriado en EEUU para llegar al lunes",
+      "url": "https://www.eldestapeweb.com/economia/recesion-apuesta-caputo-feriado-ee-uu-jugar-bala-plata-llegar-lunes-20261125211254",
+      "detectado": "2026-11-26T01:13:18.653Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-11-26T01:13:18.653Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/consumo-baja-paso-ventas-supermercados-mayoristas-shoppings-electrodomesticos-2026112516548",
+      "sitio": "El Destape",
+      "titulo": "Crisis de consumo: nueva caída de ventas en supermercados y mayoristas durante septiembre",
+      "url": "https://www.eldestapeweb.com/economia/consumo-baja-paso-ventas-supermercados-mayoristas-shoppings-electrodomesticos-2026112516548",
+      "detectado": "2026-11-26T01:13:18.653Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/medio-crisis-economica-caputo-hablo-futuro-gobierno-mientras-20261125194017",
+      "sitio": "El Destape",
+      "titulo": "Caputo, sobre su continuidad en el Gobierno: \"Mientras el Presidente quiera\"",
+      "url": "https://www.eldestapeweb.com/politica/medio-crisis-economica-caputo-hablo-futuro-gobierno-mientras-20261125194017",
+      "detectado": "2026-11-26T01:13:18.653Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-26T01:13:18.653Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/como-reclamar-haberes-impagos-de-jubilados-y-pensionados/",
       "sitio": "Contadores en Red",
@@ -114,13 +149,6 @@
       "detectado": "2026-11-25T01:40:24.673Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "detectado": "2026-11-25T01:40:24.673Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/politica/jugada-menem-dejo-afuera-ley-malvinas-salida-anticipada-bullrich-medio-interna-oficialista-20261124164135",
       "sitio": "El Destape",
       "titulo": "Menem retiró la ley de Caputo, Bullrich se fue antes y el Gobierno es un polvorín",
@@ -167,13 +195,6 @@
       "sitio": "El Destape",
       "titulo": "Francisco reveló que vio al diablo dos veces: \"Sus ojos amenazantes\"",
       "url": "https://www.eldestapeweb.com/politica/diario-intimo-papa-francisco-visiones-diablo-crisis-espiritual-202611249756",
-      "detectado": "2026-11-24T16:33:59.855Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
       "detectado": "2026-11-24T16:33:59.855Z"
     },
     {
@@ -399,27 +420,6 @@
       "titulo": "Internas en tiempos de crisis",
       "url": "https://www.eldestapeweb.com/politica/elecciones-2027-economia-estallada-karina-posa-candidata-bullrich-pierde-pastora-ficha-sucia-2026112110039",
       "detectado": "2026-11-21T13:46:41.930Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/elecciones-espana-pedro-sanchez-busca-remontada-lula-frenar-ultraderecha-propia-coalicion-desarticulada-2026112110314",
-      "sitio": "El Destape",
-      "titulo": "Sin coalición firme, Pedro Sánchez intenta una remontada “a lo Lula” en España",
-      "url": "https://www.eldestapeweb.com/internacionales/elecciones-espana-pedro-sanchez-busca-remontada-lula-frenar-ultraderecha-propia-coalicion-desarticulada-2026112110314",
-      "detectado": "2026-11-21T13:46:41.930Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/acv-economico-dolarizacion-cepo-bessent-laberinto-salida-metieron-milei-caputo-20261120233239",
-      "sitio": "El Destape",
-      "titulo": "ACV económico, dolarización, cepo y Bessent: el laberinto sin salida en el que entró Milei",
-      "url": "https://www.eldestapeweb.com/politica/acv-economico-dolarizacion-cepo-bessent-laberinto-salida-metieron-milei-caputo-20261120233239",
-      "detectado": "2026-11-21T04:27:10.731Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "sitio": "El Destape",
-      "titulo": "Por Jonathan Heguier",
-      "url": "https://www.eldestapeweb.com/perfil/jonathan-heguier",
-      "detectado": "2026-11-21T04:27:10.731Z"
     }
   ]
 }
