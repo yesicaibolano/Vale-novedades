@@ -1,6 +1,83 @@
 {
-  "actualizado": "2026-11-27T01:11:49.746Z",
+  "actualizado": "2026-11-27T15:41:33.090Z",
   "items": [
+    {
+      "id": "contadoresenred|https://contadoresenred.com/santa-fe-2027-que-beneficios-propone-el-proyecto-de-ley-tributaria/",
+      "sitio": "Contadores en Red",
+      "titulo": "Santa Fe 2027: qué beneficios propone el proyecto de Ley Tributaria",
+      "url": "https://contadoresenred.com/santa-fe-2027-que-beneficios-propone-el-proyecto-de-ley-tributaria/",
+      "detectado": "2026-11-27T15:41:26.189Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/nuevo-plan-de-contador-publico-en-la-uba-que-cambia-en-la-carrera/",
+      "sitio": "Contadores en Red",
+      "titulo": "Nuevo plan de Contador Público en la UBA: qué cambia en la carrera",
+      "url": "https://contadoresenred.com/nuevo-plan-de-contador-publico-en-la-uba-que-cambia-en-la-carrera/",
+      "detectado": "2026-11-27T15:41:26.189Z"
+    },
+    {
+      "id": "contadoresenred|https://contadoresenred.com/f-u-t-u-r-o-el-consejo-pide-eximir-a-empleadores-con-hasta-cinco-trabajadores-y-postergar-su-implementacion/",
+      "sitio": "Contadores en Red",
+      "titulo": "F.U.T.U.R.O. El Consejo pide eximir a empleadores con hasta cinco trabajadores y postergar su implementación",
+      "url": "https://contadoresenred.com/f-u-t-u-r-o-el-consejo-pide-eximir-a-empleadores-con-hasta-cinco-trabajadores-y-postergar-su-implementacion/",
+      "detectado": "2026-11-27T15:41:26.189Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16071-abren-concursos-para-profesionales-en-ciencias-economicas-en-el-ministerio-publico-de-la-provincia",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Abren concursos para profesionales en Ciencias Económicas en el Ministerio Público de la Provincia",
+      "url": "https://www.cpba.com.ar/noticias/item/16071-abren-concursos-para-profesionales-en-ciencias-economicas-en-el-ministerio-publico-de-la-provincia",
+      "detectado": "2026-11-27T15:41:31.264Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16069-se-realizo-el-41-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Se realizó el 41° Encuentro Anual de Profesionales en Ciencias Económicas del Ámbito Municipal",
+      "url": "https://www.cpba.com.ar/noticias/item/16069-se-realizo-el-41-encuentro-anual-de-profesionales-en-ciencias-economicas-del-ambito-municipal",
+      "detectado": "2026-11-27T15:41:31.264Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16072-ahora-en-repro-sostenibilidad-en-las-empresas-nuevas-formas-de-generar-valor-desde-las-ciencias-economicas",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Ahora en RePro | Sostenibilidad en las empresas: Nuevas formas de generar valor desde las…",
+      "url": "https://www.cpba.com.ar/noticias/item/16072-ahora-en-repro-sostenibilidad-en-las-empresas-nuevas-formas-de-generar-valor-desde-las-ciencias-economicas",
+      "detectado": "2026-11-27T15:41:31.264Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/cambia-futbol-argentino-ley-ludopatia-2026112795414",
+      "sitio": "El Destape",
+      "titulo": "El Senado aprobó la Ley de Ludopatía por unanimidad: qué cambiará en el fútbol argentino",
+      "url": "https://www.eldestapeweb.com/centroatras/futbol/cambia-futbol-argentino-ley-ludopatia-2026112795414",
+      "detectado": "2026-11-27T15:41:32.655Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-lamas",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Lamas",
+      "url": "https://www.eldestapeweb.com/perfil/federico-lamas",
+      "detectado": "2026-11-27T15:41:32.655Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/informacion-general/otra-golpe-apertura-importadora-puma-cerro-dos-plantas-argentina-despidio-50-trabajadores-rioja-20261127122159",
+      "sitio": "El Destape",
+      "titulo": "Puma cerró sus dos plantas en Argentina y despidió a 50 trabajadores en La Rioja",
+      "url": "https://www.eldestapeweb.com/informacion-general/otra-golpe-apertura-importadora-puma-cerro-dos-plantas-argentina-despidio-50-trabajadores-rioja-20261127122159",
+      "detectado": "2026-11-27T15:41:32.655Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/camara-de-diputados",
+      "sitio": "El Destape",
+      "titulo": "Cámara de Diputados",
+      "url": "https://www.eldestapeweb.com/tag/camara-de-diputados",
+      "detectado": "2026-11-27T15:41:32.655Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/derrota-gobierno-cuanto-deberia-destinar-universidades-presupuesto-2027-2026112783446",
+      "sitio": "El Destape",
+      "titulo": "Derrota del Gobierno: aprobó el Presupuesto, pero deberá pagar el doble a universidades",
+      "url": "https://www.eldestapeweb.com/politica/derrota-gobierno-cuanto-deberia-destinar-universidades-presupuesto-2027-2026112783446",
+      "detectado": "2026-11-27T15:41:32.655Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-piden-eximir-a-empleadores-con-hasta-5-trabajadores-y-postergar-su-implementacion/",
       "sitio": "Ignacio Online",
@@ -343,83 +420,6 @@
       "titulo": "Los dos mano a mano que inquietan a Milei de cara a una segunda vuelta",
       "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
       "detectado": "2026-11-23T16:37:48.135Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/mala-noticia-le-llego-gobierno-medio-feriado-soberania-nacional-salio-luz-nuevo-dato-refleja-crisis-20261123132829",
-      "sitio": "El Destape",
-      "titulo": "Fin de semana largo: viajaron 17,4% menos turistas y el gasto cayó 30,3%",
-      "url": "https://www.eldestapeweb.com/economia/mala-noticia-le-llego-gobierno-medio-feriado-soberania-nacional-salio-luz-nuevo-dato-refleja-crisis-20261123132829",
-      "detectado": "2026-11-23T16:37:48.135Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/sociedad/cierra-fabrica-calzado-argentina-traslada-produccion-brasil-pasara-trabajadores-20261123122732",
-      "sitio": "El Destape",
-      "titulo": "Cierra otra histórica fábrica de calzado y muda su producción a Brasil",
-      "url": "https://www.eldestapeweb.com/sociedad/cierra-fabrica-calzado-argentina-traslada-produccion-brasil-pasara-trabajadores-20261123122732",
-      "detectado": "2026-11-23T16:37:48.135Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/presupuesto-2027-recorte-ciencia-afecta-agro-industria-amenaza-modelo-exportador-202611230555",
-      "sitio": "El Destape",
-      "titulo": "Menos ciencia pública, más dependencia privada: el ajuste amenaza el modelo exportador",
-      "url": "https://www.eldestapeweb.com/economia/presupuesto-2027-recorte-ciencia-afecta-agro-industria-amenaza-modelo-exportador-202611230555",
-      "detectado": "2026-11-23T04:17:19.867Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "sitio": "El Destape",
-      "titulo": "Por Eugenia Rodríguez",
-      "url": "https://www.eldestapeweb.com/perfil/eugenia-rodriguez",
-      "detectado": "2026-11-23T04:17:19.867Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/riesgo-pais-supero-1-070-puntos-subio-dolar-pega-crisis-financiera-empresas-pymes-202611230555",
-      "sitio": "El Destape",
-      "titulo": "No son solo los mercados: el sector productivo sufre la suba del riesgo país",
-      "url": "https://www.eldestapeweb.com/economia/riesgo-pais-supero-1-070-puntos-subio-dolar-pega-crisis-financiera-empresas-pymes-202611230555",
-      "detectado": "2026-11-23T04:17:19.867Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/poroteo-voto-voto-senado-reforma-electoral-reproches-ponen-jaque-presupuesto-2027-diputados-202611230555",
-      "sitio": "El Destape",
-      "titulo": "Dudas y frentes abiertos para LLA en la última semana ordinaria del Congreso",
-      "url": "https://www.eldestapeweb.com/politica/poroteo-voto-voto-senado-reforma-electoral-reproches-ponen-jaque-presupuesto-2027-diputados-202611230555",
-      "detectado": "2026-11-23T04:17:19.867Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Cibeira",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-cibeira",
-      "detectado": "2026-11-22T22:53:28.762Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-milei-financial-times-advierte-deficit-vencimientos-deuda-2027-2026112216212",
-      "sitio": "El Destape",
-      "titulo": "El Financial Times advierte un déficit por los vencimientos de deuda en 2027",
-      "url": "https://www.eldestapeweb.com/economia/alerta-milei-financial-times-advierte-deficit-vencimientos-deuda-2027-2026112216212",
-      "detectado": "2026-11-22T22:53:28.762Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/river-enfrenta-lanus-local-clima-enrarecido-triunfo-boca-sudamericana-20261122183112",
-      "sitio": "El Destape",
-      "titulo": "Vivo | Con poco, Lanús le empata a River en el Monumental",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/river-enfrenta-lanus-local-clima-enrarecido-triunfo-boca-sudamericana-20261122183112",
-      "detectado": "2026-11-22T22:53:28.762Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/arruabarrena-adelanto-sigue-boca-ser-campeon-copa-sudamericana-wachiturros-liderazgo-paredes-20261122151043",
-      "sitio": "El Destape",
-      "titulo": "Arruabarrena adelantó cómo sigue Boca, el liderazgo de Paredes y \"los Wachiturros\"",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/arruabarrena-adelanto-sigue-boca-ser-campeon-copa-sudamericana-wachiturros-liderazgo-paredes-20261122151043",
-      "detectado": "2026-11-22T22:53:28.762Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
-      "sitio": "El Destape",
-      "titulo": "Colapinto igualó su mejor resultado en la F1 y terminó 6° en Las Vegas",
-      "url": "https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
-      "detectado": "2026-11-22T13:40:21.694Z"
     }
   ]
 }
