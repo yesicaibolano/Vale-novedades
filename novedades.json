@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-26T15:53:25.523Z",
+  "actualizado": "2026-11-27T01:11:49.746Z",
   "items": [
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/formulario-futuro-piden-eximir-a-empleadores-con-hasta-5-trabajadores-y-postergar-su-implementacion/",
+      "sitio": "Ignacio Online",
+      "titulo": "Formulario FUTURO: piden eximir a empleadores con hasta 5 trabajadores y postergar su implementación",
+      "url": "https://www.ignacioonline.com.ar/formulario-futuro-piden-eximir-a-empleadores-con-hasta-5-trabajadores-y-postergar-su-implementacion/",
+      "detectado": "2026-11-27T01:11:44.253Z"
+    },
+    {
+      "id": "ignacioonline|https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-de-droguerias-desde-noviembre-de-2026/",
+      "sitio": "Ignacio Online",
+      "titulo": "Sanidad CCT 120/75: nueva escala salarial de droguerías desde noviembre de 2026",
+      "url": "https://www.ignacioonline.com.ar/sanidad-cct-120-75-nueva-escala-salarial-de-droguerias-desde-noviembre-de-2026/",
+      "detectado": "2026-11-27T01:11:44.253Z"
+    },
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16070-futuro-solicitamos-eximir-a-pequenos-empleadores-y-postergar-su-implementacion",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "FUTURO: Solicitamos eximir a pequeños empleadores y postergar su implementación",
+      "url": "https://www.cpba.com.ar/noticias/item/16070-futuro-solicitamos-eximir-a-pequenos-empleadores-y-postergar-su-implementacion",
+      "detectado": "2026-11-27T01:11:47.784Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/gobernadores-jugaron-milei-sueno-reeleccion-senado-le-dio-media-sancion-reforma-electoral-2026112620133",
+      "sitio": "El Destape",
+      "titulo": "Los gobernadores jugaron para Milei: media sanción a la reforma electoral",
+      "url": "https://www.eldestapeweb.com/politica/gobernadores-jugaron-milei-sueno-reeleccion-senado-le-dio-media-sancion-reforma-electoral-2026112620133",
+      "detectado": "2026-11-27T01:11:49.256Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-27T01:11:49.256Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/alerta-demanda-dolares-ahorristas-bancos-cubren-piden-usd-200-millones-central-20261126201914",
+      "sitio": "El Destape",
+      "titulo": "Los bancos le piden billetes de dólares al BCRA para responder a una salida de depósitos",
+      "url": "https://www.eldestapeweb.com/economia/alerta-demanda-dolares-ahorristas-bancos-cubren-piden-usd-200-millones-central-20261126201914",
+      "detectado": "2026-11-27T01:11:49.256Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "sitio": "El Destape",
+      "titulo": "Por Fernando Alonso",
+      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
+      "detectado": "2026-11-27T01:11:49.256Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-vuelve-mostrar-caputo-medio-rumores-renuncia-20261126151153",
+      "sitio": "El Destape",
+      "titulo": "Milei se vuelve a mostrar con Caputo en medio de rumores de renuncia",
+      "url": "https://www.eldestapeweb.com/politica/milei-vuelve-mostrar-caputo-medio-rumores-renuncia-20261126151153",
+      "detectado": "2026-11-27T01:11:49.256Z"
+    },
     {
       "id": "ignacioonline|https://www.ignacioonline.com.ar/srt-la-suma-fija-del-ffep-sera-de-2-010-para-noviembre-2026/",
       "sitio": "Ignacio Online",
@@ -48,13 +104,6 @@
       "sitio": "El Destape",
       "titulo": "Caputo usó la “bala de plata” y apuesta al feriado en EEUU para llegar al lunes",
       "url": "https://www.eldestapeweb.com/economia/recesion-apuesta-caputo-feriado-ee-uu-jugar-bala-plata-llegar-lunes-20261125211254",
-      "detectado": "2026-11-26T01:13:18.653Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/fernando-alonso",
-      "sitio": "El Destape",
-      "titulo": "Por Fernando Alonso",
-      "url": "https://www.eldestapeweb.com/perfil/fernando-alonso",
       "detectado": "2026-11-26T01:13:18.653Z"
     },
     {
@@ -247,13 +296,6 @@
       "detectado": "2026-11-24T03:31:09.809Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "detectado": "2026-11-24T03:31:09.810Z"
-    },
-    {
       "id": "eldestape|https://www.eldestapeweb.com/economia/bonos-acciones-argentinas-suben-wall-street-riesgo-pais-sigue-1-037-puntos-viene-vencimiento-20-billones-20261123142452",
       "sitio": "El Destape",
       "titulo": "Pese al rebote de las acciones argentinas, el riesgo país no bajó de los 1.000 puntos",
@@ -378,48 +420,6 @@
       "titulo": "Colapinto igualó su mejor resultado en la F1 y terminó 6° en Las Vegas",
       "url": "https://www.eldestapeweb.com/centroatras/motor/franco-colapinto-igualo-mejor-resultado-formula-1-termino-6-vegas-202611229130",
       "detectado": "2026-11-22T13:40:21.694Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/leandro-paredes-conto-esta-clinica-boca-dio-parte-medico-2026112293225",
-      "sitio": "El Destape",
-      "titulo": "Paredes y Boca tranquilizaron a los hinchas luego del desmayo: \"Todo ok\"",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/leandro-paredes-conto-esta-clinica-boca-dio-parte-medico-2026112293225",
-      "detectado": "2026-11-22T13:40:21.694Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
-      "sitio": "El Destape",
-      "titulo": "Milei y el peronismo: tiempo de descuento para un choque en la montaña rusa",
-      "url": "https://www.eldestapeweb.com/politica/milei-peronismo-tiempo-descuento-choque-montana-rusa-202611220551",
-      "detectado": "2026-11-22T03:41:12.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/crisis-gobierno-milei-recesion-dolar-riesgo-pais-conflictos-politicos-202611220551",
-      "sitio": "El Destape",
-      "titulo": "Riesgo país de 1000 puntos y recesión",
-      "url": "https://www.eldestapeweb.com/economia/crisis-gobierno-milei-recesion-dolar-riesgo-pais-conflictos-politicos-202611220551",
-      "detectado": "2026-11-22T03:41:12.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/opinion/alto-costo-populismo-cambiario-20261121235854",
-      "sitio": "El Destape",
-      "titulo": "El alto costo del populismo cambiario",
-      "url": "https://www.eldestapeweb.com/opinion/alto-costo-populismo-cambiario-20261121235854",
-      "detectado": "2026-11-22T03:41:12.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "sitio": "El Destape",
-      "titulo": "Por Claudio Scaletta",
-      "url": "https://www.eldestapeweb.com/perfil/claudio-scaletta",
-      "detectado": "2026-11-22T03:41:12.666Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/centroatras/futbol/boca-campeon-copa-sudamericana-volvio-ganar-titulo-internacional-despues-18-anos-20261121212953",
-      "sitio": "El Destape",
-      "titulo": "Boca bailó al Atlético Mineiro y es campeón de la Copa Sudamericana",
-      "url": "https://www.eldestapeweb.com/centroatras/futbol/boca-campeon-copa-sudamericana-volvio-ganar-titulo-internacional-despues-18-anos-20261121212953",
-      "detectado": "2026-11-22T03:41:12.666Z"
     }
   ]
 }
