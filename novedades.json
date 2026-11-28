@@ -1,6 +1,48 @@
 {
-  "actualizado": "2026-11-27T15:41:33.090Z",
+  "actualizado": "2026-11-28T00:44:34.176Z",
   "items": [
+    {
+      "id": "cpba|https://www.cpba.com.ar/noticias/item/16059-nuevo-buscador-publico-de-profesionales-matriculados",
+      "sitio": "CPBA (Buenos Aires)",
+      "titulo": "Nuevo Buscador Público de Profesionales Matriculados",
+      "url": "https://www.cpba.com.ar/noticias/item/16059-nuevo-buscador-publico-de-profesionales-matriculados",
+      "detectado": "2026-11-28T00:44:32.394Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/universidades-lla-pone-lupa-articulo-fogoneo-oposicion-diputados-20261127181314",
+      "sitio": "El Destape",
+      "titulo": "Universidades: LLA pone la lupa sobre el artículo que fogoneó la oposición en Diputados",
+      "url": "https://www.eldestapeweb.com/politica/universidades-lla-pone-lupa-articulo-fogoneo-oposicion-diputados-20261127181314",
+      "detectado": "2026-11-28T00:44:33.633Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "sitio": "El Destape",
+      "titulo": "Por Federico Pokorowski",
+      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
+      "detectado": "2026-11-28T00:44:33.633Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/transporte-publico",
+      "sitio": "El Destape",
+      "titulo": "Transporte público",
+      "url": "https://www.eldestapeweb.com/tag/transporte-publico",
+      "detectado": "2026-11-28T00:44:33.633Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/tarjeta-usan-14-millones-argentinos-le-dio-gobierno-baldazo-agua-fria-derrumba-transporte-publico-20261127161638",
+      "sitio": "El Destape",
+      "titulo": "El uso de la tarjeta SUBE volvió a caer y van 15 meses en picada",
+      "url": "https://www.eldestapeweb.com/economia/tarjeta-usan-14-millones-argentinos-le-dio-gobierno-baldazo-agua-fria-derrumba-transporte-publico-20261127161638",
+      "detectado": "2026-11-28T00:44:33.633Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/economia/banco-central-informo-octubre-compraron-3-070-millones-dolares-recalienta-city-antes-fin-ano-2026112718109",
+      "sitio": "El Destape",
+      "titulo": "El dólar presiona a Caputo",
+      "url": "https://www.eldestapeweb.com/economia/banco-central-informo-octubre-compraron-3-070-millones-dolares-recalienta-city-antes-fin-ano-2026112718109",
+      "detectado": "2026-11-28T00:44:33.633Z"
+    },
     {
       "id": "contadoresenred|https://contadoresenred.com/santa-fe-2027-que-beneficios-propone-el-proyecto-de-ley-tributaria/",
       "sitio": "Contadores en Red",
@@ -104,13 +146,6 @@
       "sitio": "El Destape",
       "titulo": "Los gobernadores jugaron para Milei: media sanción a la reforma electoral",
       "url": "https://www.eldestapeweb.com/politica/gobernadores-jugaron-milei-sueno-reeleccion-senado-le-dio-media-sancion-reforma-electoral-2026112620133",
-      "detectado": "2026-11-27T01:11:49.256Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/perfil/federico-pokorowski",
-      "sitio": "El Destape",
-      "titulo": "Por Federico Pokorowski",
-      "url": "https://www.eldestapeweb.com/perfil/federico-pokorowski",
       "detectado": "2026-11-27T01:11:49.256Z"
     },
     {
@@ -385,41 +420,6 @@
       "titulo": "Se consolida la tendencia: qué dicen todas las encuestas de noviembre",
       "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
       "detectado": "2026-11-24T03:31:09.810Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/internacionales/encuestas-espana-pp-lidera-vox-crece-derecha-supera-mayoria-176-escanos-casi-todos-sondeos-20261123173654",
-      "sitio": "El Destape",
-      "titulo": "Encuestas en España: la ultraderecha crece y el PSOE busca el liderazgo",
-      "url": "https://www.eldestapeweb.com/internacionales/encuestas-espana-pp-lidera-vox-crece-derecha-supera-mayoria-176-escanos-casi-todos-sondeos-20261123173654",
-      "detectado": "2026-11-24T03:31:09.810Z"
-    },
-    {
-      "id": "ignacioonline|https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-noviembre-2026/",
-      "sitio": "Ignacio Online",
-      "titulo": "Empleados de Comercio: liquidación noviembre 2026",
-      "url": "https://www.ignacioonline.com.ar/empleados-de-comercio-liquidacion-noviembre-2026/",
-      "detectado": "2026-11-23T16:37:43.234Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/industria-metalurgica-piso-volvio-caer-octubre-desploma-5-2026-20261123102549",
-      "sitio": "El Destape",
-      "titulo": "La industria metalúrgica sin piso: volvió a caer en octubre y se desploma 5% en 2026",
-      "url": "https://www.eldestapeweb.com/economia/industria-metalurgica-piso-volvio-caer-octubre-desploma-5-2026-20261123102549",
-      "detectado": "2026-11-23T16:37:48.134Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/dato-llego-campos-puede-adelantar-nueva-suba-precio-carne-20261123114351",
-      "sitio": "El Destape",
-      "titulo": "Ganadería en crisis: los precios están atrasados frente a una inflación que acumula 26%",
-      "url": "https://www.eldestapeweb.com/economia/dato-llego-campos-puede-adelantar-nueva-suba-precio-carne-20261123114351",
-      "detectado": "2026-11-23T16:37:48.134Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
-      "sitio": "El Destape",
-      "titulo": "Los dos mano a mano que inquietan a Milei de cara a una segunda vuelta",
-      "url": "https://www.eldestapeweb.com/politica/encuesta-balotaje-elecciones-presidenciales-argentina-2027-kicillof-le-gana-milei-6-puntos-massa-2-4-analogias-20261123115946",
-      "detectado": "2026-11-23T16:37:48.135Z"
     }
   ]
 }
