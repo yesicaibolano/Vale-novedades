@@ -1,6 +1,41 @@
 {
-  "actualizado": "2026-11-28T00:44:34.176Z",
+  "actualizado": "2026-11-28T14:37:36.919Z",
   "items": [
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/malvinas-argentinas",
+      "sitio": "El Destape",
+      "titulo": "Malvinas Argentinas",
+      "url": "https://www.eldestapeweb.com/tag/malvinas-argentinas",
+      "detectado": "2026-11-28T14:37:36.334Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/malvinas-tribunal-mar-rechazo-reclamo-argentina-reino-unido-podra-avanzar-sea-lion-2026112885448",
+      "sitio": "El Destape",
+      "titulo": "Malvinas: el Tribunal del Mar rechazó el reclamo de Argentina",
+      "url": "https://www.eldestapeweb.com/politica/malvinas-tribunal-mar-rechazo-reclamo-argentina-reino-unido-podra-avanzar-sea-lion-2026112885448",
+      "detectado": "2026-11-28T14:37:36.335Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/sospechosos-derrapes-pablo-quirno-fuego-amigo-jp-morgan-toto-caputo-dolar-bonelli-cumbre-urgente-pj-definir-interna-20261128101928",
+      "sitio": "El Destape",
+      "titulo": "Los sospechosos derrapes de Quirno, fuego amigo del JP Morgan y cumbre urgente en el PJ",
+      "url": "https://www.eldestapeweb.com/politica/sospechosos-derrapes-pablo-quirno-fuego-amigo-jp-morgan-toto-caputo-dolar-bonelli-cumbre-urgente-pj-definir-interna-20261128101928",
+      "detectado": "2026-11-28T14:37:36.335Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "sitio": "El Destape",
+      "titulo": "Javier Milei presidente",
+      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
+      "detectado": "2026-11-28T14:37:36.335Z"
+    },
+    {
+      "id": "eldestape|https://www.eldestapeweb.com/politica/economia-chocada-milei-apuesta-politica-planea-tres-tercios-2023-lograr-reeleccion-20261128054",
+      "sitio": "El Destape",
+      "titulo": "Con la economía chocada, Milei apuesta a la política y planea los tres tercios de 2023",
+      "url": "https://www.eldestapeweb.com/politica/economia-chocada-milei-apuesta-politica-planea-tres-tercios-2023-lograr-reeleccion-20261128054",
+      "detectado": "2026-11-28T14:37:36.335Z"
+    },
     {
       "id": "cpba|https://www.cpba.com.ar/noticias/item/16059-nuevo-buscador-publico-de-profesionales-matriculados",
       "sitio": "CPBA (Buenos Aires)",
@@ -233,13 +268,6 @@
       "detectado": "2026-11-26T01:13:18.653Z"
     },
     {
-      "id": "eldestape|https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "sitio": "El Destape",
-      "titulo": "Javier Milei presidente",
-      "url": "https://www.eldestapeweb.com/tag/javier-milei-presidente",
-      "detectado": "2026-11-26T01:13:18.653Z"
-    },
-    {
       "id": "contadoresenred|https://contadoresenred.com/como-reclamar-haberes-impagos-de-jubilados-y-pensionados/",
       "sitio": "Contadores en Red",
       "titulo": "¿Cómo reclamar haberes impagos de jubilados y pensionados?",
@@ -392,34 +420,6 @@
       "titulo": "El 60% de las personas en situación de calle llegó a esa condición con Milei",
       "url": "https://www.eldestapeweb.com/politica/resolucion-354-2026-milei-reconoce-60-personas-situacion-calle-llego-esa-condicion-gobierno-libertario-20261124101149",
       "detectado": "2026-11-24T16:33:59.855Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/diario-intimo-papa-francisco-visiones-diablo-crisis-espiritual-202611249756",
-      "sitio": "El Destape",
-      "titulo": "Francisco reveló que vio al diablo dos veces: \"Sus ojos amenazantes\"",
-      "url": "https://www.eldestapeweb.com/politica/diario-intimo-papa-francisco-visiones-diablo-crisis-espiritual-202611249756",
-      "detectado": "2026-11-24T16:33:59.855Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/santilli-ira-miercoles-senado-dar-primer-informe-gestion-recibir-1-287-preguntas-2026112318207",
-      "sitio": "El Destape",
-      "titulo": "Con mas de 1200 preguntas por responder, Santilli debutará ante el Congreso",
-      "url": "https://www.eldestapeweb.com/politica/santilli-ira-miercoles-senado-dar-primer-informe-gestion-recibir-1-287-preguntas-2026112318207",
-      "detectado": "2026-11-24T03:31:09.809Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/economia/bonos-acciones-argentinas-suben-wall-street-riesgo-pais-sigue-1-037-puntos-viene-vencimiento-20-billones-20261123142452",
-      "sitio": "El Destape",
-      "titulo": "Pese al rebote de las acciones argentinas, el riesgo país no bajó de los 1.000 puntos",
-      "url": "https://www.eldestapeweb.com/economia/bonos-acciones-argentinas-suben-wall-street-riesgo-pais-sigue-1-037-puntos-viene-vencimiento-20-billones-20261123142452",
-      "detectado": "2026-11-24T03:31:09.810Z"
-    },
-    {
-      "id": "eldestape|https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
-      "sitio": "El Destape",
-      "titulo": "Se consolida la tendencia: qué dicen todas las encuestas de noviembre",
-      "url": "https://www.eldestapeweb.com/politica/encuestas-elecciones-argentina-2027-dicen-todos-sondeos-noviembre-javier-milei-axel-kicillof-balotaje-20261123174144",
-      "detectado": "2026-11-24T03:31:09.810Z"
     }
   ]
 }
